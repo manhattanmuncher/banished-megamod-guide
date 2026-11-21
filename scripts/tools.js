@@ -284,7 +284,7 @@ function tierWidget(g, title) {
       const x = v.fn(r.b); return x === null || x === undefined ? '' : String(+x.toFixed(1));
     };
     box.querySelector('#tList').innerHTML = total ? `<div class="tw"><table class="tiertable"><tr><th>Tier</th><th>Building</th><th>${v.key === 'overall' ? 'Numbers' : esc(v.label)}</th><th>Build cost</th><th>Size</th></tr>` +
-      ranked.map(([r, p]) => { const t = tierOf(p); return `<tr><td><span class="tier t-${t.toLowerCase()}">${t}</span></td><td>${bchip(r.id)}${r.n > 1 ? ` <span class="muted">×${r.n} variants</span>` : ''}${r.b.lv === 0 ? ' <span class="badge early">Early game</span>' : ''}<div class="muted">${esc(r.b.mod || '')}</div></td><td>${esc(val(r))}</td><td>${esc(costTxt(r.b))}${r.b.lab ? ` <span class="muted">· ${r.b.lab} labour</span>` : ''}</td><td>${esc(r.b.sz || '–')}</td></tr>`; }).join('') + '</table></div>' +
+      ranked.map(([r, p]) => { const t = tierOf(p); return `<tr><td><span class="tier t-${t.toLowerCase()}">${t}</span></td><td>${bchip(r.id)}${r.n > 1 ? ` <span class="muted">×${r.n} variants</span>` : ''}${r.b.lv === 0 ? ' <span class="badge early">Early game</span>' : ''}${ruleBadge(r.b)}<div class="muted">${esc(r.b.mod || '')}</div></td><td>${esc(val(r))}</td><td>${esc(costTxt(r.b))}${r.b.lab ? ` <span class="muted">· ${r.b.lab} labour</span>` : ''}</td><td>${esc(r.b.sz || '–')}</td></tr>`; }).join('') + '</table></div>' +
       (total > 40 && !all ? `<button class="more" id="tMore">Show all ${total}</button>` : '') : '<p class="muted">No building matches.</p>';
     const more = box.querySelector('#tMore'); if (more) more.onclick = () => { all = true; draw(); };
     box.querySelectorAll('img.ic[data-i]').forEach(img => { const d = ICONS[img.dataset.i]; if (d) img.src = d; });
@@ -362,3 +362,30 @@ function itemTierWidget(ns, title) {
   box.querySelector('#tFind').oninput = () => { all = false; draw(); };
   draw();
 }
+
+// ---------- placement rules ----------
+const SA = { nmt30fchunter: 'buildings:hunting:nmt30sahunter', nmt30fcforester: 'buildings:forester:nmt30saforester', nmt30fcgatherer: 'buildings:gathering:nmt30sagatherer',
+  nmt30fcherbalist: 'buildings:herbalist:nmt30saherbalist', nmt30fcbarn: 'buildings:storage:nmt30sabarn', nmt30fcwoodcutter: 'buildings:fuel:nmt30sawoodcutter', nmt30fclumbermill: 'buildings:construction:nmt30salumbermill' };
+const findB = re => Object.keys(TB).filter(k => re.test(TB[k].n)).slice(0, 4);
+function rulesBox(id) {
+  const b = TB[id], tail = id.split(':').pop();
+  const rules = (b && b.rules) || [];
+  const isDistrict = tail.startsWith('nmt30fc') && tail !== 'nmt30fcroad';
+  if (!rules.length && !isDistrict) return '';
+  const all = rules.join(' ');
+  let need = '';
+  if (isDistrict || /Forest Center/.test(all)) {
+    need += `<p><b>You need first</b> (same toolbar: Themed Sets → NMT Forest Center Toolbar):</p><ol class="steps">
+      <li>${bchip('buildings:gathering:nmtforestcenter')} <span class="muted">11 × 11, 24 Logs, working radius 40</span></li>
+      <li>${bchip('buildings:roads:nmt30fcroad')} <span class="muted">“a special path required to designate districts”</span></li>
+      <li>Then place this building inside the Forest Center's radius.</li></ol>
+      <p class="muted">Steps read from the wiki pages; the wiki doesn't describe the in-game clicks.</p>`;
+    if (SA[tail]) need += `<p><b>No Forest Center?</b> Use the stand-alone version instead, which can go anywhere: ${bchip(SA[tail])}</p>`;
+  }
+  if (/Forest Haven Platform/i.test(all)) need += `<p><b>Build the platform first:</b> ${findB(/Platform/).filter(k => /fh|haven/i.test(k)).map(bchip).join(' ') || 'see the Forest Haven set'}</p>`;
+  if (/stone bridge/i.test(all)) need += `<p><b>Build the bridge first:</b> ${bchip('buildings:bridges:dsnormalstonebridgel')} ${bchip('buildings:bridges:dsstonebridgewalkways')}</p>`;
+  if (/Dock platforms|as part of a dock/i.test(all)) need += `<p><b>Dock pieces:</b> ${bchip('buildings:wells:wooddock')}</p>`;
+  if (/water|shoreline|jetty|platform/i.test(all)) need += `<p class="muted">More on building over water: <a href="#/guide:water">Life on the Water</a>.</p>`;
+  return `<div class="rulebox" role="note"><b class="rb-h">Before you can build this</b><ul>${rules.map(r => `<li>“${esc(r)}”</li>`).join('') || '<li>“Works as a district within an NMT Forest Center compound.”</li>'}</ul>${need}</div>`;
+}
+const ruleBadge = b => b && b.rules ? ` <span class="badge rule" title="${esc(b.rules.join(' '))}">Placement rule</span>` : '';

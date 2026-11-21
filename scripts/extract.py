@@ -77,6 +77,23 @@ def infobox(text, cur):
     return out
 
 
+RULE = re.compile(r"\b(must be (?:placed|built|next)|placed (?:on|in|over|at)(?: or adjacent to)? (?:the )?water|adjacent to water|water's edge|(?:built|placed) on (?:a|the) shoreline|as a district within|required to designate|placed inside (?:its|the)[^.]*radius|only one may be built|max(?:imum)? (?:1|one) (?:per|instance)|limit(?:ed)? to (?:1|one)|requires placement|for placement on|placement on a|needs a (?:trader|jetty)|built over a|on a quay wall)", re.I)
+
+
+def rules(text, box):
+    """placement rules and limits, quoted from the page's description and infobox"""
+    body = re.split(r'<WRAP right></WRAP>|</WRAP>', text, maxsplit=2)[-1].split('=====')[0]
+    out = [x.strip() for x in re.split(r'(?<=[.!])\s+', clean(body))
+           if RULE.search(x) and not re.search(r'\bcan (?:also )?be placed\b(?![^.]*\bonly\b)', x, re.I)]
+    pl = (box.get('placement') or [''])[-1]
+    if pl and pl.lower() not in ('land', 'any', '') and not any('water' in o.lower() for o in out):
+        out.append(f'Placement: {pl}.')
+    mi = (box.get('max instances') or [''])[-1]
+    if mi and not any('only one' in o.lower() for o in out):
+        out.append(f'Max instances: {mi}.')
+    return out
+
+
 def workers(v):
     if not v:
         return None
@@ -133,6 +150,7 @@ for f in sorted(glob.glob(os.path.join(RAW, '*.txt'))):
             'where': [clean(x) for x in section(text, 'Where to Find').split('----')[0].strip().split('\n\n') if clean(x)],
             'mod': mod.group(1) if mod else ('Vanilla' if 'xBAN' in box['_flags'] else ''), 'tags': tags, 'desc': desc,
         }
+        b['rules'] = rules(text, box)
         if not b['icon']:
             m = SPRITE.findall(section(text, 'Where to Find').split('\n\n')[0])
             b['icon'] = m[-1] if m else None

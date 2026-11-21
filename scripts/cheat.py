@@ -12,7 +12,8 @@ def ic(name):
 
 def blink(bid):
     b = B[bid]
-    return f'<a href="#/{bid}">{ic(b["icon"])}{esc(b["name"])}</a>'
+    warn = f' <span class="badge rule" title="{esc(" ".join(b["rules"]))}">Placement rule</span>' if b.get('rules') else ''
+    return f'<a href="#/{bid}">{ic(b["icon"])}{esc(b["name"])}</a>{warn}'
 
 
 def ilink(iid):
