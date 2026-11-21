@@ -116,6 +116,18 @@ details.prof .pc{background:var(--th);border-radius:10px;padding:1px 8px;font-si
 .rs-nones{display:flex;flex-wrap:wrap;gap:6px 18px;margin:4px 0 18px;font-size:14px}.rs-none .rs-name{display:inline-flex;font-size:14px;margin:0}
 .ev-h{margin:22px 0 4px;padding-bottom:4px;border-bottom:1px solid var(--line)}
 main h3.muted{margin:14px 0 2px;font-size:13px;text-transform:uppercase;letter-spacing:.06em;font-family:inherit}
+.tierbox{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:6px 16px 14px;margin:8px 0 24px}
+.tierbox h2{margin-top:10px}
+.tabs{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.tabs button{font:inherit;font-size:14px;padding:8px 12px;min-height:40px;border:1px solid var(--line);border-radius:20px;background:var(--bg);color:var(--ink);cursor:pointer}
+.tabs button[aria-selected=true]{background:var(--accent);color:var(--on-accent);border-color:var(--accent)}
+.chk{display:inline-flex;gap:6px;align-items:center;font-size:14px;cursor:pointer}.chk input{width:18px;height:18px}
+.tiertable td:first-child{width:52px}
+@media (max-width:820px){.tierbox{padding:4px 10px 12px}.tiertable th:last-child,.tiertable td:last-child{display:none}}.tier.t-s{background:#8a5a00}.tier.t-a{background:#2f6b2a}.tier.t-b{background:#2f5a7a}.tier.t-c{background:#5f5f5f}
+.tier.t-s,.tier.t-a,.tier.t-b,.tier.t-c{min-width:30px}
+.badge.early{background:#2f5a7a;color:#fff}
+.more{font:inherit;margin-top:10px;padding:8px 14px;min-height:40px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--accent);cursor:pointer}
+table.keys kbd{font-size:14px;padding:2px 7px;margin:0 2px;border-bottom-width:2px}
 details{margin:8px 0}summary{cursor:pointer;color:var(--accent)}
 @media (max-width:1000px){.split{grid-template-columns:1fr}.panel{position:static;max-height:none;order:-1}}
 @media (max-width:820px){#menu{display:inline-grid!important}nav{position:fixed;left:-290px;top:65px;height:calc(100vh - 65px);z-index:6;transition:left .2s}nav.open{left:0;box-shadow:4px 0 24px rgba(0,0,0,.3)}nav a{padding:10px 10px}#menu{display:block}#backdrop.on{display:block;position:fixed;inset:65px 0 0 0;background:rgba(0,0,0,.35);z-index:5}main{padding:16px}.W.right{float:none;max-width:none;margin:0}.W.half,.W.third{width:100%}header .brand{display:none}}
@@ -203,6 +215,33 @@ function showSearch(query) {
     results.map((e, i) => `<li class="${i ? '' : 'sel'}"><a class="t" href="#/${e.id}">${esc(e.t)}</a>${e.guide ? ' <span class="badge">Guide</span>' : ''}<div class="p">${crumb(e.id).replace(/<[^>]+>/g, '')}</div><div class="s">${snippet(e, words)}</div></li>`).join('') + '</ul>';
 }
 
+// remember where you were on each page: links open at the top, Back/Forward return to the saved spot
+const MEM = (() => { try { return JSON.parse(sessionStorage.getItem('scrollMem') || '{}'); } catch (e) { return {}; } })();
+let freshNav = false, memTimer = null;
+const saveMem = () => { try { sessionStorage.setItem('scrollMem', JSON.stringify(MEM)); } catch (e) {} };
+document.addEventListener('click', ev => { const a = ev.target.closest('a[href^="#/"]'); if (a && !ev.defaultPrevented) freshNav = true; }, true);
+window.addEventListener('scroll', () => {
+  const k = location.hash; const m = MEM[k] || (MEM[k] = {});
+  m.y = window.scrollY; clearTimeout(memTimer); memTimer = setTimeout(saveMem, 250);
+}, { passive: true });
+document.addEventListener('input', ev => {
+  const f = ev.target.closest && ev.target.closest('[data-filter],#lf,#lc,#pc'); if (!f) return;
+  const m = MEM[location.hash] || (MEM[location.hash] = {}); (m.f ||= {})[f.id || f.dataset.filter] = f.value; saveMem();
+});
+function restoreView() {
+  const m = MEM[location.hash];
+  if (!freshNav && m) {
+    for (const [key, val] of Object.entries(m.f || {})) {
+      const f = document.getElementById(key) || main.querySelector(`[data-filter="${CSS.escape(key)}"]`);
+      if (f && f.value !== val) { f.value = val; f.dispatchEvent(new Event(f.tagName === 'SELECT' ? 'change' : 'input', { bubbles: true })); }
+    }
+    requestAnimationFrame(() => window.scrollTo(0, m.y || 0));
+  } else {
+    if (freshNav && m) delete m.f;
+    window.scrollTo(0, 0);
+  }
+  freshNav = false;
+}
 function render(id) {
   const p = P[id];
   document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.getAttribute('href') === '#/' + id));
@@ -219,23 +258,27 @@ function render(id) {
   main.querySelectorAll('img.ic').forEach(img => { const d = ICONS[img.dataset.i]; if (d) img.src = d; });
   main.querySelectorAll('a[href^="#/buildings:"], a[href^="#/wikipages:"]').forEach(a => {
     if (a.querySelector('img')) return;
+    let prev = a.previousSibling; while (prev && prev.nodeType === 3 && !prev.textContent.trim()) prev = prev.previousSibling;
+    if (prev && prev.nodeType === 1 && prev.matches('img.ic')) return;
     const tid = a.getAttribute('href').slice(2), e = TB[tid] || TI[tid], d = e && ICONS[e.i];
     if (d) a.insertAdjacentHTML('afterbegin', `<img class="ic" src="${d}" alt="">`);
   });
+  const tg = /^buildings:([^:]+):start$/.exec(id); if (tg && typeof tierWidget === 'function') tierWidget(tg[1], p[0]);
+  const ti = /^wikipages:([^:]+):start$/.exec(id); if (ti && typeof itemTierWidget === 'function') itemTierWidget(ti[1], p[0]);
   polish();
-  window.scrollTo(0, 0);
+  restoreView();
 }
 
 __TOOLS_JS__
 
 function route() {
   const h = decodeURIComponent(location.hash.slice(1));
-  if (h.startsWith('/search/')) { const s = h.slice(8); if (q.value !== s) q.value = s; showSearch(s); return; }
+  if (h.startsWith('/search/')) { const s = h.slice(8); if (q.value !== s) q.value = s; showSearch(s); if (document.activeElement !== q) restoreView(); return; }
   const [tid, arg] = h.slice(1).split(/\/(.*)/s);
   if (TOOLS[tid]) {
     document.querySelectorAll('nav a').forEach(a => a.classList.toggle('on', a.getAttribute('href') === '#/' + tid));
     TOOLS[tid](arg || ''); document.title = P[tid][0] + ' · Banished Guide'; main.querySelectorAll('img.ic[data-i]').forEach(img => { const d = ICONS[img.dataset.i]; if (d) img.src = d; });
-    polish(); drawer(false); window.scrollTo(0, 0); return;
+    polish(); drawer(false); restoreView(); return;
   }
   render(h.startsWith('/') && h.length > 1 ? h.slice(1) : 'guide:home');
   drawer(false);

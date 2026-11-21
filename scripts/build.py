@@ -65,6 +65,7 @@ if 'professions:start' in pages:
 TOOL_PAGES = {
     'tool:lookup': ('Resource lookup', 'Every resource: which buildings make it, ranked high medium low tiers, category, what it unlocks. production producers tooltip'),
     'tool:tree': ('Progression tree', 'What unlocks what. Resource steps from start: logs stone iron. Plan a building and see the chain of resources to work toward. tech tree'),
+    'tool:tiers': ('Tier lists', 'S A B C tier list for every building category: best houses, storage, foresters, farms. Early game, cheapest, warmest, biggest, fastest. ranking best building'),
     'tool:planner': ('Season planner', 'Pick a climate: growing season, months above freezing, which seeds and crops fit, year-round food without seeds. weather winter summer'),
 }
 for tid, (title, text) in TOOL_PAGES.items():
@@ -85,7 +86,7 @@ icons, icon_report = resolve_icons(icons_needed, ICON_DIR, alts)
 def t(pid):
     return pages[pid][0] if pid in pages else pid
 
-START = ['guide:home', 'guide:new-game', 'guide:first-steps', 'guide:cheatsheet']
+START = ['guide:home', 'guide:new-game', 'guide:first-steps', 'guide:cheatsheet', 'guide:hotkeys']
 nav = [['Start here', [[g, guides[g][0]] for g in START if g in guides]],
        ['Guides', sorted(([g, guides[g][0]] for g in guides if g not in START), key=lambda x: x[1])],
        ['Tools', [[k, v[0]] for k, v in TOOL_PAGES.items()]]]

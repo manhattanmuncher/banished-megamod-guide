@@ -139,6 +139,24 @@ def internal(iid, name):
     return tail[len(slug) + 1:] if tail.startswith(slug + '_') else ''
 
 
+def hap_desc(b):
+    m = re.search(r'happiness[^.]*?(?:radius of (\d+)|(\d+)-tile radius)', b.get('desc') or '', re.I)
+    return float(m.group(1) or m.group(2)) if m else None
+
+
+def stats(b):
+    # numbers the tier lists rank on; only what the wiki page states
+    st = b.get('storage') or ''
+    capm = re.findall(r'\d[\d,]*', st)
+    hap = re.match(r'\s*(Spirit|Goods|Entertainment|Safety|Health|Detraction)[^0-9]*?(?:radius\s*(\d+))?', b.get('happiness') or '')
+    w = (b.get('workers') or {}).get('max')
+    out = {'h': b.get('housing'), 'f': b.get('fuel_per'), 'st': float(capm[-1].replace(',', '')) if capm else None,
+           'stt': 'per tile' in st, 'w': w, 'r': b.get('radius'), 'wt': b.get('work_time'), 'mp': b.get('max_prod'),
+           'lab': b['cost'].get('label:Work Required'), 'sz': b.get('size'), 'mod': b.get('mod') or '',
+           'hp': [hap.group(1), float(hap.group(2)) if hap.group(2) else hap_desc(b)] if hap else None}
+    return {k: v for k, v in out.items() if v not in (None, '', False)}
+
+
 # ---- compact payload for the page ----
 items_out = {}
 for iid, it in I.items():
@@ -154,7 +172,8 @@ bld_out = {}
 for bid, b in B.items():
     bld_out[bid] = {'n': b['name'], 'i': b['icon'], 'g': b['group'], 'lv': lvl_b.get(bid) if lvl_b.get(bid, INF) < INF else None,
                     'cost': cost_items(b), 'out': b['produces'],
-                    'rec': [[[[q, i] for q, i in r['in']], r['out']] for r in b['recipes']]}
+                    'rec': [[[[q, i] for q, i in r['in']], r['out']] for r in b['recipes']],
+                    **stats(b)}
 
 json.dump({'items': items_out, 'blds': bld_out, 'climates': d['climates'], 'seeds': d['seeds'], 'orchard': d['orchard_seeds'],
            'byname': by_name}, open(OUT, 'w'), ensure_ascii=False, separators=(',', ':'))

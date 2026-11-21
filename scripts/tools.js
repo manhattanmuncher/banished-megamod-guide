@@ -187,3 +187,178 @@ function plannerPage(key) {
 }
 
 const TOOLS = { 'tool:lookup': lookupPage, 'tool:tree': treePage, 'tool:planner': plannerPage };
+
+// ---------- tier lists per building category ----------
+const mats = b => Object.entries(b.cost || {}).reduce((s, [k, q]) => s + (k.startsWith('label:') ? 0 : (q || 0)), 0);
+const costTxt = b => Object.entries(b.cost || {}).filter(([k, q]) => q && !k.startsWith('label:')).map(([k, q]) => `${q} ${iname(k)}`).join(' + ') || 'free';
+const minInputs = b => b.rec && b.rec.length ? Math.min(...b.rec.map(r => r[0].reduce((s, x) => s + x[0], 0))) : null;
+const METRICS = [  // [key, label, rule shown to the reader, value fn, higher is better, unit]
+  ['h', 'Most people housed', 'settlers housed', b => b.h, true, ''],
+  ['f', 'Warmest (least firewood)', 'warmth per fuel item (wiki: higher is more efficient)', b => b.f, true, ''],
+  ['pp', 'Cheapest per person', 'build materials ÷ settlers housed', b => b.h ? mats(b) / b.h : null, false, ''],
+  ['st', 'Biggest storage', 'storage capacity', b => b.st && !b.stt ? b.st : null, true, ''],
+  ['spm', 'Most storage per material', 'storage ÷ build materials', b => b.st && !b.stt && mats(b) ? b.st / mats(b) : null, true, ''],
+  ['wt', 'Fastest work cycle', 'work time per cycle (lower is faster)', b => b.wt, false, ''],
+  ['inp', 'Fewest inputs', 'input items per recipe', b => { const m = minInputs(b); return m ? m : null; }, false, ''],
+  ['w', 'Most workers', 'maximum workers', b => b.w, true, ''],
+  ['r', 'Widest working radius', 'working radius in tiles', b => b.r, true, ''],
+  ['hr', 'Widest happiness reach', 'happiness radius in tiles', b => b.hp && b.hp[0] !== 'Detraction' ? b.hp[1] : null, true, ''],
+  ['mp', 'Lasts longest', 'total output before it runs out', b => b.mp, true, ''],
+  ['m', 'Cheapest materials', 'total build materials', b => mats(b), false, ''],
+  ['lab', 'Least labour', 'labour to build', b => b.lab, false, ''],
+];
+const TIER_ORDER = ['S', 'A', 'B', 'C'];
+const SHORT = {"h": "houses", "f": "warmth", "pp": "materials/person", "st": "storage", "spm": "storage/material", "wt": "work time", "inp": "inputs", "w": "workers", "r": "radius", "hr": "happiness radius", "mp": "runs out after", "m": "materials", "lab": "labour"};
+const tierOf = p => p < 0.1 ? 'S' : p < 0.3 ? 'A' : p < 0.6 ? 'B' : 'C';
+
+function groupRows(g) {
+  // collapse look-alike variants: same name and same numbers
+  const seen = new Map();
+  for (const [id, b] of Object.entries(TB)) {
+    if (b.g !== g) continue;
+    const key = b.n + '|' + METRICS.map(m => m[3](b)).join('|');
+    if (seen.has(key)) seen.get(key).n++; else seen.set(key, { id, b, n: 1 });
+  }
+  return [...seen.values()];
+}
+
+function tierViews(rows) {
+  const views = [];
+  for (const [key, label, rule, fn, hi] of METRICS) {
+    const vals = rows.map(r => fn(r.b)).filter(v => v !== null && v !== undefined && !Number.isNaN(v));
+    if (vals.length < 3 || new Set(vals).size < 2) continue;
+    if (key === 'm' || key === 'lab') { views.push({ key, label, rule, fn, hi }); continue; }
+    views.push({ key, label, rule, fn, hi, core: true });
+  }
+  const core = views.filter(v => v.core && !(v.key === 'st' && views.some(x => x.key === 'spm')));
+  if (core.length >= 2) views.unshift({ key: 'overall', label: 'Overall', rule: 'average of its position on: ' + core.map(v => v.label.toLowerCase()).join(', '), core });
+  return views;
+}
+
+function rankView(rows, view) {
+  const pos = new Map();
+  const ranks = (v) => {
+    const have = rows.filter(r => { const x = v.fn(r.b); return x !== null && x !== undefined && !Number.isNaN(x); });
+    const vals = [...new Set(have.map(r => v.fn(r.b)))].sort((a, b) => v.hi ? b - a : a - b);
+    const m = new Map();
+    for (const r of have) m.set(r, vals.length > 1 ? vals.indexOf(v.fn(r.b)) / (vals.length - 1) : 0);
+    return m;
+  };
+  if (view.key === 'overall') {
+    const per = view.core.map(ranks);
+    for (const r of rows) {
+      const ps = per.map(m => m.get(r)).filter(x => x !== undefined);
+      if (ps.length >= Math.max(2, view.core.length - (view.slack ?? view.core.length))) pos.set(r, ps.reduce((a, b) => a + b, 0) / ps.length);
+    }
+    // turn averages into an even spread so tiers mean the same in every view
+    const sorted = [...pos.entries()].sort((a, b) => a[1] - b[1]);
+    sorted.forEach(([r], i) => pos.set(r, sorted.length > 1 ? i / (sorted.length - 1) : 0));
+  } else ranks(view).forEach((p, r) => pos.set(r, p));
+  return [...pos.entries()].sort((a, b) => a[1] - b[1] || a[0].b.n.localeCompare(b[0].b.n));
+}
+
+function tierWidget(g, title) {
+  const rows = groupRows(g);
+  const views = tierViews(rows);
+  if (!views.length || rows.length < 3) return;
+  const box = document.createElement('section');
+  box.className = 'tierbox';
+  box.innerHTML = `<h2>Tier list <span class="muted">(${rows.length} buildings${rows.length !== Object.values(TB).filter(b => b.g === g).length ? ', look-alike variants grouped' : ''})</span></h2>
+    <p class="muted">Pick what matters to you. Tiers show where a building ranks on that measure within ${esc(title || 'this category')}: <span class="tier t-s">S</span> top 10%, <span class="tier t-a">A</span> next 20%, <span class="tier t-b">B</span> next 30%, <span class="tier t-c">C</span> the rest. Only wiki numbers are used.</p>
+    <div class="tabs" role="tablist">${views.map((v, i) => `<button role="tab" aria-selected="${i === 0}" data-v="${i}">${esc(v.label)}</button>`).join('')}</div>
+    <div class="toolbar"><label class="chk"><input type="checkbox" id="tEarly"> Early game only <span class="muted">(buildable from starting Logs, Stone and Iron)</span></label><input type="search" id="tFind" placeholder="Filter by name" aria-label="Filter tier list by name"></div>
+    <p class="rule" id="tRule"></p><div id="tList"></div>`;
+  const h1 = main.querySelector('h1');
+  (h1 ? h1.nextElementSibling ? h1.parentNode.insertBefore(box, h1.nextElementSibling) : h1.after(box) : main.prepend(box));
+  let cur = 0, all = false;
+  const draw = () => {
+    const v = views[cur];
+    box.querySelectorAll('[role=tab]').forEach((t, i) => t.setAttribute('aria-selected', i === cur));
+    box.querySelector('#tRule').textContent = 'Ranked by ' + v.rule + '.';
+    const early = box.querySelector('#tEarly').checked, find = box.querySelector('#tFind').value.toLowerCase();
+    let ranked = rankView(rows, v).filter(([r]) => (!early || r.b.lv === 0) && (!find || r.b.n.toLowerCase().includes(find)));
+    const total = ranked.length;
+    if (!all) ranked = ranked.slice(0, 40);
+    const val = r => {
+      if (v.key === 'overall') return v.core.map(c => { const x = c.fn(r.b); return x === null || x === undefined ? '' : `${SHORT[c.key] || c.label} ${+x.toFixed(1)}`; }).filter(Boolean).join(' · ');
+      const x = v.fn(r.b); return x === null || x === undefined ? '' : String(+x.toFixed(1));
+    };
+    box.querySelector('#tList').innerHTML = total ? `<div class="tw"><table class="tiertable"><tr><th>Tier</th><th>Building</th><th>${v.key === 'overall' ? 'Numbers' : esc(v.label)}</th><th>Build cost</th><th>Size</th></tr>` +
+      ranked.map(([r, p]) => { const t = tierOf(p); return `<tr><td><span class="tier t-${t.toLowerCase()}">${t}</span></td><td>${bchip(r.id)}${r.n > 1 ? ` <span class="muted">×${r.n} variants</span>` : ''}${r.b.lv === 0 ? ' <span class="badge early">Early game</span>' : ''}<div class="muted">${esc(r.b.mod || '')}</div></td><td>${esc(val(r))}</td><td>${esc(costTxt(r.b))}${r.b.lab ? ` <span class="muted">· ${r.b.lab} labour</span>` : ''}</td><td>${esc(r.b.sz || '–')}</td></tr>`; }).join('') + '</table></div>' +
+      (total > 40 && !all ? `<button class="more" id="tMore">Show all ${total}</button>` : '') : '<p class="muted">No building matches.</p>';
+    const more = box.querySelector('#tMore'); if (more) more.onclick = () => { all = true; draw(); };
+    box.querySelectorAll('img.ic[data-i]').forEach(img => { const d = ICONS[img.dataset.i]; if (d) img.src = d; });
+  };
+  box.querySelector('.tabs').onclick = ev => { const b = ev.target.closest('[data-v]'); if (b) { cur = +b.dataset.v; all = false; draw(); } };
+  box.querySelector('.tabs').onkeydown = ev => { if (ev.key === 'ArrowRight' || ev.key === 'ArrowLeft') { cur = (cur + (ev.key === 'ArrowRight' ? 1 : views.length - 1)) % views.length; draw(); box.querySelector(`[data-v="${cur}"]`).focus(); } };
+  box.querySelector('#tEarly').onchange = () => { all = false; draw(); };
+  box.querySelector('#tFind').oninput = () => { all = false; draw(); };
+  draw();
+}
+
+function tiersIndex() {
+  const groups = [...new Set(Object.values(TB).map(b => b.g))].filter(g => P['buildings:' + g + ':start'] && groupRows(g).length >= 3 && tierViews(groupRows(g)).length)
+    .sort((a, b) => P['buildings:' + a + ':start'][0].localeCompare(P['buildings:' + b + ':start'][0]));
+  main.innerHTML = `<div class="crumb"><a href="#/guide:home">Home</a> › Tools</div><h1>Tier lists</h1>
+  <p class="lead">Every building category has a tier list at the top of its page. Pick a category; each shows the current Overall S-tier picks.</p>
+  <h2>Buildings</h2><div class="cards">${groups.map(g => { const rows = groupRows(g), v = tierViews(rows)[0], top = rankView(rows, v).filter(([, p]) => p < 0.1).slice(0, 8);
+    return `<a href="#/buildings:${g}:start"><b>${esc(P['buildings:' + g + ':start'][0].replace(/ Buildings$/, ''))}</b><span class="muted">${rows.length} buildings · ${esc(v.label)}</span><br>${[...new Set(top.map(([r]) => r.b.n))].map(esc).join(', ')}</a>`; }).join('')}</div>
+  <h2>Items and resources</h2><p class="muted">Item categories rank by yield, trade value, how early you can make them and how many buildings make them.</p>
+  <div class="cards">${Object.keys(P).filter(k => /^wikipages:[^:]+:start$/.test(k) && Object.keys(TI).filter(i => i.startsWith(k.replace(':start', ':'))).length >= 3).sort((a, b) => P[a][0].localeCompare(P[b][0]))
+    .map(k => `<a href="#/${k}"><b>${esc(P[k][0])}</b><span class="muted">${Object.keys(TI).filter(i => i.startsWith(k.replace(':start', ':'))).length} items</span></a>`).join('')}</div>`;
+}
+TOOLS['tool:tiers'] = tiersIndex;
+
+
+// ---------- tier lists per item category ----------
+const IMETRICS = [
+  ['y', 'Highest yield', 'educated yield (wiki: uneducated/educated)', it => { const m = /(\d+)\s*\/\s*(\d+)/.exec(it.y || ''); return m ? +m[2] : null; }, true, 'yield'],
+  ['v', 'Highest trade value', 'trade value', it => it.v, true, 'value'],
+  ['lv', 'Easiest to get', 'progression step (Start = 0)', it => it.lv, false, 'step'],
+  ['np', 'Most ways to make', 'number of buildings that make it', it => it.tiers.length || null, true, 'makers'],
+  ['nu', 'Most useful for building', 'buildings that need it to be built', it => it.needs.length || null, true, 'needed by'],
+];
+function itemTierWidget(ns, title) {
+  // the wiki files most fruit, grain and vegetables under Food, so also match on the item's category
+  const label = (title || '').toLowerCase().replace(/s$/, '');
+  const ids = Object.keys(TI).filter(k => k.startsWith('wikipages:' + ns + ':') || (label.length > 3 && (TI[k].c || '').toLowerCase().replace(/s$/, '') === label));
+  if (ids.length < 3) return;
+  const rows = ids.map(id => ({ id, b: TI[id], n: 1 }));
+  const views = [];
+  for (const [key, label, rule, fn, hi, short] of IMETRICS) {
+    const vals = rows.map(r => fn(r.b)).filter(v => v !== null && v !== undefined);
+    if (vals.length >= 3 && new Set(vals).size >= 2) views.push({ key, label, rule, fn, hi, short, core: key !== 'nu' });
+  }
+  const core = views.filter(v => v.core);
+  if (core.length >= 2) views.unshift({ key: 'overall', label: 'Overall', slack: 1, rule: 'average of its position on: ' + core.map(v => v.label.toLowerCase()).join(', ') + ' (items missing more than one of these are left out)', core });
+  if (!views.length) return;
+  const box = document.createElement('section');
+  box.className = 'tierbox';
+  box.innerHTML = `<h2>Tier list <span class="muted">(${rows.length} items)</span></h2>
+    <p class="muted">Tiers show where an item ranks on that measure within ${esc(title || 'this category')}: <span class="tier t-s">S</span> top 10%, <span class="tier t-a">A</span> next 20%, <span class="tier t-b">B</span> next 30%, <span class="tier t-c">C</span> the rest.</p>
+    <div class="tabs" role="tablist">${views.map((v, i) => `<button role="tab" aria-selected="${i === 0}" data-v="${i}">${esc(v.label)}</button>`).join('')}</div>
+    <div class="toolbar"><label class="chk"><input type="checkbox" id="tEarly"> Early game only <span class="muted">(makeable by progression step 1)</span></label><input type="search" id="tFind" placeholder="Filter by name" aria-label="Filter tier list by name"></div>
+    <p class="rule" id="tRule"></p><div id="tList"></div>`;
+  const h1 = main.querySelector('h1');
+  h1 && h1.nextElementSibling ? h1.parentNode.insertBefore(box, h1.nextElementSibling) : main.prepend(box);
+  let cur = 0, all = false;
+  const draw = () => {
+    const v = views[cur];
+    box.querySelectorAll('[role=tab]').forEach((t2, i) => t2.setAttribute('aria-selected', i === cur));
+    box.querySelector('#tRule').textContent = 'Ranked by ' + v.rule + '.';
+    const early = box.querySelector('#tEarly').checked, find = box.querySelector('#tFind').value.toLowerCase();
+    let ranked = rankView(rows, v).filter(([r]) => (!early || (r.b.lv !== null && r.b.lv <= 1)) && (!find || r.b.n.toLowerCase().includes(find)));
+    const total = ranked.length;
+    if (!all) ranked = ranked.slice(0, 40);
+    const val = r => v.key === 'overall' ? v.core.map(c => { const x = c.fn(r.b); return x === null || x === undefined ? '' : `${c.short} ${x}`; }).filter(Boolean).join(' · ') : String(v.fn(r.b) ?? '');
+    box.querySelector('#tList').innerHTML = total ? `<div class="tw"><table class="tiertable"><tr><th>Tier</th><th>Item</th><th>${v.key === 'overall' ? 'Numbers' : esc(v.label)}</th><th>Best way to get it</th></tr>` +
+      ranked.map(([r, p]) => { const t2 = tierOf(p), best = r.b.tiers[0]; return `<tr><td><span class="tier t-${t2.toLowerCase()}">${t2}</span></td><td>${ichip(r.id)}</td><td>${esc(val(r))}</td><td>${best ? bchip(best[0]) + ` <span class="facts">${esc(best[3])}</span>` : (twins(r.id).length ? 'see ' + ichip(twins(r.id)[0]) : '<span class="muted">no source on the wiki</span>')}</td></tr>`; }).join('') + '</table></div>' +
+      (total > 40 && !all ? `<button class="more" id="tMore">Show all ${total}</button>` : '') : '<p class="muted">No item matches.</p>';
+    const more = box.querySelector('#tMore'); if (more) more.onclick = () => { all = true; draw(); };
+  };
+  box.querySelector('.tabs').onclick = ev => { const b = ev.target.closest('[data-v]'); if (b) { cur = +b.dataset.v; all = false; draw(); } };
+  box.querySelector('.tabs').onkeydown = ev => { if (ev.key === 'ArrowRight' || ev.key === 'ArrowLeft') { cur = (cur + (ev.key === 'ArrowRight' ? 1 : views.length - 1)) % views.length; draw(); box.querySelector(`[data-v="${cur}"]`).focus(); } };
+  box.querySelector('#tEarly').onchange = () => { all = false; draw(); };
+  box.querySelector('#tFind').oninput = () => { all = false; draw(); };
+  draw();
+}

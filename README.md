@@ -12,7 +12,8 @@ Everything is inside that one file: every wiki page, all icons, search, and the 
 ## What's inside
 
 - **Search** every page instantly. Press `/` anywhere.
-- **Guides:** Starting a new game, First 10 steps, Farms and food, Homestead toolbar, Life on the Water, Trains, ships and wagons, Modular buildings, Nomads, Death and cemeteries, Happiness, Livestock and pastures, Storage, Trading and money, Toolbar map, Surviving winter, Something is wrong.
+- **Tier lists:** S/A/B/C tiers on every building and item category page (Overall, warmest, biggest, cheapest, early game…).
+- **Guides:** Starting a new game, Hotkeys, First 10 steps, Farms and food, Homestead toolbar, Life on the Water, Trains, ships and wagons, Modular buildings, Nomads, Death and cemeteries, Happiness, Livestock and pastures, Storage, Trading and money, Toolbar map, Surviving winter, Something is wrong.
 - **Professions: who works where:** all 97 professions, their death rates, and every building that employs them.
 - **Best-of cheatsheet:** highlights (best seed, forester, house, clothes, stone, iron…) plus the best way to get every one of the 524 resources a building can make.
 - **Resource lookup:** which buildings make each resource, ranked High / Medium / Low. Hover any item for a quick card.
