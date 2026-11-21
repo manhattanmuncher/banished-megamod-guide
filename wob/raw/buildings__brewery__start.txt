@@ -1,0 +1,80 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brewery Buildings ======
+----
+
+Buildings that brew, ferment, and distill alcoholic beverages and other drinks, providing Entertainment happiness to nearby settlers.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:brewery:dsalehouse|Ale House]] | DS Mods tavern; Brewer produces Ale or Strong Ale from fruits and grains; provides Entertainment happiness |
+| [[buildings:brewery:fodwalehouse|Ale House (Forge Of Dwarves - Winter)]] | Forge Of Dwarves winter-themed tavern |
+| [[buildings:brewery:fodalehouse|Ale House (Forge Of Dwarves)]] | Forge Of Dwarves tavern; brews ale for entertainment happiness |
+| [[buildings:brewery:gftavern2|Autumn Leaves (Gothic Fantasy 2)]] | Gothic Fantasy autumn-themed tavern |
+| [[buildings:brewery:jinxiebittypub|Bitty Pub]] | Jinxie's Bitty compact pub |
+| [[buildings:brewery:capetownbar|Cape Town Bar]] | South African mod tavern; Brewer ferments fruits and grain into Ale; provides Entertainment happiness |
+| [[buildings:brewery:apnightcap|Cider Barrel]] | Abandoned Places restoration; Brewer ferments fruit into Cider or Wheat into Ale; provides Entertainment happiness |
+| [[buildings:brewery:coffeehouse|Coffee House]] | Coffee house providing a beverage and entertainment happiness |
+| [[buildings:brewery:distillery|Distillery]] | Distills grain or fruit into spirits |
+| [[buildings:brewery:otpdistillery|Distillery (Old Town Ports)]] | Old Town Ports distillery |
+| [[buildings:brewery:nvfiretent|Fire Tent]] | Native Village building; Brewer cures Tobacco Leaf for entertainment happiness |
+| [[buildings:brewery:fbtavern|Friendly Tavern]] | Friendly Banished tavern; brews and serves alcohol for entertainment happiness |
+| [[buildings:brewery:fptavern|Friendly Tavern (Friendly Pumpkin)]] | Friendly Pumpkin tavern |
+| [[buildings:brewery:gntavern|Friendly Tavern (Granny Neighborhood)]] | Granny Neighborhood tavern |
+| [[buildings:brewery:fbttavern|Friendly Tavern (Too)]] | Friendly Tavern alternate variant |
+| [[buildings:brewery:newmedievaltavern|Medieval Tavern]] | New Medieval Town tavern |
+| [[buildings:brewery:newmedievaltavernupg1|Medieval Tavern (Upgrade 1)]] | New Medieval Town tavern upgrade 1 |
+| [[buildings:brewery:newmedievaltavernupg2|Medieval Tavern (Upgrade 2)]] | New Medieval Town tavern upgrade 2 |
+| [[buildings:brewery:gftavern1|Midnight Heart (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed tavern |
+| [[buildings:brewery:ftnectargarden|Nectar Garden (Fairy Tale Cottage)]] | Fairy Tale Cottage nectar garden; produces mead or similar |
+| [[buildings:brewery:oldbarnpub|Old Barn Pub]] | RK Editor's Choice pub; Brewer combines meat, vegetables, and alcohol into meals; provides Entertainment happiness |
+| [[buildings:brewery:oldhoveltavern|Old Hovel Tavern (Old Hovels)]] | Old Hovels-style tavern |
+| [[buildings:brewery:oldwinery|Old Winery (Colonial)]] | Old Colonial-style winery |
+| [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]] | Pick and Hen brewery left extension |
+| [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]] | Pick and Hen brewery right extension |
+| [[buildings:brewery:dspickandhen|Pick & Hen Tavern]] | DS Pick and Hen tavern |
+| [[buildings:brewery:pineciderpress|Pine Cider Press]] | Presses apples or berries into cider |
+| [[buildings:brewery:pinewhiskeystill|Pine Whiskey Still]] | Distills grain into whiskey |
+| [[buildings:brewery:swbrewery|Quay Brewery]] | Quay-style brewery |
+| [[buildings:brewery:dockstill|Ricewine Still]] | Ferments rice into rice wine |
+| [[buildings:brewery:rhxp|Row House Pub]] | KID Row Business pub; Brewer ferments fruit or grain into Cider or Ale |
+| [[buildings:brewery:sbvdistillery|SBV Distillery]] | SBV distillery |
+| [[buildings:brewery:shwbrewer|SHW Brewer]] | SHW brewer |
+| [[buildings:brewery:pinetavern|Small Pine Tavern]] | Necora Maritimes Pine Set tavern; Entertainment happiness, radius 15; 3 × 3 footprint |
+| [[buildings:brewery:otpstill|Still (Old Town Ports)]] | Old Town Ports still for distilling spirits |
+| [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]] | DS Stone Bridge tavern |
+| [[buildings:brewery:otstonetavern|Stone Tavern (Old Town)]] | Old Town stone-construction tavern |
+| [[buildings:brewery:takayamasakebrewery|Takayama Sake Brewery]] | Japanese-style sake brewery |
+| [[buildings:brewery:tavern|Tavern]] | Vanilla Banished tavern; Brewer provides Entertainment happiness within a 30-tile radius; 6 × 7 footprint |
+| [[buildings:brewery:cornertavernt1|Tavern (Corner T1)]] | RK Editor Choice corner tavern, Classic Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt2|Tavern (Corner T2)]] | RK Editor Choice corner tavern, Old Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt3|Tavern (Corner T3)]] | RK Editor Choice corner tavern, Red Bricks style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt4|Tavern (Corner T4)]] | RK Editor Choice corner tavern, Sand Bricks style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt5|Tavern (Corner T5)]] | RK Editor Choice corner tavern, Fire Bricks style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt6|Tavern (Corner T6)]] | RK Editor Choice corner tavern, Old Church Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt7|Tavern (Corner T7)]] | RK Editor Choice corner tavern, Old Chapel Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:cornertavernt8|Tavern (Corner T8)]] | RK Editor Choice corner tavern, Old Wood style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:brewery:ectavern|Tavern (EC)]] | EC tavern |
+| [[buildings:brewery:fntavern|Tavern (Friendly Neighborhood)]] | Friendly Neighborhood tavern |
+| [[buildings:brewery:ottavern|Tavern (Old Town)]] | Old Town tavern |
+| [[buildings:brewery:otptavern1|Tavern 1 (Old Town Ports)]] | Old Town Ports tavern variant 1 |
+| [[buildings:brewery:otptavern2|Tavern 2 (Old Town Ports)]] | Old Town Ports tavern variant 2 |
+| [[buildings:brewery:tmbar|Tequila Bar]] | Mexican Fantasy tequila bar |
+| [[buildings:brewery:tmdistillery|Tequila Distillery]] | Mexican Fantasy tequila distillery |
+| [[buildings:brewery:hobbittavern|The Green Dragon (Hobbit)]] | Hobbit mod Green Dragon pub |
+| [[buildings:brewery:hobbittavernf|The Green Dragon (Hobbit, Freestanding)]] | Hobbit freestanding Green Dragon pub |
+| [[buildings:brewery:cmtavern|The Pilgrims Rest]] | Colonial Resources tavern; Brewer produces ales and root beer; provides Entertainment happiness |
+| [[buildings:brewery:tinytavern|Tiny Tavern]] | Small compact tavern |
+| [[buildings:brewery:dssvtownmeadbrewer|Village Mead Brewer]] | DS Stone Village mead brewer |
+| [[buildings:brewery:wfbrewer|WF Brewer]] | WF brewer |
+| [[buildings:brewery:winery|Winery]] | Colonial Charter winery; Vintner ferments fruits into Wine |
+| [[buildings:brewery:ebwinery|Winery (EB)]] | Discrepancy/EB winery; Vintner ferments Cherries, Grapes, and Plums into Wine |
+| [[buildings:brewery:workshop|Workshop (Christmas)]] | Christmas Mod workshop; Elf produces goods without materials, requires alcohol for happiness |
+| [[buildings:brewery:wpbrewer|WP Brewer]] | WP brewer |
+| [[buildings:brewery:wwsaloon|WW Saloon]] | Wild West saloon |
+| [[buildings:brewery:yuletap|Yule Tap]] | Christmas/Yule-themed tap room |
+
+----
+
+{{tag>Buildings Brewery}}

@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Salt Works ======
+----
+
+<WRAP right>
+^  Salt Works                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebsaltworks.png?nolink|Salt Works}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  68  |
+|  [[WikiPages:wood:log|Wood]]  |  52  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB-mod salt-evaporation works. Workers extract Salt for the colony's preservation and trade chains.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines}}</wrap> **Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebsaltworks.png?nolink|Salt Works}}</wrap> **Salt Works**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebresources.png?nolink|EB Resources}}</wrap> **EB Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebsaltworks.png?nolink|Salt Works}}</wrap> **Salt Works**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:salt|Salt]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining EB}}

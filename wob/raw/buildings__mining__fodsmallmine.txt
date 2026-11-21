@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Mine (Forge Of Dwarves) ======
+----
+
+<WRAP right>
+^  Small Mine                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodsmallmine.png?nolink|Small Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 2)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  24.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge Of Dwarves small mine where Miners extract Iron Ore, Coal, and Magic Crystals. Maximum production of 2000.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge Of Dwarves}}</wrap> **Forge Of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodsmallmine.png?nolink|Small Mine}}</wrap> **Small Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge Of Dwarves}}</wrap> **Forge Of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodsmallmine.png?nolink|Small Mine}}</wrap> **Small Mine**
+
+----
+
+===== Produces =====
+
+The player selects which material to produce.
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+  * [[WikiPages:custom7:crystal|Magic Crystal]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=620|WoB]]
+
+{{tag>Building Mining KidForgeOfDwarves}}

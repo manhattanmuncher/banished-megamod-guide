@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Port (Kid) ======
+----
+
+<WRAP right>
+^  Small Port (Kid)                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallport.png?nolink|Small Port}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Trader  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  96  |
+|  [[WikiPages:wood:log|Wood]]  |  64  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Small Port — a compact town port where a Trader receives merchant boats and trades goods, sized for smaller waterside settlements.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade}}</wrap> **Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallport.png?nolink|Small Port}}</wrap> **Small Port**
+
+----
+
+{{tag>Building Trading_Post KidSmallPort}}

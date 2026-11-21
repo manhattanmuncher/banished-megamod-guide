@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Papaya ======
+----
+
+<WRAP right>
+^  Papaya                                         ^  xBLS  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |  50/65  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/papaya.png?nolink|Papaya}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Papaya is a Colonial Charter fruit available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Papaya Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:tropicalgreenhouse|Tropical Greenhouse]]
+  * Produced at the [[buildings:crafting:packaging|Chartered Company]] (imported with Silver Coin)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit Colonial}}

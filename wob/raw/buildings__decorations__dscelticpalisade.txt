@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Celtic Palisade ======
+----
+
+<WRAP right>
+^  Celtic Palisade                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticpalisade1x1.png?nolink|Celtic Palisade}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1 (straight)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  5  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Celtic House defensive timber palisade pieces. Combine straight, corner, open, gate, and tower pieces to fortify a settlement. Available in two heights — low (05) and high (10).
+
+----
+
+===== Variants =====
+
+^ Piece ^ Size ^ Build Cost ^
+| Straight (1×1) | 1 × 1 | 5 work, 4 [[WikiPages:wood:log|Wood]] |
+| Corner | 2 × 2 | low Wood |
+| Open / Water | 1 × 1 | low Wood |
+| Gate | 4 × 1 | 21 work, 13 [[WikiPages:wood:log|Wood]] |
+| Tower | 4 × 4 | 34 work, 21 [[WikiPages:wood:log|Wood]] |
+
+Each piece comes in low (05) and high (10) height variants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticpalisade1x1.png?nolink|Celtic Palisade}}</wrap> **Celtic Palisade**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dscelticmenu.png?nolink|DS Celtic House}}</wrap> **DS Celtic House** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticpalisade1x1.png?nolink|Celtic Palisade}}</wrap> **Celtic Palisade**
+
+----
+
+{{tag>Building Decorations DSCeltic}}

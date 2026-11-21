@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mine ======
+----
+
+<WRAP right>
+^  Mine                                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemine.png?nolink|Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 8 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  40  |
+|  Happiness  |  Detraction (radius 20)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  3200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Mine is a finite Tool Emporium mine where miners extract iron ore or coal. It produces a maximum of 3,200 units before depletion and causes unhappiness in its radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtoolemporium.png?nolink|Tool Emporium}}</wrap> **Tool Emporium** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemine.png?nolink|Mine}}</wrap> **Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtoolemporium.png?nolink|Tool Emporium}}</wrap> **Tool Emporium** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemine.png?nolink|Mine}}</wrap> **Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines}}</wrap> **Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemine.png?nolink|Mine}}</wrap> **Mine**
+
+----
+
+===== Recipes =====
+
+The player selects which resource to mine.
+
+^ Ingredients                                                ^ Produces                                          ^
+| —                                                          | [[WikiPages:coalfuel:iron_ore|Iron Ore]]          |
+| —                                                          | [[WikiPages:coalfuel:coal|Coal]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tool Emporium v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=710|WoB]]
+
+{{tag>Building Mining ToolEmporium}}

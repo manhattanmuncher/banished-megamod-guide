@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Salsa Store ======
+----
+
+<WRAP right>
+^  Salsa Store                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgsalsastore.png?nolink|Salsa Store}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Salsa Store is a Home Grown food production building where workers combine garden vegetables to make Salsa. It is a larger and more efficient alternative to the Homemade Salsa building, with a simpler build cost using only Wood.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgsalsastore.png?nolink|Salsa Store}}</wrap> **Salsa Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgsalsastore.png?nolink|Salsa Store}}</wrap> **Salsa Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorefood.png?nolink|More Food Processing}}</wrap> **More Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgsalsastore.png?nolink|Salsa Store}}</wrap> **Salsa Store**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                          ^ Produces                                ^
+| [[WikiPages:food:tomatoes|Tomato]] × 8, [[WikiPages:food:onion|Onion]] × 2, [[WikiPages:food:pepper|Pepper]] × 2                                    | [[WikiPages:food:salsa_aspsalsa|Salsa]]    |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Home Grown v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=629|WoB]]
+
+{{tag>Building Food HomeGrown}}

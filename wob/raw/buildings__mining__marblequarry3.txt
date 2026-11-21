@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Marble Quarry 3 ======
+----
+
+<WRAP right>
+^  Marble Quarry 3                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarblequarry.png?nolink|Marble Quarry 3}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 15)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+|  Upgraded From  |  [[buildings:mining:marblequarry2|Marble Quarry 2]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:wood:log|Wood]]  |  80  |
+|  [[WikiPages:iron:iron|Iron]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Marble Quarry 3 is the final tier of the Marble Quarry chain. It has no production cap, allowing indefinite Marble extraction.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:marblequarry2|Marble Quarry 2]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:marble|Marble]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining MarbleQuarry3}}

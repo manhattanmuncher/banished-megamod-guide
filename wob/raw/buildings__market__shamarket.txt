@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Market ======
+----
+
+<WRAP right>
+^  Village Market                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshamarket.png?nolink|Village Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  12,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  Stone  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Stone House Addon large village market. Distributes all goods categories to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshamarket.png?nolink|Village Market}}</wrap> **Village Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshamarket.png?nolink|Village Market}}</wrap> **Village Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Logs
+  * Stone
+  * Iron
+  * Health items
+  * Clothing
+  * Textile
+  * Alcohol
+  * Coal fuel
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * [[WikiPages:custom2:start|Fabrics]] (Custom 2)
+  * Industrial fuel (Custom 3)
+  * Raw materials (Custom 4)
+  * [[WikiPages:custom5:building_kit|Building supplies]] (Custom 5)
+  * Precious items (Custom 6)
+  * Misc items (Custom 7)
+  * Custom 8
+  * Consumables (Custom 9)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone House Addon v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=279|WoB]]
+
+{{tag>Market}}

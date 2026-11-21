@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sawara House ======
+----
+
+<WRAP right>
+^  Sawara House                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsawarahouse.png?nolink|Sawara House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 7  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  40  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Angainor88 Japanese-style sawara house; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsawarahouse.png?nolink|Sawara House}}</wrap> **Sawara House**
+
+----
+
+{{tag>Building Houses A8JapaneseHousing}}

@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Paper Lantern ======
+----
+
+<WRAP right>
+^  Paper Lantern                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpaperlantern.png?nolink|Paper Lantern}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative Japanese paper lantern from the A8 Japanese mod. Has no footprint, so it can be placed freely and overlapping other objects.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpaperlantern.png?nolink|Paper Lantern}}</wrap> **Paper Lantern**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

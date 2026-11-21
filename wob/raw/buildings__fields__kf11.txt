@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Farmyard 11 ======
+----
+
+<WRAP right>
+^  Farmyard                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkf11.png?nolink|Farmyard 11}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  48.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  7  |
+</WRAP>
+<WRAP right></WRAP>
+
+Farmyard 11 is a KID Farmyard building where a worker tends a 7×6 farm plot that produces honey, corn, blueberries, and beans.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidfarmyard.png?nolink|Farmyards}}</wrap> **Farmyards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidfarmyard.png?nolink|Farmyards}}</wrap> **Farmyards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkf11.png?nolink|Farmyard 11}}</wrap> **Farmyard 11**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidfarmyard.png?nolink|Farmyards}}</wrap> **Farmyards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidfarmyard.png?nolink|Farmyards}}</wrap> **Farmyards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkf11.png?nolink|Farmyard 11}}</wrap> **Farmyard 11**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkf11.png?nolink|Farmyard 11}}</wrap> **Farmyard 11**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:honey|Honey]]
+  * [[WikiPages:food:corn|Corn]]
+  * [[WikiPages:food:blueberries|Blueberries]]
+  * [[WikiPages:food:bean|Bean]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Farmyard v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=589|WoB]]
+
+{{tag>Building Food KidFarmyard}}

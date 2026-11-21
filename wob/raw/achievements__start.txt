@@ -1,0 +1,96 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Achievements ======
+----
+
+Achievements are in-game milestones that unlock as your town grows and accomplishes specific goals. They are tracked per save and can be viewed from the main menu.
+
+> **Note:** Achievements are disabled whenever any mod is active, including MegaMod. They are a vanilla Banished feature only.
+
+----
+
+===== Population =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/settlement.png?nolink|Settlement}} | Settlement | Reach a population of 300 citizens. |
+| {{https://sprites.worldofbanished.com/achievements/village.png?nolink|Village}} | Village | Reach a population of 600 citizens. |
+| {{https://sprites.worldofbanished.com/achievements/town.png?nolink|Town}} | Town | Reach a population of 900 citizens. |
+| {{https://sprites.worldofbanished.com/achievements/established.png?nolink|Established}} | Established | Build a town that has a population of 300 after 100 years. |
+| {{https://sprites.worldofbanished.com/achievements/tenure.png?nolink|Tenure}} | Tenure | Build a town that has a population of 500 after 200 years. |
+
+----
+
+===== Education & Workforce =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/educated.png?nolink|Educated}} | Educated | Have a fully educated population with 200 adults for 4 years. |
+| {{https://sprites.worldofbanished.com/achievements/uneducated.png?nolink|Uneducated}} | Uneducated | Reach a population of 300 citizens without building schools. |
+| {{https://sprites.worldofbanished.com/achievements/jackofalltrades.png?nolink|Jack of all Trades}} | Jack of all Trades | Build a town of over 200 people that has someone working in every profession for at least 5 years. |
+
+----
+
+===== Survival Challenges =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/mountainmen.png?nolink|Mountain Men}} | Mountain Men | Using a harsh climate and a small mountainous map, maintain a population of 50 people for 20 years. |
+| {{https://sprites.worldofbanished.com/achievements/isolationist.png?nolink|Isolationist}} | Isolationist | Reach 300 citizens without building a trading post. |
+| {{https://sprites.worldofbanished.com/achievements/onewithnature.png?nolink|One with Nature}} | One with Nature | Reach 400 citizens without building crop fields, orchards, or pastures. |
+
+----
+
+===== Farming & Food =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/farmer.png?nolink|Farmer}} | Farmer | Acquire 3 livestock types, 8 crop seed types, and 8 orchard seed types. |
+| {{https://sprites.worldofbanished.com/achievements/livestock.png?nolink|Livestock}} | Livestock | Build a town that contains 60 cattle, 75 sheep, and 180 chickens. |
+| {{https://sprites.worldofbanished.com/achievements/plantvariety.png?nolink|Food Variety}} | Food Variety | Grow and harvest 8 different plants and 8 different orchard tree types in a single year. |
+| {{https://sprites.worldofbanished.com/achievements/foodie.png?nolink|Foodie}} | Foodie | In a single year, produce at least 2000 food each from hunters, gatherers, fishermen, pastures, fields, and orchards. |
+
+----
+
+===== Resources =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/lumberjack.png?nolink|Lumberjack}} | Lumberjack | Produce 50,000 logs within a 100 year period. |
+| {{https://sprites.worldofbanished.com/achievements/stonework.png?nolink|Stonework}} | Stonework | Produce 10,000 stone within a 100 year period. |
+| {{https://sprites.worldofbanished.com/achievements/smelter.png?nolink|Smelter}} | Smelter | Produce 10,000 iron within a 100 year period. |
+| {{https://sprites.worldofbanished.com/achievements/miner.png?nolink|Miner}} | Miner | Maintain 2 mines with 30 workers each for 3 years. |
+| {{https://sprites.worldofbanished.com/achievements/mason.png?nolink|Mason}} | Mason | Maintain 2 quarries with 30 workers each for 3 years. |
+
+----
+
+===== Trade =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/trader.png?nolink|Trader}} | Trader | Use trading posts to trade 50,000 units of goods in a single town. |
+| {{https://sprites.worldofbanished.com/achievements/mastertrader.png?nolink|Master Trader}} | Master Trader | Use trading posts to trade 100,000 units of goods in a single town. |
+| {{https://sprites.worldofbanished.com/achievements/exports.png?nolink|Exports}} | Exports | Stock the trading post with at least 500 ale, 300 steel tools, and 200 warm coats. |
+| {{https://sprites.worldofbanished.com/achievements/immigrants.png?nolink|Immigrants}} | Immigrants | Allow 200 nomads into a single town. |
+
+----
+
+===== Construction =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/highwaymen.png?nolink|Highwaymen}} | Highwaymen | Build a town with 2,000 stone paved road tiles. |
+| {{https://sprites.worldofbanished.com/achievements/goldengate.png?nolink|Golden Gate}} | Golden Gate | Build a bridge that is at least 50 units long. |
+| {{https://sprites.worldofbanished.com/achievements/firefighter.png?nolink|Firefighter}} | Firefighter | Build 20 wells in a single town. |
+| {{https://sprites.worldofbanished.com/achievements/builtfromstone.png?nolink|Built from Stone}} | Built from Stone | Build a town with 100 stone houses. |
+| {{https://sprites.worldofbanished.com/achievements/builder.png?nolink|Builder}} | Builder | Build a town that has at least one of every possible structure. |
+| {{https://sprites.worldofbanished.com/achievements/masterbuilder.png?nolink|Master Builder}} | Master Builder | Build a town with 3 churches, 5 boarding houses, 4 markets, 5 hospitals, 2 trading posts, 6 taverns, and a town hall. |
+
+----
+
+===== Equipment & Welfare =====
+
+^ ^ Achievement ^ Description ^
+| {{https://sprites.worldofbanished.com/achievements/blacksmith.png?nolink|Blacksmith}} | Blacksmith | Equip a population of over 200 adults with steel tools for 4 years. |
+| {{https://sprites.worldofbanished.com/achievements/stylish.png?nolink|Stylish}} | Stylish | Clothe a population of over 200 with warm coats for 4 years. |
+| {{https://sprites.worldofbanished.com/achievements/smilesallaround.png?nolink|Smiles all Around}} | Smiles all Around | Maintain high happiness for 10 years in a town with at least 100 citizens. |
+| {{https://sprites.worldofbanished.com/achievements/healthy.png?nolink|Healthy}} | Healthy | Maintain high health for 10 years in a town with at least 100 citizens. |
+| {{https://sprites.worldofbanished.com/achievements/readyforanything.png?nolink|Ready for Anything}} | Ready for Anything | Simultaneously store 2,000 fuel, 2,000 wood, 500 stone, 500 iron, 200 tools, 200 coats, and 30,000 food. |
+| {{https://sprites.worldofbanished.com/achievements/tombstone.png?nolink|Tombstone}} | Tombstone | Fill graveyards with at least 400 graves. |
+
+----
+
+{{tag>Achievements Vanilla}}

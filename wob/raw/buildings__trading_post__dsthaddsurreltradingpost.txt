@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Industry Merchant ======
+----
+
+<WRAP right>
+^  Industry Merchant                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreltradingpost.png?nolink|Industry Merchant}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–34 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  89,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:iron:iron|Iron]]  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  89  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Thadd Surrel large industry trading post. Up to 34 traders work here, and industry merchants arrive by river boat offering raw materials, crafted goods, and construction supplies. No food merchants visit this post.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreltradingpost.png?nolink|Industry Merchant}}</wrap> **Industry Merchant**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dstrade.png?nolink|Trading}}</wrap> **Trading** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreltradingpost.png?nolink|Industry Merchant}}</wrap> **Industry Merchant**
+
+----
+
+===== Merchant =====
+
+Multiple industry merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Thadd Surrel Merchant | Wood, stone, iron, fuel, tools, textiles, clothing, coal, crafted goods, forged goods, fabric, industrial fuel, raw materials, building supplies, and misc |
+| Resources | Wood, stone, iron, fuel, tools, and industrial fuel |
+| TS Materials | Coal, iron, fuel, industrial fuel, raw materials, and building supplies |
+| DS Trading Co. | Wood, stone, iron, fuel, tools, textiles, clothing, coal, crafted goods, forged goods, fabric, industrial fuel, raw materials, building supplies, and misc |
+| Goods Trading Co. | Crafted goods, forged goods, fabric, textiles, tools, and clothing |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+{{tag>Building TradingPost DS}}

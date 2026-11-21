@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== The Light (Ice Castle) ======
+----
+
+<WRAP right>
+^  The Light                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastletower.png?nolink|The Light}}</wrap>  |
+|  <abbr "Function">Function</abbr>  |  Attracts nomads (~once a year)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A glowing tower from Kid's Ice Castle winter set. **The Light** signals to wandering nomads, attracting a group (about 12% of the current population) to seek refuge roughly once a year — the nomad-attracting counterpart to the [[buildings:town_halls:icecastle|Ice Castle]] town hall, which does not draw nomads.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastletower.png?nolink|The Light}}</wrap> **The Light**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastletower.png?nolink|The Light}}</wrap> **The Light**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastletower.png?nolink|The Light (Ice Castle)}}</wrap> **The Light (Ice Castle)**
+
+----
+
+This building originally came from **Ice Castle v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=588|WoB]]
+
+{{tag>Building Nomads KidIceCastle}}

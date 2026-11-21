@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brushwood Fence ======
+----
+
+<WRAP right>
+^  Brushwood Fence                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsbrushwoodfencestraight1.png?nolink|Brushwood Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Fences woven brushwood fence pieces. Combine the straight, multi, and arch pieces to enclose gardens and yards.
+
+----
+
+===== Variants =====
+
+^ Piece ^
+| Brushwood Fence (Straight 1 / 2) |
+| Brushwood Fence Multi |
+| Brushwood Fence Arch |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Deco}}</wrap> **Fences, Walls & Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsbrushwoodfencestraight1.png?nolink|Brushwood Fence}}</wrap> **Brushwood Fence**
+
+----
+
+{{tag>Building Storage DSFences}}

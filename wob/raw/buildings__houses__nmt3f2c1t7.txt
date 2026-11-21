@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MultiStory 2nd Floor Corner (Texture 7) ======
+----
+
+<WRAP right>
+^  MultiStory 2nd Floor Corner (Texture 7)                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3f2c1t7.png?nolink|MultiStory 2nd Floor Corner (Texture 7)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  102  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+|  [[WikiPages:custom5:glass|Glass]]  |  10  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate texture of [[buildings:houses:nmt3f2c1t6|MultiStory 2nd Floor Corner (Texture 6)]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture7.png?nolink|NMT MultiLevel Old Chapel Stones Toolbar}}</wrap> **NMT MultiLevel Old Chapel Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3f2c1t7.png?nolink|MultiStory 2nd Floor Corner (Texture 7)}}</wrap> **MultiStory 2nd Floor Corner (Texture 7)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture7.png?nolink|NMT MultiLevel Old Chapel Stones Toolbar}}</wrap> **NMT MultiLevel Old Chapel Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3f2c1t7.png?nolink|MultiStory 2nd Floor Corner (Texture 7)}}</wrap> **MultiStory 2nd Floor Corner (Texture 7)**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

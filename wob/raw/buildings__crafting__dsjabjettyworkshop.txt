@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Workshop ======
+----
+
+<WRAP right>
+^  Jetty Workshop                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyworkshop.png?nolink|Jetty Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Tool Maker}}</wrap> Tool Maker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  900  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  34  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  13  |
+|  [[WikiPages:iron:iron|Iron]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Jetty & Bridge crafting workshop placed on or near water. A Tool Maker forges Iron Tools, Fishing Gear, Iron Fittings, and Wagon Parts from a variety of recipes.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1}}</wrap> **Texture #1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyprodresmenu.png?nolink|Jetty Resource Production}}</wrap> **Jetty Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyworkshop.png?nolink|Jetty Workshop}}</wrap> **Jetty Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1}}</wrap> **Texture #1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyprodresmenu.png?nolink|Jetty Resource Production}}</wrap> **Jetty Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyworkshop.png?nolink|Jetty Workshop}}</wrap> **Jetty Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyworkshop.png?nolink|Jetty Workshop}}</wrap> **Jetty Workshop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                 ^ Produces                                              ^
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                                              | [[WikiPages:tool:tool|Tool]]                          |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                                              | [[WikiPages:custom0:fishing_gear|Fishing Gear]]       |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                                              | [[WikiPages:custom0:wagon_parts|Wagon Parts]]         |
+| 3 [[WikiPages:wood:log|Wood]] + 3 [[WikiPages:custom1:iron_fittings|Iron Fittings]]                         | [[WikiPages:custom0:wagon_parts|Wagon Parts]]         |
+| 5 [[WikiPages:custom5:lumber|Lumber]] + 3 [[WikiPages:custom1:iron_fittings|Iron Fittings]]                 | [[WikiPages:custom0:wagon_parts|Wagon Parts]]         |
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:coalfuel:coal|Coal]]                                         | [[WikiPages:custom1:iron_fittings|Iron Fittings]]     |
+| 1 [[WikiPages:iron:iron|Iron]] + 2 [[WikiPages:fuel:firewood|Firewood]]                                     | [[WikiPages:custom1:iron_fittings|Iron Fittings]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Crafting DS}}

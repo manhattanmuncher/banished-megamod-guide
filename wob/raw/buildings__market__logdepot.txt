@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Log Depot ======
+----
+
+<WRAP right>
+^  Log Depot                                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlogdepot.png?nolink|Log Depot}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Radius  |  30  |
+|  Storage  |  6,800  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+A log dealer with 6,800 storage. Specializes in distributing logs to nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlogdepot.png?nolink|Log Depot}}</wrap> **Log Depot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlogdepot.png?nolink|Log Depot}}</wrap> **Log Depot**
+
+----
+
+===== Stocks =====
+
+  * Logs
+
+----
+
+===== Other Information =====
+
+This building originally came from **Log Depot v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=268|WoB]]
+
+{{tag>Market}}

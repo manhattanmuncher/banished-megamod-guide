@@ -1,0 +1,190 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market Buildings ======
+----
+
+Buildings where settlers buy, sell, and trade goods.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:market:alegarden|Inn and Garden]] | Public inn and garden; stocks Alcohol and luxury items; provides Entertainment happiness when stocked |
+| [[buildings:market:bbmarket|Market (Bed & Breakfast)]] | Bed and Breakfast mod market; stocks a wide variety of goods; provides Goods happiness |
+| [[buildings:market:bggrainsilo|BG Grain Silo]] | Bakery & Garden Alt market stall themed as a grain silo; distributes grain; provides Goods happiness |
+| [[buildings:market:capetowncornerstore|Cape Town Corner Store]] | Cape Town-inspired corner market; large worker capacity and wide service radius; provides Goods happiness |
+| [[buildings:market:rknewcartsconstruction|Cart: Construction]] | RK small market cart; distributes Building Supplies; 2×2; radius 20 |
+| [[buildings:market:rknewcartscrafted|Cart: Crafted]] | RK small market cart; distributes Crafted Goods; 2×2; radius 20 |
+| [[buildings:market:rknewcartsfabrics|Cart: Fabrics]] | RK small market cart; distributes Fabrics; 2×2; radius 20 |
+| [[buildings:market:rknewcartsforged|Cart: Forged]] | RK small market cart; distributes Forged Goods; 2×2; radius 20 |
+| [[buildings:market:rknewcartsfuel|Cart: Fuel]] | RK small market cart; distributes Fuel; 2×2; radius 20 |
+| [[buildings:market:rknewcartsiron|Cart: Iron]] | RK small market cart; distributes Iron; 2×2; radius 20 |
+| [[buildings:market:rknewcartsmaterials|Cart: Materials]] | RK small market cart; distributes Raw Materials; 2×2; radius 20 |
+| [[buildings:market:rknewcartsminerals|Cart: Minerals]] | RK small market cart; distributes Coal Fuel; 2×2; radius 20 |
+| [[buildings:market:rknewcartsmisc|Cart: Miscellaneous]] | RK small market cart; distributes Misc goods; 2×2; radius 20 |
+| [[buildings:market:rknewcartsprecious|Cart: Precious]] | RK small market cart; distributes Precious goods; 2×2; radius 20 |
+| [[buildings:market:rknewcartsstone|Cart: Stone]] | RK small market cart; distributes Stone; 2×2; radius 20 |
+| [[buildings:market:rknewcartstextile|Cart: Textile]] | RK small market cart; distributes Textile; 2×2; radius 20 |
+| [[buildings:market:rknewcartswood|Cart: Wood]] | RK small market cart; distributes Wood; 2×2; radius 20 |
+| [[buildings:market:cartconstruction|Construction Market Cart]] | Small market cart specializing in construction materials |
+| [[buildings:market:cartfood|Edibles Market Cart]] | Small market cart specializing in edible food items |
+| [[buildings:market:cartfuel|Fuel Market Cart]] | Small market cart specializing in fuel (firewood) |
+| [[buildings:market:cartfurnace|Industrial Fuel Market Cart]] | Small market cart specializing in industrial fuel (Custom 3) |
+| [[buildings:market:cartiron|Iron Market Cart]] | Small market cart specializing in iron |
+| [[buildings:market:cartminerals|Minerals Market Cart]] | Small market cart specializing in ores and minerals |
+| [[buildings:market:cartrawmaterials|Raw Materials Market Cart]] | Small market cart specializing in raw materials (Custom 4) |
+| [[buildings:market:cartstone|Stone Market Cart]] | Small market cart specializing in stone |
+| [[buildings:market:cartwood|Wood Market Cart]] | Small market cart specializing in logs |
+| [[buildings:market:ccccornerstore|Corner Store (CCC)]] | Colonial City Center corner store; stocks all material categories; very large storage capacity |
+| [[buildings:market:cccfirewood|Firewood (CCC)]] | Colonial City Center firewood market; specializes in distributing firewood |
+| [[buildings:market:cccfoodstore|Food Store (CCC)]] | Colonial City Center food store; stocks all food categories |
+| [[buildings:market:cccgeneralstore|General Store (CCC)]] | Colonial City Center general store; stocks all material categories |
+| [[buildings:market:clstore|General Store (Colonial Resources)]] | Colonial Resources general store; distributes essential goods; provides Goods happiness |
+| [[buildings:market:clothingstall|Clothing & Tools Stall]] | Small market stall specializing in clothing and tools |
+| [[buildings:market:cornergroceryt1|Grocery (Classic Stones)]] | NMT corner grocery store; sells food; provides Entertainment happiness when Consumables are present |
+| [[buildings:market:cornergroceryt2|Grocery (Old Stones)]] | NMT corner grocery store; Old Stones variant; same stats as Classic Stones |
+| [[buildings:market:cornergroceryt3|Grocery (Red Bricks)]] | NMT corner grocery store; Red Bricks variant; same stats as Classic Stones |
+| [[buildings:market:cornergroceryt4|Grocery (Sand Bricks)]] | NMT corner grocery store; Sand Bricks variant; same stats as Classic Stones |
+| [[buildings:market:cornergroceryt5|Grocery (Fire Bricks)]] | NMT corner grocery store; Fire Bricks variant; same stats as Classic Stones |
+| [[buildings:market:cornergroceryt6|Grocery (Old Church Stones)]] | NMT corner grocery store; Old Church Stones variant; same stats as Classic Stones |
+| [[buildings:market:cornergroceryt7|Grocery (Old Chapel Stones)]] | NMT corner grocery store; Old Chapel Stones variant; same stats as Classic Stones |
+| [[buildings:market:cornergroceryt8|Grocery (Old Wood)]] | NMT corner grocery store; Old Wood variant; same stats as Classic Stones |
+| [[buildings:market:covenwitchhoard|Witch Hoard]] | Coven mod market; distributes all goods categories to nearby settlers |
+| [[buildings:market:craftedstall|Crafted Stall]] | Small market stall specializing in Crafted Items (Custom 0) |
+| [[buildings:market:dockmarket|Dock Market]] | Colonial Charter Dock large market; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:dockmarketsmall|Dock Small Market]] | Colonial Charter Dock small market; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:dockstocklog|Dock Wood Finder]] | Colonial Charter Dock wood storage; vendor stockpiles logs for nearby dock construction |
+| [[buildings:market:dsjabjettymarket|Jetty Market]] | DS Jetty & Bridge large water-side market; distributes all goods; provides Goods happiness |
+| [[buildings:market:dsjabjettymarket2x2food|Jetty Food Market]] | DS Jetty & Bridge small water-side food market; stocks food and health items; provides Goods happiness |
+| [[buildings:market:dsjabjettymarket2x2foodtex2|Jetty Food Market (Tex2)]] | DS Jetty & Bridge small food market; blue-grey wooden jetty style; same stats as Jetty Food Market |
+| [[buildings:market:dsjabjettymarkett2|Jetty Market (T2)]] | DS Jetty & Bridge large market; blue-grey wooden jetty style; same stats as Jetty Market |
+| [[buildings:market:dssvfoodmarket|Village Farmer's Market]] | DS Small Village large food market; stocks food and health items; provides Goods happiness |
+| [[buildings:market:dssvgoodsmarket|Village Goods Market]] | DS Small Village large goods market; distributes fuel, tools, materials, and crafted goods; provides Goods happiness |
+| [[buildings:market:dsthaddsurrelmarket|Industry Market]] | DS Thadd Surrel industrial market; distributes fuel, raw materials, and crafted goods; very large radius |
+| [[buildings:market:dstownhousesbstore3x4marketlocal|Bryggen Town Market]] | Bryggen TownHouses local market; stocks food, clothing, tools, and health items; provides Goods happiness |
+| [[buildings:market:dswagonvendor|General Wagon Vendor]] | DS Wagon Vendor general goods wagon; distributes food, clothing, tools, and crafted goods |
+| [[buildings:market:dswagonvendorfuel|Fuel Wagon Vendor]] | DS Wagon Vendor fuel wagon; distributes firewood and industrial fuel |
+| [[buildings:market:dswagonvendorlogs|Materials Wagon Vendor]] | DS Wagon Vendor materials wagon; distributes logs, raw materials, and construction materials |
+| [[buildings:market:dswagonvendormis|MIS Wagon Vendor]] | DS Wagon Vendor mining supplies wagon; distributes iron, stone, and coal |
+| [[buildings:market:ebfarmstand|Farm Stand]] | EB farm stand; distributes food, fuel, tools, clothing, textiles, and fabrics; provides Goods happiness |
+| [[buildings:market:ebmarketstanda|Food Market]] | EB small food market stall; distributes all edible food types; provides Goods happiness |
+| [[buildings:market:ebmarkettextiles|Textiles Market]] | EB small textiles market stall; distributes clothing, textiles, and fabrics; provides Goods happiness |
+| [[buildings:market:ebsvbeach|Village Beach Resort]] | EB Village small beach resort; food market and Entertainment happiness |
+| [[buildings:market:ebsvbeachlarge|Village Large Beach Resort]] | EB Village large beach resort; food market and Entertainment happiness; larger radius than standard |
+| [[buildings:market:ebsvmarket|Village Market]] | EB Village large market; distributes food, fuel, tools, health, clothing, and more; provides Goods happiness |
+| [[buildings:market:ebsvrockquarryresort|Village Resort]] | EB Village quarry converted to resort; food market and Entertainment happiness; upgraded from Village Rock Quarry |
+| [[buildings:market:ebmarketblacksmith|Blacksmith Market]] | EB small market stall; distributes tools, coal, iron, and logs; provides Goods happiness |
+| [[buildings:market:ebmarketfuel|Tools & Fuel Market]] | EB small market stall; distributes tools, firewood, and industrial fuel; provides Goods happiness |
+| [[buildings:market:ebmarkethealth|Apothecary Market]] | EB small market stall; distributes health items; provides Goods happiness |
+| [[buildings:market:ebmarkethunter|Hunting Market]] | EB small market stall; distributes protein, textiles, and crafted items; provides Goods happiness |
+| [[buildings:market:ebmarketmats|Materials Market]] | EB small market stall; distributes logs, raw materials, and construction materials; provides Goods happiness |
+| [[buildings:market:ebmarketminerals|Minerals Market]] | EB small market stall; distributes stone, iron, and coal; provides Goods happiness |
+| [[buildings:market:ecmarket|Market (EC)]] | Editor's Choice large market; distributes food, fuel, tools, health, and clothing; very large radius; provides Goods happiness |
+| [[buildings:market:emporium|Emporium]] | Large general market; massive storage; distributes food, tools, crafted goods, and more; provides Goods happiness |
+| [[buildings:market:fbshop|Friendly Shop (Friendly Blue)]] | Friendly Blue mod general market; distributes a wide variety of goods |
+| [[buildings:market:fbtshop|Friendly Shop (Friendly Blue Too)]] | Friendly Blue Too mod general market; distributes a wide variety of goods |
+| [[buildings:market:fabricsstall|Fabrics Stall]] | Small market stall specializing in Fabrics (Custom 2) |
+| [[buildings:market:fhlogsupply|Log Supply]] | Forest Haven log supply; distributes logs only; small storage |
+| [[buildings:market:fhplatform|Forest Haven Platform]] | Forest Haven large tree platform market; distributes food, fuel, tools, and more |
+| [[buildings:market:fishshipsmarketwaterhi|Jetty Market Hi]] | Fish n Ships large water-side market on high jetty platform; distributes wide variety of goods |
+| [[buildings:market:fnshop|Friendly Shop (Friendly Neighborhood)]] | Friendly Neighborhood mod general market; distributes a wide variety of goods |
+| [[buildings:market:forgedstall|Forged Stall]] | Small market stall specializing in Forged items (Custom 1) |
+| [[buildings:market:fotmarketcart|Market Cart (Forest Trader)]] | Forest Trader market cart; distributes a variety of goods |
+| [[buildings:market:fpshop|Friendly Shop (Friendly Pumpkin)]] | Friendly Pumpkin mod general market; distributes a wide variety of goods |
+| [[buildings:market:ftmarket|Market (Fairy Tale)]] | Fairy Tale large general market; distributes food, fuel, tools, and more; provides Goods happiness |
+| [[buildings:market:fruitstall|Fruit Stall]] | Small market stall specializing in Fruit |
+| [[buildings:market:gfmarket1|Small Market (Gothic Fantasy 1)]] | Gothic Fantasy dark market; distributes food, fuel, tools, and more; provides Goods happiness |
+| [[buildings:market:gfmarket2|Small Market (Gothic Fantasy 2)]] | Gothic Fantasy bright market; same stats as Gothic Fantasy 1 variant |
+| [[buildings:market:ghfgardensupplies|Garden Supplies (Grow Hunt Fish)]] | Grow Hunt Fish garden supply market; distributes compost and plant materials; provides Goods happiness |
+| [[buildings:market:gnshop|Friendly Shop (Granny Neighborhood)]] | Granny Neighborhood mod general market; distributes a wide variety of goods |
+| [[buildings:market:grainstall|Grain Stall]] | Small market stall specializing in Grain |
+| [[buildings:market:hggardensupplies|Garden Supplies (Home Grown)]] | Home Grown garden supply market; distributes compost and plant materials; provides Goods happiness |
+| [[buildings:market:jinxiebittymarket|Bitty General Market]] | Jinxie Bitty Village market; distributes food, tools, clothing, and fuel; provides Goods happiness |
+| [[buildings:market:kidlogbarge|Log Barge]] | KID HouseBoat log barge market; distributes logs; provides Goods happiness |
+| [[buildings:market:kidrivermarket|River Market]] | KID HouseBoat river market; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:kurazukurimarket|Kurazukuri Market]] | Japanese-style market with thick walls; distributes food, fuel, tools, clothing, and materials; provides Goods happiness |
+| [[buildings:market:logdepot|Log Depot]] | Specialized log dealer; distributes logs only; large storage |
+| [[buildings:market:marketedible|Edibles Market]] | Colonial Charter large food-only market; distributes all edible food types; very large radius; provides Goods happiness |
+| [[buildings:market:marketmed|Market (Medium)]] | Colonial Charter medium market; distributes food, fuel, tools, health, and clothing; provides Goods happiness |
+| [[buildings:market:nmtmarketdock|Market (NMT Dock)]] | NMT Docks wood market; distributes food, fuel, tools, health, clothing, and more; 10×10; radius 45 |
+| [[buildings:market:nmtmarketstonedock|Market (NMT Stone Dock)]] | NMT Docks stone market; distributes food, fuel, tools, health, clothing, and more; 10×10; radius 45; larger storage |
+| [[buildings:market:marketold|Rural Market]] | Colonial Charter large rural market; distributes all goods categories including Custom 0–9; very large radius; provides Goods happiness |
+| [[buildings:market:marketsmall|Small Market]] | Colonial Charter small market; distributes all goods categories including Custom 0–9; provides Goods happiness |
+| [[buildings:market:materialstall|Materials Stall]] | Small market stall specializing in fuel, industrial fuel, raw materials, and building supplies |
+| [[buildings:market:minimarket|Mini Food Market]] | Tiny food-only market; smallest market available; distributes all edible food types |
+| [[buildings:market:miscstall|Misc Stall]] | Small market stall specializing in Misc items (Custom 7) |
+| [[buildings:market:moroccansouk|Moroccan Souk]] | Moroccan-style marketplace; distributes food, fuel, tools, clothing, and materials; provides Goods happiness |
+| [[buildings:market:newmedievalalestall|Medieval Ale Stall]] | New Medieval Town ale stall; distributes alcohol; provides Entertainment happiness when stocked |
+| [[buildings:market:newmedievalclothshop|Medieval Cloth Vendor]] | New Medieval Town cloth vendor; distributes clothing, textiles, and fabrics |
+| [[buildings:market:newmedievalfoodshop|Medieval Food Store]] | New Medieval Town food store; distributes all edible food types |
+| [[buildings:market:newmedievalfoodstall|Medieval Food Stall]] | New Medieval Town small food stall; distributes all edible food types |
+| [[buildings:market:newmedievalfruitshop|Medieval Fruit Vendor]] | New Medieval Town fruit and vegetable vendor; distributes fruit and vegetables |
+| [[buildings:market:newmedievalgeneralstore|Medieval General Store]] | New Medieval Town general store; distributes fuel, tools, clothing, textiles, and crafted goods |
+| [[buildings:market:newmedievalgrainshop|Medieval Grain Vendor]] | New Medieval Town grain vendor; distributes grain to nearby settlers |
+| [[buildings:market:newmedievalstoneshop|Medieval Hardware Store]] | New Medieval Town hardware store; distributes stone, iron, logs, and coal fuel to nearby settlers |
+| [[buildings:market:newmedievalmeatstore|Medieval Meat Store]] | New Medieval Town meat store; distributes protein foods to nearby settlers |
+| [[buildings:market:nmt20alestand|Ale Stand]] | New Medieval Town ale stand; distributes alcohol; provides Entertainment happiness when stocked |
+| [[buildings:market:mfhplatform|More Havens Platform]] | More Havens large tree platform market; distributes a wide variety of goods |
+| [[buildings:market:ootwmarketdome|Market Dome]] | Out Of This World dome-style market; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:otmarket|Market Store (Old Town)]] | Old Town market store; distributes food, fuel, tools, clothing, and health items; provides Goods happiness |
+| [[buildings:market:otstonemarket|Market Store (Stone)]] | Old Town stone market; distributes food, fuel, tools, clothing, and health items; stone construction variant |
+| [[buildings:market:otpstash|Pirates Stash]] | Old Town Ports pirate stash market; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:pinemarket|Pine Market]] | Maritimes Pine Set general market; distributes all goods categories; provides Goods happiness |
+| [[buildings:market:prmarket|Port Royal Market]] | Maritimes Port Royal market; distributes all goods categories; provides Goods happiness |
+| [[buildings:market:preciousstall|Precious Stall]] | Small market stall specializing in Precious items (Custom 6) |
+| [[buildings:market:proteinstall|Protein Stall]] | Small market stall specializing in protein foods |
+| [[buildings:market:rkfarmstand|Market Stand]] | Rugged Kindness market stand; distributes food, fuel, tools, clothing, and health items; provides Goods happiness |
+| [[buildings:market:rkshopbuilding|Building Materials]] | Rugged Kindness building materials store; distributes stone and building supplies |
+| [[buildings:market:mfmarketfood|Food Market (Mexican Fantasy)]] | Mexican Fantasy small food market; distributes all edible food types |
+| [[buildings:market:mfmarketgeneral|General Market (Mexican Fantasy)]] | Mexican Fantasy small general market; distributes a wide variety of goods |
+| [[buildings:market:nmttailordock|Tailor (NMT Dock)]] | NMT Docks wood tailor workshop; produces clothing; 7×5 |
+| [[buildings:market:nmttailorstonedock|Tailor (NMT Stone Dock)]] | NMT Docks stone tailor workshop; produces clothing; 7×5 |
+| [[buildings:market:mfmarkettailor|Tailor Market (Mexican Fantasy)]] | Mexican Fantasy small tailor market; distributes clothing and textiles |
+| [[buildings:market:fodgatelarge|Large Gate (Forge Of Dwarves)]] | Forge Of Dwarves large gate; supplies settlement with basic goods; free to build |
+| [[buildings:market:fodwgatelarge|Large Gate (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter large gate; supplies settlement with basic goods; free to build |
+| [[buildings:market:mftrader|Trade Post]] | Mexican Fantasy barter building; workers exchange local goods for essential supplies |
+| [[buildings:market:wwcornerstore|Corner Store (Wild West)]] | Wild West corner store; distributes food, fuel, tools, and a wide variety of crafted goods; provides Goods happiness |
+| [[buildings:market:cc17ediblesmarket|Edibles Market (CC17)]] | CC17 large food market; distributes all edible food types; very large radius; provides Goods happiness |
+| [[buildings:market:rkshopfabrics|Fabrics & Co.]] | Rugged Kindness textiles shop; distributes textiles and fabrics |
+| [[buildings:market:svbfarmstand|Farm Stand (Smaller Vendors)]] | Elf Smaller Vendors farm stand; distributes food, fuel, tools, health items, and clothing; provides Goods happiness |
+| [[buildings:market:tdfeedstore|Feed Store]] | Tiny Downtown feed store; distributes building supplies; provides Goods happiness |
+| [[buildings:market:tdfishmarket|Food & Fish Market]] | Tiny Downtown food and fish market; distributes all edible food types; provides Goods happiness |
+| [[buildings:market:mplfood|Food (Market Puzzle)]] | KID Market Puzzle food stall; distributes all edible food types; provides Goods happiness |
+| [[buildings:market:tdfoodstore|Food Store (Tiny Downtown)]] | Tiny Downtown food store; distributes all edible food types; provides Goods happiness |
+| [[buildings:market:mpmfruit|Fruit and Vegetable (Market Puzzle)]] | KID Market Puzzle fruit and vegetable stall; distributes fruit and vegetables; provides Goods happiness |
+| [[buildings:market:mplgeneral|General Goods (Market Puzzle)]] | KID Market Puzzle general goods stall; distributes health items, tools, clothing, and fuel; provides Goods happiness |
+| [[buildings:market:svbgeneralstore|General Store (Smaller Vendors)]] | Elf Smaller Vendors general store; distributes food, fuel, tools, health items, and clothing; provides Goods happiness |
+| [[buildings:market:mpmgrain|Grain (Market Puzzle)]] | KID Market Puzzle grain stall; distributes grain; provides Goods happiness |
+| [[buildings:market:rkshopgrocery|Grocery Store]] | Rugged Kindness grocery shop; distributes all edible food types |
+| [[buildings:market:svbhardwarestore|Hardware Store (Smaller Vendors)]] | Elf Smaller Vendors hardware store; distributes fuel, tools, clothing, raw materials, and textiles; provides Goods happiness |
+| [[buildings:market:mpsherbs|Herbs (Market Puzzle)]] | KID Market Puzzle herbs stall; distributes health items; provides Goods happiness |
+| [[buildings:market:settlersmarket|Market (Settlers)]] | Settlers mod market; distributes food, fuel, tools, clothing, and health items; provides Goods happiness |
+| [[buildings:market:cc17market|Old Town Market]] | CC17 large general market; distributes a wide variety of goods; very large radius; provides Goods happiness |
+| [[buildings:market:mpmprotein|Protein (Market Puzzle)]] | KID Market Puzzle protein stall; distributes protein foods; provides Goods happiness |
+| [[buildings:market:railwaycoalbin|Railway CoalBin]] | Railway set coal bin; distributes coal fuel; provides Goods happiness |
+| [[buildings:market:railwaystation|Railway Station]] | Railway set station; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:rkshophardware|Raw Materials]] | Rugged Kindness raw materials shop; distributes logs, coal fuel, and iron |
+| [[buildings:market:sbmarket|Sherbrooke Market]] | Sherbrooke large market; massive storage and worker capacity; distributes all goods categories; provides Goods happiness |
+| [[buildings:market:taverna|Small Tavern]] | Small tavern; distributes alcohol and consumables; provides Entertainment happiness when stocked |
+| [[buildings:market:rhmarket|Small Town Market]] | KID Row Business small town market; distributes all goods categories; provides Goods happiness |
+| [[buildings:market:shplatform|Summer Haven Platform]] | Summer Haven large tree platform market; distributes a wide variety of goods; provides Goods happiness |
+| [[buildings:market:rkshopdelicate|Supplies & Goods]] | Rugged Kindness general supplies shop; distributes tools, fuel, clothing, and health items |
+| [[buildings:market:tavernmedium|Tavern]] | Medium tavern; distributes alcohol; provides Entertainment happiness when stocked |
+| [[buildings:market:textilestall|Textile Stall]] | Small market stall specializing in textiles |
+| [[buildings:market:mpmclothes|Textiles (Market Puzzle)]] | KID Market Puzzle textiles stall; distributes clothing and textiles; provides Goods happiness |
+| [[buildings:market:cc17thelocal|The Local]] | CC17 pub; distributes alcohol and consumables; provides Entertainment happiness when stocked |
+| [[buildings:market:tinymarket|Tiny Market]] | Small general market; distributes food, fuel, tools, health, clothing, and textiles; provides Goods happiness |
+| [[buildings:market:mpmtools|Tools (Market Puzzle)]] | KID Market Puzzle tools stall; distributes tools; provides Goods happiness |
+| [[buildings:market:tradermarket|Trader Market]] | Traveling Trader market; distributes food, fuel, tools, clothing, and health items; provides Goods happiness |
+| [[buildings:market:traderopenmarket|Trader Open Market]] | Traveling Trader open market; distributes food, fuel, tools, clothing, and health items; provides Goods happiness |
+| [[buildings:market:tieredmarketfood|Urban Food Market]] | Tiered Items urban food market; distributes all edible food types |
+| [[buildings:market:tieredmarket|Urban Market]] | Tiered Items urban market; distributes all goods categories |
+| [[buildings:market:veggiestall|Vegetable Stall]] | Small market stall specializing in vegetables |
+| [[buildings:market:shamarket|Village Market (SHA)]] | Stone House Addon large market; distributes all goods categories including Custom 0–9; provides Goods happiness |
+| [[buildings:market:wagonmarket|Wagon Market]] | Fort set wagon market; distributes a wide variety of goods |
+| [[buildings:market:tdwoodstore|Wood Store]] | Tiny Downtown wood store; distributes firewood and logs; provides Goods happiness |
+| [[buildings:market:mpmwoodfuel|Woodfuel (Market Puzzle)]] | KID Market Puzzle firewood stall; distributes firewood; provides Goods happiness |
+| [[buildings:market:market|Market]] | Vanilla Banished market; Vendor distributes all goods within a 45-tile radius; 14 × 14 footprint with 10,000-unit capacity |
+
+----
+
+{{tag>Buildings Market}}

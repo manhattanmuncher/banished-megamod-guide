@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old House D ======
+----
+
+<WRAP right>
+^  Old House D                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldhoused.png?nolink|Old House D}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  50  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  22  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:gtoldhousea|Old House A]]; identical stats. A Ghost Town renovated old house, houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgthouses.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldhoused.png?nolink|Old House D}}</wrap> **Old House D**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgthouses.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldhoused.png?nolink|Old House D}}</wrap> **Old House D**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldcottage.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldhoused.png?nolink|Old House D}}</wrap> **Old House D**
+
+----
+
+This building originally came from **Ghost Town v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=460|WoB]]
+
+{{tag>Building Houses KidGhostTown}}

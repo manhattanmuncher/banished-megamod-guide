@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal Town Hall ======
+----
+
+<WRAP right>
+^  Port Royal Town Hall                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprtownhall.png?nolink|Port Royal Town Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Wood + Stone  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora Maritimes Port Royal town hall, providing colony resource-limit controls and census tracking.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprtownhall.png?nolink|Port Royal Town Hall}}</wrap> **Port Royal Town Hall**
+
+----
+
+This building originally came from **Maritimes Port Royal**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=367|WoB]]
+
+{{tag>Building TownHalls PortRoyal}}

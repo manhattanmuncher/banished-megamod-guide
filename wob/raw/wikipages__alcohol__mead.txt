@@ -1,0 +1,61 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mead ======
+----
+
+<WRAP right>
+^  Mead                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mead.png?nolink|Mead}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Mead is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Mead Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery|Brewery]]
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:brewery:cornertavernt1|Tavern (Corner T1)]]
+  * Produced at the [[buildings:brewery:cornertavernt2|Tavern (Corner T2)]]
+  * Produced at the [[buildings:brewery:cornertavernt3|Tavern (Corner T3)]]
+  * Produced at the [[buildings:brewery:cornertavernt4|Tavern (Corner T4)]]
+  * Produced at the [[buildings:brewery:cornertavernt5|Tavern (Corner T5)]]
+  * Produced at the [[buildings:brewery:cornertavernt6|Tavern (Corner T6)]]
+  * Produced at the [[buildings:brewery:cornertavernt7|Tavern (Corner T7)]]
+  * Produced at the [[buildings:brewery:cornertavernt8|Tavern (Corner T8)]]
+  * Produced at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Produced at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Produced at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Produced at the [[buildings:brewery:dssvtownmeadbrewer|Village Mead Brewer]]
+  * Produced at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]]
+  * Produced at the [[buildings:brewery:jinxiebittypub|Bitty Pub]]
+  * Produced at the [[buildings:brewery:oldhoveltavern|Old Hovel Tavern (Old Hovels)]]
+  * Produced at the [[buildings:brewery:shwbrewer|Brewer Workplace (Summer Haven)]]
+  * Produced at the [[buildings:brewery:swbrewery|Quay Brewery]]
+  * Produced at the [[buildings:brewery:tinytavern|Tiny Tavern]]
+  * Produced at the [[buildings:brewery:wpbrewer|WP Brewer]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]] (for Mulled Mead)
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]] (for Mulled Mead)
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]] (for Mulled Mead)
+  * Used at the [[buildings:brewery:dssvtownmeadbrewer|Village Mead Brewer]] (for Mulled Mead)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

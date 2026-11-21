@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Colorful Little House 2F ======
+----
+
+<WRAP right>
+^  Colorful Little House 2F                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/littlehouse01floor2.png?nolink|Colorful Little House 2F}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor's Choice colorful little house; second-floor variant that houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/littlehousetoolbar.png?nolink|Colorful Little House Toolbar}}</wrap> **Colorful Little House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/littlehouse01floor2.png?nolink|Colorful Little House 2F}}</wrap> **Colorful Little House 2F**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/littlehousetoolbar.png?nolink|Colorful Little House Toolbar}}</wrap> **Colorful Little House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/littlehouse01floor2.png?nolink|Colorful Little House 2F}}</wrap> **Colorful Little House 2F**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

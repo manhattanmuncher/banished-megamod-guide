@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mini Food Market ======
+----
+
+<WRAP right>
+^  Mini Food Market                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Mini Food Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Radius  |  15  |
+|  Storage  |  1,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A tiny food market. Distributes all edible food types to nearby settlers. The smallest market available.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Mini Food Market}}</wrap> **Mini Food Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/minitoolbar.png?nolink|Mini Buildings}}</wrap> **Mini Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Mini Food Market}}</wrap> **Mini Food Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

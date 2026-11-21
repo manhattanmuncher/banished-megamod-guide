@@ -1,0 +1,25 @@
+~~NOTOC~~
+
+====== Oat Seeds ======
+----
+
+<WRAP right>
+^  Oat Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedoat.png?nolink|Oat Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  4,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Oat Seeds are used to plant [[WikiPages:food:oats_oat|Oats]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+  * Produced at the [[buildings:fields:patchoat|Oat Patch]]
+  * Produced at the [[buildings:greenhouse:abpgreenhouse|ABP Greenhouse]]
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

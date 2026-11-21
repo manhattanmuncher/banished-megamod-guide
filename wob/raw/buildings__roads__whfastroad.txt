@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Prairie Fast Road ======
+----
+
+<WRAP right>
+^  Prairie Fast Road                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhfastroad.png?nolink|Prairie Fast Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  618  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A prairie fast road texture that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhfastroad.png?nolink|Prairie Fast Road}}</wrap> **Prairie Fast Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Westward Ho v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=451|WoB]]
+
+{{tag>Road WestwardHo}}

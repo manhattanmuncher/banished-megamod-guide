@@ -1,0 +1,135 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Flour ======
+----
+
+<WRAP right>
+^  Flour                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  12/15  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/flour.png?nolink|Flour}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Flour is a processed grain ingredient used in cooking and food production in the Banished MegaMod. It is not consumed directly by citizens but serves as a key input for bakers and food crafters. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Flour Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:milling:kbbmill|KBB Mill]]
+  * Produced at the [[buildings:milling:bbmill|Water Mill]]
+  * Produced at the [[buildings:milling:bgmill|Mill (Botanical Garden)]]
+  * Produced at the [[buildings:milling:clmill|Wind Mill]]
+  * Produced at the [[buildings:milling:watermill|Watermill]]
+  * Produced at the [[buildings:milling:windmill|Windmill]]
+  * Produced at the [[buildings:milling:dssvwindmill|Windmill (Small Village)]]
+  * Produced at the [[buildings:milling:ebwindmill|Windmill (EB)]]
+  * Produced at the [[buildings:milling:fbmill|Mill (Friendly Blue)]]
+  * Produced at the [[buildings:milling:fbtmill|Mill (Friendly Blue Too)]]
+  * Produced at the [[buildings:milling:fhmill|Mill (Forest Haven)]]
+  * Produced at the [[buildings:milling:mfhmill|Mill (More Havens)]]
+  * Produced at the [[buildings:milling:fpmill|Mill (Friendly Pumpkin)]]
+  * Produced at the [[buildings:milling:ftcmiller|Miller (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:milling:gfmill|Mill (Gothic Farm)]]
+  * Produced at the [[buildings:milling:gnmill|Friendly Miller (Granny Neighborhood)]]
+  * Produced at the [[buildings:milling:hillsidemillground|Hillside Mill Ground]]
+  * Produced at the [[buildings:milling:hillsidemillhi|Hillside Mill Hi]]
+  * Produced at the [[buildings:milling:hillsidemilllow|Hillside Mill Low]]
+  * Produced at the [[buildings:milling:hillsidemillmid|Hillside Mill Mid]]
+  * Produced at the [[buildings:milling:hobbitmill|Mill (Hobbit)]]
+  * Produced at the [[buildings:milling:jinxiebittywindmill|Bitty Windmill]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc1|Medieval Canal : Mill (4x, Classic)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc1r|Medieval Canal : Mill (4x, Classic, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc2|Medieval Canal : Mill (4x, Old Stones)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc2r|Medieval Canal : Mill (4x, Old Stones, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc3|Medieval Canal : Mill (4x, Red Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc3r|Medieval Canal : Mill (4x, Red Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc4|Medieval Canal : Mill (4x, Sand Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc4r|Medieval Canal : Mill (4x, Sand Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc5|Medieval Canal : Mill (4x, Fire Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc5r|Medieval Canal : Mill (4x, Fire Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc6|Medieval Canal : Mill (4x, Old Church)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc6r|Medieval Canal : Mill (4x, Old Church, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc7|Medieval Canal : Mill (4x, Dark Stones)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc7r|Medieval Canal : Mill (4x, Dark Stones, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc8|Medieval Canal : Mill (4x, Old Wood)]]
+  * Produced at the [[buildings:milling:nmt30canal4xmillc8r|Medieval Canal : Mill (4x, Old Wood, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc1|Medieval Canal : Mill (6x, Classic)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc1r|Medieval Canal : Mill (6x, Classic, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc2|Medieval Canal : Mill (6x, Old Stones)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc2r|Medieval Canal : Mill (6x, Old Stones, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc3|Medieval Canal : Mill (6x, Red Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc3r|Medieval Canal : Mill (6x, Red Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc4|Medieval Canal : Mill (6x, Sand Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc4r|Medieval Canal : Mill (6x, Sand Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc5|Medieval Canal : Mill (6x, Fire Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc5r|Medieval Canal : Mill (6x, Fire Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc6|Medieval Canal : Mill (6x, Old Church)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc6r|Medieval Canal : Mill (6x, Old Church, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc7|Medieval Canal : Mill (6x, Dark Stones)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc7r|Medieval Canal : Mill (6x, Dark Stones, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc8|Medieval Canal : Mill (6x, Old Wood)]]
+  * Produced at the [[buildings:milling:nmt30canal6xmillc8r|Medieval Canal : Mill (6x, Old Wood, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc1|Medieval Canal : Mill (8x, Classic)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc1r|Medieval Canal : Mill (8x, Classic, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc2|Medieval Canal : Mill (8x, Old Stones)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc2r|Medieval Canal : Mill (8x, Old Stones, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc3|Medieval Canal : Mill (8x, Red Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc3r|Medieval Canal : Mill (8x, Red Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc4|Medieval Canal : Mill (8x, Sand Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc4r|Medieval Canal : Mill (8x, Sand Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc5|Medieval Canal : Mill (8x, Fire Bricks)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc5r|Medieval Canal : Mill (8x, Fire Bricks, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc6|Medieval Canal : Mill (8x, Old Church)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc6r|Medieval Canal : Mill (8x, Old Church, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc7|Medieval Canal : Mill (8x, Dark Stones)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc7r|Medieval Canal : Mill (8x, Dark Stones, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc8|Medieval Canal : Mill (8x, Old Wood)]]
+  * Produced at the [[buildings:milling:nmt30canal8xmillc8r|Medieval Canal : Mill (8x, Old Wood, Reversed)]]
+  * Produced at the [[buildings:milling:nmt30watermill|Watermill (NMT 3.1)]]
+  * Produced at the [[buildings:milling:nmt30windmill|Windmill (NMT 3.1)]]
+  * Produced at the [[buildings:milling:newmedievalwatermill|Medieval Watermill]]
+  * Produced at the [[buildings:milling:newmedievalwindmill|Medieval Windmill]]
+  * Produced at the [[buildings:milling:otmill|Water Mill (Old Town)]]
+  * Produced at the [[buildings:milling:prgristmill|Port Royal Grist Mill]]
+  * Produced at the [[buildings:milling:rkmywindmill|Windmill (RK)]]
+  * Produced at the [[buildings:milling:settlersmill|Mill (Settlers)]]
+  * Produced at the [[buildings:milling:shmill|Mill (Summer Haven)]]
+  * Produced at the [[buildings:milling:shwgrinder|Grinder (Summer Haven)]]
+  * Produced at the [[buildings:milling:cc17windmill|City Windmill]]
+  * Produced at the [[buildings:milling:tieredwindmill|Urban Windmill]]
+  * Produced at the [[buildings:milling:windmillstone|Small Windmill]]
+  * Produced at the [[buildings:milling:wpgrinder|Grinder]]
+  * Produced at the [[buildings:milling:jinxiebittyspagwindmill|Bitty Windmill (Pasta Set)]]
+  * Produced at the [[buildings:milling:tinymill|Tiny Mill]]
+  * Produced at the [[buildings:trading_post:tradercartpeddler|Trader Cart (Peddler)]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:kbbbaker|KBB Baker]] (for Fruit Pie, Jelly Bun, or Plum Cake)
+  * Used at the [[buildings:bakery:kbbbreadbaker|KBB Bread Baker]] (for Bread and specialty loaves)
+  * Used at the [[buildings:bakery:kbbpiebaker|KBB Pie Baker]] (for Basic Meat Pie)
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:bakery:dssvbakery|Village Bakery]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Hardtack)
+  * Used at the [[buildings:bakery:fbbaker|Friendly Baker]]
+  * Used at the [[buildings:bakery:gnbaker|Friendly Baker (Granny Neighborhood)]]
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]]
+  * Used at the [[buildings:bakery:wpbaker|WP Baker]] (for Bread, Nut Bread, Herb Bread)
+  * Used at the [[buildings:bakery:xmasbaker|Xmas Baker]] (for Gingerbread, Plum Cake)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Grain}}

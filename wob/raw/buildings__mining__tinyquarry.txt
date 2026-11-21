@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Quarry ======
+----
+
+<WRAP right>
+^  Tiny Quarry                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyquarry.png?nolink|Tiny Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 2)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  7.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  7  |
+|  Happiness  |  Detraction (radius 16)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  1200  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:coalfuel:iron_ore|Iron Ore]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Tiny Quarry is a very small quarry from the KID Toolbar that extracts Stone in a minimal footprint of only 5×6 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtiny.png?nolink|Tiny Resource}}</wrap> **Tiny Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyquarry.png?nolink|Tiny Quarry}}</wrap> **Tiny Quarry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyquarry.png?nolink|Tiny Quarry}}</wrap> **Tiny Quarry**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny Quarry**. Download the mod here: [[https://banishedinfo.com/mods/view/857-Tiny-Quarry|BI]]
+
+{{tag>Building Mining TinyQuarry}}

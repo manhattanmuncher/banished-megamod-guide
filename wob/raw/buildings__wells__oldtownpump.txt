@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Town Pump ======
+----
+
+<WRAP right>
+^  Old Town Pump                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownpump.png?nolink|Old Town Pump}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2 (default)  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Old Town Pump is a hand-pump well from the A8 South African Misc mod. It provides Safety happiness and fire suppression to nearby citizens within a 20-tile radius. The 4×4 structure has a walkable hollow center.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownpump.png?nolink|Old Town Pump}}</wrap> **Old Town Pump**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownpump.png?nolink|Old Town Pump}}</wrap> **Old Town Pump**
+
+----
+
+===== Other Information =====
+
+This building originally came from **South African Miscellaneous v1.5**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=465|WoB]], [[https://www.nexusmods.com/banished/mods/111|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1531417763|Steam]]
+
+{{tag>Building Wells A8}}

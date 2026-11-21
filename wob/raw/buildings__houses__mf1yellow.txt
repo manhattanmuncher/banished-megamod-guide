@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Yellow 1st Floor ======
+----
+
+<WRAP right>
+^  Yellow 1st Floor                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf1yellow.png?nolink|Yellow 1st Floor}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:custom4:clay|Clay]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:mf1red|Red 1st Floor]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy.}}</wrap> **Mexican Fantasy.** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf1yellow.png?nolink|Yellow 1st Floor}}</wrap> **Yellow 1st Floor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhouses.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf1yellow.png?nolink|Yellow 1st Floor}}</wrap> **Yellow 1st Floor**
+
+----
+
+This building originally came from **Mexican Fantasy v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=575|WoB]], [[https://banishedinfo.com/mods/view/837-Mexican-Fantasy|BI]]
+
+{{tag>Building Houses MexicanFantasy}}

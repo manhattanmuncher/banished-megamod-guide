@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Orchard, large ======
+----
+
+<WRAP right>
+^  Village Orchard, large                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvorchardlarge.png?nolink|Village Orchard, large}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Drag to place (up to 70 × 70 tiles)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 8 (default: 1)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village large orchard zone. Farmers tend and harvest fruit trees planted within the orchard area using a 3×4 row spacing. Produces better yields than smaller orchards and is less prone to disease. The fruit type is selected at construction time.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS Toolbar}}</wrap> **DS Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|DS Food}}</wrap> **DS Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfoodcop.png?nolink|Crops, Orchards & Pastures}}</wrap> **Crops, Orchards & Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvorchardlarge.png?nolink|Village Orchard, large}}</wrap> **Village Orchard, large**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvorchardlarge.png?nolink|Village Orchard, large}}</wrap> **Village Orchard, large**
+
+----
+
+===== Produces =====
+
+  * Fruit (type selected at construction)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Gathering DSSmallVillage}}

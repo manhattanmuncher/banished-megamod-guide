@@ -1,0 +1,113 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Professions ======
+----
+
+Professions are the job roles assigned to adult citizens. Each building employs one or more professions. Citizens assigned to a job are more productive than laborers, and educated citizens are more productive still. Two professions — Laborer and Builder — are transient: citizens automatically shift into and out of these roles as needed, and cannot be directly assigned.
+
+Each profession carries a background rate of accidental on-the-job deaths, independent of disease or old age. The **Deaths / 100 / yr** column shows expected deaths per 100 workers per year.
+
+----
+
+===== Vanilla Professions =====
+
+^ Icon ^ Profession ^ Primary Building ^ Deaths / 100 / yr ^ Notes ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Laborer}}</wrap> | Laborer | (general) | 0.02 | Transient; citizens with no assigned job or waiting for work |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/builder.png?nolink|Builder}}</wrap> | Builder | (construction) | 0.20 | Transient; citizens assigned to construct or demolish buildings |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> | Farmer | [[buildings:fields:cropfield|Crop Field]] | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> | Herdsman | [[buildings:pastures:pasture|Pasture]] | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> | Gatherer | [[buildings:gathering:gatherershelter|Gatherer's Shelter]] | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> | Fisherman | [[buildings:fishing:fishermansdock|Fisherman's Dock]] | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> | Hunter | [[buildings:hunting:hunterlodge|Hunter's Lodge]] | 0.20 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Woodcutter}}</wrap> | Woodcutter | [[buildings:fuel:cutteryard|Wood Cutter's]] | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> | Forester | [[buildings:forester:foresterlodge|Forester's Lodge]] | 0.20 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> | Herbalist | [[buildings:gathering:herbalist|Herbalist]] | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Tool Maker}}</wrap> | Tool Maker | [[buildings:metalworking:toolmaker|Tool Maker]] | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> | Brewer | [[buildings:more_civic:tavern|Tavern]] | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> | Tailor | [[buildings:clothing:tailor|Tailor]] | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> | Vendor | [[buildings:market:market|Market]] | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> | Trader | [[buildings:trading_post:tradingpost|Trading Post]] | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> | Miner | [[buildings:mining:ironmine|Iron Mine]] | 0.83 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> | Stonecutter | [[buildings:mining:quarry|Quarry]] | 3.33 | Highest accidental death rate in the game |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> | Teacher | [[buildings:schools:schoolhouse|Schoolhouse]] | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> | Doctor | [[buildings:hospital:doctorhouse|Doctor's House]] | 0.04 | Immune to disease |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Cleric}}</wrap> | Cleric | [[buildings:worship:chapel|Chapel]] | 0.02 | |
+
+----
+
+===== Mod Professions =====
+
+The MegaMod adds the following professions via Colonial Charter and bundled mods. Listed in citizen-panel order (by sort priority). Among mod professions, Quest and Sailor stand out as dramatically more dangerous than anything in vanilla.
+
+^ Icon ^ Profession ^ Source ^ Deaths / 100 / yr ^ Notes ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/quester.png?nolink|Quest}}</wrap> | Quest | Colonial Charter | 50.00 | Extreme; intentional — questors are always at risk |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmasher.png?nolink|Agave Masher}}</wrap> | Agave Masher | Tequila Mod | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/alewench.png?nolink|Ale Wench}}</wrap> | Ale Wench | Colonial Charter | 0.06 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/apothecary.png?nolink|Apothecary}}</wrap> | Apothecary | Colonial Charter | 0.03 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/archeologist.png?nolink|Archeologist}}</wrap> | Archeologist | NM Town | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> | Baker | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/bathattendant.png?nolink|Bath Attendant}}</wrap> | Bath Attendant | A8 Moroccan | 0.03 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/beekeeper.png?nolink|Beekeeper}}</wrap> | Beekeeper | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/shady.png?nolink|Shady}}</wrap> | Shady | Colonial Charter | 0.50 | Bootlegger role |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/botanist.png?nolink|Botanist}}</wrap> | Botanist | RK Garden Walls | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> | Butcher | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/carver.png?nolink|Carver}}</wrap> | Carver | Colonial Charter | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/chandler.png?nolink|Chandler}}</wrap> | Chandler | Colonial Charter | 0.08 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/charcoalburner.png?nolink|Charcoal Burner}}</wrap> | Charcoal Burner | A8 Japanese | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> | Chef | Moroccan Teahouse | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/shoemaker.png?nolink|Shoemaker}}</wrap> | Shoemaker | EB Small Village | 0.07 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/tobaccoman.png?nolink|Tobacco Man}}</wrap> | Tobacco Man | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/dairyman.png?nolink|Dairyman}}</wrap> | Dairyman | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/distiller.png?nolink|Distiller}}</wrap> | Distiller | Colonial Charter | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/wetworker.png?nolink|Wetworker}}</wrap> | Wetworker | Colonial Charter | 0.05 | Dock worker role |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/dredger.png?nolink|Dredger}}</wrap> | Dredger | Colonial Charter | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionfairy.png?nolink|Fairy}}</wrap> | Fairy | Fairy Garden | 0.01 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/firebundler.png?nolink|Firebundler}}</wrap> | Firebundler | Colonial Charter | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/fireworker.png?nolink|Fire Worker}}</wrap> | Fire Worker | iSee Fire | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/fuelrefiner.png?nolink|Fuel Refiner}}</wrap> | Fuel Refiner | Colonial Charter | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/gemsmith.png?nolink|Gem Smith}}</wrap> | Gem Smith | Colonial Charter | 0.03 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professiongiftmaker.png?nolink|Gift Maker}}</wrap> | Gift Maker | Gift Shop mod | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/glassmaker.png?nolink|Glassmaker}}</wrap> | Glassmaker | Colonial Charter | 0.04 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/grinder.png?nolink|Grinder}}</wrap> | Grinder | WorkPlace | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/grovetender.png?nolink|Grovetender}}</wrap> | Grovetender | Colonial Charter | 0.03 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/carpenter.png?nolink|Furniture Maker}}</wrap> | Furniture Maker | Colonial Charter | 0.03 | Carpenter role |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/kilnman.png?nolink|Kiln Man}}</wrap> | Kiln Man | Colonial Charter | 0.33 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionleprechaun.png?nolink|Leprechaun}}</wrap> | Leprechaun | Fairy Garden | 0.01 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmagician.png?nolink|Magician}}</wrap> | Magician | Forest Deep / Fairy Tale | 0.02 | Defined by both mods; Forest Deep version overrides Fairy Tale |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionlumberjack.png?nolink|Lumberjack}}</wrap> | Lumberjack | Maritimes | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/smelter.png?nolink|Smelter}}</wrap> | Smelter | Colonial Charter | 0.06 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/merchant.png?nolink|Merchant}}</wrap> | Merchant | Choo Choo | 0.02 | Has carry inventory |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/miller.png?nolink|Miller}}</wrap> | Miller | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/monk.png?nolink|Monk}}</wrap> | Monk | Colonial Charter | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/official.png?nolink|Official}}</wrap> | Official | Colonial Charter | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/packer.png?nolink|Packer}}</wrap> | Packer | Colonial Charter | 0.03 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionperformer.png?nolink|Performer}}</wrap> | Performer | DS Globe Theatre | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/pirate.png?nolink|Pirate}}</wrap> | Pirate | Smuggler's Cave | 0.04 | Has carry inventory |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/potter.png?nolink|Potter}}</wrap> | Potter | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservists.png?nolink|Preservist}}</wrap> | Preservist | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/presser.png?nolink|Presser}}</wrap> | Presser | Colonial Charter | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/quartermaster.png?nolink|Quartermaster}}</wrap> | Quartermaster | Colonial Charter | 0.03 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/roper.png?nolink|Roper}}</wrap> | Roper | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/sailor.png?nolink|Sailor}}</wrap> | Sailor | Colonial Charter | 2.00 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/sail.png?nolink|Sail Maker}}</wrap> | Sail Maker | Maritimes | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/saltworks.png?nolink|Saltworks}}</wrap> | Saltworks | Colonial Charter | 0.33 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionelf.png?nolink|Elf}}</wrap> | Elf | Christmas Mod | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/scavenger.png?nolink|Scavenger}}</wrap> | Scavenger | Abandoned Places | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/boatman.png?nolink|Boatman}}</wrap> | Boatman | Colonial Charter | 0.05 | Shipwright role |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/pitdigger.png?nolink|Pit Digger}}</wrap> | Pit Digger | Colonial Charter | 0.08 | Shoreman role |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/smoker.png?nolink|Smoker}}</wrap> | Smoker | Colonial Charter | 0.10 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/garrison.png?nolink|Soldier}}</wrap> | Soldier | Colonial Charter | 0.06 | Shares icon with Garrison |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/stableman.png?nolink|Stableman}}</wrap> | Stableman | RK Garden Walls | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/stocker.png?nolink|Stocker}}</wrap> | Stocker | Warehouse mod | 0.04 | Has carry inventory |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/refiner.png?nolink|Refiner}}</wrap> | Refiner | Colonial Charter | 0.02 | Sugar refining role |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/tanner.png?nolink|Tanner}}</wrap> | Tanner | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinner.png?nolink|Tinnery Worker}}</wrap> | Tinnery Worker | Colonial Charter | 0.11 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/traindriver.png?nolink|Train Driver}}</wrap> | Train Driver | Choo Choo | 0.003 | Has carry inventory |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/professiontrapper.png?nolink|Trapper}}</wrap> | Trapper | Maritimes | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/vintner.png?nolink|Vintner}}</wrap> | Vintner | Colonial Charter | 0.02 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/weaver.png?nolink|Weaver}}</wrap> | Weaver | Colonial Charter | 0.05 | |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> | Worker | RK Garden Walls | 0.02 | |
+
+----
+
+{{tag>Professions}}

@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Tea Seeds ======
+----
+
+<WRAP right>
+^  Tea Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedtea.png?nolink|Tea Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Tea Seeds are used to plant a Tea Leaves tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:health:tea_leaves|Tea Leaves]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 16 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

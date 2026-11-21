@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Purple Road ======
+----
+
+<WRAP right>
+^  Purple Road                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpurpleroad.png?nolink|Purple Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  25  |
+</WRAP>
+<WRAP right></WRAP>
+
+A purple-colored road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardirtroad.png?nolink|Dirt and Gravel Roads}}</wrap> **Dirt and Gravel Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcolorroads.png?nolink|Color Roads}}</wrap> **Color Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpurpleroad.png?nolink|Purple Road}}</wrap> **Purple Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Color Roads**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=697|WoB]]
+
+{{tag>Road ColorRoads}}

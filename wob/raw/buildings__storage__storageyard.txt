@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stock Pile ======
+----
+
+<WRAP right>
+^  Stock Pile                                                                          ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyard.png?nolink|Stock Pile}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  variable (2×2 to 10×10)  |  variable (1×1 to 30×30)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  ||
+|  <abbr "On-site storage volume">Storage</abbr>  |  250 per tile  ||
+|  Storage Categories  |  Fuel, Wood, Stone, Iron  |  Fuel, Wood, Stone, Iron, Coal Fuel, Industrial Fuel, Raw Materials, [[WikiPages:custom5:building_kit|Building Supplies]]  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  ||
+</WRAP>
+<WRAP right></WRAP>
+
+The Stock Pile is a vanilla Banished building for raw materials and industrial goods. Drag to define the storage area; each tile holds 250 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorageyard.png?nolink|Stock Piles}}</wrap> **Stock Piles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyard.png?nolink|Stock Pile}}</wrap> **Stock Pile**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyard.png?nolink|Stock Pile}}</wrap> **Stock Pile**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyard.png?nolink|Stock Pile}}</wrap> **Stock Pile**
+
+----
+
+{{tag>Building Storage Colonial}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Road House B ======
+----
+
+<WRAP right>
+^  Road House B                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhroadhouseb.png?nolink|Road House B}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  2  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  40  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  50  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Westward Ho road house; temporarily houses up to 4 settlers across 2 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhroadhouseb.png?nolink|Road House B}}</wrap> **Road House B**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhroadhouseb.png?nolink|Road House B}}</wrap> **Road House B**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhhome3.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhroadhouseb.png?nolink|Road House B}}</wrap> **Road House B**
+
+----
+
+This building originally came from **Westward Ho v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=451|WoB]]
+
+{{tag>Building Houses WestwardHo}}

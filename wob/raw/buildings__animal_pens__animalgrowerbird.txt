@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bird Farm ======
+----
+
+<WRAP right>
+^  Bird Farm                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalgrowerbird.png?nolink|Bird Farm}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter bird farm. A Herdsman raises birds within a 20-tile radius to harvest Chicken.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalgrowerbird.png?nolink|Bird Farm}}</wrap> **Bird Farm**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:chicken|Chicken]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Animal ColonialCharter}}

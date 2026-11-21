@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hostel 1st floor (Sand Bricks) ======
+----
+
+<WRAP right>
+^  Hostel 1st floor (Sand Bricks)                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hostelf1c1t1.png?nolink|Hostel 1st floor (Sand Bricks)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  3  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  106  |
+^  Build Cost                                                                            ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  12  |
+|  [[WikiPages:custom5:brick|Brick]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:custom5:roof_tile|Roof Tile]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:hostelf1c1t3|Hostel 1st floor (Red Bricks)]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture4.png?nolink|NMT MultiLevel Sand Bricks Toolbar}}</wrap> **NMT MultiLevel Sand Bricks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hosteltoolbar.png?nolink|Corner Hostel Toolbar}}</wrap> **Corner Hostel Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hostelf1c1t1.png?nolink|Hostel 1st floor}}</wrap> **Hostel 1st floor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture4.png?nolink|NMT MultiLevel Sand Bricks Toolbar}}</wrap> **NMT MultiLevel Sand Bricks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hosteltoolbar.png?nolink|Corner Hostel Toolbar}}</wrap> **Corner Hostel Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hostelf1c1t1.png?nolink|Hostel 1st floor}}</wrap> **Hostel 1st floor**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Town Hall (Kid) ======
+----
+
+<WRAP right>
+^  Small Town Hall (Kid)                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmalltownhall.png?nolink|Small Town Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Small  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Small Town Hall — a compact town hall that displays settlement status (population, resources, graphs) and provides the usual resource-limit controls, for players who want the town-hall function without the large vanilla footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmalltownhall.png?nolink|Small Town Hall}}</wrap> **Small Town Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarservice.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmalltownhall.png?nolink|Small Town Hall}}</wrap> **Small Town Hall**
+
+----
+
+This building originally came from **Small Town Hall**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=576|WoB]]
+
+{{tag>Building TownHalls KidSmallTownHall}}

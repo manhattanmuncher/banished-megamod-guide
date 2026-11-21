@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Town Coat ======
+----
+
+<WRAP right>
+^  Town Coat                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Clothing  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  20  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/towncoat.png?nolink|Town Coat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Town Coat helps keep Banished citizens warm through cold seasons. It is stored in a Barn and distributed automatically to citizens when temperatures drop. At a trade value of 20, it is highly prized by traveling merchants.
+
+----
+
+===== Town Coat Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Clothing ClothingWarm}}

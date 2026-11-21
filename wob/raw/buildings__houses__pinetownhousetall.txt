@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Town House Tall ======
+----
+
+<WRAP right>
+^  Pine Town House Tall                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinetownhousetall.png?nolink|Pine Town House Tall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora Maritimes tall pine town house; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinehousing.png?nolink|Pine Housing}}</wrap> **Pine Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinetownhousetall.png?nolink|Pine Town House Tall}}</wrap> **Pine Town House Tall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinehousing.png?nolink|Pine Housing}}</wrap> **Pine Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinetownhousetall.png?nolink|Pine Town House Tall}}</wrap> **Pine Town House Tall**
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Houses Maritimes}}

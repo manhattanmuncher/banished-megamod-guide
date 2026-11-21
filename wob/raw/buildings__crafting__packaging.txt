@@ -1,0 +1,90 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chartered Company ======
+----
+
+<WRAP right>
+^  Chartered Company                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpackaging.png?nolink|Chartered Company}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  7.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  105  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Chartered Company willing to trade for many items. Workers pack and exchange goods in return for useful refined items, ordered on demand with an 8% tax over normal trade price.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Special Trade}}</wrap> **Special Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpackaging.png?nolink|Chartered Company}}</wrap> **Chartered Company**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartradebuildings.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpackaging.png?nolink|Chartered Company}}</wrap> **Chartered Company**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                           ^ Produces                                                       ^
+| 48 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:custom6:gold_guilder|Gold Guilder]]                |
+| 73 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:alcohol:ale|Ale]]                                  |
+| 73 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:alcohol:mead|Mead]]                                |
+| 73 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:alcohol:wine|Wine]]                                |
+| 86 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:alcohol:pipe_tobacco|Pipe Tobacco]]                |
+| 57 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:custom0:rope|Rope]]                                |
+| 54 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:textile:leather|Leather]]                          |
+| 24 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:clothing:full_coat|Full Coat]]                     |
+| 21 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:food:onion|Onion]]                                 |
+| 583 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                              | [[WikiPages:food:venison|Venison]]                             |
+| 11 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:health:herb|Herb]]                                 |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Acai                                                           |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Avocado                                                        |
+| 26 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Cauliflower                                                    |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Eggplant                                                       |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Guava                                                          |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Grapefruit                                                     |
+| 26 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Honeydew                                                       |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Leek                                                           |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Kiwi                                                           |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Kumquat                                                        |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Mango                                                          |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Nectarine                                                      |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Papaya                                                         |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Tamarind                                                       |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Banana                                                         |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Coconut                                                        |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Lemon                                                          |
+| 26 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Orange                                                         |
+| 26 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | [[WikiPages:food:rice|Rice]]                                   |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Pineapple                                                      |
+| 52 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]                               | Date                                                           |
+| 18 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:alcohol:tea_tea|Tea]]                              |
+| 18 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:alcohol:chocolate|Chocolate]]                      |
+| 18 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:alcohol:coffee|Coffee]]                            |
+| 18 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:alcohol:scotch|Scotch]]                            |
+| 22 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:alcohol:spirits|Spirits]]                          |
+| 9 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                    | [[WikiPages:custom0:wood_statue|Wood Statue]]                  |
+| 13 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:custom0:stone_statue|Stone Statue]]                |
+| 3 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                    | [[WikiPages:tool:steeltool|Steel Tool]]                       |
+| 7 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                    | Full Livery                                                    |
+| 5 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                    | [[WikiPages:health:healing_oil|Healing Oil]]                   |
+| 12 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:custom5:building_kit|Building Supplies]]           |
+| 15 [[WikiPages:custom6:gold_guilder|Gold Guilder]]                                   | [[WikiPages:custom5:furnishing_kit|Homewares]]                      |
+| 1 [[WikiPages:custom6:gemstone_polished|Polished Gemstone]]                          | [[WikiPages:coalfuel:jade|Jade]]                               |
+| 1 [[WikiPages:custom6:gemstone_polished|Polished Gemstone]]                          | [[WikiPages:coalfuel:marble|Marble]]                           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

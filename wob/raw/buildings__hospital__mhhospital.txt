@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hospital (More Houses) ======
+----
+
+<WRAP right>
+^  Hospital                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhospital.png?nolink|Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:wood:log|Wood]]  |  38  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Houses hospital staffed by a Doctor, treating up to 24 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehouses.png?nolink|More Houses}}</wrap> **More Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhospital.png?nolink|Hospital}}</wrap> **Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehouses.png?nolink|More Houses}}</wrap> **More Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhospital.png?nolink|Hospital}}</wrap> **Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhospital.png?nolink|Hospital (More Houses)}}</wrap> **Hospital (More Houses)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **More Houses v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=343|WoB]]
+
+{{tag>Building Hospital MoreHouses}}

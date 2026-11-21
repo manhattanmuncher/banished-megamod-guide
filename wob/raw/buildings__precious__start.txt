@@ -1,0 +1,18 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Precious Resource Buildings ======
+----
+
+Buildings that mine and process precious metals and gemstones.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:precious:nmt30gemcutter|Gem Cutter]] | NMT 3.1 gem cutter; cuts raw gemstones into polished gems |
+| [[buildings:precious:nmt30jewelmaker|Jewelry Maker]] | NMT 3.1 jewelry maker; crafts silver and gold jewelry from precious metals and gemstones |
+| [[buildings:precious:smelter|Melting House]] | Colonial Charter melting house; Melter smelts silver and gold ore into coins using Furnace Fuel |
+| [[buildings:precious:pearlstand|Pearl Stand]] | Colonial Charter pearl stand; Dredger processes oysters to occasionally yield a rare pearl |
+
+----
+
+{{tag>Buildings Precious}}

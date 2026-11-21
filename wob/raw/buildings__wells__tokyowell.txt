@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tokyo Well ======
+----
+
+<WRAP right>
+^  Tokyo Well                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtokyowell.png?nolink|Tokyo Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Japanese-style well from the A8 Japanese mod. It provides Safety happiness and fire suppression to nearby citizens within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtokyowell.png?nolink|Tokyo Well}}</wrap> **Tokyo Well**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells A8}}

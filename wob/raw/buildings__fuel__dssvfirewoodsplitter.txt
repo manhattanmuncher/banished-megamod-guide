@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Firewood Yard ======
+----
+
+<WRAP right>
+^  Village Firewood Yard                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvfirewoodsplitter.png?nolink|Village Firewood Yard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  600  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Small Village firewood yard. Cutters split Logs into Firewood; press F when placing to cycle between visual variants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvfirewoodsplitter.png?nolink|Village Firewood Yard}}</wrap> **Village Firewood Yard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvfirewoodsplitter.png?nolink|Village Firewood Yard}}</wrap> **Village Firewood Yard**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                       ^ Produces                                  ^
+| 1 [[WikiPages:wood:log|Wood]]      | [[WikiPages:fuel:firewood|Firewood]]      |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Fuel DS}}

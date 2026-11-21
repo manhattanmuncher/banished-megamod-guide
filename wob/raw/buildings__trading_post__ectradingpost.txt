@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trading Post (EC) ======
+----
+
+<WRAP right>
+^  Trading Post (EC)                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Editor's Choice large trading post placed along a river. Traders work here and merchants arrive by river boat offering all resource categories. Supports up to 20 traders.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice Toolbar}}</wrap> **Editor's Choice Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Trading Post}}</wrap> **Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Trading Post}}</wrap> **Trading Post**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | Food, grain, vegetables, and fruit |
+| Goods Merchant | Wood, stone, iron, fuel, tools, textiles, clothing, alcohol, industrial fuel, raw materials, and building supplies |
+| General Merchant | Wood, stone, iron, fuel, tools, health items, food, textiles, and clothing |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+{{tag>Building TradingPost EditorChoice}}

@@ -1,0 +1,75 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herb ======
+----
+
+<WRAP right>
+^  Herb                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Health  |  Health  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |  2/3  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  4  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/herb.png?nolink|Herb}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Herb is a health item gathered or crafted in Banished. It is delivered to the Herbalist, who uses it to treat sick citizens and maintain community wellbeing. It has a modest trade value of 4.
+
+----
+
+===== Herb Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:gathering:atherbalist|AT Herbalist]]
+  * Produced at the [[buildings:gathering:dockhealer2|Dock Healer]]
+  * Produced at the [[buildings:gathering:druidherbalist|Druid Herbalist]]
+  * Produced at the [[buildings:gathering:covenherbalist|Herbalist (Coven)]]
+  * Produced at the [[buildings:herbalist:fbherbalist01|Herbalist (Friendly Blue)]]
+  * Produced at the [[buildings:worship:abbey|Abbey]]
+  * Produced at the [[buildings:fields:bgherbgarden|Herb Garden]]
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:gathering:fairygardenpatch01|Fairy Garden Summer (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch02|Fairy Garden Spring (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fairygardenplumpatch|Fairy Garden Plum Patch (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fishshipsjettyemergency|Supply Jetty]]
+  * Produced at the [[buildings:gathering:fishshipsplantswaterhi|Jetty Plants High]]
+  * Produced at the [[buildings:gathering:fishshipsplantswaterlo|Jetty Plants Low]]
+  * Produced at the [[buildings:herbalist:jinxiebittyherbalist|Bitty Herbalist]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * [[buildings:gathering:nmtforestcenter|NMT Forest Center]]
+  * [[buildings:frontier:nativetrader|Native Trader (CC Frontier)]]
+  * Produced at the [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:fields:settlerspatchherb|Herb Patch (Settlers)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:gathering:dwcache|Cache]] (random)
+  * Produced at the [[buildings:gathering:spicehouse|Spice House]]
+  * Produced at the [[buildings:trading_post:traingeneralcar|Train General Car]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketstew|Market Stew]] (for [[WikiPages:food:stew_stew|Stew]])
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Used at the [[buildings:brewery:dssvtownmeadbrewer|Village Mead Brewer]] (for Mulled Mead)
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Mushroom Soup, Hunter's Stew)
+  * Used at the [[buildings:bakery:fbbaker|Friendly Baker]] (for Herb Bread)
+  * Used at the [[buildings:bakery:gnbaker|Friendly Baker (Granny Neighborhood)]] (for Herb Bread)
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]] (for Herb Bread)
+  * Used at the [[buildings:bakery:wpbaker|WP Baker]] (for Herb Bread)
+  * Used at the [[buildings:dairy:vccheese|VC Cheese]] (for Herb Cheese)
+  * Exported at the [[buildings:trading_post:garemerchant3|Station: Utility Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Health Vanilla}}

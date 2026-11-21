@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mini Hospital (Mini Buildings) ======
+----
+
+<WRAP right>
+^  Mini Hospital                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Mini Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 30)  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  5  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Mini Buildings clinic staffed by a Doctor, providing Health happiness to nearby residents within a radius of 30 tiles and treating up to 5 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospital}}</wrap> **Hospital** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Mini Hospital}}</wrap> **Mini Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/minitoolbar.png?nolink|Mini Buildings}}</wrap> **Mini Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Mini Hospital}}</wrap> **Mini Hospital**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hospital Mini}}

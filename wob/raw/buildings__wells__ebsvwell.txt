@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Well ======
+----
+
+<WRAP right>
+^  Village Well                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwell.png?nolink|Village Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  38  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village well. Provides Safety happiness and fire suppression within a radius of 20 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwell.png?nolink|Village Well}}</wrap> **Village Well**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageservices.png?nolink|Village Town Services}}</wrap> **Village Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwell.png?nolink|Village Well}}</wrap> **Village Well**
+
+----
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Wells EB}}

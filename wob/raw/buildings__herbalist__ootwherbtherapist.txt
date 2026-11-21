@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herb Therapist (Out of This World) ======
+----
+
+<WRAP right>
+^  Herb Therapist                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwherbtherapist.png?nolink|Herb Therapist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Workers">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  Stone  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Out of This World herb therapist building. Herbalists gather wild Herbs within a 24-tile radius; also heals sick citizens who visit.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out of This World}}</wrap> **Out of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwherbtherapist.png?nolink|Herb Therapist}}</wrap> **Herb Therapist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out of This World}}</wrap> **Out of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwherbtherapist.png?nolink|Herb Therapist}}</wrap> **Herb Therapist**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+  * Also heals sick citizens who visit.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarherbalist.png?nolink|Herbalists and Apothecaries}}</wrap> **Herbalists and Apothecaries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwherbtherapist.png?nolink|Herb Therapist (Out of This World)}}</wrap> **Herb Therapist (Out of This World)**
+
+----
+
+This building originally came from **Out of This World Houses v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=641|WoB]]
+
+{{tag>Building Gathering OutOfThisWorld}}

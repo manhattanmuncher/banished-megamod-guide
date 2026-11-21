@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Oak Tree Seeds ======
+----
+
+<WRAP right>
+^  Oak Tree Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedoaktree.png?nolink|Oak Tree Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  1,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Oak Tree Seeds are used to plant an Oak tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:acorns|Acorns]] using an Axe. Fruit cycles take 5 months; trees reach maturity in 56 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

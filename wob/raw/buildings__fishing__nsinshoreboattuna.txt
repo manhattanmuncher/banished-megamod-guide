@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tuna Boat ======
+----
+
+<WRAP right>
+^  Tuna Boat                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshoreboattuna.png?nolink|Tuna Boat}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:dory|Dory]]  |  1  |
+|  [[WikiPages:custom0:fishing_tackle|Tackle]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tuna Boat from the NS Inshore mod. Catches tuna up to a maximum of 300.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshoreboattuna.png?nolink|Tuna Boat}}</wrap> **Tuna Boat**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshoreboattuna.png?nolink|Tuna Boat}}</wrap> **Tuna Boat**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:tuna|Tuna]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes NS Inshore Fisheries v103**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=223|WoB]]
+
+{{tag>Building Fishing}}

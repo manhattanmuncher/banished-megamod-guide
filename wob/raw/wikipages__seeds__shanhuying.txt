@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Peregrina Seeds ======
+----
+
+<WRAP right>
+^  Peregrina Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedshanhuying.png?nolink|Peregrina Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Peregrina Seeds are used to plant [[WikiPages:food:peregrina|Peregrina]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

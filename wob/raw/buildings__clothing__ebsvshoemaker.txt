@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Shoemaker ======
+----
+
+<WRAP right>
+^  Village Shoemaker                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvshoemaker.png?nolink|Village Shoemaker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/shoemaker.png?nolink|Shoemaker}}</wrap> Shoemaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village shoemaker. A Shoemaker crafts Clogs from Wood and Linseed Oil, and sews Shoes and Boots from Cured Leather and Wool.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvshoemaker.png?nolink|Village Shoemaker}}</wrap> **Village Shoemaker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resources}}</wrap> **Village Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvshoemaker.png?nolink|Village Shoemaker}}</wrap> **Village Shoemaker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                  ^ Produces                                              ^
+| 1 [[WikiPages:wood:log|Wood]] + 3 [[WikiPages:custom7:linseed_oil|Linseed Oil]]                              | [[WikiPages:clothing:clogs|Clogs]]                    |
+| 1 [[WikiPages:custom2:cured_leather|Cured Leather]] + 1 [[WikiPages:textile:wool|Wool]]                      | [[WikiPages:clothing:shoes|Shoes]]                    |
+| 1 [[WikiPages:custom2:cured_leather|Cured Leather]] + 2 [[WikiPages:textile:wool|Wool]]                      | [[WikiPages:clothing:boots|Boots]]                    |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Clothing EB}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Filled Canteen ======
+----
+
+<WRAP right>
+^  Filled Canteen                                 ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  18/20  |
+|  Edible  |  No  |
+|  Trade Value  |  7  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/canteen.png?nolink|Filled Canteen}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Filled Canteen is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It has a modest trade value of 7.
+
+----
+
+===== Filled Canteen Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:kitchen|Kitchen]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

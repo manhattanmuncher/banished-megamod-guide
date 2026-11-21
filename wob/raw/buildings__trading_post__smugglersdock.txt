@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Smugglers Dock ======
+----
+
+<WRAP right>
+^  Smugglers Dock                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmugglersdock.png?nolink|Smugglers Dock}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/shady.png?nolink|Bootlegger}}</wrap> Bootlegger  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  40  |
+|  Storage  |  15000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:custom6:gold_guilder|Gold Guilder]]  |  10  |
+|  [[WikiPages:custom5:hull_components|Hull Components]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Smugglers Dock is a Colonial Charter trading building where a bootlegger uses gold guilders to smuggle luxury goods, tools, and decorative items into the colony. It has an enormous storage capacity of 15,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartradebuildings.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmugglersdock.png?nolink|Smugglers Dock}}</wrap> **Smugglers Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Specialized Trade Buildings}}</wrap> **Specialized Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmugglersdock.png?nolink|Smugglers Dock}}</wrap> **Smugglers Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmugglersdock.png?nolink|Smugglers Dock}}</wrap> **Smugglers Dock**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                       ^ Produces                                                        ^
+| 17 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | [[WikiPages:alcohol:scotch|Scotch]]                             |
+| 17 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | [[WikiPages:alcohol:chocolate|Chocolate]]                       |
+| 17 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | [[WikiPages:alcohol:coffee|Coffee]]                             |
+| 20 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | Liquor                                                          |
+| 17 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | [[WikiPages:alcohol:tea_tea|Tea]]                               |
+| 40 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | [[WikiPages:coalfuel:gemstone_rough|Gemstone Rough]]            |
+| 2 [[WikiPages:custom6:gold_guilder|Gold Guilder]]  | [[WikiPages:tool:steeltool|Steel Tool]]                         |
+| 6 [[WikiPages:custom6:gold_guilder|Gold Guilder]]  | Full Livery                                                     |
+| 4 [[WikiPages:custom6:gold_guilder|Gold Guilder]]  | [[WikiPages:health:healing_oil|Healing Oil]]                    |
+| 12 [[WikiPages:custom6:gold_guilder|Gold Guilder]] | [[WikiPages:custom0:stone_statue|Stone Statue]]                 |
+| 8 [[WikiPages:custom6:gold_guilder|Gold Guilder]]  | [[WikiPages:custom0:wood_statue|Wood Statue]]                   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Trading ColonialCharter}}

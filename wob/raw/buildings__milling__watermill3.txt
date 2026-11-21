@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Watermill 3 ======
+----
+
+<WRAP right>
+^  Watermill 3                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatermill3.png?nolink|Watermill 3}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/weaver.png?nolink|Weaver}}</wrap> Weaver  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:stone:stone|Stone]]  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  70  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter large watermill that weaves textiles from flax, cotton, silk cocoons, wool, and cured leather. Must be built on a shore. Press F to cycle appearance.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarweaving.png?nolink|Weaving}}</wrap> **Weaving** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatermill3.png?nolink|Watermill 3}}</wrap> **Watermill 3**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfabricsandfibers.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatermill3.png?nolink|Fiber Watermill}}</wrap> **Fiber Watermill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatermill3.png?nolink|Watermill 3}}</wrap> **Watermill 3**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                          ^ Produces                                  ^
+| 7 [[WikiPages:textile:flax|Flax]]                                                    | [[WikiPages:custom2:linen|Linen]]         |
+| 7 [[WikiPages:textile:cotton|Cotton]]                                                | [[WikiPages:custom2:cloth|Cloth]]         |
+| 9 [[WikiPages:textile:silk_cocoons|Silk Cocoons]]                                    | [[WikiPages:custom2:silk|Silk]]           |
+| 8 [[WikiPages:textile:cotton|Cotton]]                                                | [[WikiPages:custom2:rug|Rug]]             |
+| 30 [[WikiPages:textile:wool|Wool]]                                                   | [[WikiPages:custom2:rug|Rug]]             |
+| 18 [[WikiPages:custom2:cured_leather|Cured Leather]]                                 | [[WikiPages:custom2:rug|Rug]]             |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Textile ColonialCharter}}

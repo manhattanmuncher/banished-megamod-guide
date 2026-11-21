@@ -1,0 +1,123 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forester Buildings ======
+----
+
+Buildings that grow and harvest timber from forests.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:forester:orchardlodgeacaitree|Acai Lodge]] | RedKetchup tropical orchard lodge forester; Foresters plant Acai Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Acai |
+| [[buildings:forester:bgforester|BG Forester]] | Bakery & Garden Alt forester; clears and replants trees within a 24-tile radius |
+| [[buildings:forester:bgwoodcutter|BG Wood Cutter]] | Bakery & Garden Alt woodcutting post; Wood Cutter harvests Logs |
+| [[buildings:forester:ghfappleforester|Apple Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests apple trees within a 5-tile radius |
+| [[buildings:forester:foresterlodgeapple|Apple Forester (Colonial Charter)]] | Colonial Charter orchard forester; Foresters plant and harvest apple trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgeappletree|Apple Lodge]] | RedKetchup orchard lodge forester; Foresters plant Apple Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Apples |
+| [[buildings:forester:foresterlodgeapricot|Apricot Forester]] | Colonial Charter orchard forester; Foresters plant and harvest apricot trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgeapricottree|Apricot Lodge]] | RedKetchup orchard lodge forester; Foresters plant Apricot Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Apricots |
+| [[buildings:forester:atforester|AT Forester]] | Among Trees forester; Forester plants and harvests trees for Logs |
+| [[buildings:forester:foresterlodge4|Bamboo Wood Tree Forester]] | Colonial Charter forester lodge; Foresters plant and harvest bamboo trees within a 30-tile radius |
+| [[buildings:forester:orchardlodgebananatree|Banana Lodge]] | RedKetchup tropical orchard lodge forester; Foresters plant Banana Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Bananas |
+| [[buildings:forester:jinxiebittyforesterlodge|Bitty Forester]] | Jinxie's Bitty Village Set forester; Foresters plant and harvest trees within a 30-tile radius |
+| [[buildings:forester:jinxiebittyartisanforesterstandalone|Bitty Forester +]] | Jinxie's Mods compact forester; single Forester plants and harvests Jinxie trees within a 5-tile radius |
+| [[buildings:forester:rdcactusforester|Cactus Forester (Red Desert)]] | Kid Red Desert forester; Foresters plant and harvest Desert Cactus trees within a 24-tile radius |
+| [[buildings:forester:foresterlodgecherry|Cherry Forester (Colonial Charter)]] | Colonial Charter orchard forester; Foresters plant and harvest cherry trees within a 20-tile radius |
+| [[buildings:forester:ghfcherryforester|Cherry Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests cherry trees within a 5-tile radius |
+| [[buildings:forester:orchardlodgecherrytree|Cherry Lodge]] | RedKetchup orchard lodge forester; Foresters plant Cherry Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Cherries |
+| [[buildings:forester:foresterlodgechestnut|Chestnut Forester]] | Colonial Charter orchard forester; Foresters plant and harvest chestnut trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgechestnuttree|Chestnut Lodge]] | RedKetchup orchard lodge forester; Foresters plant Chestnut Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Chestnuts |
+| [[buildings:forester:clearfruitforester|Clear Fruit (Grow Hunt Fish)]] | GHF removal zone tool; laborers clear Apple, Cherry, Peach, Pear, and Plum tree natural resources from the map |
+| [[buildings:forester:orchardlodgecoconuttree|Coconut Lodge]] | RedKetchup tropical orchard lodge forester; Foresters plant Coconut Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Coconuts |
+| [[buildings:forester:foresterlodgecoffee|Coffee Forester]] | Colonial Charter orchard forester; Foresters plant and harvest coffee trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgedatetree|Date Lodge]] | RedKetchup tropical orchard lodge forester; Foresters plant Date Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Dates |
+| [[buildings:forester:nmtdriftersdock|Drifters Dock (NMT)]] | NMT Docks drifters dock; Forester collects floating logs from the water |
+| [[buildings:forester:nmtdriftersstonedock|Drifters Dock (NMT Stone)]] | NMT Docks stone-construction drifters dock; upgraded from wood version; collects floating logs from the water |
+| [[buildings:forester:foresterlodgefig|Fig Forester]] | Colonial Charter orchard forester; Foresters plant and harvest fig trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgefigtree|Fig Lodge]] | RedKetchup orchard lodge forester; Foresters plant Fig Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Figs |
+| [[buildings:forester:orchardlodgegrapetree|Grape Lodge]] | RedKetchup orchard lodge forester; Foresters plant Grape Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Grapes |
+| [[buildings:forester:orchardlodgegrapefruittree|Grapefruit Lodge]] | RedKetchup tropical orchard lodge forester; Foresters plant Grapefruit Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Grapefruits |
+| [[buildings:forester:rkgardenwallsfodderfarmers|Fodder Farmers (RK Garden Walls)]] | RedKetchup Editor's Choice Garden Walls fodder farmer; Foresters plant grass and harvest Fodder-Thatch within a 26-tile radius |
+| [[buildings:forester:shwforester|Forester (Summer Haven)]] | Kid Summer Haven compact forester workplace; Foresters plant and harvest trees within a 24-tile radius |
+| [[buildings:forester:ttforester|Forester (Tree Topper)]] | Tree Topper forester lodge; Foresters grow and harvest trees within a 30-tile radius |
+| [[buildings:forester:nmt30fcforester|Forester District]] | NMT Forest Center forester district; Foresters plant and harvest trees for Logs within a 40-tile radius |
+| [[buildings:forester:nmt30saforester|Forester Lodge]] | NMT Forest Center standalone forester lodge; Foresters plant and harvest trees for Logs within a 30-tile radius |
+| [[buildings:forester:foresterlodgerk2|Forester Lodge 2]] | RedKetchup Editor's Choice forester lodge; Foresters plant and harvest a specialized set of trees within a 30-tile radius |
+| [[buildings:forester:foresterlodge2|Forester Lodge New Trees]] | Colonial Charter forester lodge; Foresters plant and harvest new decorative tree varieties within a 30-tile radius |
+| [[buildings:forester:foresterlodge3|Forester Lodge Palm Trees]] | Colonial Charter forester lodge; Foresters plant and harvest tropical palm trees within a 30-tile radius |
+| [[buildings:forester:foresterlodge5|Forester Lodge Pine Trees]] | Colonial Charter forester lodge; Foresters plant and harvest pine trees within a 30-tile radius |
+| [[buildings:forester:foresterlodge|Forester's Lodge (Colonial Charter)]] | Colonial Charter forester's lodge; Foresters plant and harvest standard trees within a 30-tile radius |
+| [[buildings:forester:ecforesterlodge|Forester's Lodge (Editor's Choice)]] | Editor's Choice forester's lodge; Forester plants and harvests trees within a 30-tile radius |
+| [[buildings:forester:foresterlodgeimproved|Forester's Lodge (Improved)]] | Improved mod forester's lodge; Foresters plant and harvest trees within a 30-tile radius |
+| [[buildings:forester:fhforester|Forester (Forest Haven)]] | Forest Haven forester; Foresters plant and harvest trees within a 24-tile radius |
+| [[buildings:forester:foforester|Forester (Forest Outpost)]] | Forest Outpost forester; Forester plants and harvests trees within a 24-tile radius |
+| [[buildings:forester:foresterfellow|Forester Fellow]] | Free-to-place forester marker; Forester plants and harvests trees within a 24-tile radius |
+| [[buildings:forester:ootwforester|Forester (Out of This World)]] | Out of This World forester; Foresters plant and harvest trees within a 24-tile radius |
+| [[buildings:forester:fodforester|Forge Forester (Forge of Dwarves)]] | Forge of Dwarves forester; Forester plants and harvests trees within an 18-tile radius |
+| [[buildings:forester:fodwforester|Forge Forester (Forge of Dwarves Winter)]] | Forge of Dwarves Winter forester; Forester plants and harvests trees within an 18-tile radius |
+| [[buildings:forester:gardenshed|Garden Shed]] | Compact 1×1 forester shed; single Forester plants and harvests trees within a 12-tile radius |
+| [[buildings:forester:gardenshedii|Garden Shed II]] | Larger 2×2 forester shed; Foresters plant and harvest trees within a 24-tile radius |
+| [[buildings:forester:foresterlodgegrape|Grape Forester]] | Colonial Charter orchard forester; Foresters plant and harvest grape vines within a 20-tile radius |
+| [[buildings:forester:hardwoodforester|Hardwood Forester]] | Colonial Charter hardwood forester; Foresters selectively harvest and replant hardwood trees within a 22-tile radius |
+| [[buildings:forester:hardwoodforester2|Hardwood Forester New Trees]] | Colonial Charter hardwood forester; Exclusively plants new decorative hardwood tree varieties; radius 22 |
+| [[buildings:forester:honshuforester|Honshu Forester]] | A8 Japanese All-In-One forester; Foresters plant and harvest trees within a 30-tile radius |
+| [[buildings:forester:ghflargeappleforester|Large Apple Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests apple trees within a 10-tile radius |
+| [[buildings:forester:ghflargecherryforester|Large Cherry Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests cherry trees within a 10-tile radius |
+| [[buildings:forester:ghflargepeachforester|Large Peach Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests peach trees within a 10-tile radius |
+| [[buildings:forester:ghflargepearforester|Large Pear Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests pear trees within a 10-tile radius |
+| [[buildings:forester:ghflargeplumforester|Large Plum Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests plum trees within a 10-tile radius |
+| [[buildings:forester:orchardlodgelemontree|Lemon Lodge]] | RedKetchup orchard lodge forester; Foresters plant Lemon Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Lemons |
+| [[buildings:forester:orchardlodgelimetree|Lime Lodge]] | RedKetchup orchard lodge forester; Foresters plant Lime Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Limes |
+| [[buildings:forester:orchardlodgemangotree|Mango Lodge]] | RedKetchup orchard lodge forester; Foresters plant Mango Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Mangoes |
+| [[buildings:forester:foresterlodgemaple|Maple Forester]] | Colonial Charter orchard forester; Foresters plant and harvest maple trees within a 20-tile radius |
+| [[buildings:forester:pineforestermaple|Maple Forestry]] | Maritimes Pine Set forester; Foresters plant maple tree sets and harvest Logs within a 22-tile radius |
+| [[buildings:forester:pineforesterfruit|Maple Forestry Tower]] | Maritimes orchard forester; Foresters plant maple, apple, and oak trees and harvest Logs within a 27-tile radius |
+| [[buildings:forester:aspmeadow|Meadow (Animal Shed Plus)]] | Animal Shed Plus thatch forester; Forester plants and harvests grass to produce Fodder-Thatch |
+| [[buildings:forester:miniforest|Mini Forester]] | Mini Buildings compact forester lodge; single Forester plants and harvests trees within a 15-tile radius |
+| [[buildings:forester:ebmodforesterhouse|Modular Forester House]] | EB Modular Forester residence; houses up to 5 settlers; pairs with Modular Forester Shed |
+| [[buildings:forester:ebmodforestershed|Modular Forester Shed]] | EB Modular Forester working shed; Forester plants and harvests trees within a 30-tile radius |
+| [[buildings:forester:ebmodwoodcutterhouse|Modular Wood Cutter House]] | EB Modular Wood Cutter residence; houses up to 5 settlers; pairs with Modular Wood Cutter Yard |
+| [[buildings:forester:ftmothertree|Mother Tree (Fairy Tale Cottage)]] | Fairy Tale Cottage forester; Foresters plant and harvest trees within a 30-tile radius; free to build |
+| [[buildings:forester:mothertree|Mother Tree (Forest Deep)]] | Forest Deep forester; Foresters plant and harvest trees within a 30-tile radius; free to build |
+| [[buildings:forester:ghfmothertree|Mother Tree (Grow Hunt Fish)]] | Grow Hunt Fish forester; Foresters plant and harvest trees within a 30-tile radius; free to build |
+| [[buildings:forester:foresterlodgemulberry|Mulberry Forester]] | Colonial Charter orchard forester; Foresters plant and harvest mulberry trees within a 20-tile radius |
+| [[buildings:forester:settlersnutgrove|Nut Grove (Settlers)]] | Kid Settlers nut grove forester; Foresters plant walnut grove trees and harvest Logs within an 18-tile radius; also produces Walnuts |
+| [[buildings:forester:oldhovelforester|Old Forester (Old Hovels)]] | Old Hovels forester shed; Foresters plant and harvest trees for Logs within a 24-tile radius |
+| [[buildings:forester:foresterlodgeolive|Olive Forester]] | Colonial Charter orchard forester; Foresters plant and harvest olive trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgeolivetree|Olive Lodge]] | RedKetchup orchard lodge forester; Foresters plant Olive Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Olives |
+| [[buildings:forester:foresterlodgeorange|Orange Forester]] | Colonial Charter orchard forester; Foresters plant and harvest orange trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgeorangetree|Orange Lodge]] | RedKetchup orchard lodge forester; Foresters plant Orange Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Oranges |
+| [[buildings:forester:foresterlodgepeach|Peach Forester (Colonial Charter)]] | Colonial Charter orchard forester; Foresters plant and harvest peach trees within a 20-tile radius |
+| [[buildings:forester:ghfpeachforester|Peach Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests peach trees within a 5-tile radius |
+| [[buildings:forester:orchardlodgepeachtree|Peach Lodge]] | RedKetchup orchard lodge forester; Foresters plant Peach Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Peaches |
+| [[buildings:forester:foresterlodgepear|Pear Forester (Colonial Charter)]] | Colonial Charter orchard forester; Foresters plant and harvest pear trees within a 20-tile radius |
+| [[buildings:forester:ghfpearforester|Pear Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests pear trees within a 5-tile radius |
+| [[buildings:forester:orchardlodgepeartree|Pear Lodge]] | RedKetchup orchard lodge forester; Foresters plant Pear Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Pears |
+| [[buildings:forester:foresterlodgepecan|Pecan Forester]] | Colonial Charter orchard forester; Foresters plant and harvest pecan trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgepecantree|Pecan Lodge]] | RedKetchup orchard lodge forester; Foresters plant Pecan Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Pecans |
+| [[buildings:forester:pineforesterpine|Pine Forestry]] | Maritimes Pine Set forester; Foresters plant pine tree sets and harvest Logs within a 22-tile radius |
+| [[buildings:forester:pineforestermaterials|Pine Forestry Tower]] | Maritimes pine forester; Foresters plant fir, spruce, and white pine trees and harvest Logs within a 27-tile radius |
+| [[buildings:forester:orchardlodgeplumtree|Plum Lodge]] | RedKetchup orchard lodge forester; Foresters plant Plum Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Plums |
+| [[buildings:forester:foresterlodgeplum|Plum Forester (Colonial Charter)]] | Colonial Charter orchard forester; Foresters plant and harvest plum trees within a 20-tile radius |
+| [[buildings:forester:ghfplumforester|Plum Forester (Grow Hunt Fish)]] | Grow Hunt Fish orchard forester; Forester plants and harvests plum trees within a 5-tile radius |
+| [[buildings:forester:foresterlodgequince|Quince Forester]] | Colonial Charter orchard forester; Foresters plant and harvest quince trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgequincetree|Quince Lodge]] | RedKetchup orchard lodge forester; Foresters plant Quince Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Quinces |
+| [[buildings:forester:tinyforester|Tiny Forester]] | Kid Tiny Set forester with integrated storage; Foresters plant and harvest trees within a 30-tile radius |
+| [[buildings:forester:tinyforestertoo|Tiny Forester (No Storage)]] | Kid Tiny Set compact forester without storage; Foresters plant and harvest trees within a 30-tile radius |
+| [[buildings:forester:tinygardener|Tiny Gardener]] | Kid Tiny Set minimal urban forester shed; single Forester plants and harvests trees within a 24-tile radius |
+| [[buildings:forester:traderforester|Trader Forester]] | Traveling Trader forester lodge; Foresters grow and harvest trees within a 24-tile radius |
+| [[buildings:forester:rdtreeforester|Tree Forester (Red Desert)]] | Kid Red Desert forester; Foresters plant and harvest Joshua Trees within a 24-tile radius |
+| [[buildings:forester:pineforestervanilla|Vanilla Forestry Tower]] | Maritimes Pine Set forester; Forester plants and harvests vanilla trees within a 27-tile radius |
+| [[buildings:forester:dssvforester|Village Forester]] | DS Small Village forester; Forester plants and harvests trees within a 30-tile radius |
+| [[buildings:forester:ebsvforesterlodge|Village Forester Lodge]] | EB Small Village forester lodge; Forester plants and harvests trees within a 30-tile radius |
+| [[buildings:forester:foresterlodgewalnut|Walnut Forester]] | Colonial Charter orchard forester; Foresters plant and harvest walnut trees within a 20-tile radius |
+| [[buildings:forester:orchardlodgewalnuttree|Walnut Lodge]] | RedKetchup orchard lodge forester; Foresters plant Walnut Lodge trees and harvest Logs within a 24-tile radius; planted trees produce Walnuts |
+| [[buildings:forester:whforester|WH Forester]] | Westward Ho forester; Foresters grow and harvest trees within a 24-tile radius |
+| [[buildings:forester:foresterlodgewhitemulberry|White Mulberry Forester]] | Colonial Charter orchard forester; Foresters plant and harvest white mulberry trees within a 20-tile radius, producing Mulberry Leaf |
+| [[buildings:forester:foresterlodgewild|Wild Things Forester]] | Colonial Charter forester lodge for All the Wild Things maps; Foresters plant and harvest fantasy trees within a 30-tile radius |
+| [[buildings:forester:woodshack|Wood Shack]] | Renewable Resources wood shack; Forester plants and harvests dense wood deposits within a 15-tile radius |
+| [[buildings:forester:wpforester|WP Forester]] | Work Place compact forester shed; Foresters grow and harvest trees within a 24-tile radius |
+
+----
+
+{{tag>Buildings Forester}}

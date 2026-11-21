@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Maple Grove ======
+----
+
+<WRAP right>
+^  Maple Grove                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmaplegrove.png?nolink|Maple Grove}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/grovetender.png?nolink|Grovetender}}</wrap> Grovetender  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Maple Grove is a Bed and Breakfast building where a grovetender tends maple trees to harvest maple sap.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmaplegrove.png?nolink|Maple Grove}}</wrap> **Maple Grove**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmaplegrove.png?nolink|Maple Grove}}</wrap> **Maple Grove**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmaplegrove.png?nolink|Maple Grove}}</wrap> **Maple Grove**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:fruit:maple_sap|Maple Sap]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Bed and Breakfast v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=371|WoB]]
+
+{{tag>Building Food Gathering BedBreakfast}}

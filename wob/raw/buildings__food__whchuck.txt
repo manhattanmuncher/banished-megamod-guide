@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chuck Wagon ======
+----
+
+<WRAP right>
+^  Chuck Wagon                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhchuck.png?nolink|Chuck Wagon}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionworker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A frontier cooking wagon from the Westward Ho mod set. Combines wild game meat with vegetables and water to produce hearty Stew.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhchuck.png?nolink|Chuck Wagon}}</wrap> **Chuck Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhchuck.png?nolink|Chuck Wagon}}</wrap> **Chuck Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhchuck.png?nolink|Chuck Wagon}}</wrap> **Chuck Wagon**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                           ^ Produces                                          ^
+| 3 [[WikiPages:food:venison|Venison]] + 6 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:water|Water]]                         | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:venison|Venison]] + 6 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:food:water|Water]]                     | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:venison|Venison]] + 6 [[WikiPages:food:root|Root]] + 1 [[WikiPages:food:water|Water]]                             | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:venison|Venison]] + 6 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:food:water|Water]]                           | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:bison_meat|Bison Meat]] + 6 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:water|Water]]                   | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:bison_meat|Bison Meat]] + 6 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:food:water|Water]]               | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:bison_meat|Bison Meat]] + 6 [[WikiPages:food:root|Root]] + 1 [[WikiPages:food:water|Water]]                       | [[WikiPages:food:stew_aspstew|Stew]]              |
+| 3 [[WikiPages:food:bison_meat|Bison Meat]] + 6 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:food:water|Water]]                     | [[WikiPages:food:stew_aspstew|Stew]]              |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Westward Ho v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=451|WoB]]
+
+{{tag>Building Food WestwardHo KID}}

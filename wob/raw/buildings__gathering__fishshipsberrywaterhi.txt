@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Berry High ======
+----
+
+<WRAP right>
+^  Jetty Berry High                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsberrywaterhi.png?nolink|Jetty Berry High}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  64.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+Fish n Ships water jetty that gathers berries. Placed on water. Free to build.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybuilding.png?nolink|Jetty Building}}</wrap> **Jetty Building** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsberrywaterhi.png?nolink|Jetty Berry High}}</wrap> **Jetty Berry High**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybuilding.png?nolink|Jetty Building}}</wrap> **Jetty Building** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsberrywaterhi.png?nolink|Jetty Berry High}}</wrap> **Jetty Berry High**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsberrywaterhi.png?nolink|Jetty Berry High}}</wrap> **Jetty Berry High**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                                          ^
+| (none)       | [[WikiPages:food:blueberries|Blueberries]]        |
+
+----
+
+===== Other Information =====
+
+{{tag>Building KidFishShips}}

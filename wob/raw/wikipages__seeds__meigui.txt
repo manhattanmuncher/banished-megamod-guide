@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Rose Seeds ======
+----
+
+<WRAP right>
+^  Rose Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedmeigui.png?nolink|Rose Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Rose Seeds are used to plant [[WikiPages:food:rose|Rose]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2.5-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

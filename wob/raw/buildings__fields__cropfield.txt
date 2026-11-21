@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Crop Field ======
+----
+
+<WRAP right>
+^  Crop Field                                                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfield.png?nolink|Crop Field}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default: 4)  |  1 – 25 (default: 1)  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Crop Field is the vanilla Banished farming zone. Farmers plant and harvest crops within the designated area. Designation is free; no build cost.
+
+----
+
+===== Where to Find =====
+
+The Crop Field is found in the vanilla Banished **Food Production** building category.
+
+----
+
+===== Produces =====
+
+Output depends on the selected crop type.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fields}}

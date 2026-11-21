@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lumber ======
+----
+
+<WRAP right>
+^  Lumber                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom5  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/5  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  3  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/lumber.png?nolink|Lumber}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Lumber is a construction material used to erect buildings in the Banished MegaMod. It is produced or refined and held in a Stockpile, ready for builders to draw on when constructing new structures. It has a modest trade value of 4.
+
+----
+
+===== Lumber Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fuel:chopchop|Chop-Chop]]
+  * Produced at the [[buildings:crafting:dsjabconstructionyardlumber|Jetty Construction: Lumber Yard]]
+  * Produced at the [[buildings:crafting:dslumbermill|Lumber Mill]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:fuel:jinxiebittywoodcutter|Bitty WoodCutter]]
+  * Produced at the [[buildings:crafting:maritimeshumblelumbercutter|Lumber Cutter (Maritimes Humble)]]
+  * [[buildings:milling:nsilumbercutter|Lumber Cutter (NS Inshore)]]
+  * Produced at the [[buildings:fuel:prcutter|Port Royal Wood Cutter]]
+  * Produced at the [[buildings:fuel:pinelumbercutter|Pine Lumber Cutter]]
+  * Produced at the [[buildings:milling:rkfclumbermill|Lumbermill (RK FC)]]
+  * Produced at the [[buildings:milling:sbsawmill|Sherbrooke Sawmill]]
+  * Produced at the [[buildings:milling:sawmill|Waterwheel Sawmill]]
+  * Produced at the [[buildings:milling:sawmillbl|Sawmill]]
+  * Produced at the [[buildings:milling:sawpit|Saw Pit]]
+  * Produced at the [[buildings:crafting:tinylumberer|Tiny Lumberer]]
+  * Produced at the [[buildings:milling:windsawmill|Wind Sawmill]]
+  * Produced at the [[buildings:crafting:cc17lumberyard|City Lumber Yard]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]]
+  * Used at the [[buildings:crafting:dorybuilder|Dory Builder]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom5}}

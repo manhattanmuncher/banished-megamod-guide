@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Creamery ======
+----
+
+<WRAP right>
+^  Creamery                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Creamery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dairyman.png?nolink|Dairyman}}</wrap> Dairyman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  14  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+|  Happiness  |  Health (radius 20, requires Goods)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Creamery is a Colonial Charter dairy. A Dairyman processes Milk into Cheese, Cream, or Butter — the three outputs are produced randomly. Provides Health happiness in a 20-tile radius when staffed and stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardairy.png?nolink|Dairies}}</wrap> **Dairies** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Creamery}}</wrap> **Creamery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/foodproductionitems.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Creamery}}</wrap> **Creamery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Creamery}}</wrap> **Creamery**
+
+----
+
+===== Recipes =====
+
+Production is random among the following:
+
+^ Ingredients                                          ^ Produces                                              ^
+| 15 [[WikiPages:food:milk|Milk]]                      | [[WikiPages:food:cheese|Cheese]]                      |
+| 15 [[WikiPages:food:milk|Milk]]                      | [[WikiPages:food:cream|Cream]]                        |
+| 15 [[WikiPages:food:milk|Milk]]                      | [[WikiPages:food:butter|Butter]]                      |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Dairy ColonialCharter}}

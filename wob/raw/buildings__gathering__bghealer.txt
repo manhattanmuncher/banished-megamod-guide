@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== BG Healer ======
+----
+
+<WRAP right>
+^  BG Healer                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghealer.png?nolink|BG Healer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bakery & Garden Alt herbalist and healer. Herbalists collect Herb from wild plants within a 24-tile radius and provide basic healing for citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghealer.png?nolink|BG Healer}}</wrap> **BG Healer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghealer.png?nolink|BG Healer}}</wrap> **BG Healer**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+Also heals citizens within the working radius.
+
+This building originally came from **Bakery & Garden Alternative v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=533|WoB]]
+
+{{tag>Building Gathering BakeryGardenAlt}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bank (Ghost Town) ======
+----
+
+<WRAP right>
+^  Bank                                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewbank.png?nolink|Bank}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,800  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Ghost Town bank building that functions as a warehouse. Workers distribute goods to the settlement from this building's inventory. Accepts food, tools, health items, clothing, textiles, firewood, crafted goods, forged goods, fabric, precious goods, and miscellaneous items.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewbank.png?nolink|Bank}}</wrap> **Bank**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewbank.png?nolink|Bank}}</wrap> **Bank**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewbank.png?nolink|Bank (Ghost Town)}}</wrap> **Bank (Ghost Town)**
+
+----
+
+This building originally came from **Ghost Town v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=460|WoB]]
+
+{{tag>Building TradingPost GhostTown}}

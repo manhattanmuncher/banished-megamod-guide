@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Druid Grove ======
+----
+
+<WRAP right>
+^  Druid Grove                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidgrove.png?nolink|Druid Grove}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 50)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  50  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Druidic grove staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 50 tiles and accommodating up to 50 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidic.png?nolink|Druidic}}</wrap> **Druidic** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidgrove.png?nolink|Druid Grove}}</wrap> **Druid Grove**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidic.png?nolink|Druidic}}</wrap> **Druidic** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidgrove.png?nolink|Druid Grove}}</wrap> **Druid Grove**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidgrove.png?nolink|Druid Grove}}</wrap> **Druid Grove**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship Druidic}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Castle ======
+----
+
+<WRAP right>
+^  Old Castle                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildowcastle.png?nolink|Old Castle}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  17 × 19  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  85,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Wood, Stone, Iron, Health, Clothing, Textile, Alcohol, Grain, Fruit, Vegetable, Protein, Coal Fuel, Crafted Goods, Forged Goods, Fabrics, Industrial Fuel, Raw Materials, Building Supplies, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  390  |
+|  [[WikiPages:wood:log|Wood]]  |  100  |
+|  [[WikiPages:stone:stone|Stone]]  |  250  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  150  |
+</WRAP>
+<WRAP right></WRAP>
+
+A massive Old World castle from the Colonial Charter mod. Provides enormous general-purpose storage for virtually all goods with a capacity of 85,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildowcastle.png?nolink|Old Castle}}</wrap> **Old Castle**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildowcastle.png?nolink|Old Castle}}</wrap> **Old Castle**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildowcastle.png?nolink|Old Castle}}</wrap> **Old Castle**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

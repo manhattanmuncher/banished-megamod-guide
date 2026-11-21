@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ikeda Kabuki Theater ======
+----
+
+<WRAP right>
+^  Ikeda Kabuki Theater                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildikedakabukitheater.png?nolink|Ikeda Kabuki Theater}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 9  |
+|  Happiness  |  Safety (radius 40)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:wood:log|Wood]]  |  75  |
+</WRAP>
+<WRAP right></WRAP>
+
+A traditional kabuki theater from the A8 Japanese mod. It provides Safety happiness to nearby citizens within a 40-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildikedakabukitheater.png?nolink|Ikeda Kabuki Theater}}</wrap> **Ikeda Kabuki Theater**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Civic A8}}

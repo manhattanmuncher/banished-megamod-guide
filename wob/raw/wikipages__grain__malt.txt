@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Malt ======
+----
+
+<WRAP right>
+^  Malt                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  18/24  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/malt.png?nolink|Malt}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Malt is a processed grain ingredient used in cooking and food production in the Banished MegaMod. It is not consumed directly by citizens but serves as a key input for bakers and food crafters. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Malt Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:more_food:nmt30malthouse|Malt House]] (from Barley, Corn, Oat, Rye, Sorghum, or Wheat)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:ectavern|Tavern (EC)]] (for Beer, Strong Beer)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Grain}}

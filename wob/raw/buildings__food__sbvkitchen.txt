@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== SBV Kitchen ======
+----
+
+<WRAP right>
+^  SBV Kitchen                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvkitchen.png?nolink|SBV Kitchen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  Happiness  |  Goods (radius 20)  |
+|  Storage  |  1600  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+SBV Mission kitchen; cooks chili con carne, chili sin carne, and tortillas.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|SBV Mission}}</wrap> **SBV Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvkitchen.png?nolink|SBV Kitchen}}</wrap> **SBV Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|SBV Mission}}</wrap> **SBV Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvkitchen.png?nolink|SBV Kitchen}}</wrap> **SBV Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvkitchen.png?nolink|SBV Kitchen}}</wrap> **SBV Kitchen**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                       ^ Produces                                                        ^
+| 4 [[WikiPages:food:bean|Bean]] + 4 [[WikiPages:food:pepper|Pepper]] + 4 [[WikiPages:food:beef_beef|Beef]]                                        | [[WikiPages:food:chili_con_carne|Chili Con Carne]]              |
+| 4 [[WikiPages:food:bean|Bean]] + 4 [[WikiPages:food:pepper|Pepper]] + 4 [[WikiPages:food:mutton|Mutton]]                                          | [[WikiPages:food:chili_con_carne|Chili Con Carne]]              |
+| 8 [[WikiPages:food:bean|Bean]] + 4 [[WikiPages:food:pepper|Pepper]] + 8 [[WikiPages:food:potato|Potato]]                                          | [[WikiPages:food:chili_sin_carne|Chili Sin Carne]]              |
+| 24 [[WikiPages:food:corn|Corn]]                                                                                                                   | [[WikiPages:food:tortilla_bread|Tortilla Bread]]                |
+| 24 [[WikiPages:food:wheat|Wheat]]                                                                                                                 | [[WikiPages:food:tortilla_bread|Tortilla Bread]]                |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food SBVMission}}

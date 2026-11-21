@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brewer's House ======
+----
+
+<WRAP right>
+^  Brewer's House                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddspickandhenhouse.png?nolink|Brewer's House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  52  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  110  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:iron:iron|Iron]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Pick & Hen Brewery residence. Houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxuries Production}}</wrap> **Luxuries Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dspickandhenmenu.png?nolink|Pick & Hen Brewery}}</wrap> **Pick & Hen Brewery** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddspickandhenhouse.png?nolink|Brewer's House}}</wrap> **Brewer's House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarketstraverns.png?nolink|Markets Taverns}}</wrap> **Markets Taverns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dspickandhenmenu.png?nolink|Pick & Hen Brewery}}</wrap> **Pick & Hen Brewery** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddspickandhenhouse.png?nolink|Brewer's House}}</wrap> **Brewer's House**
+
+----
+
+{{tag>Building Houses DS}}

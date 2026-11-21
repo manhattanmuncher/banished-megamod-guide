@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Bough ======
+----
+
+<WRAP right>
+^  Pine Bough                                     ^  xNecora  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |  Custom4  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  10/16  |  10/16  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  5  |  5  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pinebough.png?nolink|Pine Bough}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pine Bough is a raw material harvested directly from the environment in the Banished MegaMod. It is stockpiled and used as a base ingredient for crafting and construction. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pine Bough Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom4}}

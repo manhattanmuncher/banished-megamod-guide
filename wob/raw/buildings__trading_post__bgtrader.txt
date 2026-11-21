@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== BG Trader ======
+----
+
+<WRAP right>
+^  BG Trader                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgtrader.png?nolink|BG Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+|  Storage Categories  |  all goods  |
+|  Happiness  |  Goods  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bakery & Garden Alt trading post. A Trader buys and sells the colony's goods, providing a Goods happiness bonus.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgtrader.png?nolink|BG Trader}}</wrap> **BG Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgtrader.png?nolink|BG Trader}}</wrap> **BG Trader**
+
+----
+
+This building originally came from **Bakery & Garden Alternative v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=533|WoB]]
+
+{{tag>Building TradingPost BakeryGardenAlt}}

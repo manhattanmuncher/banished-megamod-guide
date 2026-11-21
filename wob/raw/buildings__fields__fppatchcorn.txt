@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Corn Patch (Friendly Pumpkin) ======
+----
+
+<WRAP right>
+^  Corn Patch                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfppatchcorn.png?nolink|Corn Patch}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  46.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Friendly Pumpkin corn patch. Workers cultivate and harvest Corn each season.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfppatchcorn.png?nolink|Corn Patch}}</wrap> **Corn Patch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfppatchcorn.png?nolink|Corn Patch}}</wrap> **Corn Patch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfppatchcorn.png?nolink|Corn Patch}}</wrap> **Corn Patch**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:corn|Corn]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Pumpkin v1.12**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=578|WoB]]
+
+{{tag>Building Food KidFriendlyPumpkin}}

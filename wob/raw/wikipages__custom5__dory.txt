@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dory ======
+----
+
+<WRAP right>
+^  Dory                                           ^  xNecora  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |  Custom5  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |  1/2  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  75  |  75  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/dory.png?nolink|Dory}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Dory is a construction material used to erect buildings in the Banished MegaMod. It is produced or refined and held in a Stockpile, ready for builders to draw on when constructing new structures. At a trade value of 75, it is highly prized by traveling merchants.
+
+----
+
+===== Dory Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:dorybuilder|Dory Builder]]
+  * Produced at the [[buildings:fishing:nsinshoredorybuilder|Dory Builder (NS Inshore)]]
+  * Produced at the [[buildings:crafting:sbboatshop|Sherbrooke Boat Shop]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom5}}

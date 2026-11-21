@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Glass Works ======
+----
+
+<WRAP right>
+^  Glass Works                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildglassworks.png?nolink|Glass Works}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/glassmaker.png?nolink|Glassmaker}}</wrap> Glassmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  58  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  38  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB-mod Glass Works. A Glassmaker melts Sand into Glass or Glassware using Coal, Charcoal, or Furnace Fuel as the heat source.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarglass.png?nolink|Glass Makers}}</wrap> **Glass Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildglassworks.png?nolink|Glass Works}}</wrap> **Glass Works**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebresources.png?nolink|EB Resources}}</wrap> **EB Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildglassworks.png?nolink|Glass Works}}</wrap> **Glass Works**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                  ^ Produces                                              ^
+| 3 [[WikiPages:coalfuel:coal|Coal]] + 23 [[WikiPages:custom4:sand|Sand]]                      | [[WikiPages:custom5:glass|Glass]]                     |
+| 4 [[WikiPages:fuel:charcoal|Charcoal]] + 23 [[WikiPages:custom4:sand|Sand]]                  | [[WikiPages:custom5:glass|Glass]]                     |
+| 4 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]] + 23 [[WikiPages:custom4:sand|Sand]]       | [[WikiPages:custom5:glass|Glass]]                     |
+| 3 [[WikiPages:coalfuel:coal|Coal]] + 23 [[WikiPages:custom4:sand|Sand]]                      | [[WikiPages:custom0:glassware|Glassware]]             |
+| 4 [[WikiPages:fuel:charcoal|Charcoal]] + 23 [[WikiPages:custom4:sand|Sand]]                  | [[WikiPages:custom0:glassware|Glassware]]             |
+| 4 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]] + 23 [[WikiPages:custom4:sand|Sand]]       | [[WikiPages:custom0:glassware|Glassware]]             |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Crafting EB}}

@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rose Hips ======
+----
+
+<WRAP right>
+^  Rose Hips                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/26  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rosehips.png?nolink|Rose Hips}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Rose Hips are an edible fruit gathered from hedgerows in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1.
+
+----
+
+===== Rose Hips Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:hedgerow:fbthedgerow03|Hedgerow 03 (Friendly Blue Too)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch02|Fairy Garden Spring (Fairy Garden)]]
+  * Produced at the [[buildings:hedgerow:hedgesummer01|Summer 01 (Hedgerow)]] (random)
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * Produced at the [[buildings:trading_post:tradercartfruitveg|Trader Cart (Fruit & Veg)]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:preserving:tinyjamshop|Tiny Jam Shop]] (for Preserves Fruit)
+  * Used at the [[buildings:preserving:wppreservist|WP Preservist]] (for Fruit Preserves)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

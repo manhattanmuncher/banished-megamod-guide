@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Yayoi Granary ======
+----
+
+<WRAP right>
+^  Yayoi Granary                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyayoigranary.png?nolink|Yayoi Granary}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,000  |
+|  Storage Categories  |  Food  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 Japanese Housing mod elevated storage granary. Settlers store food with a capacity of 3,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyayoigranary.png?nolink|Yayoi Granary}}</wrap> **Yayoi Granary**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8storage.png?nolink|A8 storage}}</wrap> **A8 storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyayoigranary.png?nolink|Yayoi Granary}}</wrap> **Yayoi Granary**
+
+----
+
+{{tag>Building Storage A8Japanese}}

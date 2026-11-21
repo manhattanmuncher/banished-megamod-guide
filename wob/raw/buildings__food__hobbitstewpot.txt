@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sam's Stew Pot (Hobbit) ======
+----
+
+<WRAP right>
+^  Kitchen                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitstewpot.png?nolink|Sam's Stew Pot}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hobbit Homes stew pot where a worker makes Stew from meat, vegetables, and herbs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitstewpot.png?nolink|Sam's Stew Pot}}</wrap> **Sam's Stew Pot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitstewpot.png?nolink|Sam's Stew Pot}}</wrap> **Sam's Stew Pot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitstewpot.png?nolink|Sam's Stew Pot (Hobbit)}}</wrap> **Sam's Stew Pot (Hobbit)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                             ^ Produces                              ^
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:beef_beef|Beef]] + 1 [[WikiPages:health:herb|Herb]]                             | [[WikiPages:food:stew_aspstew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:mutton|Mutton]] + 1 [[WikiPages:health:herb|Herb]]                              | [[WikiPages:food:stew_aspstew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:venison|Venison]] + 1 [[WikiPages:health:herb|Herb]]                            | [[WikiPages:food:stew_aspstew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:chicken|Chicken]] + 1 [[WikiPages:health:herb|Herb]]                            | [[WikiPages:food:stew_aspstew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:rabbit_meat|Rabbit Meat]] + 1 [[WikiPages:health:herb|Herb]]                    | [[WikiPages:food:stew_aspstew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 3 [[WikiPages:food:carrots|Carrot]] + 3 [[WikiPages:food:mushroom|Mushroom]]                       | [[WikiPages:food:stew_aspstew|Stew]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hobbits v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=608|WoB]]
+
+{{tag>Building Food KidHobbits}}

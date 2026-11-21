@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Village Stone Fence ======
+----
+
+<WRAP right>
+^  Small Village Stone Fence                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstonefencestraight.png?nolink|Small Village Stone Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Fences small-village stone fence pieces. Combine straight, corner, 3-way, 4-way, overhang, and gate pieces to wall a village.
+
+----
+
+===== Variants =====
+
+^ Piece ^ Size ^ Build Cost ^
+| Straight / Straight Long | 1 × 1 | 8 work, 5 [[WikiPages:stone:stone|Stone]], 1 Wood |
+| Corner / End / 3-way / 4-way / Overhang | 1 × 1 | low Stone |
+| Gate | 4 × 1 | 21 work, 5 Stone, 2 Wood, 3 [[WikiPages:iron:iron|Iron]] |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Deco}}</wrap> **Fences, Walls & Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstonefencestraight.png?nolink|Small Village Stone Fence}}</wrap> **Small Village Stone Fence**
+
+----
+
+{{tag>Building Storage DSFences}}

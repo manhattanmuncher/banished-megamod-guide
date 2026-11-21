@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Stone Shack ======
+----
+
+<WRAP right>
+^  Old Stone Shack                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotshacks.png?nolink|Old Stone Shack}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town stone shack; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town Houses}}</wrap> **Old Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotshacks.png?nolink|Old Stone Shack}}</wrap> **Old Stone Shack**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town Houses}}</wrap> **Old Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotshacks.png?nolink|Old Stone Shack}}</wrap> **Old Stone Shack**
+
+----
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Building Houses KidOldTown}}

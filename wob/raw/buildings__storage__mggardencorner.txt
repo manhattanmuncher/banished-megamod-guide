@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MG Garden Corner ======
+----
+
+<WRAP right>
+^  MG Garden Corner                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmggardencorner.png?nolink|MG Garden Corner}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Mods Medieval Grace garden corner storage. Settlers store alcohol with a capacity of 300 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmggardencorner.png?nolink|MG Garden Corner}}</wrap> **MG Garden Corner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Buildings}}</wrap> **Themed Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmggardencorner.png?nolink|MG Garden Corner}}</wrap> **MG Garden Corner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmggardencorner.png?nolink|MG Garden Corner}}</wrap> **MG Garden Corner**
+
+----
+
+This building originally came from **Medieval Grace v1.32**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=407|WoB]]
+
+{{tag>Building Storage}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Natural Irrigation ======
+----
+
+<WRAP right>
+^  EB Natural Irrigation                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildirrigationstraight1xn.png?nolink|EB Natural Irrigation}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (network pieces)  |
+^  Build Cost (channel)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The EB (embx61) Natural Irrigation system — a modular water-distribution network for transporting water across the colony. Build a **Water Lift** or **Water Well Lift** to raise water, then run **channel, gutter, corner, curve, culvert, bridge, and gate** pieces to carry it where needed, ending at a [[buildings:wells:ebirrigationendwelln|Water Reservoir]].
+
+----
+
+===== Key Pieces =====
+
+^ Piece ^ Size ^ Build Cost ^
+| Channel 1x Straight | 3 × 1 | 10 work, 1 [[WikiPages:wood:log|Wood]] |
+| Water Lift (pump) | 4 × 3 | 32 work, 28 Wood, 4 Iron — Worker raises river water |
+| Water Well Lift | 3 × 3 | 24 work, 18 Wood — Worker raises ground water |
+| Corner / Curve / Gutter / Culvert / Bridge / Gate pieces | varies | low Wood cost each |
+
+Includes both standard and ghosted (no-footprint) network pieces.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildirrigationstraight1xn.png?nolink|EB Natural Irrigation}}</wrap> **EB Natural Irrigation**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells EB}}

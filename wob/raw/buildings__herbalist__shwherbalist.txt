@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herbalist (Summer Haven) ======
+----
+
+<WRAP right>
+^  Herbalist                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwherbalist.png?nolink|Herbalist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Summer Haven compact herbalist workplace. Herbalists gather wild Herbs within a 24-tile radius; also heals sick citizens who visit.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed}}</wrap> **Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwherbalist.png?nolink|Herbalist}}</wrap> **Herbalist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwherbalist.png?nolink|Herbalist}}</wrap> **Herbalist**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+This building originally came from **Summer Haven v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=598|WoB]]
+
+{{tag>Building Herbalist KidSummerHaven}}

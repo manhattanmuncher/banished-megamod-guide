@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NMT 3.0 Bridges ======
+----
+
+<WRAP right>
+^  NMT 3.0 Bridges                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnmt30stonebridge.png?nolink|NMT 3.0 Bridges}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable length (1, 2, 4 or 8 tiles)  |
+^  Build Cost (per segment)                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  3 (stone segment)  |
+|  [[WikiPages:stone:stone|Stone]] / [[WikiPages:custom2:brick|Brick]]  |  Stone bridge: 4 Stone; Brick bridges: Brick  |
+</WRAP>
+<WRAP right></WRAP>
+
+The New Medieval Town (NMT) walkable bridge sets from the RK Editor's Choice Edition — masonry bridges that carry roads and settlers across rivers. Three finishes are offered (one stone, two brick styles), each laid in selectable spans so a crossing can be sized to the water it spans.
+
+----
+
+===== Variants =====
+
+  * **NMT Stone Bridge** — stone-faced bridge.
+  * **NMT Brick Bridge 1** and **NMT Brick Bridge 2** — two brick finishes.
+  * Each style has a Start piece and length segments of **1, 2, 4 and 8** tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbridge.png?nolink|Bridges}}</wrap> **Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonebridgemenu.png?nolink|Stone Bridges}}</wrap> **Stone Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnmt30stonebridge.png?nolink|NMT 3.0 Bridge}}</wrap> **NMT 3.0 Stone / Brick Bridge** → the span length
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Bridges RKEditorChoice}}

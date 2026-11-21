@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rum Barrel ======
+----
+
+<WRAP right>
+^  Rum Barrel                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  60  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  30  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rumbarrel.png?nolink|Rum Barrel}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Rum Barrel is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. At a trade value of 60, it is highly prized by traveling merchants.
+
+----
+
+===== Rum Barrel Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:otpdistillery|Distillery (Old Town Ports)]]
+  * Produced at the [[buildings:trading_post:otplootship|Loot Ship (Old Town Ports)]]
+  * Produced at the [[buildings:mining:otpshipwreck|Shipwreck (Old Town Ports)]]
+  * Produced at the [[buildings:brewery:otpstill|Still (Old Town Ports)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Vegetable}}

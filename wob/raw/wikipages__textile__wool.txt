@@ -1,0 +1,61 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wool ======
+----
+
+<WRAP right>
+^  Wool                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  6/6  |  6/6  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  5  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/wool.png?nolink|Wool}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Wool is a raw textile material gathered or produced in Banished. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. It has a modest trade value of 5.
+
+----
+
+===== Wool Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:animal_pens:abpanimalbarn|ABP Animal Barn]]
+  * [[livestock:livestocksheep|Sheep]] (periodic)
+  * [[livestock:livestockllama|Llamas]] (periodic)
+  * [[buildings:animal_pens:animalpen1|Wool Pen]]
+  * [[buildings:animal_pens:crystalgoatpen|Small Animal Pen]]
+  * [[buildings:animal_pens:fbanimalbarn01|Animal Barn]]
+  * [[buildings:animal_pens:settlersanimalshed|Animal Shed (Settlers)]]
+  * Produced at the [[buildings:animal_pens:aprestoredshed|Restored Shed]]
+  * Produced at the [[buildings:animal_pens:aspsheep|Sheep Shed]]
+  * Produced at the [[buildings:animal_pens:abandonedshed|Abandoned Shed]]
+  * Produced at the [[buildings:fields:kf08|Farmyard 08]]
+  * Produced at the [[buildings:animal_pens:otsheepshed|Sheep Shed (Old Town)]]
+  * Produced at the [[buildings:animal_pens:otsheepshedstone|Sheep Shed Stone (Old Town)]]
+  * Produced at the [[buildings:animal_pens:sheepshed|Sheep Shed]]
+  * Produced at the [[buildings:animal_pens:mgsheepshed|MG Sheep Shed]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:traingeneralcar|Train General Car]]
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+* Used at the [[buildings:clothing:weavers|Weavers]]
+  * Used at the [[buildings:clothing:dssvweaversguild|Weaving Guild]]
+  * Used at the [[buildings:clothing:ebsvshoemaker|Village Shoemaker]] (for Shoes, Boots)
+  * Used at the [[buildings:crafting:tinyworkshop|Tiny Workshop]]
+  * Used at the [[buildings:milling:watermill3|Watermill 3]] (for Rug)
+  * Exported at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile Vanilla}}

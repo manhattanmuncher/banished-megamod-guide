@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Colonial Half House (Left) ======
+----
+
+<WRAP right>
+^  Colonial Half House (Left)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses1.png?nolink|Colonial Half House (Left)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  95  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter colonial half-house (left variant); houses up to 5 settlers. Pairs with the [[buildings:houses:esshouses2|Colonial Half House (Right)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaresshouses.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses1.png?nolink|Colonial Half House (Left)}}</wrap> **Colonial Half House (Left)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaresshouses.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses1.png?nolink|Colonial Half House (Left)}}</wrap> **Colonial Half House (Left)**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

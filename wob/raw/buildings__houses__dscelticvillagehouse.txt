@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Celtic Village House ======
+----
+
+<WRAP right>
+^  Celtic Village House                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticvillagehouse.png?nolink|Celtic Village House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  3  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Celtic village boarding house. Houses up to 4 settlers temporarily across 3 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingaccom.png?nolink|Accommodation}}</wrap> **Accommodation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticvillagehouse.png?nolink|Celtic Village House}}</wrap> **Celtic Village House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingaccom.png?nolink|Accommodation}}</wrap> **Accommodation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticvillagehouse.png?nolink|Celtic Village House}}</wrap> **Celtic Village House**
+
+----
+
+This building originally came from **Celtic House v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=244|WoB]], [[https://www.nexusmods.com/banished/mods/74|Nexus]]
+
+{{tag>Building Houses DS}}

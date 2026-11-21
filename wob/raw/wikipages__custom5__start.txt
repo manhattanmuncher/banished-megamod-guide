@@ -1,0 +1,29 @@
+~~NOTOC~~
+
+====== Construction Materials ======
+----
+
+Processed building materials used in construction, such as Lumber and Bricks.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/brick.png?nolink|Brick}} [[WikiPages:custom5:brick|Brick]]
+  * {{https://sprites.worldofbanished.com/buildingsupplies.png?nolink|Building Supplies}} [[WikiPages:custom5:building_kit|Building Supplies]]
+  * {{https://sprites.worldofbanished.com/copper.png?nolink|Copper}} [[WikiPages:custom5:copper|Copper]]
+  * {{https://sprites.worldofbanished.com/dory.png?nolink|Dory}} [[WikiPages:custom5:dory|Dory]]
+  * {{https://sprites.worldofbanished.com/furnishingkit.png?nolink|Homewares}} [[WikiPages:custom5:furnishing_kit|Homewares]]
+  * {{https://sprites.worldofbanished.com/furnishingkit2.png?nolink|Fancy Homewares}} [[WikiPages:custom5:furnishing_kit2|Fancy Homewares]]
+  * {{https://sprites.worldofbanished.com/thatch.png?nolink|Fodder-Thatch}} [[WikiPages:custom5:fodder-thatch_thatch|Fodder-Thatch]]
+  * {{https://sprites.worldofbanished.com/glass.png?nolink|Glass}} [[WikiPages:custom5:glass|Glass]]
+  * {{https://sprites.worldofbanished.com/hullcomponent.png?nolink|Hull Components}} [[WikiPages:custom5:hull_components|Hull Components]]
+  * {{https://sprites.worldofbanished.com/lumber.png?nolink|Lumber}} [[WikiPages:custom5:lumber|Lumber]]
+  * {{https://sprites.worldofbanished.com/milsupply.png?nolink|Military Supply}} [[WikiPages:custom5:military_supply|Military Supply]]
+  * {{https://sprites.worldofbanished.com/rooftile.png?nolink|Roof Tile}} [[WikiPages:custom5:roof_tile|Roof Tile]]
+
+----
+
+{{tag>Custom5}}

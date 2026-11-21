@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Harvester's Cache ======
+----
+
+<WRAP right>
+^  Pine Harvester's Cache                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineharvester.png?nolink|Pine Harvester's Cache}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  25  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Pine Set harvester's cache. Gatherers harvest wild pine resources within a 25-tile radius, collecting Pine Resin, Pine Bough, Bough, and Flax. Must be used alongside the Pine Forestry Tower, which plants the pine trees that spawn these resources.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialforester.png?nolink|Special Foresters}}</wrap> **Special Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Forestry}}</wrap> **Pine Forestry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineharvester.png?nolink|Pine Harvester's Cache}}</wrap> **Pine Harvester's Cache**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolresources.png?nolink|Necora Resources}}</wrap> **Necora Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Forestry}}</wrap> **Pine Forestry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineharvester.png?nolink|Pine Harvester's Cache}}</wrap> **Pine Harvester's Cache**
+
+----
+
+===== Produces =====
+
+  * Pine Resin
+  * Pine Bough
+  * Bough
+  * [[WikiPages:textile:flax|Flax]]
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Gathering}}

@@ -1,0 +1,22 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Cemetery ======
+----
+
+<WRAP right>
+^  Old Cemetery                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcemeterybl.png?nolink|Old Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter cemetery using old-style gravestones for a different look; build in a player-drawn area for your deceased.
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Cemeteries ColonialCharter}}

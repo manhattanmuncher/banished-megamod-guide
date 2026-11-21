@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone House ======
+----
+
+<WRAP right>
+^  Stone House                                                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouse.png?nolink|Stone House}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  ||
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  ||
+|  Apartments  |  1  ||
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  ||
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  ||
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  ||
+|  [[WikiPages:wood:log|Log]]  |  24  |  35  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  ||
+|  [[WikiPages:iron:iron|Iron]]  |  10  |  –  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter stone house with upgrade paths to country house variants; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+Available on any Colonial Charter map as a CC-modified stone house. Can be upgraded to:
+  * [[buildings:houses:stonehouseupgrade|Stone Home]]
+  * [[buildings:houses:countryhouse3upgrade|Country House 3 (Upgrade)]]
+  * [[buildings:houses:countryhouse4|Country House 4]]
+  * [[buildings:houses:countryhouse5|Country House 5]]
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouse.png?nolink|Stone House}}</wrap> **Stone House**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses ColonialCharter}}

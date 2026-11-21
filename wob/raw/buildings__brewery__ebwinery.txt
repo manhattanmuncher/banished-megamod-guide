@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Winery ======
+----
+
+<WRAP right>
+^  Winery                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebwinery.png?nolink|Winery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vintner.png?nolink|Vintner}}</wrap> Vintner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  52  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB-mod Winery. A Vintner ferments Cherries, Grapes, and Plums into Wine.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxury}}</wrap> **Luxury** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebwinery.png?nolink|Winery}}</wrap> **Winery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebresources.png?nolink|EB Resources}}</wrap> **EB Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebwinery.png?nolink|Winery}}</wrap> **Winery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                                              ^
+| 45 [[WikiPages:food:cherry|Cherry]]                  | [[WikiPages:alcohol:wine|Wine]]                       |
+| 45 [[WikiPages:food:grapes|Grape]]                   | [[WikiPages:alcohol:wine|Wine]]                       |
+| 45 [[WikiPages:food:plum|Plum]]                      | [[WikiPages:alcohol:wine|Wine]]                       |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Brewery EB}}

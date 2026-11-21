@@ -1,0 +1,12 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blast Furnace ======
+----
+
+This building is identical to the [[buildings:metalworking:dsblastfurnace|Blast Furnace]]. See that page for full details.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining DS}}

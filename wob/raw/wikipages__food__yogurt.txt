@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Yogurt ======
+----
+
+<WRAP right>
+^  Yogurt                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  12/18  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/yogurt.png?nolink|Yogurt}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Yogurt is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Yogurt Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:dairy:nmt30creamery|Old Creamery]] (from Milk + fruit)
+  * [[buildings:dairy:newmedievalcreamery|Medieval Creamery (New Medieval)]]
+  * Produced at the [[buildings:dairy:rkredcreamery|Red Creamery]] (from Milk + fruit)
+  * Produced at the [[buildings:dairy:redcreamery|Red Creamery (Original Mod)]] (from Milk + fruit)
+  * Produced at the [[buildings:dairy:redcreamerymain|Red Creamery (Main)]] (from Milk + fruit)
+  * Produced at the [[buildings:dairy:shwdairyman|Dairyman (Summer Haven)]] (from Milk + fruit)
+  * Produced at the [[buildings:dairy:tinydairy|Tiny Dairy]] (from Milk + fruit)
+  * Produced at the [[buildings:dairy:wpdairyman|WP Dairyman]] (from Milk + fruit)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein DairyGoods}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke School ======
+----
+
+<WRAP right>
+^  Sherbrooke School                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookeschool.png?nolink|Sherbrooke School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Sherbrooke school staffed by a Teacher, educating up to 30 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookeschool.png?nolink|Sherbrooke School}}</wrap> **Sherbrooke School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolcivics.png?nolink|Necora's Maritimes Civics}}</wrap> **Necora's Maritimes Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookeschool.png?nolink|Sherbrooke School}}</wrap> **Sherbrooke School**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Sherbrooke Village v101**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=291|WoB]]
+
+{{tag>Building School Maritimes}}

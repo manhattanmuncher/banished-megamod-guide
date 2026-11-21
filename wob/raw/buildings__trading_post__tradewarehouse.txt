@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Resource Depot ======
+----
+
+<WRAP right>
+^  Resource Depot                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradewarehouse.png?nolink|Resource Depot}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–8 (0)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  200  |
+|  [[WikiPages:stone:stone|Stone]]  |  80  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter resource depot. Workers stockpile goods from the settlement's supply here. Items stored are not freely available to settlers — they are only released when the stored quantity is manually decreased. At least 1 of a good must already be in stock before it can be stored here. Accepts all goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradewarehouse.png?nolink|Resource Depot}}</wrap> **Resource Depot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradewarehouse.png?nolink|Resource Depot}}</wrap> **Resource Depot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradewarehouse.png?nolink|Resource Depot}}</wrap> **Resource Depot**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building TradingPost ColonialCharter}}

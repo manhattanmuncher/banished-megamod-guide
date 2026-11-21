@@ -1,0 +1,17 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Buildings ======
+----
+
+Buildings that manage, process, and distribute water resources.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:water:newmedievalwatertower|Medieval Water Tower]] | NMT Medieval Water Tower; collects and distributes water for the colony |
+| [[buildings:water:nmt30watertower|Water Tower]] | NMT 3.1 water tower; collects and distributes water for the colony |
+| [[buildings:water:nmt_canal_set|NMT 3.1 Canal Set — Channel Pieces]] | RK NMT canal channel blocks (straights/turns/corners/junctions/bridges); 8 styles, 4×/6×/8× widths |
+
+----
+
+{{tag>Buildings Water}}

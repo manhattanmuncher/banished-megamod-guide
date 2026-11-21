@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Farm Stand (Smaller Vendors) ======
+----
+
+<WRAP right>
+^  Farm Stand                                                                              ^  xMOD  ^
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default: 3)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  20  |
+|  Storage  |  2,500  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  Stone  |  4  |
+|  Iron  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Elf Smaller Vendors farm stand market. Distributes food, fuel, tools, health items, and clothing to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → **Farm Stand**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omstorage.png?nolink|Storage Barns, Trading & Markets}}</wrap> **Storage Barns, Trading & Markets** → **Farm Stand**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Health items
+  * Clothing
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

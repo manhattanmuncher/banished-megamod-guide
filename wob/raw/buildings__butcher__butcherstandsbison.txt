@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bison Butcher ======
+----
+
+<WRAP right>
+^  Bison Butcher                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbison.png?nolink|Bison Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  2  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Bison Butcher is a Colonial Charter building where a butcher processes bison meat into cuts, sausages, and tallow.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbison.png?nolink|Bison Butcher}}</wrap> **Bison Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcheritems.png?nolink|Butcher Stalls}}</wrap> **Butcher Stalls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbison.png?nolink|Bison Butcher}}</wrap> **Bison Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                            ^ Produces                                            ^
+| 10 [[WikiPages:food:bison_meat|Bison Meat]]            | [[WikiPages:food:bison_cuts|Bison Cuts]]            |
+| 10 [[WikiPages:food:bison_meat|Bison Meat]]            | [[WikiPages:food:sausages|Sausages]]                |
+| 10 [[WikiPages:food:bison_meat|Bison Meat]]            | [[WikiPages:custom7:tallow|Tallow]]                 |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food Butcher ColonialCharter}}

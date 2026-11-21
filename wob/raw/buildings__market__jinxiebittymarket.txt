@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty General Market ======
+----
+
+<WRAP right>
+^  Bitty General Market                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittymarket.png?nolink|Bitty General Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 2)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  5,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  Stone  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie Bitty Village market. Distributes food, tools, clothing, and fuel to nearby settlers and provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittymarket.png?nolink|Bitty General Market}}</wrap> **Bitty General Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxiestorage.png?nolink|Jinxie's Storage, Markets, and Trade}}</wrap> **Jinxie's Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittymarket.png?nolink|Bitty General Market}}</wrap> **Bitty General Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel and Coal and Coke
+  * Tools
+  * Health items
+  * Clothing
+  * Iron and Logs
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

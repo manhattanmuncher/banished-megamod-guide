@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Clay Pit ======
+----
+
+<WRAP right>
+^  Clay Pit                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfclaypit.png?nolink|Clay Pit}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 8  |
+|  <abbr "Min/Max Workers (Default)">Workers</abbr>  |  1 – 3 (default 2)  |
+|  <abbr "Required tool">Tool</abbr>  |  Hoe  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  42  |
+|  Wood  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The Clay Pit is a resource extraction building from the Mexican Fantasy mod in the Banished MegaMod. Workers dig Clay from the ground to supply the colony's crafting industries.
+
+----
+
+===== Toolbar =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → Clay Pit
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → Clay Pit
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsandclay.png?nolink|Sand & Clay}}</wrap> **Sand & Clay** → Clay Pit
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom4:clay|Clay]]
+
+===== Other Information =====
+
+This building originally came from **Mexican Fantasy v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=575|WoB]], [[https://banishedinfo.com/mods/view/837-Mexican-Fantasy|BI]]
+
+{{tag>Resources}}

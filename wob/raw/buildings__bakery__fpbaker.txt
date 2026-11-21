@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly Baker (Friendly Pumpkin) ======
+----
+
+<WRAP right>
+^  Friendly Baker                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpbaker.png?nolink|Friendly Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Friendly Pumpkin bakery that bakes Bread, Nut Bread, Herb Bread, and Pumpkin Pie from flour and local ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpbaker.png?nolink|Friendly Baker (Friendly Pumpkin)}}</wrap> **Friendly Baker (Friendly Pumpkin)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                            ^ Produces                                                          ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                                                                      | [[WikiPages:food:bread_bread|Bread]]                              |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                                                                                | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]                   |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herbs]]                                                                                  | [[WikiPages:food:herb_bread|Herb Bread]]                          |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:pumpkin|Pumpkin]] + 2 [[WikiPages:food:spices|Spices]]                                         | [[WikiPages:food:spiced_pumpkin_pie|Pumpkin Pie]]                        |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Pumpkin v1.12**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=578|WoB]]
+
+{{tag>Building Food KidFriendlyPumpkin}}

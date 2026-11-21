@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fish Farm ======
+----
+
+<WRAP right>
+^  Fish Farm                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishfarm.png?nolink|Fish Farm}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  14  |
+|  [[WikiPages:stone:stone|Stone]]  |  80  |
+</WRAP>
+<WRAP right></WRAP>
+
+Fish Farm is a KID Mods aquaculture facility where workers cultivate fish in a large 10×10 pond.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishfarm.png?nolink|Fish Farm}}</wrap> **Fish Farm**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishfarm.png?nolink|Fish Farm}}</wrap> **Fish Farm**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing KidFishFarm}}

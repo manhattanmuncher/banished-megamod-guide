@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Fenced Cemetery (Dark) ======
+----
+
+<WRAP right>
+^  Stone Fenced Cemetery (Dark)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgffencecemetery.png?nolink|Stone Fenced Cemetery (Dark)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Gothic Fantasy dark stone-fenced cemetery; build in a player-drawn area for your deceased.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfantasy01.png?nolink|Gothic Fantasy 1}}</wrap> **Gothic Fantasy 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgffencecemetery.png?nolink|Stone Fenced Cemetery (Dark)}}</wrap> **Stone Fenced Cemetery (Dark)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfantasy01.png?nolink|Gothic Fantasy 1}}</wrap> **Gothic Fantasy 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgffencecemetery.png?nolink|Stone Fenced Cemetery (Dark)}}</wrap> **Stone Fenced Cemetery (Dark)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgffencecemetery.png?nolink|Stone Fenced Cemetery (Dark)}}</wrap> **Stone Fenced Cemetery (Dark)**
+
+----
+
+This building originally came from **Gothic Fantasy v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=365|WoB]]
+
+{{tag>Building Cemeteries KidGothicFantasy}}

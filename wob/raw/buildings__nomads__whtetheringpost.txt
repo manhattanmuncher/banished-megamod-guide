@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tethering Post ======
+----
+
+<WRAP right>
+^  Tethering Post                                                                     ^  Westward Ho  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost.png?nolink|Tethering Post}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (default 2)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0 (Free)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Westward Ho ghosted tethering posts that attract nomad immigrants. Each variant limits the maximum size of arriving nomad groups as a percentage of total population. Free to place with no footprint restriction. Six variants are available with different caps.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Max Group Size ^
+| Tethering Post 2 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost2.png?nolink|Tethering Post 2}}</wrap> | 2% of population |
+| Tethering Post 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost5.png?nolink|Tethering Post 5}}</wrap> | 5% of population |
+| Tethering Post 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost10.png?nolink|Tethering Post 10}}</wrap> | 10% of population |
+| Tethering Post 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost20.png?nolink|Tethering Post 20}}</wrap> | 20% of population |
+| Tethering Post 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost50.png?nolink|Tethering Post 50}}</wrap> | 50% of population |
+| Tethering Post 100 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost100.png?nolink|Tethering Post 100}}</wrap> | 100% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost.png?nolink|Tethering Post}}</wrap> **Tethering Post** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhtetheringpost.png?nolink|Tethering Post}}</wrap> **Tethering Post** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Westward Ho v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=451|WoB]]
+
+{{tag>Building Nomads WestwardHo}}

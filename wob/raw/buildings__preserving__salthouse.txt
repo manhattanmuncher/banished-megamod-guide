@@ -1,0 +1,70 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Saltinghouse ======
+----
+
+<WRAP right>
+^  Saltinghouse                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsalthouse.png?nolink|Saltinghouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservist.png?nolink|Preservist}}</wrap> Preservist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1/2  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  600  |
+^  Build Cost                                                                  ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Saltinghouse cures a variety of fresh food for preserving.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsalthouse.png?nolink|Saltinghouse}}</wrap> **Saltinghouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodrefining.png?nolink|Food Refining}}</wrap> **Food Refining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsalthouse.png?nolink|Saltinghouse}}</wrap> **Saltinghouse**
+
+----
+
+===== Produces =====
+
+The player selects which material to produce.
+
+  * [[WikiPages:food:corned_beef|Corned Beef]]
+  * [[WikiPages:food:salt_pork|Salt Pork]]
+  * [[WikiPages:food:corned_bison|Corned Bison]]
+  * [[WikiPages:food:cured_deer|Cured Deer]]
+  * [[WikiPages:food:corned_horse|Corned Horse]]
+  * [[WikiPages:food:corned_llama|Corned Llama]]
+  * [[WikiPages:food:haggis|Haggis]]
+  * [[WikiPages:food:brined_cheese|Brined Cheese]]
+  * [[WikiPages:food:surstromming|Surstromming]]
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                   ^ Produces                                      ^
+| 10 [[WikiPages:food:beef_cuts|Beef Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                        | [[WikiPages:food:corned_beef|Corned Beef]]    |
+| 10 [[WikiPages:food:pork_cuts|Pork Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                        | [[WikiPages:food:salt_pork|Salt Pork]]        |
+| 10 [[WikiPages:food:bison_cuts|Bison Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                      | [[WikiPages:food:corned_bison|Corned Bison]]  |
+| 10 [[WikiPages:food:venison_cuts|Venison Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                  | [[WikiPages:food:cured_deer|Cured Deer]]      |
+| 10 [[WikiPages:food:cheval_cuts|Cheval Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                    | [[WikiPages:food:corned_horse|Corned Horse]]  |
+| 10 [[WikiPages:food:charki_cuts|Charki Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                    | [[WikiPages:food:corned_llama|Corned Llama]]  |
+| 7 [[WikiPages:food:mutton_cuts|Mutton Cuts]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 6 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:custom0:barrel|Barrel]]  | [[WikiPages:food:haggis|Haggis]]  |
+| 10 [[WikiPages:food:cheese|Cheese]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                              | [[WikiPages:food:brined_cheese|Brined Cheese]]  |
+| 10 [[WikiPages:food:fish|Fish]] + 5 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                  | [[WikiPages:food:surstromming|Surstromming]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Preserving ColonialCharter}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Gatherer ======
+----
+
+<WRAP right>
+^  Tiny Gatherer                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinygatherer.png?nolink|Tiny Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Tiny Set gatherer with integrated storage. Gatherers collect wild food from within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinygatherer.png?nolink|Tiny Gatherer}}</wrap> **Tiny Gatherer**
+
+----
+
+===== Produces =====
+
+Various wild food depending on available map resources.
+
+----
+
+{{tag>Building Gathering KidTiny}}

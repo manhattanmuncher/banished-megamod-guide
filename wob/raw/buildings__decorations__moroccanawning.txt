@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Moroccan Awning ======
+----
+
+<WRAP right>
+^  Moroccan Awning                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccanawning.png?nolink|Moroccan Awning}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative Moroccan shop awning from the A8 Moroccan Housing mod. Available in standard and large sizes, each with a "Ghosted" version that has no footprint and can be placed overlapping other objects for free.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Build Cost ^
+| Moroccan Awning | 1 × 1 | 20 work, 1 [[WikiPages:wood:log|Wood]] |
+| Moroccan Large Awning | 2 × 1 | 25 work, 1 [[WikiPages:wood:log|Wood]] |
+| Moroccan Awning Ghosted | 0 × 0 (overlapping placement) | Free |
+| Moroccan Large Awning Ghosted | 0 × 0 (overlapping placement) | Free |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccanawning.png?nolink|Moroccan Awning}}</wrap> **Moroccan Awning**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Housing v3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=572|WoB]], [[https://www.nexusmods.com/banished/mods/107|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913000838|Steam]]
+
+{{tag>Building Decorations A8}}

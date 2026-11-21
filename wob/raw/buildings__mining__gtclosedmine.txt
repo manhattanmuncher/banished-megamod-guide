@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Closed Mine (Ghost Town) ======
+----
+
+<WRAP right>
+^  Closed Mine                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtclosedmine.png?nolink|Closed Mine}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Ghost Town Closed Mine is a placeable decoration that serves as the starting point for the Ghost Town mine upgrade chain. It has no function of its own but can be upgraded to an Old Mine or New Mine.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtacorner.png?nolink|Old Versions}}</wrap> **Old Versions** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtclosedmine.png?nolink|Closed Mine}}</wrap> **Closed Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtacorner.png?nolink|Old Versions}}</wrap> **Old Versions** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtclosedmine.png?nolink|Closed Mine}}</wrap> **Closed Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines}}</wrap> **Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtclosedmine.png?nolink|Closed Mine (Ghost Town)}}</wrap> **Closed Mine (Ghost Town)**
+
+----
+
+===== Upgrades To =====
+
+  * [[buildings:mining:gtoldmine|Old Mine (Ghost Town)]]
+  * [[buildings:mining:gtnewmine|New Mine (Ghost Town)]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Ghost Town v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=460|WoB]]
+
+{{tag>Building Mining KidGhostTown}}

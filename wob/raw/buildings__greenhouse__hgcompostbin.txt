@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Compost Bin ======
+----
+
+<WRAP right>
+^  Compost Bin                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgcompostbin.png?nolink|Compost Bin}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  22  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Compost Bin is a Home Grown building that converts a variety of organic materials into Compost. Compost is required by the Home Grown garden patches to produce vegetables and other crops.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgcompostbin.png?nolink|Compost Bin}}</wrap> **Compost Bin**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgcompostbin.png?nolink|Compost Bin}}</wrap> **Compost Bin**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgcompostbin.png?nolink|Compost Bin}}</wrap> **Compost Bin**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                   ^ Produces                               ^
+| [[WikiPages:custom4:plant_debris|Plant Debris]] × 4                          | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:custom7:fertilizer|Fertilizer]] × 4                               | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:food:mushroom|Mushroom]] × 4                                      | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:food:root|Root]] × 4                                              | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:custom7:fodder-thatch_haystack|Fodder-Thatch]] × 4               | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:textile:flax|Flax]] × 4                                           | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:textile:down|Down]] × 4                                           | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:textile:feathers_feather|Feathers]] × 4                          | [[WikiPages:custom7:compost|Compost]]  |
+| [[WikiPages:food:fish|Fish]] × 4                                              | [[WikiPages:custom7:compost|Compost]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Home Grown v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=629|WoB]]
+
+{{tag>Building HomeGrown}}

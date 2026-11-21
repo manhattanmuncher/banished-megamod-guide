@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Well (RK Editor Choice) ======
+----
+
+<WRAP right>
+^  Water Well (RK Editor Choice)                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallswell.png?nolink|Water Well (RK Editor Choice)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The RK Editor Choice Water Well is a 3×3 well where a Worker draws Water for the colony. Part of the original RK Garden Walls building set for the Editor Choice edition.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Wells}}</wrap> **Wells** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallswell.png?nolink|Water Well (RK Editor Choice)}}</wrap> **Water Well (RK Editor Choice)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallswell.png?nolink|Water Well (RK Editor Choice)}}</wrap> **Water Well (RK Editor Choice)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:water|Water]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells RKGardenWalls}}

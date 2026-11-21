@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Shack ======
+----
+
+<WRAP right>
+^  Stone Shack                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneshack.png?nolink|Stone Shack}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  15  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Renewable Resources stone shack. Stonecutters plant and harvest dense rock deposits to produce Stone within a 15-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/renewabletoolbar.png?nolink|Renewable Resources}}</wrap> **Renewable Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneshack.png?nolink|Stone Shack}}</wrap> **Stone Shack**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/renewabletoolbar.png?nolink|Renewable Resources}}</wrap> **Renewable Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneshack.png?nolink|Stone Shack}}</wrap> **Stone Shack**
+
+----
+
+===== Produces =====
+
+  * Stone
+
+----
+
+This building originally came from **Renewable Resources v2 beta**. Download the mod here: [[https://banishedinfo.com/mods/view/846-Renewable-Resources|BI]]
+
+{{tag>Building Gathering RenewableResources}}

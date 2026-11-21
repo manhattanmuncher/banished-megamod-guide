@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herbalist (Fairy Tale Cottage) ======
+----
+
+<WRAP right>
+^  Herbalist                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftherbalist.png?nolink|Herbalist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Tale Cottage herbalist. A Herbalist collects wild Herbs from within a 24-tile radius and also tends to the health of nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftherbalist.png?nolink|Herbalist}}</wrap> **Herbalist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftherbalist.png?nolink|Herbalist}}</wrap> **Herbalist**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+Also functions as a healer, treating sick citizens within range.
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Gathering KidFairyTaleCottage}}

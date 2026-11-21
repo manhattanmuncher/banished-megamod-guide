@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== City Stable ======
+----
+
+<WRAP right>
+^  City Stable                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17stable.png?nolink|City Stable}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+|  [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter city stable where a Herdsman converts grain into Domesticated Animals for trade.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17stable.png?nolink|City Stable}}</wrap> **City Stable**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17stable.png?nolink|City Stable}}</wrap> **City Stable**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17stable.png?nolink|City Stable}}</wrap> **City Stable**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                                              ^
+| 200 [[WikiPages:food:oats_oat|Oat]]                     | [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]         |
+| 200 [[WikiPages:food:barley|Barley]]                     | [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]         |
+| 200 [[WikiPages:food:corn|Corn]]                         | [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]         |
+| 200 [[WikiPages:food:wheat|Wheat]]                       | [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]         |
+| 200 [[WikiPages:food:sorghum|Sorghum]]                   | [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]         |
+| 200 [[WikiPages:food:rye|Rye]]                           | [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Animal ColonialCharter}}

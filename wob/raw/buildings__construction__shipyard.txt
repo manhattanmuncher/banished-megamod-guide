@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ship Yard ======
+----
+
+<WRAP right>
+^  Ship Yard                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshipyard.png?nolink|Ship Yard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/boatman.png?nolink|Boatman}}</wrap> Boatman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  <abbr "Required tool">Tool</abbr>  |  Hammer  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  50  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  4  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+Builds Hull Components for deployment at waterside docks and wharfs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshipyard.png?nolink|Ship Yard}}</wrap> **Ship Yard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshipyard.png?nolink|Ship Yard}}</wrap> **Ship Yard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshipyard.png?nolink|Ship Yard}}</wrap> **Ship Yard**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                          ^ Produces                                                ^
+| 10 [[WikiPages:custom5:lumber|Lumber]] + 1 [[WikiPages:custom0:rope|Rope]] + 6 [[WikiPages:custom2:linen|Linen]]  | [[WikiPages:custom5:hull_components|Hull Components]]  |
+| 10 [[WikiPages:custom5:lumber|Lumber]] + 1 [[WikiPages:custom0:rope|Rope]] + 6 [[WikiPages:custom2:cloth|Cloth]]  | [[WikiPages:custom5:hull_components|Hull Components]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Construction ColonialCharter}}

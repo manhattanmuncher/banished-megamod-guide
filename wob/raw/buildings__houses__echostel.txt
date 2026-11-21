@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hostel ======
+----
+
+<WRAP right>
+^  Hostel                                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhostel.png?nolink|Hostel}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 13  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  5  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  52  |
+|  [[WikiPages:stone:stone|Stone]]  |  46  |
+|  [[WikiPages:custom5:glass|Glass]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup Editor's Choice hostel; houses up to 5 settlers temporarily across 5 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhostel.png?nolink|Hostel}}</wrap> **Hostel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhostel.png?nolink|Hostel}}</wrap> **Hostel**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

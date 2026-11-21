@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny House ======
+----
+
+<WRAP right>
+^  Tiny House                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyhouse.png?nolink|Tiny House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Tiny house; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyhouse.png?nolink|Tiny House}}</wrap> **Tiny House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyhouse.png?nolink|Tiny House}}</wrap> **Tiny House**
+
+----
+
+{{tag>Building Houses KID}}

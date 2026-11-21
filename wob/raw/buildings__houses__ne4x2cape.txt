@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cape House ======
+----
+
+<WRAP right>
+^  Cape House                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne4x2cape.png?nolink|Cape House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New England Colonial house; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarne.png?nolink|New England Colonial Set}}</wrap> **New England Colonial Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne4x2cape.png?nolink|Cape House}}</wrap> **Cape House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarne.png?nolink|New England Colonial Set}}</wrap> **New England Colonial Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne4x2cape.png?nolink|Cape House}}</wrap> **Cape House**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

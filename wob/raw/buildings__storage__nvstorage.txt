@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage (Native Village) ======
+----
+
+<WRAP right>
+^  Storage (Native Village)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvstorage.png?nolink|Storage (Native Village)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  18,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Fruit, Vegetable, Grain, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Native Village general-purpose storage building. Settlers store food, tools, health items, clothing, and a variety of goods with a capacity of 18,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvstorage.png?nolink|Storage (Native Village)}}</wrap> **Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvstorage.png?nolink|Storage (Native Village)}}</wrap> **Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvstorage.png?nolink|Storage (Native Village)}}</wrap> **Storage (Native Village)**
+
+----
+
+This building originally came from **Native Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=612|WoB]]
+
+{{tag>Building Storage NativeVillage}}

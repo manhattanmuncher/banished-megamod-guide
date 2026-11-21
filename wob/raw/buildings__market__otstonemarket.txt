@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market Store (Stone) ======
+----
+
+<WRAP right>
+^  Market Store                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotstonemarket.png?nolink|Market Store}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  5,200  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town stone market store. Distributes food, fuel, tools, clothing, and health items to nearby settlers; provides Goods happiness. Stone construction variant of the [[buildings:market:otmarket|Market Store (Old Town)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotstonemarket.png?nolink|Market Store (Stone)}}</wrap> **Market Store (Stone)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Storage and Trade}}</wrap> **Storage and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotstonemarket.png?nolink|Market Store (Stone)}}</wrap> **Market Store (Stone)**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Clothing
+  * Health items
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Market}}

@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chicken Coop (Fenced) ======
+----
+
+<WRAP right>
+^  Chicken Coop                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchickencoopfenced.png?nolink|Chicken Coop (Fenced)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  15  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Chicken Coop (Fenced) is a Jinxie's Bitty mod building where workers raise chickens to produce eggs and meat. The fenced variant occupies a 5×3 footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Pens}}</wrap> **Animal Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittychickencoopmenuicon.png?nolink|Jinxie's Bitty Chicken Coop Set Items}}</wrap> **Jinxie's Bitty Chicken Coop Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchickencoopfenced.png?nolink|Chicken Coop (Fenced)}}</wrap> **Chicken Coop (Fenced)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxiefood.png?nolink|Jinxie's Food Production}}</wrap> **Jinxie's Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittychickencoopmenuicon.png?nolink|Jinxie's Bitty Chicken Coop Set Items}}</wrap> **Jinxie's Bitty Chicken Coop Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchickencoopfenced.png?nolink|Chicken Coop (Fenced)}}</wrap> **Chicken Coop (Fenced)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:egg|Egg]]
+  * [[WikiPages:food:chicken|Chicken]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Animal JinxieBittyChickenCoop}}

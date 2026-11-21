@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer (Animal Shed Plus) ======
+----
+
+<WRAP right>
+^  Gatherer                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspgatherer.png?nolink|Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  14  |
+|  Stone  |  11  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Animal Shed Plus gatherer. A Gatherer collects wild food from forest resources within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+----
+
+===== Produces =====
+
+  * Various wild food (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Animal Shed Plus v2.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=613|WoB]]
+
+{{tag>Building Gathering AnimalShedPlus}}

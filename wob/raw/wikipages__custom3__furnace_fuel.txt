@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Furnace Fuel ======
+----
+
+<WRAP right>
+^  Furnace Fuel                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom3  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  8/10  |
+|  Edible  |  No  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/fuelfurnace.png?nolink|Furnace Fuel}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Furnace Fuel serves as an industrial fuel powering production facilities in the Banished MegaMod. It is stockpiled and consumed by industrial buildings such as furnaces and forges. It has a modest trade value of 3.
+
+----
+
+===== Furnace Fuel Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fuel:fuelrefinery|Fuel Refinery]]
+  * Produced at the [[buildings:industrial:industrysmall2|Small Fuel Refinery]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Used at the [[buildings:brewery:distillery|Distillery]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom3}}

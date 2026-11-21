@@ -1,0 +1,63 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MG Crafters Guild ======
+----
+
+<WRAP right>
+^  MG Crafters Guild                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgcraftersguild.png?nolink|MG Crafters Guild}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/monk.png?nolink|Monk}}</wrap> Monk  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max Workers (Default)">Workers</abbr>  |  1 – 9 (default 1)  |
+|  <abbr "Required tool">Tool</abbr>  |  None  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  108  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The MG Crafters Guild is a multi-purpose production building from the Medieval Grace mod in the Banished MegaMod. Monks craft tools, clothing, and a variety of prepared foods for the colony.
+
+----
+
+===== Toolbar =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → MG Crafters Guild
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → MG Crafters Guild
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → MG Crafters Guild
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 2 [[WikiPages:wood:log|Wood]] | [[WikiPages:tool:wooden_tool|Wooden Tool]] |
+| 1 [[WikiPages:stone:stone|Stone]] + 1 [[WikiPages:wood:log|Wood]] | [[WikiPages:tool:stone_tool|Stone Tool]] |
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]] | [[WikiPages:tool:tool|Iron Tool]] |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]] | [[WikiPages:tool:steeltool|SteelTool]] |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]] | [[WikiPages:tool:hardened_tool|Hardened Tool]] |
+| 2 [[WikiPages:textile:leather|Leather]] | [[WikiPages:clothing:leathercoat|LeatherCoat]] |
+| 2 [[WikiPages:textile:wool|Wool]] | [[WikiPages:clothing:woolcoat|WoolCoat]] |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:wool|Wool]] | [[WikiPages:clothing:wintercoat|WinterCoat]] |
+| 24 [[WikiPages:grain:flour|Flour]] | [[WikiPages:food:bread_bread|Bread]] |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]] | [[WikiPages:food:nut_bread_nutbread|Nut Bread]] |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]] | [[WikiPages:food:herb_bread|Herb Bread]] |
+| 12 [[WikiPages:food:beef_beef|Beef]] | [[WikiPages:food:beef_steak|Beef Steak]] |
+| 12 [[WikiPages:food:mutton|Mutton]] | [[WikiPages:food:lamb_chop|Lamb Chop]] |
+| 12 [[WikiPages:food:venison|Venison]] | [[WikiPages:food:venison_roast|Venison Roast]] |
+| 6 [[WikiPages:food:beef_beef|Beef]] | [[WikiPages:food:sausages|Sausages]] |
+| 6 [[WikiPages:food:mutton|Mutton]] | [[WikiPages:food:sausages|Sausages]] |
+| 6 [[WikiPages:food:venison|Venison]] | [[WikiPages:food:sausages|Sausages]] |
+
+===== Other Information =====
+
+This building originally came from **Medieval Grace v1.32**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=407|WoB]]
+
+{{tag>Crafting}}

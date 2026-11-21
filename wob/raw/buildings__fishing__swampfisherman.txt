@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Swamp Fisherman ======
+----
+
+<WRAP right>
+^  Swamp Fisherman                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampfisherman.png?nolink|Swamp Fisherman}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Swamp Houses fisherman. Fishermen catch Fish from nearby water within a 14-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed}}</wrap> **Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampfisherman.png?nolink|Swamp Fisherman}}</wrap> **Swamp Fisherman**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampfisherman.png?nolink|Swamp Fisherman}}</wrap> **Swamp Fisherman**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+{{tag>Building Fishing KidSwampHouses}}

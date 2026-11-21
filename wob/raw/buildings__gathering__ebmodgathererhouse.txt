@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Modular Gatherer House ======
+----
+
+<WRAP right>
+^  Modular Gatherer House                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgathererhouse.png?nolink|Modular Gatherer House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Modular Gatherer residence. Houses up to 5 settlers. Typically paired with the [[buildings:gathering:ebmodgatherershed|Modular Gatherer Shed]], which provides the actual gathering work.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme}}</wrap> **EB Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmodular.png?nolink|Modular Forest Buildings Toolbar}}</wrap> **Modular Forest Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgathererhouse.png?nolink|Modular Gatherer House}}</wrap> **Modular Gatherer House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmodular.png?nolink|Modular Forest Buildings Toolbar}}</wrap> **Modular Forest Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgathererhouse.png?nolink|Modular Gatherer House}}</wrap> **Modular Gatherer House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebhousing.png?nolink|EB Housing and Homes}}</wrap> **EB Housing and Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgathererhouse.png?nolink|Modular Gatherer House}}</wrap> **Modular Gatherer House**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Gathering EBMod}}

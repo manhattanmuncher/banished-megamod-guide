@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== House 4 (Forge Of Dwarves - Winter) ======
+----
+
+<WRAP right>
+^  House 4                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwhouse04.png?nolink|House 4}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Forge Of Dwarves - Winter wooden house, alternate model; identical stats to [[buildings:houses:fodwhouse01|House 1 (Forge Of Dwarves - Winter)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwwood.png?nolink|Wood}}</wrap> **Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwhouse04.png?nolink|House 4}}</wrap> **House 4**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwwood.png?nolink|Wood}}</wrap> **Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwhouse04.png?nolink|House 4}}</wrap> **House 4**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatedwelling.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwhouse04.png?nolink|House 4 (Forge Of Dwarves - Winter)}}</wrap> **House 4 (Forge Of Dwarves - Winter)**
+
+----
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building Houses ForgeOfDwarvesWinter}}

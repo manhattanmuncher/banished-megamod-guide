@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mushroom Cave ======
+----
+
+<WRAP right>
+^  Mushroom Cave                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcmushroomcaves.png?nolink|Mushroom Cave}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  24.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Caves mushroom cave; free to build. Produces mushrooms. Available in two rock finishes, Gray and Brown, which are purely cosmetic — identical stats and cost either way.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcgraycaves.png?nolink|More Caves Gray}}</wrap> **More Caves Gray** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcmushroomcaves.png?nolink|Mushroom Cave}}</wrap> **Mushroom Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcbrowncaves.png?nolink|More Caves Brown}}</wrap> **More Caves Brown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcmushroomcaves.png?nolink|Mushroom Cave}}</wrap> **Mushroom Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcgraycaves.png?nolink|More Caves Gray}}</wrap> **More Caves Gray** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcmushroomcaves.png?nolink|Mushroom Cave}}</wrap> **Mushroom Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcbrowncaves.png?nolink|More Caves Brown}}</wrap> **More Caves Brown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcmushroomcaves.png?nolink|Mushroom Cave}}</wrap> **Mushroom Cave**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                                    ^
+| (none)       | [[WikiPages:food:mushroom|Mushroom]]        |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Gathering MoreCaves KID}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nordic School (alt) ======
+----
+
+<WRAP right>
+^  Nordic School                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnordica.png?nolink|Nordic School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A nordic school staffed by a Teacher, educating up to 20 students.
+
+----
+
+===== Where to Find =====
+
+This building is not accessible from the toolbar.
+
+----
+
+===== Other Information =====
+
+{{tag>Building School KidNordicHouses}}

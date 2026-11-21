@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Remove Deco (Traveling Trader) ======
+----
+
+<WRAP right>
+^  Remove Deco (Traveling Trader)                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/removetraderdeco.png?nolink|Remove Deco (Traveling Trader)}}</wrap>  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Traveling Trader upgrade option that removes a decoration. Appears as an upgrade button on Traveling Trader decoration buildings.
+
+----
+
+===== Where to Find =====
+
+Upgrade from any Traveling Trader decoration building:
+  * [[buildings:gathering:decocartbranch|Deco Branch Cart]]
+  * [[buildings:gathering:decocartfruitveg|Deco Fruit-Veg Cart]]
+  * [[buildings:gathering:decocarthunter|Deco Cart (Hunter)]]
+  * [[buildings:gathering:decocartmine|Deco Mine Cart]]
+  * [[buildings:gathering:decocartpeddler|Deco Peddler Cart]]
+  * [[buildings:gathering:decocartwood|Deco Wood Cart]]
+  * [[buildings:gathering:decoforester|Deco Forester]]
+  * [[buildings:gathering:decogatherer|Deco Gatherer]]
+  * [[buildings:gathering:decohouse|Deco House]]
+  * [[buildings:gathering:decohunter|Deco Hunter]]
+  * [[buildings:gathering:decomarket|Deco Market]]
+  * [[buildings:gathering:decomine|Deco Mine]]
+  * [[buildings:gathering:decoopenmarket|Deco Open Market]]
+  * [[buildings:gathering:decotrader1span|Deco 1-Span]]
+  * [[buildings:gathering:decotrader2span|Deco 2-Span]]
+
+----
+
+This building originally came from **Traveling Trader v1.0 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=632|WoB]]
+
+{{tag>Building Gathering TravelingTrader}}

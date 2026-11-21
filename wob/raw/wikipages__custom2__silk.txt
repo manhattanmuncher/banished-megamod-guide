@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silk ======
+----
+
+<WRAP right>
+^  Silk                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom2  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  10/12  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  3  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/silk.png?nolink|Silk}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silk is a processed fabric or refined textile in the Banished MegaMod. It is produced from raw fibers and stored in a Barn, used as an ingredient in clothing and other crafted goods. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Silk Mods =====
+
+==== Procuring / where to get ====
+
+* Produced at the [[buildings:clothing:weavers|Weavers]]
+  * Produced at the [[buildings:clothing:gasshosilk|Gassho Silk (A8 Japanese AllInOne)]]
+  * Produced at the [[buildings:clothing:oldweavers|Old Weavers (Colonial)]]
+  * Produced at the [[buildings:milling:watermill3|Watermill 3]]
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom2}}

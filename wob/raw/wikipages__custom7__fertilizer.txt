@@ -1,0 +1,69 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fertilizer ======
+----
+
+<WRAP right>
+^  Fertilizer                                     ^  xRK  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/6  |  2/3  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/fertilizer.png?nolink|Fertilizer}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fertilizer is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Fertilizer Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:animal_pens:abpanimalpen|ABP Animal Pen]]
+  * Produced at the [[buildings:animal_pens:abpcleaningshed|ABP Cleaning Shed]]
+  * [[buildings:animal_pens:animalpen|Animal Pen]]
+  * [[livestock:livestockbison|Bison]]
+  * [[livestock:livestockcow|Beef Cows]]
+  * [[livestock:livestockblrkcow|Friesian Cows]]
+  * [[livestock:livestockchicken|Chickens]]
+  * [[livestock:livestockdeer|Deer]]
+  * [[livestock:livestockgoat|Goats]]
+  * [[livestock:livestockhorse|Horses]]
+  * [[livestock:livestockllama|Llamas]]
+  * [[livestock:livestocklonghorn|Longhorn Cows]]
+  * [[livestock:livestockmilkycow|Red Friesian]]
+  * [[livestock:livestockrkduck|Ducks]]
+  * [[livestock:livestocksheep|Sheep]]
+  * [[livestock:livestockwhitechicken|Leghorns]]
+  * Produced at the [[buildings:animal_pens:dsjabjetty5x3chickens|Jetty Chicken Coop]]
+  * Produced at the [[buildings:animal_pens:dsjabjetty5x3chickenstex2|Jetty Chicken Coop (Tex2)]]
+  * Produced at the [[buildings:resources:fbcleaningshed|Cleaning Shed (Friendly Blue)]]
+  * Produced at the [[buildings:gathering:ghfcleaningshed|Cleaning Shed (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:hgcleaningshed|Cleaning Shed (Home Grown)]]
+  * Produced at the [[buildings:greenhouse:hgpatchsnails|Snails Patch (Home Grown)]]
+  * Produced at the [[buildings:animal_pens:rkgardenwalls2stables|Garden Walls Stables]]
+  * Produced at the [[buildings:animal_pens:rkgardenwallsstables|Stables (Garden Walls)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:greenhouse:abpgreenhouse|ABP Greenhouse]] (for Oat, Potato, Blueberries, Onion, or Carrots)
+  * Used at the [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]]
+  * Used at the [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]]
+  * Used at the [[buildings:food:dsjabjettymushrooms|Jetty Mushroom Farm]]
+  * Used at the [[buildings:food:dsjabjettymushroomstex2|Jetty Mushroom Farm (Tex2)]]
+  * Used at the [[buildings:greenhouse:fbgreenhouse01|Greenhouse (Friendly Blue)]] (for Oats, Potato, Blueberries)
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+  * Used at the [[buildings:greenhouse:tropicalgreenhouse|Tropical Greenhouse]] (for tropical fruits)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

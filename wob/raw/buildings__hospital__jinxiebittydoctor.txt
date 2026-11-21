@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Doctor (Jinxie's Bitty Village Set) ======
+----
+
+<WRAP right>
+^  Bitty Doctor                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittydoctor.png?nolink|Bitty Doctor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 30)  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+|  [[WikiPages:iron:iron|Iron]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie's Bitty Village Set clinic staffed by a Doctor, providing Health happiness within a radius of 30 tiles and treating up to 30 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxieservices.png?nolink|Jinxie's Town Services}}</wrap> **Jinxie's Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittydoctor.png?nolink|Bitty Doctor}}</wrap> **Bitty Doctor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittydoctor.png?nolink|Bitty Doctor}}</wrap> **Bitty Doctor**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hospital JinxieBittyVillageSet}}

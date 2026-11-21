@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ducks ======
+----
+
+<WRAP right>
+^  Ducks                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockrkducks.png?nolink|Ducks}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  400  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  7 tiles  |
+|  <abbr "Product produced periodically while alive">Periodic Product</abbr>  |  Egg (every 0.8 months)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Ducks are small livestock raised at a Pasture. They lay Eggs frequently and yield Duck Meat, Feathers, and Fertilizer when slaughtered. Their small pasture footprint makes them very space-efficient.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Periodic Products =====
+
+  * [[WikiPages:food:egg|Egg]] — produced every 0.8 months
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:duck_meat|Duck Meat]]
+  * [[WikiPages:textile:feathers_feather|Feathers]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockRKDuck}}

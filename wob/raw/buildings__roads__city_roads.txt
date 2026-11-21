@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== City Roads ======
+----
+
+<WRAP right>
+^  City Roads                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cityroadstexture01.png?nolink|City Roads}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (1×1 up to 4×4 blocks)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  None (walkable road)  |
+^  Build Cost (per piece, scales with size)                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  Varies (e.g. 18 for a 3×3)  |
+|  [[WikiPages:stone:stone|Stone]]  |  Varies (e.g. 9 for a 3×3)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large set of RedKetchup pre-formed paved road blocks for laying down city streets and plazas in one click instead of tile by tile. Roads come in three paving textures and a wide range of block shapes and widths — straights, ends, soft turns, sharp turns, diagonals, 3-way and 4-way intersections — built from stone scaled to the block size.
+
+----
+
+===== Variants =====
+
+  * **Three paving textures** — City Roads Texture 01, 02 and 03 (alternate cobble/paving looks).
+  * **Widths** — 1-tile (Xtra), 3-tile (3X) and 4-tile (4X) wide blocks, plus a "2T" two-texture series.
+  * **Shapes** (per width) — straight blocks (3×1 … 4×4), Ends, Turns, Soft Turns (left/right), Diagonals, T-junctions (3-Way / 4-Way), plus 1×1 sidewalk and road-patch fillers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cityroadstexture01.png?nolink|City Roads Texture 01}}</wrap> **City Roads Texture 01/02/03** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cityroadstoolbar3x.png?nolink|City Roads Width}}</wrap> **City Roads 1X / 3X / 4X** → the road block
+
+----
+
+This building originally came from **City Roads v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=200|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1134464009|Steam]]
+
+{{tag>Building Roads CityRoads}}

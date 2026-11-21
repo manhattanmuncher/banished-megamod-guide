@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Archaeology (Upgraded) ======
+----
+
+<WRAP right>
+^  Archaeology                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalarcheologyupg.png?nolink|Medieval Archaeology (Upgraded)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/archeologist.png?nolink|Archeologist}}</wrap> Archeologist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:wood:log|Wood]]  |  14  |
+|  [[WikiPages:custom5:brick|Brick]]  |  32  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+An upgraded Medieval Archaeology site with improved efficiency, and the ability to process clay as well as stone.
+
+----
+
+===== Where to Find =====
+
+The Medieval Archaeology (Upgraded) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:crafting:newmedievalarcheology|Medieval Archaeology]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                ^ Produces                                                                      ^
+| 1 [[WikiPages:stone:stone|Stone]]                          | [[WikiPages:custom6:archeology_artefact|Artefact]]                            |
+| 1 [[WikiPages:custom4:clay|Clay]]                          | [[WikiPages:custom6:archeology_artefact|Artefact]]                            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building RKEditorChoice}}

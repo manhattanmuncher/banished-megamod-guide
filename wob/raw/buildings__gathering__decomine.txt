@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deco Mine ======
+----
+
+<WRAP right>
+^  Deco Mine                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecomine.png?nolink|Deco Mine}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default: 1)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Traveling Trader decorative mine building. No resources are gathered or produced.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Special Trade}}</wrap> **Special Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtraderdeco.png?nolink|Trader Deco}}</wrap> **Trader Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecomine.png?nolink|Deco Mine}}</wrap> **Deco Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtraderdeco.png?nolink|Trader Deco}}</wrap> **Trader Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecomine.png?nolink|Deco Mine}}</wrap> **Deco Mine**
+
+----
+
+===== Produces =====
+
+  * Nothing (decorative building)
+
+----
+
+===== Other Information =====
+
+Can be removed using the RemoveTraderDeco upgrade option.
+
+This building originally came from **Traveling Trader v1.0 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=632|WoB]]
+
+{{tag>Building Gathering TravelingTrader}}

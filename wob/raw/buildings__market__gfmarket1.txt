@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Market (Gothic Fantasy 1) ======
+----
+
+<WRAP right>
+^  Small Market                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfmarket.png?nolink|Small Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 2)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  8,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  46  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  Stone  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A dark-themed Gothic Fantasy market. Distributes a wide variety of goods to nearby settlers and provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfantasy01.png?nolink|Gothic Fantasy 1}}</wrap> **Gothic Fantasy 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfmarket.png?nolink|Small Market}}</wrap> **Small Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfantasy01.png?nolink|Gothic Fantasy 1}}</wrap> **Gothic Fantasy 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfmarket.png?nolink|Small Market}}</wrap> **Small Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel and Coal and Coke
+  * Tools
+  * Health items
+  * Clothing
+  * Iron and Logs
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gothic Fantasy v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=365|WoB]]
+
+{{tag>Market}}

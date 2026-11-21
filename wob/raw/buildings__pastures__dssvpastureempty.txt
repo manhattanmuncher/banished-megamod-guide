@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Pasture (Fenceless) ======
+----
+
+<WRAP right>
+^  Village Pasture (Fenceless)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvpastureempty.png?nolink|Village Pasture (Fenceless)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village fenceless pasture; build in a player-drawn area for livestock to graze. No materials are required beyond labor.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpasture.png?nolink|Pastures}}</wrap> **Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvpastureempty.png?nolink|Village Pasture (Fenceless)}}</wrap> **Village Pasture (Fenceless)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfoodcop.png?nolink|Crops, Orchards & Pastures}}</wrap> **Crops, Orchards & Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvpastureempty.png?nolink|Village Pasture (Fenceless)}}</wrap> **Village Pasture (Fenceless)**
+
+----
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Pastures DSSV}}

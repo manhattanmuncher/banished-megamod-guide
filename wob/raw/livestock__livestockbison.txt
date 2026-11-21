@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bison ======
+----
+
+<WRAP right>
+^  Bison                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/bison.png?nolink|Bison}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  800  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  20 tiles  |
+</WRAP>
+<WRAP right></WRAP>
+
+Bison are large livestock raised at a Pasture. They produce Bison Meat, Leather, and Mountain Oyster when slaughtered.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:bison_meat|Bison Meat]]
+  * [[WikiPages:textile:leather|Leather]] ×2
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+  * [[WikiPages:custom7:mountain_oyster|Mountain Oyster]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock Bison}}

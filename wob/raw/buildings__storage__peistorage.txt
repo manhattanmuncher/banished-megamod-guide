@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== PEI Shore Storage ======
+----
+
+<WRAP right>
+^  PEI Shore Storage                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeistorage.png?nolink|PEI Shore Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A PEI Shore dock-based general storage. Settlers store tools, health items, clothing, textiles, and a variety of goods with a capacity of 5,000 units. Available in 3 appearance variants using F to cycle.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeistorage.png?nolink|PEI Shore Storage}}</wrap> **PEI Shore Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratooldocks.png?nolink|Necora's Maritimes Docks}}</wrap> **Necora's Maritimes Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratooldockstorage.png?nolink|Necora's Maritimes Dock Storage}}</wrap> **Necora's Maritimes Dock Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeistorage.png?nolink|PEI Shore Storage}}</wrap> **PEI Shore Storage**
+
+----
+
+This building originally came from **Maritimes PEI Shore Fisheries v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=186|WoB]]
+
+{{tag>Building Storage Maritimes}}

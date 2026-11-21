@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Chapel ======
+----
+
+<WRAP right>
+^  Small Chapel                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17church.png?nolink|Small Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 20)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  160  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  90  |
+|  [[WikiPages:stone:stone|Stone]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter small chapel staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 20 tiles and accommodating up to 160 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworshipandremembrance.png?nolink|Worship and Remembrance}}</wrap> **Worship and Remembrance** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17church.png?nolink|Small Chapel}}</wrap> **Small Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17church.png?nolink|Small Chapel}}</wrap> **Small Chapel**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Worship ColonialCharter}}

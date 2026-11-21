@@ -1,0 +1,25 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sand and Clay Buildings ======
+----
+
+Buildings that gather and process sand, clay, and related earthen materials.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:sand_clay:mfclaypit|Clay Pit (Mexican Fantasy)]] | Mexican Fantasy clay pit; Worker digs Clay from the ground |
+| [[buildings:sand_clay:nmt30mcclaypit|Clay Pit (NMT)]] | NMT clay pit; Stonecutter excavates clay for brickmaking and pottery |
+| [[buildings:sand_clay:dsjabconstructionyardsand|Jetty Construction: Sand Mine]] | DS Jetty & Bridge mining building; Worker quarries Sand from a limited deposit; Detraction building |
+| [[buildings:sand_clay:newmedievalclaypit|Medieval Clay Pit]] | NMT Medieval Clay Pit; Stonecutter excavates clay from the ground |
+| [[buildings:sand_clay:newmedievalkiln|Medieval Kiln]] | NMT Medieval Kiln; Kilnman fires clay into bricks and roof tiles using firewood |
+| [[buildings:sand_clay:oldshorepit|Old Shore Pit (Colonial)]] | Colonial shore pit; Worker gathers sand, clay, turtles, frog legs, and reeds from shoreline terrain |
+| [[buildings:sand_clay:nmt30mcsandpit|Sand Pit]] | NMT sand pit; Stonecutter excavates sand for glassmaking and construction |
+| [[buildings:sand_clay:shorepit|Shore House]] | Colonial Charter shore house; Pit Digger harvests sand, clay, turtles, frog legs, and reeds from shoreline terrain |
+| [[buildings:sand_clay:ebshorehut|Shore Hut]] | EB mod shore hut; Pit Digger gathers Sand and Clay from the shoreline |
+| [[buildings:sand_clay:ebsvclaypit|Village Clay Pit]] | EB Small Village clay pit; Worker digs Clay for pottery and brickmaking |
+| [[buildings:sand_clay:ebsvsandpit|Village Sand Pit]] | EB Small Village sand pit; Worker digs Sand for glassworks and brickyards |
+
+----
+
+{{tag>Buildings SandClay}}

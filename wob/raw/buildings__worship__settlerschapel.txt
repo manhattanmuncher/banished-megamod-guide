@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chapel (Settlers) ======
+----
+
+<WRAP right>
+^  Chapel                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerschapel.png?nolink|Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Worship type">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit  |
+|  <abbr "Service radius in tiles">Radius</abbr>  |  30  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  120  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  68  |
+|  [[WikiPages:wood:log|Wood]]  |  44  |
+</WRAP>
+<WRAP right></WRAP>
+
+A chapel staffed by a Priest, providing Spirit happiness to up to 120 worshippers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersservice.png?nolink|Service}}</wrap> **Service** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerschapel.png?nolink|Chapel}}</wrap> **Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersservice.png?nolink|Service}}</wrap> **Service** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerschapel.png?nolink|Chapel}}</wrap> **Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerschapel.png?nolink|Chapel (Settlers)}}</wrap> **Chapel (Settlers)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Worship Settlers}}

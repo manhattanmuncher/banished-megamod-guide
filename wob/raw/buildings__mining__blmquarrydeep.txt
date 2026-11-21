@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deep Stone & Salt Mine ======
+----
+
+<WRAP right>
+^  Deep Stone & Salt Mine                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblmquarryupgrade.png?nolink|Deep Stone & Salt Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  11 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default 3)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  5000  |
+|  Upgraded From  |  [[buildings:mining:blmquarry|Stone & Salt Mine]]  |
+|  Upgrades To  |  [[buildings:mining:blmquarrydeeper|Deeper Stone & Salt Mine]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  100  |
+|  [[WikiPages:custom0:candles|Candles]]  |  70  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Deep Surface Mine for mining Stone and Salt. Provides much greater resource production. Upgraded versions allow the ground to be reclaimed on removal.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:blmquarry|Stone & Salt Mine]].
+
+----
+
+===== Produces =====
+
+The player selects which material to produce.
+
+  * [[WikiPages:stone:stone|Stone]]
+  * [[WikiPages:coalfuel:salt|Salt]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining BLMQuarryDeep}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cart: Fabrics ======
+----
+
+<WRAP right>
+^  Cart: Fabrics                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewcartsfabrics.png?nolink|Cart: Fabrics}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Radius  |  20  |
+|  Storage  |  1,500  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A specialized mini market as big as a cart. Distributes fabrics such as cured leather, linen, and cloth to nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewcartstoolbar.png?nolink|Carts Toolbar}}</wrap> **Carts Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewcartsfabrics.png?nolink|Cart: Fabrics}}</wrap> **Cart: Fabrics**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewcartstoolbar.png?nolink|Carts Toolbar}}</wrap> **Carts Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewcartsfabrics.png?nolink|Cart: Fabrics}}</wrap> **Cart: Fabrics**
+
+----
+
+===== Stocks =====
+
+  * Fabrics
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Market RKEditorChoice}}

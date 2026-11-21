@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lumber Mill Decorations ======
+----
+
+<WRAP right>
+^  Lumber Mill Decorations                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddslumbermilldecologs1x2.png?nolink|Lumber Mill Decorations}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Various  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free – low (varies by piece)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Lumber Mill decorative pieces — log piles, lumber stacks, and wharf platforms — for dressing a sawmill yard. Includes free decorative log/lumber piles and built wharf pieces.
+
+----
+
+===== Variants =====
+
+^ Piece ^ Size ^ Build Cost ^
+| Decorative Log Pile | 1×2 / 2×2 | Free |
+| Lumber Stack | 1×2 / 2×2 / 4×2 | Free |
+| Lumber Mill Wharf | 2×2 / 3×3 / corners / angles | Stone + Wood + Lumber |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrates.png?nolink|Crates}}</wrap> **Crates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddslumbermilldecologs1x2.png?nolink|Lumber Mill Decorations}}</wrap> **Lumber Mill Decorations**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dslumbermillmenu.png?nolink|DS Lumber Mill}}</wrap> **DS Lumber Mill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddslumbermilldecologs1x2.png?nolink|Lumber Mill Decorations}}</wrap> **Lumber Mill Decorations**
+
+----
+
+{{tag>Building Decorations DSLumberMill}}

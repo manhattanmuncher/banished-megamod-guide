@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Flax Gatherer ======
+----
+
+<WRAP right>
+^  Flax Gatherer                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildflaxgatherer.png?nolink|Flax Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Flora flax gatherer. A Gatherer collects wild flax from surrounding fields within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlinenproduction.png?nolink|Linen Production}}</wrap> **Linen Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildflaxgatherer.png?nolink|Flax Gatherer}}</wrap> **Flax Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Produce}}</wrap> **Resource Produce** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildflaxgatherer.png?nolink|Flax Gatherer}}</wrap> **Flax Gatherer**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:textile:flax|Flax]]
+
+----
+
+This building originally came from **New Flora**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=106|WoB]]
+
+{{tag>Building Gathering NewFlora}}

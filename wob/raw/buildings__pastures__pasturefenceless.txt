@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pasture Fenceless ======
+----
+
+<WRAP right>
+^  Pasture Fenceless                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/pasturefenceless.png?nolink|Pasture Fenceless}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:custom7:fodder-thatch_haystack|Fodder-Thatch]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor's Choice fenceless pasture; build in a player-drawn area for livestock to graze. Requires Fodder-Thatch instead of wood for construction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpasture.png?nolink|Pastures}}</wrap> **Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/pasturefenceless.png?nolink|Pasture Fenceless}}</wrap> **Pasture Fenceless**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/pasturefenceless.png?nolink|Pasture Fenceless}}</wrap> **Pasture Fenceless**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Pastures EditorChoice}}

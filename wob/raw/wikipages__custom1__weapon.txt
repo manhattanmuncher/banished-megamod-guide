@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Weapon ======
+----
+
+<WRAP right>
+^  Weapon                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/5  |
+|  Edible  |  No  |
+|  Trade Value  |  20  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  8  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rkweapon1.png?nolink|Weapon}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Weapon is a forged item crafted from metal in the Banished MegaMod. It is produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. At a trade value of 20, it is highly prized by traveling merchants.
+
+----
+
+===== Weapon Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:metalworking:nmt30weaponmaker|Weapon Maker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

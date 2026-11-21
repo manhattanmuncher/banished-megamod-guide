@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trade Goods ======
+----
+
+<WRAP right>
+^  Trade Goods                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/6  |
+|  Edible  |  No  |
+|  Trade Value  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  8  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tradegoods.png?nolink|Trade Goods}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Trade Goods are a miscellaneous trade good available in the Banished MegaMod. They are stored in a Barn and mainly useful for trading with passing merchant caravans. They have a modest trade value of 5.
+
+----
+
+===== Trade Goods Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:workshop:fotworkshop|Workshop]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

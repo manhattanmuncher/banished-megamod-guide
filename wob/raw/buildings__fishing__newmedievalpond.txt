@@ -1,0 +1,23 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalpond.png?nolink|Medieval Pond}}</wrap> **Medieval Pond**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalpond.png?nolink|Medieval Pond}}</wrap> **Medieval Pond**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalpond.png?nolink|Medieval Pond}}</wrap> **Medieval Pond**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+Must be placed on water.
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Food Fishing RKEditorChoice}}

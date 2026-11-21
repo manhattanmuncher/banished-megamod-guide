@@ -1,0 +1,38 @@
+~~NOTOC~~
+
+====== Textiles (Raw) ======
+----
+
+Raw textile materials such as Wool, Leather, and Flax, used as inputs for clothing and fabric production.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/book.png?nolink|Book}} [[WikiPages:textile:book|Book]]
+  * {{https://sprites.worldofbanished.com/cotton.png?nolink|Cotton}} [[WikiPages:textile:cotton|Cotton]]
+  * {{https://sprites.worldofbanished.com/down.png?nolink|Down}} [[WikiPages:textile:down|Down]]
+  * {{https://sprites.worldofbanished.com/feather.png?nolink|Feathers}} [[WikiPages:textile:feathers_feather|Feathers]]
+  * {{https://sprites.worldofbanished.com/feather.png?nolink|Feathers}} [[WikiPages:textile:feathers_feathers|Feathers]]
+  * {{https://sprites.worldofbanished.com/flax.png?nolink|Flax}} [[WikiPages:textile:flax|Flax]]
+  * {{https://sprites.worldofbanished.com/fur.png?nolink|Fur}} [[WikiPages:textile:fur|Fur]]
+  * {{https://sprites.worldofbanished.com/hemp.png?nolink|Hemp}} [[WikiPages:textile:hemp_hemp|Hemp]]
+  * {{https://sprites.worldofbanished.com/hemp.png?nolink|Hemp}} [[WikiPages:textile:hemp_hempleaf|Hemp]]
+  * {{https://sprites.worldofbanished.com/leather.png?nolink|Leather}} [[WikiPages:textile:leather|Leather]]
+  * {{https://sprites.worldofbanished.com/maplesap.png?nolink|MapleSap}} [[WikiPages:textile:maplesap|MapleSap]]
+  * {{https://sprites.worldofbanished.com/rmpelt.png?nolink|Pelt}} [[WikiPages:textile:pelt|Pelt]]
+  * {{https://sprites.worldofbanished.com/nvrarefeather.png?nolink|Rare Feather}} [[WikiPages:textile:rare_feather|Rare Feather]]
+  * {{https://sprites.worldofbanished.com/reindeerhide.png?nolink|Reindeer Hide}} [[WikiPages:textile:reindeer_hide|Reindeer Hide]]
+  * {{https://sprites.worldofbanished.com/sack.png?nolink|Sack}} [[WikiPages:textile:sack|Sack]]
+  * {{https://sprites.worldofbanished.com/cocoons.png?nolink|Silk Cocoons}} [[WikiPages:textile:silk_cocoons|Silk Cocoons]]
+  * {{https://sprites.worldofbanished.com/tobaccoleaf.png?nolink|Tobacco Leaf}} [[WikiPages:textile:tobacco_leaf|Tobacco Leaf]]
+  * {{https://sprites.worldofbanished.com/twine.png?nolink|Twine}} [[WikiPages:textile:twine|Twine]]
+  * {{https://sprites.worldofbanished.com/wildanimalskin.png?nolink|WildAnimalSkin}} [[WikiPages:textile:wildanimalskin|WildAnimalSkin]]
+  * {{https://sprites.worldofbanished.com/wool.png?nolink|Wool}} [[WikiPages:textile:wool|Wool]]
+  * {{https://sprites.worldofbanished.com/yarn.png?nolink|Yarn}} [[WikiPages:textile:yarn|Yarn]]
+
+----
+
+{{tag>Textile}}

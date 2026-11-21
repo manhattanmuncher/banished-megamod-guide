@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tavern 2 (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Tavern 2                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotptavern2.png?nolink|Tavern 2 (Old Town Ports)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Entertainment (radius 30)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports tavern (alternate style) where a brewer produces rum and ale from a variety of ingredients. Provides Entertainment happiness across a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotptavern2.png?nolink|Tavern 2}}</wrap> **Tavern 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotptavern2.png?nolink|Tavern 2}}</wrap> **Tavern 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotptavern2.png?nolink|Tavern 2 (Old Town Ports)}}</wrap> **Tavern 2 (Old Town Ports)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                          ^ Produces                              ^
+| 1 [[WikiPages:vegetable:rum_barrel|Rum Barrel]]                      | [[WikiPages:alcohol:rum|Rum]]         |
+| 30 [[WikiPages:food:apple|Apple]]                                    | [[WikiPages:alcohol:ale|Ale]]         |
+| 60 [[WikiPages:food:blueberries|Blueberry]]                          | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:cherry|Cherry]]                                  | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:peach|Peach]]                                    | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:pear|Pear]]                                      | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:plum|Plum]]                                      | [[WikiPages:alcohol:ale|Ale]]         |
+| 100 [[WikiPages:food:wheat|Wheat]]                                   | [[WikiPages:alcohol:ale|Ale]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town Ports & Pirates v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=493|WoB]]
+
+{{tag>Building Brewing Entertainment OldTownPorts}}

@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bison Meat ======
+----
+
+<WRAP right>
+^  Bison Meat                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  180/240  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/bisonmeat.png?nolink|Bison Meat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Bison Meat is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Bison Meat Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockbison|Bison]]
+  * [[buildings:frontier:nativetrader|Native Trader (CC Frontier)]]
+  * Produced at the [[buildings:hunting:rkmctower|Watch Tower (RK Training Camp)]] (random)
+  * Produced at the [[buildings:hunting:rkmctower2|Watch Tower 2 (RK Training Camp)]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketroastlarge|Market Roast Large]] (for Market Roast)
+  * Used at the [[buildings:butcher:tinybutcher|Tiny Butcher]] (for Bison Steak, Sausages)
+  * Used at the [[buildings:butcher:wpbutcher|WP Butcher]] (for Bison Steak, Sausages)
+  * Used at the [[buildings:food:whchuck|Chuck Wagon]] (for Stew)
+  * Used at the [[buildings:butcher:woodbutcher|Wood Butcher]] (for Bison Steak)
+  * Used at the [[buildings:butcher:wwbutcher|Butcher (Wild West Cattle Drive)]] (for Steak, Roast)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

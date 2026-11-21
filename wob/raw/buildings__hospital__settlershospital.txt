@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hospital (Settlers) ======
+----
+
+<WRAP right>
+^  Hospital                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershospital.png?nolink|Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients">Patients</abbr>  |  13  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+</WRAP>
+<WRAP right></WRAP>
+
+A hospital staffed by a Doctor, treating up to 13 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersservice.png?nolink|Service}}</wrap> **Service** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershospital.png?nolink|Hospital}}</wrap> **Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersservice.png?nolink|Service}}</wrap> **Service** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershospital.png?nolink|Hospital}}</wrap> **Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershospital.png?nolink|Hospital (Settlers)}}</wrap> **Hospital (Settlers)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Hospital Settlers}}

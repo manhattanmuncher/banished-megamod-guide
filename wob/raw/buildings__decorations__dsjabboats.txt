@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== DS Small Boats ======
+----
+
+<WRAP right>
+^  DS Small Boats                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsboatsmall1.png?nolink|DS Small Boats}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative small boats from the DS Jetty & Bridge mod, placed on water to dress harbours and jetties. Each has no footprint and can be placed freely.
+
+----
+
+===== Variants =====
+
+^ Boat ^
+| Small Boat (1 / 2) |
+| Small Rowboat |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Deco}}</wrap> **Fences, Walls & Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsboatsmall1.png?nolink|DS Small Boats}}</wrap> **Jetty Deco** → select boat
+
+----
+
+{{tag>Building Decorations DSJaB}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Quiet Garden (The Mission) ======
+----
+
+<WRAP right>
+^  Quiet Garden                                                                      ^  The Mission  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvquietgarden.png?nolink|Quiet Garden}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  4  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  68  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Mission themed decorative garden that provides Safety happiness and fire suppression within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvquietgarden.png?nolink|Quiet Garden}}</wrap> **Quiet Garden (The Mission)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|The Mission}}</wrap> **The Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvquietgarden.png?nolink|Quiet Garden}}</wrap> **Quiet Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|The Mission}}</wrap> **The Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvquietgarden.png?nolink|Quiet Garden}}</wrap> **Quiet Garden**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells SBVMission}}

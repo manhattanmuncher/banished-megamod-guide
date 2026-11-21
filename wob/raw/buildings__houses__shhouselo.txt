@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Haven House Low ======
+----
+
+<WRAP right>
+^  Haven House Low                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhouselo.png?nolink|Haven House Low}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  64  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Summer Haven ground-floor house; houses up to 4 settlers in 1 apartment.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhhouses.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhouselo.png?nolink|Haven House Low}}</wrap> **Haven House Low**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhhouses.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhouselo.png?nolink|Haven House Low}}</wrap> **Haven House Low**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhouse.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshhouselo.png?nolink|Haven House Low}}</wrap> **Haven House Low**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Summer Haven v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=598|WoB]]
+
+{{tag>Building Houses SummerHaven}}

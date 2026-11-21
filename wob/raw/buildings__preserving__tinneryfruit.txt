@@ -1,0 +1,63 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fruit Tinnery ======
+----
+
+<WRAP right>
+^  Fruit Tinnery                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinneryfruit.png?nolink|Fruit Tinnery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinner.png?nolink|Tinner}}</wrap> Tinner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 18)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+|  [[WikiPages:custom1:tin|Tin]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter tinnery where Tinners preserve fresh fruit into Tinned Fruit using Tin. Produces more food value than the raw ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartinnery.png?nolink|Tinneries}}</wrap> **Tinneries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinneryfruit.png?nolink|Fruit Tinnery}}</wrap> **Fruit Tinnery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartinnery.png?nolink|Tinneries}}</wrap> **Tinneries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinneryfruit.png?nolink|Fruit Tinnery}}</wrap> **Fruit Tinnery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                         ^ Produces                                          ^
+| 20 [[WikiPages:food:pear|Pear]] + 1 [[WikiPages:custom1:tin|Tin]]                                                  | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:apple|Apple]] + 1 [[WikiPages:custom1:tin|Tin]]                                                 | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:blueberries|Blueberry]] + 1 [[WikiPages:custom1:tin|Tin]]                                       | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:cherry|Cherry]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:peach|Peach]] + 1 [[WikiPages:custom1:tin|Tin]]                                                 | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:plum|Plum]] + 1 [[WikiPages:custom1:tin|Tin]]                                                   | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:apricots|Apricot]] + 1 [[WikiPages:custom1:tin|Tin]]                                            | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:blackberries|Blackberry]] + 1 [[WikiPages:custom1:tin|Tin]]                                     | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:figs|Fig]] + 1 [[WikiPages:custom1:tin|Tin]]                                                    | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:grapes|Grape]] + 1 [[WikiPages:custom1:tin|Tin]]                                                | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:quinces|Quince]] + 1 [[WikiPages:custom1:tin|Tin]]                                              | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:raspberries|Raspberry]] + 1 [[WikiPages:custom1:tin|Tin]]                                       | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:red_mulberries|Red Mulberry]] + 1 [[WikiPages:custom1:tin|Tin]]                                 | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:rockmelon|Rockmelon]] + 1 [[WikiPages:custom1:tin|Tin]]                                         | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:strawberries|Strawberry]] + 1 [[WikiPages:custom1:tin|Tin]]                                     | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:watermelons|Watermelon]] + 1 [[WikiPages:custom1:tin|Tin]]                                      | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+| 20 [[WikiPages:food:orange|Orange]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_fruit|Tinned Fruit]]      |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Preserving ColonialCharter}}

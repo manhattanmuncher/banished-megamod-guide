@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Little Stockage (B) ======
+----
+
+<WRAP right>
+^  Country Little Stockage (B)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlestock.png?nolink|Country Little Stockage (B)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Fuel, Tools, Health, Clothing, Textile, Custom 0/2/3/5/7  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Country Little House stockage building. Settlers store fuel, tools, clothing, and other goods with a capacity of 2,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehousetoolbar.png?nolink|Country Little House Toolbar}}</wrap> **Country Little House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlestock.png?nolink|Country Little Stockage (B)}}</wrap> **Country Little Stockage (B)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehousetoolbar.png?nolink|Country Little House Toolbar}}</wrap> **Country Little House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlestock.png?nolink|Country Little Stockage (B)}}</wrap> **Country Little Stockage (B)**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage CountryLittle}}

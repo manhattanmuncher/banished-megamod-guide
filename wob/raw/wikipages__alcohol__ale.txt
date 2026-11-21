@@ -1,0 +1,90 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ale ======
+----
+
+<WRAP right>
+^  Ale                                            ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |  7/10  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  8  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/ale.png?nolink|Ale}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Ale is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Ale Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery|Brewery]]
+  * Produced at the [[buildings:worship:abbey|Abbey]]
+  * Produced at the [[buildings:crafting:bbnightcap|Night Cap]]
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:brewery:cmtavern|The Pilgrims Rest]]
+  * Produced at the [[buildings:brewery:capetownbar|Cape Town Bar]]
+  * Produced at the [[buildings:brewery:apnightcap|Cider Barrel]]
+  * Produced at the [[buildings:brewery:cornertavernt1|Tavern (Corner T1)]]
+  * Produced at the [[buildings:brewery:cornertavernt2|Tavern (Corner T2)]]
+  * Produced at the [[buildings:brewery:cornertavernt3|Tavern (Corner T3)]]
+  * Produced at the [[buildings:brewery:cornertavernt4|Tavern (Corner T4)]]
+  * Produced at the [[buildings:brewery:cornertavernt5|Tavern (Corner T5)]]
+  * Produced at the [[buildings:brewery:cornertavernt6|Tavern (Corner T6)]]
+  * Produced at the [[buildings:brewery:cornertavernt7|Tavern (Corner T7)]]
+  * Produced at the [[buildings:brewery:cornertavernt8|Tavern (Corner T8)]]
+  * Produced at the [[buildings:brewery:dsalehouse|Ale House]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Produced at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Produced at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Produced at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]]
+  * Produced at the [[buildings:brewery:fbtavern|Friendly Tavern]]
+  * Produced at the [[buildings:brewery:fbttavern|Friendly Tavern (Too)]]
+  * Produced at the [[buildings:brewery:fntavern|Tavern (Friendly Neighborhood)]]
+  * Produced at the [[buildings:brewery:fodalehouse|Ale House (Forge Of Dwarves)]]
+  * Produced at the [[buildings:brewery:fodwalehouse|Ale House (Forge Of Dwarves - Winter)]]
+  * Produced at the [[buildings:brewery:fptavern|Friendly Tavern (Friendly Pumpkin)]]
+  * Produced at the [[buildings:brewery:gftavern1|Midnight Heart (Gothic Fantasy 1)]]
+  * Produced at the [[buildings:brewery:gftavern2|Autumn Leaves (Gothic Fantasy 2)]]
+  * Produced at the [[buildings:brewery:gntavern|Friendly Tavern (Granny Neighborhood)]]
+  * Produced at the [[buildings:brewery:hobbittavern|The Green Dragon (Hobbit)]]
+  * Produced at the [[buildings:brewery:hobbittavernf|The Green Dragon (Hobbit, Freestanding)]]
+  * Produced at the [[buildings:brewery:jinxiebittypub|Bitty Pub]]
+  * Produced at the [[buildings:worship:mgmonastery|MG Monastery (Medieval Grace)]]
+  * [[buildings:frontier:musketrange|Musket Range]] (random, from Silver Pfennig)
+  * Produced at the [[buildings:brewery:newmedievaltavern|Medieval Tavern (New Medieval)]]
+  * Produced at the [[buildings:brewery:newmedievaltavernupg1|Medieval Tavern (Upgrade 1) (New Medieval)]]
+  * Produced at the [[buildings:brewery:newmedievaltavernupg2|Medieval Tavern (Upgrade 2) (New Medieval)]]
+  * Produced at the [[buildings:brewery:otptavern1|Tavern 1 (Old Town Ports)]]
+  * Produced at the [[buildings:brewery:otptavern2|Tavern 2 (Old Town Ports)]]
+  * Produced at the [[buildings:brewery:otstonetavern|Stone Tavern (Old Town)]]
+  * Produced at the [[buildings:brewery:ottavern|Tavern (Old Town)]]
+  * Produced at the [[buildings:brewery:oldhoveltavern|Old Hovel Tavern (Old Hovels)]]
+  * Produced at the [[buildings:brewery:shwbrewer|Brewer Workplace (Summer Haven)]]
+  * Produced at the [[buildings:brewery:swbrewery|Quay Brewery]]
+  * Produced at the [[buildings:brewery:tinytavern|Tiny Tavern]]
+  * Produced at the [[buildings:trading_post:traingeneralcar|Train General Car]]
+  * Produced at the [[buildings:brewery:wfbrewer|WF Brewer]]
+  * Produced at the [[buildings:brewery:wpbrewer|WP Brewer]]
+  * Produced at the [[buildings:brewery:wwsaloon|WW Saloon]]
+  * Produced at the [[buildings:brewery:workshop|Workshop]]
+  * Produced at the [[buildings:brewery:yuletap|Yule Tap]]
+  * Produced at the [[buildings:brewery:rhxp|Row House Pub]]
+
+==== Processing / what to do with ====
+  * Exported at the [[buildings:trading_post:garemerchant3|Station: Utility Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

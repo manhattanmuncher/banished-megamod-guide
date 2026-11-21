@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Spice Shack (Abandoned Places) ======
+----
+
+<WRAP right>
+^  Spice Shack                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapspiceshack.png?nolink|Spice Shack}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  42.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  Happiness  |  Goods (radius 24)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Abandoned Places restoration project. A Worker grows and harvests Spices year-round, with no input materials required.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapspiceshack.png?nolink|Spice Shack}}</wrap> **Spice Shack**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapspiceshack.png?nolink|Spice Shack}}</wrap> **Spice Shack**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:spices|Spices]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Food AbandonedPlaces}}

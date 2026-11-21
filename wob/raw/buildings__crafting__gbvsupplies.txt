@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== GBV Supplies ======
+----
+
+<WRAP right>
+^  GBV Supplies                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvsupplies.png?nolink|GBV Supplies}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Toolmaker}}</wrap> Toolmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gingerbread Village supplies shop; free to build. A Toolmaker crafts Tools, Steel Tools, and coats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvsupplies.png?nolink|GBV Supplies}}</wrap> **GBV Supplies**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvsupplies.png?nolink|GBV Supplies}}</wrap> **GBV Supplies**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                     ^ Produces                                              ^
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                                  | [[WikiPages:tool:tool|Tool]]                          |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:steeltool|Steel Tool]]            |
+| 2 [[WikiPages:textile:leather|Leather]]                                                          | [[WikiPages:clothing:leathercoat|Hide Coat]]          |
+| 2 [[WikiPages:textile:wool|Wool]]                                                                | [[WikiPages:clothing:woolcoat|Wool Coat]]             |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:textile:leather|Leather]]                      | [[WikiPages:clothing:wintercoat|Warm Coat]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gingerbread Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=685|WoB]]
+
+{{tag>Building Crafting GingerbreadVillage KID}}

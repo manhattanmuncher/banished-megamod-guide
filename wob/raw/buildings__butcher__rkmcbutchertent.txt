@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Butcher Tent (RK Training Camp) ======
+----
+
+<WRAP right>
+^  Butcher Tent (RK Training Camp)                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcbutchertent.png?nolink|Butcher Tent}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:textile:leather|Leather]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+The RK Training Camp Butcher Tent processes a wide variety of raw meats into cooked cuts and roasts. Part of the RK Training Camp themed building set.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcbutchertent.png?nolink|Butcher Tent}}</wrap> **Butcher Tent**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkdecorations.png?nolink|RK Decorations}}</wrap> **RK Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcbutchertent.png?nolink|Butcher Tent}}</wrap> **Butcher Tent**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                               ^ Produces                                                   ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                                      | [[WikiPages:food:beef_steak|Beef Steak]]                   |
+| 12 [[WikiPages:food:mutton|Mutton]]                                       | [[WikiPages:food:lamb_chop|Lamb Chop]]                     |
+| 12 [[WikiPages:food:venison|Venison]]                                     | [[WikiPages:food:venison_roast|Venison Roast]]             |
+| 12 Swinemeat                                                              | [[WikiPages:food:pork_chop|Pork Chop]]                     |
+| 12 [[WikiPages:food:bear|Bear Meat]]                                      | [[WikiPages:food:bear_steak|Bear Steak]]                   |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                               | [[WikiPages:food:bison_steak|Bison Steak]]                 |
+| 12 [[WikiPages:food:boar|Boar Meat]]                                      | [[WikiPages:food:boar_ribs|Boar Ribs]]                     |
+| 12 [[WikiPages:food:duck_meat|Duck Meat]]                                 | [[WikiPages:food:roast_duck|Roast Duck]]                   |
+| 12 [[WikiPages:food:goose|Goose Meat]]                                    | [[WikiPages:food:roast_goose|Roast Goose]]                 |
+| 12 [[WikiPages:food:rabbit_meat|Rabbit Meat]]                      | [[WikiPages:food:hare_stew|Hare Stew]]                     |
+| 12 [[WikiPages:food:partridge|Partridge Meat]]                            | [[WikiPages:food:roast_partridge|Roast Partridge]]         |
+| 12 [[WikiPages:food:pheasant|Pheasant Meat]]                              | [[WikiPages:food:roast_pheasant|Roast Pheasant]]           |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Butcher RKTrainingCamp}}

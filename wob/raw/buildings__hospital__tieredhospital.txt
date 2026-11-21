@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Urban Hospital ======
+----
+
+<WRAP right>
+^  Urban Hospital                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredhospital.png?nolink|Urban Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Service radius in tiles">Radius</abbr>  |  20  |
+|  <abbr "Max patients">Patients</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+An urban hospital staffed by a Doctor, treating up to 20 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredhospital.png?nolink|Urban Hospital}}</wrap> **Urban Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredhospital.png?nolink|Urban Hospital}}</wrap> **Urban Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredhospital.png?nolink|Urban Hospital}}</wrap> **Urban Hospital**
+
+----
+
+===== Other Information =====
+
+This building originally came from **CC Stacked (Shops & Houses)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=672|WoB]]
+
+{{tag>Building Hospital CCStacked}}

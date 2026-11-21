@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Miso ======
+----
+
+<WRAP right>
+^  Miso                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  105/120  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/miso.png?nolink|Miso}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Miso is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Miso Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:preparing:misoshed|Miso Shed]] (from Soybean)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable Protein}}

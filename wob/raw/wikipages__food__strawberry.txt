@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Strawberry ======
+----
+
+<WRAP right>
+^  Strawberry                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/strawberry.png?nolink|Strawberry}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Strawberry is an edible fruit available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it can be used to make fruit preserves.
+
+----
+
+===== Strawberry Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:patchstrawberry|Patch Strawberry]] (Kid - Patchwork)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:preserving:wppreservist|WP Preservist]] (for Fruit Preserves)
+  * Used at the [[buildings:brewery:winery|Winery]] (for Wine)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

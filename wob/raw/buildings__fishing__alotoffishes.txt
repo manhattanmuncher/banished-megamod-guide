@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Alotoffishes ======
+----
+
+<WRAP right>
+^  Alotoffishes                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildalotoffishes.png?nolink|Alotoffishes}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID mod fishing dock. A Fisherman catches Fish from the water within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/alotofseedstoolbar.png?nolink|Alotofseeds}}</wrap> **Alotofseeds** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildalotoffishes.png?nolink|Alotoffishes}}</wrap> **Alotoffishes**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/alotofseedstoolbar.png?nolink|Alotofseeds}}</wrap> **Alotofseeds** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildalotoffishes.png?nolink|Alotoffishes}}</wrap> **Alotoffishes**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Alotofseeds v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=262|WoB]]
+
+{{tag>Building Fishing KID}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Town School ======
+----
+
+<WRAP right>
+^  Small Town School                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxs.png?nolink|Small Town School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small town school staffed by a Teacher, educating up to 24 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxs.png?nolink|Small Town School}}</wrap> **Small Town School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxs.png?nolink|Small Town School}}</wrap> **Small Town School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxs.png?nolink|Small Town School}}</wrap> **Small Town School**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building School ColonialCharter}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== GBV Well ======
+----
+
+<WRAP right>
+^  GBV Well                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvwell.png?nolink|GBV Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Happiness  |  Safety (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gingerbread Village well; free to build. Provides a Safety happiness bonus and fire suppression within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvwell.png?nolink|GBV Well}}</wrap> **GBV Well**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvwell.png?nolink|GBV Well}}</wrap> **GBV Well**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gingerbread Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=685|WoB]]
+
+{{tag>Building Wells GingerbreadVillage KID}}

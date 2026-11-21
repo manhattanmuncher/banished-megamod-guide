@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Beach Fishing Dock ======
+----
+
+<WRAP right>
+^  Beach Fishing Dock                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachfish.png?nolink|Beach Fishing Dock}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Fishing  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  22  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small Discrepancy / EB Small Village beach fishing dock. A Fisherman catches Fish from the shoreline.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachfish.png?nolink|Beach Fishing Dock}}</wrap> **Beach Fishing Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageservices.png?nolink|Village Town Services}}</wrap> **Village Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubentertainment.png?nolink|Village Town Services Entertainment}}</wrap> **Village Town Services Entertainment** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachfish.png?nolink|Beach Fishing Dock}}</wrap> **Beach Fishing Dock**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing EB}}

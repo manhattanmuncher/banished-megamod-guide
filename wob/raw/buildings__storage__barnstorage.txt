@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Barn Storage ======
+----
+
+<WRAP right>
+^  Barn Storage                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbarnstorage.png?nolink|Barn Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Custom 0/1/2/6/7/8/9  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Barn Storage mod general-purpose barn. Settlers store food, fuel, tools, and other supplies with a capacity of 6,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbarnstorage.png?nolink|Barn Storage}}</wrap> **Barn Storage**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbarnstorage.png?nolink|Barn Storage}}</wrap> **Barn Storage**
+
+----
+
+{{tag>Building StorageBarns BarnStorage}}

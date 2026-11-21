@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Pottery Shop (Upgraded) ======
+----
+
+<WRAP right>
+^  Pottery Shop                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalpoteryshopupg.png?nolink|Medieval Pottery Shop (Upgraded)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/potter.png?nolink|Potter}}</wrap> Potter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:custom5:brick|Brick]]  |  32  |
+|  [[WikiPages:custom5:roof_tile|Roof Tile]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An upgraded Medieval Pottery Shop with improved efficiency.
+
+----
+
+===== Where to Find =====
+
+The Medieval Pottery Shop (Upgraded) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:crafting:newmedievalpoteryshop|Medieval Pottery Shop]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                  ^ Produces                                  ^
+| 2 [[WikiPages:custom4:clay|Clay]]                            | [[WikiPages:custom0:pottery|Pottery]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Crafting RKEditorChoice}}

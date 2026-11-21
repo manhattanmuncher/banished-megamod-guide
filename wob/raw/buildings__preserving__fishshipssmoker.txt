@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Smoker (Fish n Ships) ======
+----
+
+<WRAP right>
+^  Smoker                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmoker.png?nolink|Smoker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/smoker.png?nolink|Smoker}}</wrap> Smoker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+Fish n Ships smoker that smokes fish with firewood to produce smoked fish.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmoker.png?nolink|Smoker}}</wrap> **Smoker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmoker.png?nolink|Smoker}}</wrap> **Smoker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                   ^ Produces                                                    ^
+| 1 [[WikiPages:fuel:firewood|Firewood]] + 12 [[WikiPages:food:fish|Fish]]                     | [[WikiPages:food:smoked_fish_smokedfish|Smoked Fish]]       |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmoker.png?nolink|Smoker (Fish n Ships)}}</wrap> **Smoker (Fish n Ships)**
+
+----
+
+===== Other Information =====
+
+{{tag>Building KidFishShips}}

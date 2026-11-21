@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Maritimes Coverings ======
+----
+
+<WRAP right>
+^  Maritimes Coverings                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimescovering1xin.png?nolink|Maritimes Coverings}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes decorative roof coverings and awnings, used to span gaps between buildings and dress streets. Includes flat (1x/2x) and high/arched pieces with in/out/left/right/corner/end variants, each in **Brown** and **Gray** finishes. All are free with no footprint.
+
+----
+
+===== Variants =====
+
+^ Style ^ Pieces ^
+| Flat covering | 1x In, 2x In/Out/Left/Right, Corner, End Left/Right |
+| High covering | High 1x, High Center/Corner/End, High Arch 1x/2x/End |
+
+Each piece comes in Brown and Gray (F-key colour).
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcovers.png?nolink|Covers}}</wrap> **Covers** → select covering
+
+----
+
+{{tag>Building Decorations Maritimes}}

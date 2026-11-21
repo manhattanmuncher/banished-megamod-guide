@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lumber Cutter (Maritimes Humble) ======
+----
+
+<WRAP right>
+^  Lumber Cutter                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeshumblelumbercutter.png?nolink|Lumber Cutter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Humble Construction lumber cutter where a Cutter mills Wood into Lumber.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolindustry.png?nolink|Necora's Maritimes Industry}}</wrap> **Necora's Maritimes Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimeshumbleconstruction.png?nolink|Maritimes Humble Construction}}</wrap> **Maritimes Humble Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeshumblelumbercutter.png?nolink|Lumber Cutter}}</wrap> **Lumber Cutter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsawmill.png?nolink|Sawmill}}</wrap> **Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeshumblelumbercutter.png?nolink|Lumber Cutter}}</wrap> **Lumber Cutter**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                          ^
+| 6 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:custom5:lumber|Lumber]]               |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Humble Construction v1.0.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=362|WoB]]
+
+{{tag>Building Crafting Maritimes}}

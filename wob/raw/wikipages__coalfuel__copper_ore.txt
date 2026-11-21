@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Copper Ore ======
+----
+
+<WRAP right>
+^  Copper Ore                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/copperore.png?nolink|Copper Ore}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Copper Ore is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Copper Ore Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:coppermine|Copper Ore Mine Shaft]]
+  * Mined at the [[buildings:mining:pminerkec|Portable RKEC Mine]]
+  * Mined at the [[buildings:mining:copperminedeep|Dark Copper Ore Mine Shaft]]
+  * Mined at the [[buildings:mining:copperminedeeper|Deep Copper Ore Mine Shaft]]
+  * Mined at the [[buildings:mining:nmt30mcironquarry|Iron Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl2|Iron Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl3|Iron Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl4|Iron Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl5|Iron Quarry Lvl5]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarry|Random Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

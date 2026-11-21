@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Twine ======
+----
+
+<WRAP right>
+^  Twine                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/twine.png?nolink|Twine}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Twine is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. It has a modest trade value of 4.
+
+----
+
+===== Twine Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:pinespinner|Pine Spinner]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

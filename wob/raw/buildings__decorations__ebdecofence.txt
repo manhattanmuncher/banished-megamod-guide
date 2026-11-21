@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Decorative Fence ======
+----
+
+<WRAP right>
+^  EB Decorative Fence                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfencestraight1x.png?nolink|EB Decorative Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  6  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large set of decorative EB (embx61) wooden fence pieces, available in four wood finishes — **Cherry, Oak, Wenge, and White**. Each finish includes straight, corner, end, gate, 3-way, and 4-way pieces, plus capped (C) and ghosted sub-variants, for building fully connected fences around gardens and properties.
+
+----
+
+===== Variants =====
+
+^ Piece ^ Size ^ Build Cost ^
+| Straight (1x / 2x) | 1 × 1 | 6 work, 1 [[WikiPages:wood:log|Wood]] |
+| Corner | 1 × 1 | 6 work, 1 [[WikiPages:wood:log|Wood]] |
+| End | 1 × 1 | 6 work, 1 [[WikiPages:wood:log|Wood]] |
+| Gate | 1 × 1 | 6 work, 1 [[WikiPages:wood:log|Wood]] |
+| 3-Way | 1 × 1 | 6 work, 1 [[WikiPages:wood:log|Wood]] |
+| 4-Way | 2 × 2 | 6 work, 1 [[WikiPages:wood:log|Wood]] |
+
+Each piece is available in Cherry, Oak, Wenge, and White finishes.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfencestraight1x.png?nolink|EB Decorative Fence}}</wrap> **EB Decorative Fences**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

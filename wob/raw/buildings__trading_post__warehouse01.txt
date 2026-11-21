@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== The Warehouse ======
+----
+
+<WRAP right>
+^  The Warehouse                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwarehouse01.png?nolink|The Warehouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Laborer}}</wrap> Laborer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–8 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  90,000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  56  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup general warehouse. Workers stockpile goods from the settlement. Merchants never arrive. Accepts all goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwarehouse01.png?nolink|The Warehouse}}</wrap> **The Warehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwarehouse01.png?nolink|The Warehouse}}</wrap> **The Warehouse**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building TradingPost RKEditorChoice}}

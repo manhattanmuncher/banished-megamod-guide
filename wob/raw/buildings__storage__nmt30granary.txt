@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Granary ======
+----
+
+<WRAP right>
+^  Granary                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30granary.png?nolink|Granary}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+|  Storage Categories  |  Food  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:wood:log|Wood]]  |  58  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town 3.0 granary for food storage. Settlers store grain and edible goods with a capacity of 12,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30granary.png?nolink|Granary}}</wrap> **Granary**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstoragebarntoolbar.png?nolink|StorageBarns Toolbar}}</wrap> **StorageBarns Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30granary.png?nolink|Granary}}</wrap> **Granary**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage NewMedievalTown}}

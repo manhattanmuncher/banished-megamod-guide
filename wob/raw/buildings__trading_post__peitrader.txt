@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== PEI Trade Dock ======
+----
+
+<WRAP right>
+^  PEI Trade Dock                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeitrader.png?nolink|PEI Trade Dock}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+A waterfront trading dock from Necora's Maritimes PEI Shore. A Trader conducts trade with visiting merchant boats and provides Goods happiness to nearby citizens within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade}}</wrap> **Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeitrader.png?nolink|PEI Trade Dock}}</wrap> **PEI Trade Dock**
+
+----
+
+This building originally came from **Maritimes PEI Shore Fisheries v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=186|WoB]]
+
+{{tag>Building TradingPost PEIShore}}

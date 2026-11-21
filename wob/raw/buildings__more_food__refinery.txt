@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Refinery ======
+----
+
+<WRAP right>
+^  Refinery                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrefinery.png?nolink|Refinery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/refiner.png?nolink|Refiner}}</wrap> Refiner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Storage  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter refinery; processes sugar cane, sugar beets, and maple sap into refined sugar and maple syrup.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorefood.png?nolink|More Food Processing}}</wrap> **More Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrefinery.png?nolink|Refinery}}</wrap> **Refinery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodrefining.png?nolink|Food Refining}}</wrap> **Food Refining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrefinery.png?nolink|Refinery}}</wrap> **Refinery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                              ^ Produces                                                            ^
+| 20 [[WikiPages:vegetable:sugar_cane_sugar|Sugar Cane]]                                                  | [[WikiPages:vegetable:sugar_refined|Refined Sugar]]                 |
+| 20 [[WikiPages:food:sugar_beets|Sugar Beets]]                                                           | [[WikiPages:vegetable:sugar_refined|Refined Sugar]]                 |
+| 20 [[WikiPages:fruit:maple_sap|Maple Sap]]                                                              | [[WikiPages:food:maple_syrup|Maple Syrup]]                          |
+| 22 [[WikiPages:food:maple_syrup|Maple Syrup]]                                                           | [[WikiPages:vegetable:sugar_refined|Refined Sugar]]                 |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building MoreFood ColonialCharter}}

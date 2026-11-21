@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer (Fairy Tale Cottage) ======
+----
+
+<WRAP right>
+^  Gatherer                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftgatherer.png?nolink|Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  44  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  Stone  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Tale Cottage gatherer. A Gatherer collects wild food from the surrounding forest within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+----
+
+===== Produces =====
+
+  * Various wild food (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Gathering KidFairyTaleCottage}}

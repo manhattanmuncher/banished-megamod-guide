@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pipe Tobacco ======
+----
+
+<WRAP right>
+^  Pipe Tobacco                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  9/11  |
+|  Edible  |  No  |
+|  Trade Value  |  6  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tobaccocured.png?nolink|Pipe Tobacco}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pipe Tobacco is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It has a modest trade value of 6.
+
+----
+
+===== Pipe Tobacco Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:frontier:musketrange|Musket Range]] (random, from Silver Pfennig)
+  * Produced at the [[buildings:crafting:tobaccobarn|Tobacco Barn]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

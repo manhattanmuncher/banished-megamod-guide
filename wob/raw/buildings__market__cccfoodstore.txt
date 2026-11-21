@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Store ======
+----
+
+<WRAP right>
+^  Food Store                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcccfoodstore.png?nolink|Food Store}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Radius  |  30  |
+|  Storage  |  12,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A food-specialized market from the Colonial City Center mod set. Stocks all food categories and distributes them to citizens within its radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccc.png?nolink|CCC Storage}}</wrap> **CCC Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcccfoodstore.png?nolink|Food Store}}</wrap> **Food Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccc.png?nolink|CCC Storage}}</wrap> **CCC Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcccfoodstore.png?nolink|Food Store}}</wrap> **Food Store**
+
+----
+
+===== Stocks =====
+
+  * Food (Grain, Fruit, Vegetables, Meat/Fish)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial City Center v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=616|WoB]]
+
+{{tag>Market}}

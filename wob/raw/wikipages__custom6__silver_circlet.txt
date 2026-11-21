@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silver Circlet ======
+----
+
+<WRAP right>
+^  Silver Circlet                                 ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  1500  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rksilvercirclet.png?nolink|Silver Circlet}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silver Circlet is a precious item valued for Its rarity or beauty in the Banished MegaMod. It is stored in a Barn and functions primarily as luxury trade goods, attracting favourable prices from merchants. At a trade value of 1500, it is highly prized by traveling merchants.
+
+----
+
+===== Silver Circlet Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:precious:nmt30jewelmaker|Jewelry Maker]] (from Silver Bar + Coal + Diamond)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Preservist ======
+----
+
+<WRAP right>
+^  Village Preservist                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvpreservist.png?nolink|Village Preservist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservist.png?nolink|Preservist}}</wrap> Preservist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village food preservation building. A Preservist seals meats with salt and fruits with honey into Amphora, producing Potted Meat or Potted Fruit for long-term storage.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvpreservist.png?nolink|Village Preservist}}</wrap> **Village Preservist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagefood.png?nolink|Village Food}}</wrap> **Village Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvpreservist.png?nolink|Village Preservist}}</wrap> **Village Preservist**
+
+----
+
+===== Recipes =====
+
+All recipes also consume **1 [[WikiPages:custom0:amphora|Amphora]]**.
+
+^ Ingredients                                                                                                  ^ Produces                                              ^
+| 7 [[WikiPages:food:venison|Venison]] + 2 [[WikiPages:coalfuel:salt|Salt]]                                   | [[WikiPages:food:potted_meat|Potted Meat]]            |
+| 7 [[WikiPages:food:beef_beef|Beef]] + 2 [[WikiPages:coalfuel:salt|Salt]]                                    | [[WikiPages:food:potted_meat|Potted Meat]]            |
+| 7 [[WikiPages:food:mutton|Mutton]] + 2 [[WikiPages:coalfuel:salt|Salt]]                                     | [[WikiPages:food:potted_meat|Potted Meat]]            |
+| 7 [[WikiPages:food:chicken|Chicken]] + 2 [[WikiPages:coalfuel:salt|Salt]]                                   | [[WikiPages:food:potted_meat|Potted Meat]]            |
+| 7 [[WikiPages:food:peach|Peach]] + 2 [[WikiPages:food:honey|Honey]]                                         | [[WikiPages:food:potted_fruit|Potted Fruit]]          |
+| 7 [[WikiPages:food:pear|Pear]] + 2 [[WikiPages:food:honey|Honey]]                                           | [[WikiPages:food:potted_fruit|Potted Fruit]]          |
+| 7 [[WikiPages:food:plum|Plum]] + 2 [[WikiPages:food:honey|Honey]]                                           | [[WikiPages:food:potted_fruit|Potted Fruit]]          |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food EB}}

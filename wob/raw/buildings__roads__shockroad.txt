@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Road ======
+----
+
+<WRAP right>
+^  Country Road                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshockroad.png?nolink|Country Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  19  |
+</WRAP>
+<WRAP right></WRAP>
+
+A country road with fallen leaves that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardirtroad.png?nolink|Dirt and Gravel Roads}}</wrap> **Dirt and Gravel Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshockroad.png?nolink|Country Road}}</wrap> **Country Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road Colonial}}

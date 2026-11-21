@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Industry Storage ======
+----
+
+<WRAP right>
+^  Industry Storage                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelstorage.png?nolink|Industry Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Tools, Coal Fuel, Iron, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Industrial Fuel, Raw Materials, [[WikiPages:custom5:building_kit|Building Supplies]], Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods large industry warehouse from the Thadd Surrel set. Settlers store tools, coal fuel, iron, clothing, textiles, crafted goods, and a variety of industrial supplies with a capacity of 8,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelstorage.png?nolink|Industry Storage}}</wrap> **Industry Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelstorage.png?nolink|Industry Storage}}</wrap> **Industry Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelstorage.png?nolink|Industry Storage}}</wrap> **Industry Storage**
+
+----
+
+{{tag>Building Storage DS}}

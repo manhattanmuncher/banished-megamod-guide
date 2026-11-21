@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== House Wagon ======
+----
+
+<WRAP right>
+^  House Wagon                                                                       ^  Wild West Cattle Drive  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwhousewagon.png?nolink|House Wagon}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0 (Free)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Wild West Cattle Drive covered wagon converted into a small home; free to build, houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwbuckboard.png?nolink|Buck Board}}</wrap> **Buck Board** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwhousewagon.png?nolink|House Wagon}}</wrap> **House Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwbuckboard.png?nolink|Buck Board}}</wrap> **Buck Board** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwhousewagon.png?nolink|House Wagon}}</wrap> **House Wagon**
+
+----
+
+{{tag>Building Houses KidWWCattle KID}}

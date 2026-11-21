@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blockhouse ======
+----
+
+<WRAP right>
+^  Blockhouse                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblockhouse.png?nolink|Blockhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/soldier.png?nolink|Soldier}}</wrap> Soldier  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  40  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:custom5:military_supply|Military Supply]]  |  80  |
+|  [[WikiPages:custom1:musket|Musket]]  |  16  |
+|  [[WikiPages:custom1:cannon|Cannon]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Blockhouse is a CCFrontier building where a soldier garrisons a strategic point, taxing passers-by and merchants to generate income.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblockhouse.png?nolink|Blockhouse}}</wrap> **Blockhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort and Palisade Structures}}</wrap> **Fort and Palisade Structures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblockhouse.png?nolink|Blockhouse}}</wrap> **Blockhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblockhouse.png?nolink|Blockhouse}}</wrap> **Blockhouse**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                              ^
+| 1 [[WikiPages:custom5:military_supply|Military Supply]]            | [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]  |
+| 1 [[WikiPages:custom5:military_supply|Military Supply]]            | [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]  |
+| 1 [[WikiPages:custom5:military_supply|Military Supply]]            | [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]  |
+| 5 [[WikiPages:custom5:military_supply|Military Supply]]            | [[WikiPages:custom6:gold_guilder|Gold Guilder]]      |
+
+----
+
+===== Other Information =====
+
+This building originally came from **CC Frontier**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=699|WoB]]
+
+{{tag>Building MoreCivic CCFrontier}}

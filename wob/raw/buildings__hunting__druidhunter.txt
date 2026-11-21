@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Druid Hunter ======
+----
+
+<WRAP right>
+^  Druid Hunter                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidhunter.png?nolink|Druid Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  18  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Druids hunter. Hunters harvest wild game food from within an 18-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidhunter.png?nolink|Druids}}</wrap> **Druids** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidhunter.png?nolink|Druid Hunter}}</wrap> **Druid Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidhunter.png?nolink|Druids}}</wrap> **Druids** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/druidhunter.png?nolink|Druid Hunter}}</wrap> **Druid Hunter**
+
+----
+
+===== Produces =====
+
+  * Wild game food (random)
+  * Leather (random)
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hunting Druids}}

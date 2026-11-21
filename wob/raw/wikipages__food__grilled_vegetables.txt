@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Grilled Vegetables ======
+----
+
+<WRAP right>
+^  Grilled Vegetables                             ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  11/12  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/marketbbqveg.png?nolink|Grilled Vegetables}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Grilled Vegetables are an edible food item available in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Grilled Vegetables Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:marketbbq|Market BBQ]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein Vegetable}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Warmer Leather Tent ======
+----
+
+<WRAP right>
+^  Warmer Leather Tent                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhouse2x4tentup1.png?nolink|Warmer Leather Tent}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  55  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  65  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:textile:leather|Leather]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village warmer leather tent, an upgraded tent with better fuel efficiency. Houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingtents.png?nolink|Tents}}</wrap> **Tents** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhouse2x4tentup1.png?nolink|Warmer Leather Tent}}</wrap> **Warmer Leather Tent**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingtents.png?nolink|Tents}}</wrap> **Tents** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhouse2x4tentup1.png?nolink|Warmer Leather Tent}}</wrap> **Warmer Leather Tent**
+
+----
+
+This building originally came from **Small Village: Homes v1.3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=214|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231694360|Steam]]
+
+{{tag>Building Houses DS}}

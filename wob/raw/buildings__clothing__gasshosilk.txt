@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gassho Silk ======
+----
+
+<WRAP right>
+^  Gassho Silk                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgasshosilk.png?nolink|Gassho Silk}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:custom7:silkworm_eggs|Silkworm Eggs]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Gassho Silk is an A8 Japanese AllInOne mod building where a Tailor produces Silk from Mulberry fruit or Mulberry Leaves. The build cost includes a Silkworm Egg as a founding stock for the silk operation.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgasshosilk.png?nolink|Gassho Silk}}</wrap> **Gassho Silk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8crafts.png?nolink|A8 Crafts}}</wrap> **A8 Crafts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgasshosilk.png?nolink|Gassho Silk}}</wrap> **Gassho Silk**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                          ^
+| 100 [[WikiPages:food:red_mulberries|Mulberry]]             | [[WikiPages:custom2:silk|Silk]]   |
+| 50 [[WikiPages:custom7:mulberry_leaf|Mulberry Leaf]] | [[WikiPages:custom2:silk|Silk]]   |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Textile A8JapaneseAllInOne}}

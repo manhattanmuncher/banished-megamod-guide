@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Honey Seeker ======
+----
+
+<WRAP right>
+^  Honey Seeker                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhoneyseeker.png?nolink|Honey Seeker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Wild Bees mod building. A Gatherer seeks out wild beehives within a 30-tile radius and harvests Honey from them.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhoneyseeker.png?nolink|Honey Seeker}}</wrap> **Honey Seeker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbeekeeping.png?nolink|Beekeeping}}</wrap> **Beekeeping** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhoneyseeker.png?nolink|Honey Seeker}}</wrap> **Honey Seeker**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:honey|Honey]]
+
+----
+
+This building originally came from **Wild Bees**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=166|WoB]]
+
+{{tag>Building Gathering WildBees}}

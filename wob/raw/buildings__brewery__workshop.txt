@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Workshop ======
+----
+
+<WRAP right>
+^  Workshop                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkshop.png?nolink|Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionelf.png?nolink|Elf}}</wrap> Elf  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  41.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5000  |
+|  Happiness  |  Entertainment (radius 30, requires alcohol)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  79  |
+|  [[WikiPages:wood:log|Wood]]  |  47  |
+|  [[WikiPages:stone:stone|Stone]]  |  23  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Christmas Mod workshop staffed by an Elf that magically produces a variety of goods without any input materials. The player selects which product to produce.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkshop.png?nolink|Workshop}}</wrap> **Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkshop.png?nolink|Workshop}}</wrap> **Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkshop.png?nolink|Workshop}}</wrap> **Workshop**
+
+----
+
+===== Produces =====
+
+The player selects which product to produce:
+  * [[WikiPages:food:gingerbread|Gingerbread]]
+  * [[WikiPages:food:candy|Candy]]
+  * [[WikiPages:alcohol:ale|Ale]]
+  * [[WikiPages:tool:tool|Tool]]
+  * [[WikiPages:clothing:leathercoat|Leather Coat]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building Brewery ChristmasMod}}

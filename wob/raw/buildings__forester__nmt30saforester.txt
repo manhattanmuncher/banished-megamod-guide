@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forester Lodge ======
+----
+
+<WRAP right>
+^  Forester Lodge                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30saforester.png?nolink|Forester Lodge}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  Stone  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Forest Center standalone forester lodge. Foresters plant and harvest trees within a 30-tile radius for Logs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30saforester.png?nolink|Forester Lodge}}</wrap> **Forester Lodge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Resources}}</wrap> **RK Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30saforester.png?nolink|Forester Lodge}}</wrap> **Forester Lodge**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Center v3.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=358|WoB]]
+
+{{tag>Building Forester NewMedievalTown}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mini Chapel (Mini Buildings) ======
+----
+
+<WRAP right>
+^  Mini Chapel                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Mini Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 10)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Mini Buildings chapel staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 10 tiles and accommodating up to 10 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Mini Chapel}}</wrap> **Mini Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/minitoolbar.png?nolink|Mini Buildings}}</wrap> **Mini Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Mini Chapel}}</wrap> **Mini Chapel**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship Mini}}

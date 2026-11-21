@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Twine Handled Tool ======
+----
+
+<WRAP right>
+^  Twine Handled Tool                             ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Tool  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  10  |
+|  <abbr "Tool effectiveness rating">Use Value</abbr>  |  200  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rmtooltwined.png?nolink|Twine Handled Tool}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Twine Handled Tool is a worker's tool crafted in the Banished MegaMod. It is stored in a Barn and distributed to labourers, improving their productivity on the job. It carries a trade value of 10, making it a worthwhile commodity for trade.
+
+----
+
+===== Twine Handled Tool Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Tool}}

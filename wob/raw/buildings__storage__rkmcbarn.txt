@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Barn (Training Camp) ======
+----
+
+<WRAP right>
+^  Barn (Training Camp)                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcbarn.png?nolink|Barn (Training Camp)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Grain, Vegetable, Fruit, Protein, Tools, Health, Clothing, Textile, Coal Fuel, Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×48  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Training Camp storage barn for food and general goods. Settlers store edibles, tools, health items, clothing, textiles, coal fuel, and alcohol.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcbarnstoolbar.png?nolink|Training Camp Barns}}</wrap> **Training Camp Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcbarn.png?nolink|Barn (Training Camp)}}</wrap> **Barn (Training Camp)**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage RKEditorChoice}}

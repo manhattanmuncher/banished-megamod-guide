@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Headquarters (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Headquarters                                                                       ^  Old Town Ports  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpheadquarters.png?nolink|Headquarters}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports headquarters providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpheadquarters.png?nolink|Headquarters}}</wrap> **Headquarters**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpheadquarters.png?nolink|Headquarters}}</wrap> **Headquarters**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpheadquarters.png?nolink|Headquarters (Old Town Ports)}}</wrap> **Headquarters (Old Town Ports)**
+
+----
+
+===== Other Information =====
+
+{{tag>Building TownHalls KidOldTownPorts}}

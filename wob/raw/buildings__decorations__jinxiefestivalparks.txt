@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jinxie Festival Parks ======
+----
+
+<WRAP right>
+^  Jinxie Festival Parks                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplainpark.png?nolink|Jinxie Festival Parks}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  Happiness  |  Entertainment (radius 20)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorated festival parks from Jinxie's Festival Park Set. Each is a free 5×5 plot that provides Entertainment happiness to citizens within a 20-tile radius, with 3 F-key variations for wood colour.
+
+----
+
+===== Variants =====
+
+^ Park ^
+| Bitty Village Park |
+| Christmas Celebration in the Park |
+| Easter Celebration in the Park |
+| Halloween Celebration in the Park |
+| Thanksgiving Celebration in the Park |
+| Wedding Celebration in the Park |
+
+All are free, 5×5, Entertainment happiness (radius 20), with 3 F-key wood-colour variants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpark.png?nolink|Parks and Rec}}</wrap> **Parks and Rec** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplainpark.png?nolink|Jinxie's Festival Park Set}}</wrap> **Jinxie's Festival Park Set** → select park
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations JinxieFestivalPark}}

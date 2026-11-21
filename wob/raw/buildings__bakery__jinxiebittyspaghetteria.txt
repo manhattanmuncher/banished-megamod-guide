@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Spaghetteria ======
+----
+
+<WRAP right>
+^  Spaghetteria                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyspagrestaurant.png?nolink|Bitty Spaghetteria}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Bitty Spaghetteria is a Jinxie's Bitty Pasta Set building where a chef prepares pasta and spaghetti from flour, herbs, and tomatoes.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyspagrestaurant.png?nolink|Bitty Spaghetteria}}</wrap> **Bitty Spaghetteria**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxieresources.png?nolink|Jinxie's Resource Production}}</wrap> **Jinxie's Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittypastamenuicon.png?nolink|Jinxie's Bitty Pasta Set Items}}</wrap> **Jinxie's Bitty Pasta Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyspagrestaurant.png?nolink|Bitty Spaghetteria}}</wrap> **Bitty Spaghetteria**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                         ^ Produces                                              ^
+| 10 [[WikiPages:grain:flour|Flour]] + 2 [[WikiPages:health:herb|Herb]]                               | [[WikiPages:food:pasta|Pasta]]                        |
+| 10 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:tomatoes|Tomatoes]]                         | [[WikiPages:food:spaghetti|Spaghetti]]                |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food JinxieBittyPasta}}

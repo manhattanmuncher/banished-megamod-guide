@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Gatherer ======
+----
+
+<WRAP right>
+^  Old Gatherer                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelgatherer.png?nolink|Old Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Hovels gatherer shed. A gatherer forages wild food within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelgatherer.png?nolink|Old Gatherer}}</wrap> **Old Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelgatherer.png?nolink|Old Gatherer}}</wrap> **Old Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelgatherer.png?nolink|Old Gatherer}}</wrap> **Old Gatherer**
+
+----
+
+===== Produces =====
+
+Various wild food (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Hovels v1.17**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=597|WoB]]
+
+{{tag>Building KidOldHovels}}

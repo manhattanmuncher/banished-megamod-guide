@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mix Road (#9) ======
+----
+
+<WRAP right>
+^  Mix Road (#9)                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/earthroadz9.png?nolink|Mix Road (#9)}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  869  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A mixed-material road texture variant that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/earthroadzgroup.png?nolink|Mix Road}}</wrap> **Mix Road** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/earthroadz9.png?nolink|Mix Road (#9)}}</wrap> **Mix Road (#9)**
+
+----
+
+===== Other Information =====
+
+{{tag>Road WintinRoads}}

@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Pine Town Hall ======
+----
+
+<WRAP right>
+^  Small Pine Town Hall                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinetownhall.png?nolink|Small Pine Town Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact town hall from Necora's Maritimes Pine Set, providing colony resource-limit controls and census tracking in a small 2×4 footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinetownhall.png?nolink|Small Pine Town Hall}}</wrap> **Small Pine Town Hall**
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building TownHalls PineSet}}

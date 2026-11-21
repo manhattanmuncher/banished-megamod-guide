@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Some Boats ======
+----
+
+<WRAP right>
+^  Some Boats                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsomeboats.png?nolink|Some Boats}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Water-placed (ghosted)  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Some Boats — a set of ghosted, free decorative boats to moor along shores and docks. (The individual [[buildings:decorations:sbfishingboat|Fishing Boat]] and [[buildings:decorations:sbfishingboattoo|Fishing Boat 2]] from this set have their own pages.)
+
+----
+
+===== Variants =====
+
+  * Fishing Boat, Sail Boat, Swedish Yacht and other small craft — all ghosted and water-placed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsomeboats.png?nolink|Some Boats}}</wrap> **Some Boats** → the boat
+
+----
+
+{{tag>Building Decorations KidSomeBoats}}

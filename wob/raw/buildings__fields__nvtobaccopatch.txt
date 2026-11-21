@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tobacco Patch ======
+----
+
+<WRAP right>
+^  Tobacco Patch                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvtobaccopatch.png?nolink|Tobacco Patch}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  56.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Native Village tobacco field where Workers tend and harvest tobacco leaves.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvtobaccopatch.png?nolink|Tobacco Patch}}</wrap> **Tobacco Patch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvtobaccopatch.png?nolink|Tobacco Patch}}</wrap> **Tobacco Patch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvtobaccopatch.png?nolink|Tobacco Patch}}</wrap> **Tobacco Patch**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:textile:tobacco_leaf|Tobacco Leaf]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Native Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=612|WoB]]
+
+{{tag>Building Fields NativeVillage}}

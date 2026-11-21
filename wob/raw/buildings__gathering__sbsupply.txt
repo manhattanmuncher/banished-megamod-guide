@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Supply Boat ======
+----
+
+<WRAP right>
+^  Supply Boat                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbsupply.png?nolink|Supply Boat}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Some Boats supply boat. Free to place with no build cost, but needs a trader or a jetty to dock. A Worker unloads a variety of food supplies.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsomeboats.png?nolink|Some Boats}}</wrap> **Some Boats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbsupply.png?nolink|Supply Boat}}</wrap> **Supply Boat**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbsupply.png?nolink|Supply Boat}}</wrap> **Supply Boat**
+
+----
+
+===== Produces =====
+
+Random per cycle:
+  * [[WikiPages:food:apple|Apple]]
+  * [[WikiPages:grain:flour|Flour]]
+  * [[WikiPages:food:goat_cheese|Goat Cheese]]
+  * [[WikiPages:food:potato|Potato]]
+  * [[WikiPages:food:preserves_fruit|Fruit Jam]]
+  * [[WikiPages:food:smoked_fish_smokedfish|Smoked Fish]]
+  * [[WikiPages:food:walnut|Walnut]]
+  * [[WikiPages:food:wheat|Wheat]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Some Boats v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=535|WoB]]
+
+{{tag>Building Gathering KID}}

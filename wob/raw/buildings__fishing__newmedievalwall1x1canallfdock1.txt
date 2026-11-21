@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Canal - Fishing Dock ======
+----
+
+<WRAP right>
+^  Medieval Canal - Fishing Dock                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall1x1canallfdock1.png?nolink|Medieval Canal - Fishing Dock}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town castle canal fishing dock. Fishermen catch [[WikiPages:food:fish|Fish]] from a moat canal section within a 6-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcastle.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmoats.png?nolink|New Medieval Moats}}</wrap> **New Medieval Moats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall1x1canallfdock1.png?nolink|Medieval Canal - Fishing Dock}}</wrap> **Medieval Canal - Fishing Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcastle.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmoats.png?nolink|New Medieval Moats}}</wrap> **New Medieval Moats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall1x1canallfdock1.png?nolink|Medieval Canal - Fishing Dock}}</wrap> **Medieval Canal - Fishing Dock**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+  * Must be placed on water.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall1x1canallfdock1.png?nolink|Medieval Canal - Fishing Dock}}</wrap> **Medieval Canal - Fishing Dock**
+
+----
+
+This building originally came from **New Medieval Town v1.1b**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=475534536|Steam]]
+
+{{tag>Building Fishing NewMedievalTown}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal High Row House ======
+----
+
+<WRAP right>
+^  Port Royal High Row House                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprrowhousehighleft.png?nolink|Port Royal High Row House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A left-end top-floor piece of a Port Royal row house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarportroyal.png?nolink|Port Royal}}</wrap> **Port Royal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolprhousing.png?nolink|Port Royal Housing}}</wrap> **Port Royal Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprrowhousehighleft.png?nolink|Port Royal High Row House}}</wrap> **Port Royal High Row House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolprhousing.png?nolink|Port Royal Housing}}</wrap> **Port Royal Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprrowhousehighleft.png?nolink|Port Royal High Row House}}</wrap> **Port Royal High Row House**
+
+----
+
+This building originally came from **Maritimes Port Royal**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=367|WoB]]
+
+{{tag>Building Houses PortRoyal}}

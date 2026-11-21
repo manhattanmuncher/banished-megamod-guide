@@ -1,0 +1,61 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Plum ======
+----
+
+<WRAP right>
+^  Plum                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  50/65  |  50/65  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/plum.png?nolink|Plum}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Plum is a fruit harvested from orchards or gathered in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Plum Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fairygardenplumpatch|Fairy Garden Plum Patch (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fruitnut01|Fruit and Nut 01]]
+  * Produced at the [[buildings:hedgerow:hedgespring02|Spring 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:greenhouse:bghothouse|Hothouse]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Used at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]]
+  * Used at the [[buildings:food:ebsvpreservist|Village Preservist]] (for Potted Fruit)
+  * Used at the [[buildings:brewery:ebwinery|Winery]] (for Wine)
+  * Used at the [[buildings:preserving:gfjamhouse|Jam House (Gothic Farm)]]
+  * Used at the [[buildings:brewery:gftavern1|Midnight Heart (Gothic Fantasy 1)]]
+  * Used at the [[buildings:brewery:gftavern2|Autumn Leaves (Gothic Fantasy 2)]]
+  * Used at the [[buildings:brewery:gntavern|Friendly Tavern (Granny Neighborhood)]]
+  * Used at the [[buildings:preserving:tinyjamshop|Tiny Jam Shop]] (for Preserves Fruit)
+  * Used at the [[buildings:brewery:tinytavern|Tiny Tavern]] (for Cider)
+  * Used at the [[buildings:brewery:wfbrewer|WF Brewer]] (for Ale)
+  * Used at the [[buildings:preserving:wppreservist|WP Preservist]] (for Fruit Preserves)
+  * Used at the [[buildings:brewery:winery|Winery]] (for Wine)
+  * Used at the [[buildings:brewery:yuletap|Yule Tap]] (for Cider)
+  * Used at the [[buildings:brewery:rhxp|Row House Pub]] (for Cider)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit Vanilla}}

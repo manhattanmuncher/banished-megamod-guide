@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader Cart (Hunter) ======
+----
+
+<WRAP right>
+^  Trader Cart (Hunter)                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradercarthunter.png?nolink|Trader Cart (Hunter)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionworker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  54.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A traveling trader cart that randomly produces hunting goods each cycle.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|KID Resource}}</wrap> **KID Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradercarthunter.png?nolink|Trader Cart (Hunter)}}</wrap> **Trader Cart (Hunter)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Specialized Trade Buildings}}</wrap> **Specialized Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradercarthunter.png?nolink|Trader Cart (Hunter)}}</wrap> **Trader Cart (Hunter)**
+
+----
+
+===== Produces =====
+
+Produces one of the following randomly each cycle:
+
+  * [[WikiPages:food:venison|Venison]]
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:food:rabbit_meat|Rabbit Meat]]
+  * [[WikiPages:textile:fur|Fur]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Traveling Trader v1.0 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=632|WoB]]
+
+{{tag>Building TravelingTrader KID}}

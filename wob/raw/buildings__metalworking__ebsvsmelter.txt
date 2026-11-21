@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Smelter ======
+----
+
+<WRAP right>
+^  Iron Smelter                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsmelter.png?nolink|Iron Smelter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/smelter.png?nolink|Smelter}}</wrap> Smelter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  26  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village iron smelter. A Smelter refines Iron Ore into Iron using Coal, Charcoal, or Firewood as the heat source.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsmelter.png?nolink|Iron Smelter}}</wrap> **Iron Smelter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resource Production}}</wrap> **Village Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubmining.png?nolink|Village Mines and Quarries}}</wrap> **Village Mines and Quarries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsmelter.png?nolink|Iron Smelter}}</wrap> **Iron Smelter**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                  ^ Produces                                              ^
+| 1 [[WikiPages:coalfuel:iron_ore|Iron Ore]] + 1 [[WikiPages:coalfuel:coal|Coal]]              | [[WikiPages:iron:iron|Iron]]                          |
+| 1 [[WikiPages:coalfuel:iron_ore|Iron Ore]] + 1 [[WikiPages:fuel:charcoal|Charcoal]]          | [[WikiPages:iron:iron|Iron]]                          |
+| 1 [[WikiPages:coalfuel:iron_ore|Iron Ore]] + 2 [[WikiPages:fuel:firewood|Firewood]]          | [[WikiPages:iron:iron|Iron]]                          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Metalworking EB}}

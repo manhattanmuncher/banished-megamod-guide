@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Tower ======
+----
+
+<WRAP right>
+^  Water Tower                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatertower.png?nolink|Water Tower}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter water tower; a vendor collects and distributes water for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwater.png?nolink|Water Production}}</wrap> **Water Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatertower.png?nolink|Water Tower}}</wrap> **Water Tower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatertower.png?nolink|Water Towers}}</wrap> **Water Towers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwatertower.png?nolink|Water Tower}}</wrap> **Water Tower**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:water|Water]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food Water ColonialCharter}}

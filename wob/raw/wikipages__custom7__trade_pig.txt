@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trade Pig ======
+----
+
+<WRAP right>
+^  Trade Pig                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  250  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  50  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tradepig.png?nolink|Trade Pig}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Trade Pig is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. At a trade value of 250, it is highly prized by traveling merchants.
+
+----
+
+===== Trade Pig Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

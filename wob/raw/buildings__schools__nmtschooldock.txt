@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== School (NMT Dock) ======
+----
+
+<WRAP right>
+^  School (NMT Dock)                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtschooldock.png?nolink|School (NMT Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  24  |
+|  Placement  |  Water  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks school. A Teacher educates up to 24 students. Can be upgraded to the [[buildings:schools:nmtschoolstonedock|School (NMT Stone Dock)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtservicesdocktoolbar.png?nolink|NMT Dock Services Toolbar}}</wrap> **NMT Dock Services Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtschooldock.png?nolink|School}}</wrap> **School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtservicesdocktoolbar.png?nolink|NMT Dock Services Toolbar}}</wrap> **NMT Dock Services Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtschooldock.png?nolink|School}}</wrap> **School**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building School RKEditorChoice}}

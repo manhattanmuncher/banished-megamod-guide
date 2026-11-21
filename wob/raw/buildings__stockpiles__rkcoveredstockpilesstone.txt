@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stockpile: Stone ======
+----
+
+<WRAP right>
+^  Stockpile: Stone                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcoveredstockpilesstone.png?nolink|Stockpile: Stone}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  variable (4×4 to 30×30)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300 per tile  |
+|  Storage Categories  |  Stone  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor's Choice covered stockpile for stone. Settlers store stone only. Drag to define the area; each tile holds 300 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorageyard.png?nolink|Stock Piles}}</wrap> **Stock Piles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstockpiles2toolbar.png?nolink|Covered Stockpiles Toolbar}}</wrap> **Covered Stockpiles Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcoveredstockpilesstone.png?nolink|Stockpile: Stone}}</wrap> **Stockpile: Stone**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstockpiles2toolbar.png?nolink|Covered Stockpiles Toolbar}}</wrap> **Covered Stockpiles Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcoveredstockpilesstone.png?nolink|Stockpile: Stone}}</wrap> **Stockpile: Stone**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage RKEditorChoice}}

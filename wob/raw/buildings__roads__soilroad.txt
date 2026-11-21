@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Soil Road ======
+----
+
+<WRAP right>
+^  Soil Road                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoilroad.png?nolink|Soil Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A soil road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardirtroad.png?nolink|Dirt and Gravel Roads}}</wrap> **Dirt and Gravel Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoilroad.png?nolink|Soil Road}}</wrap> **Soil Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road Colonial}}

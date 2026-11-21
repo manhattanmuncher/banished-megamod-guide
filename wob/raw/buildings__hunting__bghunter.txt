@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== BG Hunter ======
+----
+
+<WRAP right>
+^  BG Hunter                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghunter.png?nolink|BG Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bakery & Garden Alt hunter's post. Hunters hunt wild game within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghunter.png?nolink|BG Hunter}}</wrap> **BG Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghunter.png?nolink|BG Hunter}}</wrap> **BG Hunter**
+
+----
+
+===== Produces =====
+
+Various wild game (depends on available map resources)
+
+----
+
+This building originally came from **Bakery & Garden Alternative v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=533|WoB]]
+
+{{tag>Building Hunting BakeryGardenAlt}}

@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cathedral of the Wicked (Gothic Fantasy 1) ======
+----
+
+<WRAP right>
+^  Cathedral of the Wicked                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcathedral.png?nolink|Cathedral of the Wicked}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  480  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  142  |
+|  [[WikiPages:wood:log|Wood]]  |  54  |
+|  [[WikiPages:stone:stone|Stone]]  |  88  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gothic Fantasy dark cathedral staffed by a Priest, providing Spirit happiness within a radius of 35 tiles to up to 480 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfantasy01.png?nolink|Gothic Fantasy 1}}</wrap> **Gothic Fantasy 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcathedral.png?nolink|Cathedral of the Wicked}}</wrap> **Cathedral of the Wicked**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfantasy01.png?nolink|Gothic Fantasy 1}}</wrap> **Gothic Fantasy 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcathedral.png?nolink|Cathedral of the Wicked}}</wrap> **Cathedral of the Wicked**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcathedral.png?nolink|Cathedral of the Wicked (Gothic Fantasy 1)}}</wrap> **Cathedral of the Wicked (Gothic Fantasy 1)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gothic Fantasy v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=365|WoB]]
+
+{{tag>Building Worship KidGothicFantasy}}

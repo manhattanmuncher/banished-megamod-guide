@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cattle Ranch ======
+----
+
+<WRAP right>
+^  Cattle Ranch                                                                      ^  Wild West Cattle Drive  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwranch.png?nolink|Cattle Ranch}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:iron:iron|Iron]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Wild West Cattle Drive ranch house, houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwranch.png?nolink|Cattle Ranch}}</wrap> **Cattle Ranch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwranch.png?nolink|Cattle Ranch}}</wrap> **Cattle Ranch**
+
+----
+
+{{tag>Building Houses KidWWCattle KID}}

@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Kyoto Farmhouse ======
+----
+
+<WRAP right>
+^  Kyoto Farmhouse                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkyotofarmhouse.png?nolink|Kyoto Farmhouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  40  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 Japanese-style farmhouse; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkyotofarmhouse.png?nolink|Kyoto Farmhouse}}</wrap> **Kyoto Farmhouse**
+
+----
+
+{{tag>Building Houses A8JapaneseHousing}}

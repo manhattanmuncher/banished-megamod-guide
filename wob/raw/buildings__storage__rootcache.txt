@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Root Cache ======
+----
+
+<WRAP right>
+^  Root Cache                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrootcellar.png?nolink|Root Cache}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+|  Storage Categories  |  Vegetable, Fruit  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Lumber ×44, Building Kit ×2, Candle ×40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial mod upgraded underground storage for fruit and vegetables. Settlers store vegetables and fruits only. Upgrade of the Root Cellar with double the capacity.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:storage:rootcellar|Root Cellar]].
+
+----
+
+{{tag>Building Storage Colonial}}

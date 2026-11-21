@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Herbalist ======
+----
+
+<WRAP right>
+^  Village Herbalist                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvherbalist.png?nolink|Village Herbalist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  Stone  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village herbalist shelter. Herbalists collect wild herbs from within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS Toolbar}}</wrap> **DS Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsservices.png?nolink|DS Services}}</wrap> **DS Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsserviceshealth.png?nolink|DS Services Health}}</wrap> **DS Services Health** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvherbalist.png?nolink|Village Herbalist}}</wrap> **Village Herbalist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarherbalist.png?nolink|Herbalists and Apothecaries}}</wrap> **Herbalists and Apothecaries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvherbalist.png?nolink|Village Herbalist}}</wrap> **Village Herbalist**
+
+----
+
+===== Produces =====
+
+Various wild herbs (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Services v1.1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=236|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231726495|Steam]]
+
+{{tag>Building Gathering DSSmallVillage}}

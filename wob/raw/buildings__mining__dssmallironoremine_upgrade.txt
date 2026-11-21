@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Ore Mine ======
+----
+
+<WRAP right>
+^  Iron Ore Mine                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssmallironoremineupgrade.png?nolink|Iron Ore Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 21 (default 5)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  55  |
+|  Happiness  |  Detraction (radius 15)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  23800  |
+|  Upgraded From  |  [[buildings:mining:dssmallironoremine|Small Iron Ore Mine]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  13  |
+|  [[WikiPages:custom0:candles|Candles]]  |  55  |
+</WRAP>
+<WRAP right></WRAP>
+
+Upgrade to allow longer lifespan and slightly quicker extraction of Iron Ore, supporting up to 21 miners.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:dssmallironoremine|Small Iron Ore Mine]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining DSSmallIronOreMineUpgrade}}

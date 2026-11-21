@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Settlers Stump ======
+----
+
+<WRAP right>
+^  Settlers Stump                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersstump.png?nolink|Settlers Stump}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  12  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+An outdoor school staffed by a Teacher, educating up to 12 students.
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building School Settlers}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Tent House ======
+----
+
+<WRAP right>
+^  Small Tent House                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetent1.png?nolink|Small Tent House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:textile:leather|Leather]]  |  6  |
+|  [[WikiPages:textile:fur|Fur]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small training camp tent house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetentstoolbar.png?nolink|Tent Housing Toolbar}}</wrap> **Tent Housing Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetent1.png?nolink|Small Tent House}}</wrap> **Small Tent House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetentstoolbar.png?nolink|Tent Housing Toolbar}}</wrap> **Tent Housing Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetent1.png?nolink|Small Tent House}}</wrap> **Small Tent House**
+
+----
+
+{{tag>Building Houses RKTrainingCamp}}

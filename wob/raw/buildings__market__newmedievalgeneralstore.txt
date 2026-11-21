@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval General Store ======
+----
+
+<WRAP right>
+^  Medieval General Store                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalgeneralstore.png?nolink|Medieval General Store}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  Radius  |  30  |
+|  Storage  |  15,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  Stone  |  18  |
+|  Iron  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town general store. Distributes tools, fuel, clothing, textiles, and crafted goods to nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmarkets.png?nolink|New Medieval markets}}</wrap> **New Medieval markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalgeneralstore.png?nolink|Medieval General Store}}</wrap> **Medieval General Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmarkets.png?nolink|New Medieval markets}}</wrap> **New Medieval markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalgeneralstore.png?nolink|Medieval General Store}}</wrap> **Medieval General Store**
+
+----
+
+===== Stocks =====
+
+  * Fuel (firewood)
+  * Tools
+  * Clothing
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalgeneralstore.png?nolink|Medieval General Store}}</wrap> **Medieval General Store**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Market}}

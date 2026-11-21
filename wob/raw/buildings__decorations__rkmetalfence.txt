@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== RK Metal Fence ======
+----
+
+<WRAP right>
+^  RK Metal Fence                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmetalfence.png?nolink|RK Metal Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1 (Long Straight is 1×2)  |
+^  Build Cost (per piece)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A wrought-metal fence set from the RK Editor's Choice Edition — the standalone version of the railings used on the Metal Fence Cemetery, for enclosing gardens, plots and yards. Each piece costs two stone. Found on the same Creepy Cemetery toolbar as the [[buildings:cemeteries:rkmetalcemetery|Metal Fence Cemetery]].
+
+----
+
+===== Variants =====
+
+  * Straight, Long Straight
+  * Corner, End
+  * 3-Way, 4-Way
+  * Gate, Small Opening
+  * Diagonal, Soft Turn Left, Soft Turn Right
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcemetery.png?nolink|Creepy Cemetery Toolbar}}</wrap> **Creepy Cemetery Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmetalfence.png?nolink|RK Metal Fence}}</wrap> **RK Metal Fence** → the fence piece
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkservices.png?nolink|RK services}}</wrap> **RK services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcemetery.png?nolink|Creepy Cemetery Toolbar}}</wrap> **Creepy Cemetery Toolbar** → **RK Metal Fence** → the fence piece
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Decorations RKEditorChoice}}

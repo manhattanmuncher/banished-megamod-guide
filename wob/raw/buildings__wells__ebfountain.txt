@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Fountain ======
+----
+
+<WRAP right>
+^  EB Fountain                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebfountain3x3.png?nolink|EB Fountain}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3 (smallest)  |
+|  Happiness  |  Safety (radius 20)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative EB (embx61) stone fountain that also functions as a well, providing Safety happiness and fire suppression within its radius. Available in three sizes, each with a free "Ghosted" no-footprint version for overlapping placement.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Radius ^ Build Cost ^
+| Fountain 3x3 | 3 × 3 | 20 | 32 work, 6 Wood, 28 Stone, 4 Iron |
+| Fountain 4x4 | 4 × 4 | 24 | 42 work, 8 Wood, 36 Stone, 6 Iron |
+| Fountain 6x6 | 6 × 6 | 28 | 58 work, 10 Wood, 46 Stone, 8 Iron |
+| Ghosted versions | 0 × 0 | — | Free (overlapping placement) |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebfountain3x3.png?nolink|EB Fountain}}</wrap> **EB Fountains**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells EB}}

@@ -1,0 +1,61 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Town Trading Post ======
+----
+
+<WRAP right>
+^  Old Town Trading Post                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17tradingpost.png?nolink|Old Town Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–5 (5)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  140  |
+|  [[WikiPages:stone:stone|Stone]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter general trading post. Up to 5 traders work here, and numerous merchants may arrive by river boat offering goods from every category.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartradebuildings.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17tradingpost.png?nolink|Old Town Trading Post}}</wrap> **Old Town Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17tradingpost.png?nolink|Old Town Trading Post}}</wrap> **Old Town Trading Post**
+
+----
+
+===== Merchant =====
+
+Many different merchant types may visit by river boat, covering all item categories:
+
+^ Merchant ^ Offers ^
+| General | All good categories, crop and orchard seeds, and livestock |
+| Organics | Fruit and vegetables |
+| Grain | Grain |
+| Protein | Protein (meat) |
+| Textiles | Textiles and fabric |
+| Resources | Wood, stone, iron, fuel, tools, herbs, and industrial fuel |
+| Seeds | Crop and orchard seeds |
+| Livestock | Livestock |
+| Clothing | Clothing |
+| Alcohol | Alcohol |
+| Minerals | Coal |
+| Crafted | Crafted goods |
+| Forged | Forged / metalwork goods |
+| Materials | Raw materials |
+| Construction | Building supplies |
+| Precious | Precious goods |
+| Misc | Miscellaneous goods |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building TradingPost ColonialCharter}}

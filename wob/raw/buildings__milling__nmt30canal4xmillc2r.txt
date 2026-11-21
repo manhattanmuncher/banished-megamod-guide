@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Canal : Mill (4x, Old Stones, Reversed) ======
+----
+
+<WRAP right>
+^  Medieval Canal : Mill (4x, Old Stones, Reversed)                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal4xmillc2r.png?nolink|Medieval Canal : Mill (4x, Old Stones, Reversed)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 2)  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Hoe  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+NMT 3.1 Canal Set Old Stones watermill, mirrored; Miller grinds grain into Flour; can be placed within a canal system.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks.png?nolink|NMT 3.1 Canal Old Stones Set}}</wrap> **NMT 3.1 Canal Old Stones Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks4x.png?nolink|NMT 3.1 Canal Old Stones Set 4X Toolbar}}</wrap> **NMT 3.1 Canal Old Stones Set 4X Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal4xmillc2r.png?nolink|Medieval Canal : Mill}}</wrap> **Medieval Canal : Mill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks.png?nolink|NMT 3.1 Canal Old Stones Set}}</wrap> **NMT 3.1 Canal Old Stones Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks4x.png?nolink|NMT 3.1 Canal Old Stones Set 4X Toolbar}}</wrap> **NMT 3.1 Canal Old Stones Set 4X Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal4xmillc2r.png?nolink|Medieval Canal : Mill}}</wrap> **Medieval Canal : Mill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces  ^
+| 20 [[WikiPages:food:wheat|Wheat]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:corn|Corn]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:barley|Barley]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:sorghum|Sorghum]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:oats_oat|Oat]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:rye|Rye]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:rice|Rice]]  | [[WikiPages:grain:flour|Flour]]  |
+| 12 [[WikiPages:textile:hemp_hempleaf|Hemp Leaf]]  | [[WikiPages:grain:flour|Flour]]  |
+| 15 [[WikiPages:food:acorns|Acorns]]  | [[WikiPages:grain:flour|Flour]]  |
+
+----
+
+{{tag>Building Milling NMT30CanalSet}}

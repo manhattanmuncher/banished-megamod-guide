@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Workshop ======
+----
+
+<WRAP right>
+^  Dock Workshop                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockshopcraft.png?nolink|Dock Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/wetworker.png?nolink|Wetworker}}</wrap> Wetworker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  Placement  |  On Dock platforms  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Dock crafting building. A Wetworker turns Reed and Feather into Firebundles, Reed Coats, and Rope, and crafts simple Crude Tools or Wooden Tools from raw Wood and Iron Ore.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockshopcraft.png?nolink|Dock Workshop}}</wrap> **Dock Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockshopcraft.png?nolink|Dock Workshop}}</wrap> **Dock Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockshopcraft.png?nolink|Dock Workshop}}</wrap> **Dock Workshop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                  ^ Produces                                              ^
+| 25 [[WikiPages:custom7:reeds|Reed]]                                                          | [[WikiPages:fuel:fire_bundle|Firebundle]]             |
+| 6 [[WikiPages:custom7:reeds|Reed]] + 3 [[WikiPages:textile:feathers_feather|Feather]]        | Reed Coat                                             |
+| 150 [[WikiPages:custom7:reeds|Reed]]                                                         | [[WikiPages:custom0:rope|Rope]]                       |
+| 1 [[WikiPages:coalfuel:iron_ore|Iron Ore]] + 1 [[WikiPages:wood:log|Wood]]                   | Crude Tool                                            |
+| 2 [[WikiPages:wood:log|Wood]]                                                                | [[WikiPages:tool:wooden_tool|Wooden Tool]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

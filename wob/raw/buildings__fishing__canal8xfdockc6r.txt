@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Canal : Fishing Dock (Old Church, 8×, Reversed) ======
+----
+
+<WRAP right>
+^  Canal : Fishing Dock                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xfdockc6r.png?nolink|Canal : Fishing Dock (Old Church, 8×, Reversed)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  Stone  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+NMT 3.1 Canal Set canal fishing dock in the Old Church style for 8-wide canal sections, mirrored orientation (RKEC2 edition); Fishermen catch [[WikiPages:food:fish|Fish]] from within a 6-tile radius; can be placed within a canal system.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch.png?nolink|NMT 3.1 Canal Old Church Set Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch8x.png?nolink|NMT 3.1 Canal Old Church Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xfdockc6r.png?nolink|Canal : Fishing Dock}}</wrap> **Canal : Fishing Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch.png?nolink|NMT 3.1 Canal Old Church Set Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch8x.png?nolink|NMT 3.1 Canal Old Church Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xfdockc6r.png?nolink|Canal : Fishing Dock}}</wrap> **Canal : Fishing Dock**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+  * Must be placed on water.
+  * Mirrored variant of the [[buildings:fishing:canal8xfdockc6|Old Church, 8×]] version.
+
+----
+
+{{tag>Building Fishing NMT30CanalSet}}

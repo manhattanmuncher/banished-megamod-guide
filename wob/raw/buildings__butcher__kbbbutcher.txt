@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== KBB Butcher ======
+----
+
+<WRAP right>
+^  KBB Butcher                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkbbbutcher.png?nolink|KBB Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Butcher & Baker butcher shop where a Butcher cuts raw meats into chops, ribs, roasts, sausages, and steaks.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbaker.png?nolink|Butcher & Baker}}</wrap> **Butcher & Baker** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkbbbutcher.png?nolink|KBB Butcher}}</wrap> **KBB Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbaker.png?nolink|Butcher & Baker}}</wrap> **Butcher & Baker** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkbbbutcher.png?nolink|KBB Butcher}}</wrap> **KBB Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                     ^ Produces                                              ^
+| 12 [[WikiPages:food:pork|Pork]]                                                                  | [[WikiPages:food:pork_chop|Pork Chop]]                |
+| 12 [[WikiPages:food:mutton|Mutton]]                                                               | [[WikiPages:food:lamb_chop|Lamb Chop]]                |
+| 12 [[WikiPages:food:boar|Boar]]                                                                   | [[WikiPages:food:boar_ribs|Boar Ribs]]                |
+| 12 [[WikiPages:food:beef_beef|Beef]]                                                              | [[WikiPages:food:venison_roast|Roast]]                |
+| 12 [[WikiPages:food:pork|Pork]]                                                                   | [[WikiPages:food:venison_roast|Roast]]                |
+| 12 [[WikiPages:food:venison|Venison]]                                                             | [[WikiPages:food:venison_roast|Roast]]                |
+| 6 [[WikiPages:food:mutton|Mutton]]                                                                | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:pork|Pork]]                                                                    | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:venison|Venison]]                                                              | [[WikiPages:food:sausages|Sausages]]                  |
+| 12 [[WikiPages:food:bear|Bear]]                                                                   | [[WikiPages:food:bear_steak|Bear Steak]]              |
+| 12 [[WikiPages:food:beef_beef|Beef]]                                                              | [[WikiPages:food:beef_steak|Steak]]                   |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                                                       | [[WikiPages:food:bison_steak|Bison Steak]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Butcher Baker**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=715|WoB]]
+
+{{tag>Building Butcher ButcherBaker KID}}

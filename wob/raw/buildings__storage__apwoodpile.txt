@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Woodpile (Abandoned Places) ======
+----
+
+<WRAP right>
+^  Woodpile                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapwoodpile.png?nolink|Woodpile}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Abandoned Places fuel storage. Settlers stack firewood in the woodpile for colony use. Costs nothing to construct.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapwoodpile.png?nolink|Woodpile}}</wrap> **Woodpile**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapwoodpile.png?nolink|Woodpile}}</wrap> **Woodpile**
+
+----
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Storage KidAbandonedPlaces}}

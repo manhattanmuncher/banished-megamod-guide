@@ -1,0 +1,19 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== More Food Buildings ======
+----
+
+Other food-producing buildings not covered by the other categories.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:more_food:candystore|Candy Store]] | Christmas Mod building; Santa's Elf crafts candy from sugar or honey combined with fruit or spices; provides happiness bonus |
+| [[buildings:more_food:candystoresa|Candy Store (SA)]] | SA building; Worker crafts candy from sugar or honey combined with fruit; provides happiness bonus |
+| [[buildings:more_food:nmt30malthouse|Malt House]] | NMT 3.1 malt house; malts grains for use in brewing |
+| [[buildings:more_food:nognook|Nog Nook]] | Christmas Mod building; Santa's Elf crafts eggnog from milk, eggs, and spices; provides happiness bonus |
+| [[buildings:more_food:refinery|Refinery]] | Colonial Charter refinery; processes sugar cane, sugar beets, and maple sap into refined sugar and maple syrup |
+
+----
+
+{{tag>Buildings MoreFood}}

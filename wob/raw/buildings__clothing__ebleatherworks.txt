@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Leather Works ======
+----
+
+<WRAP right>
+^  Leather Works                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebleatherworks.png?nolink|Leather Works}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tanner.png?nolink|Tanner}}</wrap> Tanner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  52  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB-mod Leather Works. A Tanner crafts finished Cured Leather goods — Pouches and Saddles — from the colony's Cured Leather supply.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebleatherworks.png?nolink|Leather Works}}</wrap> **Leather Works**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebresources.png?nolink|EB Resources}}</wrap> **EB Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebleatherworks.png?nolink|Leather Works}}</wrap> **Leather Works**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                  ^ Produces                                              ^
+| 1 [[WikiPages:custom2:cured_leather|Cured Leather]]          | [[WikiPages:custom0:pouch|Pouch]]                     |
+| 2 [[WikiPages:custom2:cured_leather|Cured Leather]]          | [[WikiPages:custom0:saddle|Saddle]]                   |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Clothing EB}}

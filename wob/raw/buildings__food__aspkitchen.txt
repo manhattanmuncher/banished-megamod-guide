@@ -1,0 +1,62 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Kitchen ======
+----
+
+<WRAP right>
+^  Kitchen                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspkitchen.png?nolink|Kitchen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Kitchen is an Animal Shed Plus building that prepares a wide variety of cooked meals using meat, dairy, and vegetables as ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspkitchen.png?nolink|Kitchen}}</wrap> **Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspkitchen.png?nolink|Kitchen}}</wrap> **Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspkitchen.png?nolink|Kitchen}}</wrap> **Kitchen**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                             ^ Produces                                              ^
+| 4 [[WikiPages:food:beef_beef|Beef]] + 4 [[WikiPages:food:potato|Potato]]                                                               | [[WikiPages:food:bbq_meal|BBQ Meal]]                  |
+| 4 [[WikiPages:food:mutton|Mutton]] + 4 [[WikiPages:food:potato|Potato]]                                                                | [[WikiPages:food:bbq_meal|BBQ Meal]]                  |
+| 4 [[WikiPages:food:pork|Pork]] + 4 [[WikiPages:food:potato|Potato]]                                                                    | [[WikiPages:food:bbq_meal|BBQ Meal]]                  |
+| 4 [[WikiPages:food:chicken|Chicken]] + 4 [[WikiPages:food:potato|Potato]]                                                              | [[WikiPages:food:bbq_meal|BBQ Meal]]                  |
+| 4 [[WikiPages:food:cheese|Cheese]] + 4 [[WikiPages:food:bread_bread|Bread]]                                                            | [[WikiPages:food:grilled_cheese|Grilled Cheese]]      |
+| 4 [[WikiPages:food:chicken|Chicken]] + 4 [[WikiPages:food:oats_oat|Oats]]                                                              | [[WikiPages:food:meat_soup_marketsoupmeat|Meat Soup]] |
+| 4 [[WikiPages:food:beef_beef|Beef]] + 4 [[WikiPages:food:onion|Onion]]                                                                 | [[WikiPages:food:meat_soup_marketsoupmeat|Meat Soup]] |
+| 4 [[WikiPages:food:cheese|Cheese]] + 4 [[WikiPages:food:milk|Milk]]                                                                    | [[WikiPages:food:cheese_soup|Cheese Soup]]            |
+| 4 [[WikiPages:food:herb_cheese|Herb Cheese]] + 4 [[WikiPages:food:milk|Milk]]                                                          | [[WikiPages:food:cheese_soup|Cheese Soup]]            |
+| 4 [[WikiPages:food:cabbage|Cabbage]] + 4 [[WikiPages:food:carrots|Carrot]]                                                             | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]] |
+| 4 [[WikiPages:food:potato|Potato]] + 4 [[WikiPages:food:onion|Onion]]                                                                  | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]] |
+| 4 [[WikiPages:food:mushroom|Mushroom]] + 2 [[WikiPages:health:herb|Herb]]                                                              | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]] |
+| 3 [[WikiPages:food:beef_beef|Beef]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:carrots|Carrot]]                         | [[WikiPages:food:stew_aspstew|Stew]]                  |
+| 3 [[WikiPages:food:mutton|Mutton]] + 2 [[WikiPages:food:onion|Onion]] + 2 [[WikiPages:food:cabbage|Cabbage]]                           | [[WikiPages:food:stew_aspstew|Stew]]                  |
+| 3 [[WikiPages:food:chicken|Chicken]] + 4 [[WikiPages:food:squash|Squash]] + 1 [[WikiPages:health:herb|Herb]]                           | [[WikiPages:food:stew_aspstew|Stew]]                  |
+| 3 [[WikiPages:food:tomatoes|Tomato]] + 2 [[WikiPages:food:squash|Squash]] + 2 [[WikiPages:food:pepper|Pepper]]                         | [[WikiPages:food:salsa_aspsalsa|Salsa]]               |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Animal Shed Plus v2.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=613|WoB]]
+
+{{tag>Building Food AnimalShedPlus}}

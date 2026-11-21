@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WH Forester ======
+----
+
+<WRAP right>
+^  WH Forester                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhforester.png?nolink|WH Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Westward Ho forester. Foresters grow and harvest trees for Log within a 24-tile radius.
+
+----
+
+^ Toolbar ^ ^ ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhsupport.png?nolink|WH Support}}</wrap> **WH Support** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhforester.png?nolink|WH Forester}}</wrap> **WH Forester** |
+
+----
+
+{{tag>Building Forester KidWestwardHo}}

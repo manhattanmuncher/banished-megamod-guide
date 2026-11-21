@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fertility Potion ======
+----
+
+<WRAP right>
+^  Fertility Potion                               ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/6  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/fertilitypotion.png?nolink|Fertility Potion}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fertility Potion is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Fertility Potion Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:herbalist:cornerapothecaryt1|Apothecary]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt2|Apothecary (Corner T2)]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt3|Apothecary (Corner T3)]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt4|Apothecary (Corner T4)]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt5|Apothecary (Corner T5)]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt6|Apothecary (Corner T6)]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt7|Apothecary (Corner T7)]]
+  * Produced at the [[buildings:herbalist:cornerapothecaryt8|Apothecary (Corner T8)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7 Health}}

@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jam House (Gothic Farm) ======
+----
+
+<WRAP right>
+^  Jam House                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfjamhouse.png?nolink|Jam House}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservist.png?nolink|Preservist}}</wrap> Preservist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+Gothic Farm preserving house that turns fruit and Honey into Preserves Fruit.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfarm.png?nolink|Gothic Farm}}</wrap> **Gothic Farm** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfjamhouse.png?nolink|Jam House}}</wrap> **Jam House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicfarm.png?nolink|Gothic Farm}}</wrap> **Gothic Farm** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfjamhouse.png?nolink|Jam House}}</wrap> **Jam House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfjamhouse.png?nolink|Jam House (Gothic Farm)}}</wrap> **Jam House (Gothic Farm)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                          ^ Produces                                                      ^
+| 10 [[WikiPages:food:blueberries|Blueberries]] + 6 [[WikiPages:food:honey|Honey]]                                    | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:strawberries|Strawberries]] + 6 [[WikiPages:food:honey|Honey]]                                  | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:apple|Apple]] + 6 [[WikiPages:food:honey|Honey]]                                                | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:cherry|Cherry]] + 6 [[WikiPages:food:honey|Honey]]                                              | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:peach|Peach]] + 6 [[WikiPages:food:honey|Honey]]                                                | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:pear|Pear]] + 6 [[WikiPages:food:honey|Honey]]                                                  | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:plum|Plum]] + 6 [[WikiPages:food:honey|Honey]]                                                  | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+| 10 [[WikiPages:food:figs|Fig]] + 6 [[WikiPages:food:honey|Honey]]                                                   | [[WikiPages:food:preserves_fruit|Preserves Fruit]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gothic Farm v1.12**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=370|WoB]]
+
+{{tag>Building KidGothicFarm}}

@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Soup Kitchen ======
+----
+
+<WRAP right>
+^  Soup Kitchen                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoupkitchen.png?nolink|Soup Kitchen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Goods (radius 20)  |
+|  Storage  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Soup Kitchen is a food preparation building where a baker cooks hearty soups from a variety of ingredients. It provides a Goods happiness bonus to nearby citizens and produces Kitchen Soup from ten different recipes.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoupkitchen.png?nolink|Soup Kitchen}}</wrap> **Soup Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoupkitchen.png?nolink|Soup Kitchen}}</wrap> **Soup Kitchen**
+
+----
+
+===== Recipes =====
+
+All recipes produce [[WikiPages:food:kitchen_soup|Kitchen Soup]].
+
+^ Ingredients                                                                                                                                                                                                                       ^
+| 3 [[WikiPages:food:chicken|Chicken]] + 3 [[WikiPages:food:onion|Onion]] + 3 [[WikiPages:food:carrots|Carrot]]                                                                                                                    |
+| 3 [[WikiPages:food:beef_beef|Beef]] + 4 [[WikiPages:food:carrots|Carrot]] + 4 [[WikiPages:food:peas|Pea]] + 4 [[WikiPages:food:potato|Potato]]                                                                                        |
+| 4 [[WikiPages:food:broccoli|Broccoli]] + 2 [[WikiPages:food:cream|Cream]] + 5 [[WikiPages:food:carrots|Carrot]]                                                                                                                  |
+| 5 [[WikiPages:food:seaweed|Seaweed]] + 5 [[WikiPages:food:soybeans|Soybean]] + 5 [[WikiPages:food:fish|Fish]]                                                                                                                    |
+| 3 [[WikiPages:food:lobster|Lobster]] + 3 Flour + 3 [[WikiPages:food:onion|Onion]] + 3 [[WikiPages:food:butter|Butter]]                                                                                                           |
+| 5 [[WikiPages:food:peas|Pea]] + 4 Pork + 3 [[WikiPages:food:cream|Cream]]                                                                                                                                                       |
+| 6 [[WikiPages:food:corn|Corn]] + 4 [[WikiPages:food:milk|Milk]] + 5 [[WikiPages:food:potato|Potato]]                                                                                                                             |
+| 3 [[WikiPages:food:strawberries|Strawberry]] + 3 [[WikiPages:food:cream|Cream]] + 3 [[WikiPages:vegetable:sugar_refined|Refined Sugar]]                                                                                          |
+| 8 [[WikiPages:food:tomatoes|Tomato]] + 7 [[WikiPages:food:milk|Milk]]                                                                                                                                                            |
+| 2 [[WikiPages:food:venison|Venison]] + 3 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:carrots|Carrot]] + 1 [[WikiPages:alcohol:wine|Wine]]                                                                               |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Preparing}}

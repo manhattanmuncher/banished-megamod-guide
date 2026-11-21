@@ -1,0 +1,92 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Honey ======
+----
+
+<WRAP right>
+^  Honey                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  27/32  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/honey.png?nolink|Honey}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Honey is a fruit harvested from orchards or gathered in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Honey Mods =====
+
+==== Procuring / where to get ====
+
+  * Produced at the [[buildings:beekeeping:apiary|Apiary]]
+  * Produced at the [[buildings:beekeeping:africanbeehive|African Beehive]]
+  * Produced at the [[buildings:beekeeping:fbapiary|Apiary (Friendly Blue)]]
+  * Produced at the [[buildings:beekeeping:dssvapiarybeeshelter1|Village Bee Shelter]] (random)
+  * Produced at the [[buildings:beekeeping:ebsvapiary|Village Apiary]]
+  * Produced at the [[buildings:beekeeping:dssvapiarybeeshelter1choice|Village Bee Shelter (Choice)]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow03|Hedgerow 03 (Friendly Blue Too)]]
+  * Produced at the [[buildings:beekeeping:tinybeekeeper|Tiny Beekeeper]]
+  * Produced at the [[buildings:gathering:fairygardenpatch01|Fairy Garden Summer (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fairygardenplumpatch|Fairy Garden Plum Patch (Fairy Garden)]]
+  * Produced at the [[buildings:beekeeping:gfbeekeeper|Bee Keeper (Gothic Farm)]]
+  * Produced at the [[buildings:hedgerow:hedgespring02|Spring 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgesummer01|Summer 01 (Hedgerow)]] (random)
+  * Produced at the [[buildings:fields:kf11|Farmyard 11]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * [[buildings:beekeeping:nmt30apiary|Apiary (NMT30)]]
+  * [[buildings:gathering:nvhuntingground|Hunting Ground (NV)]]
+  * Produced at the [[buildings:gathering:shapiary|Apiary (Summer Haven)]]
+  * Produced at the [[buildings:gathering:shwbeekeeper|BeeKeeper Workplace (Summer Haven)]]
+  * Produced at the [[buildings:trading_post:tradercartfruitveg|Trader Cart (Fruit & Veg)]] (random)
+  * Produced at the [[buildings:beekeeping:wpbeekeeper|WP BeeKeeper]]
+  * Produced at the [[buildings:beekeeping:zapiary|Apiary (NMTown)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:bakery:dssvbakery|Village Bakery]]
+  * Used at the [[buildings:brewery:dssvtownmeadbrewer|Village Mead Brewer]]
+  * Used at the [[buildings:bakery:cc17bakery|City Bakery]]
+  * Used at the [[buildings:bakery:cmbakery|Bakery (Colonial Resources)]]
+  * Used at the [[buildings:bakery:dstownhousesbstore3x4bakeri|Bryggen Bakeri]]
+  * Used at the [[buildings:bakery:dstownhousesbstore3x4bakeriupsmoke|Bryggen Bakeri (Upgraded)]]
+  * Used at the [[buildings:bakery:ebbakery|Bakery (EB)]]
+  * Used at the [[buildings:bakery:fnbaker|Baker (Friendly Neighborhood)]]
+  * Used at the [[buildings:bakery:gfbaker1|Small Baker (Gothic Fantasy 1)]]
+  * Used at the [[buildings:bakery:gfbaker2|Small Baker (Gothic Fantasy 2)]]
+  * Used at the [[buildings:bakery:newmedievalbakery|Medieval Bakery]]
+  * Used at the [[buildings:bakery:newmedievalbakeryupg1|Medieval Bakery (Upgrade 1)]]
+  * Used at the [[buildings:bakery:newmedievalbakeryupg2|Medieval Bakery (Upgrade 2)]]
+  * Used at the [[buildings:bakery:newmedievalbakeryupg3|Medieval Bakery (Upgrade 3)]]
+  * Used at the [[buildings:bakery:rkoldbakeryshop|Old Bakery]]
+  * Used at the [[buildings:bakery:shatowerbaker|Baker (Stone House Addon)]]
+  * Used at the [[buildings:bakery:tieredbakery|Urban Bakery]]
+  * Used at the [[buildings:crafting:brewery|Brewery]]
+  * Used at the [[buildings:preserving:gfjamhouse|Jam House (Gothic Farm)]]
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Used at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]] (for Mead)
+  * Used at the [[buildings:food:ebsvpreservist|Village Preservist]] (for Potted Fruit)
+  * Used at the [[buildings:bakery:fbbaker|Friendly Baker]] (for Oat Cookies)
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]] (for Oat Cookies)
+  * Used at the [[buildings:preserving:tinyjamshop|Tiny Jam Shop]] (for Preserves Fruit)
+  * Used at the [[buildings:brewery:tinytavern|Tiny Tavern]] (for Mead)
+  * Used at the [[buildings:brewery:wpbrewer|WP Brewer]] (for Mead)
+  * Used at the [[buildings:preserving:wppreservist|WP Preservist]] (for Fruit Preserves)
+  * Used at the [[buildings:bakery:xmasbaker|Xmas Baker]] (for Gingerbread)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval BathHouse (Upgrade B) ======
+----
+
+<WRAP right>
+^  Medieval BathHouse                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbathhouseb.png?nolink|Medieval BathHouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 60)  |
+|  <abbr "Max residents attending at once">Attendance</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  96  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:custom5:brick|Brick]]  |  56  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town bathhouse staffed by a Worker, providing Health happiness to nearby residents within a radius of 60 tiles and accommodating up to 2000 attendees.
+
+----
+
+===== Where to Find =====
+
+The Medieval BathHouse (Upgrade B) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:hospital:newmedievalbathhouse|Medieval BathHouse]].
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Hospital RKEditorChoice}}

@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Scavenger ======
+----
+
+<WRAP right>
+^  Water Scavenger                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddtidal.png?nolink|Water Scavenger}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dredger.png?nolink|Dredger}}</wrap> Dredger  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  Placement  |  On Dock platforms  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Dock scavenger. A Dredger pulls a varied seafood haul — Oysters, Mussels, Seaweed, Crayfish, and the occasional Pearl — from the surrounding water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddtidal.png?nolink|Water Scavenger}}</wrap> **Water Scavenger**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddtidal.png?nolink|Water Scavenger}}</wrap> **Water Scavenger**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddtidal.png?nolink|Water Scavenger}}</wrap> **Water Scavenger**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:food:oyster|Oyster]]
+  * [[WikiPages:food:mussel|Mussel]]
+  * [[WikiPages:food:seaweed|Seaweed]]
+  * [[WikiPages:food:crayfish|Crayfish]]
+  * [[WikiPages:custom6:pearl|Pearl]] (rare)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food ColonialCharter}}

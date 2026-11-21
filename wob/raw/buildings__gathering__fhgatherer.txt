@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer (Forest Haven) ======
+----
+
+<WRAP right>
+^  Gatherer                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhgatherer.png?nolink|Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Haven gatherer's shelter. Gatherers collect wild food from within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhresources.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhresources.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+----
+
+===== Produces =====
+
+Various wild food (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Haven v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=590|WoB]]
+
+{{tag>Building Gathering ForestHaven}}

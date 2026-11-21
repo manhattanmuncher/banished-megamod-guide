@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friesian Cows ======
+----
+
+<WRAP right>
+^  Friesian Cows                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockcow2.png?nolink|Friesian Cows}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  800  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  20 tiles  |
+|  <abbr "Product produced periodically while alive">Periodic Product</abbr>  |  Milk (every 0.15 months)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Friesian Cows are dairy cattle raised at a Pasture. They produce Milk periodically while alive, and yield Beef and Leather when slaughtered.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Periodic Products =====
+
+  * [[WikiPages:food:milk|Milk]] — produced every 0.15 months
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:beef_beef|Beef]]
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockBLRKCow}}

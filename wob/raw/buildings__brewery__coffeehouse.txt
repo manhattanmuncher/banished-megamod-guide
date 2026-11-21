@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coffee House ======
+----
+
+<WRAP right>
+^  Coffee House                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoffeehouse.png?nolink|Coffee House}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/alewench.png?nolink|Alewench}}</wrap> Alewench  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0 – 2 (default 0)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3000  |
+|  Happiness  |  Entertainment (radius 40, requires alcohol)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  60  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter coffee house where an Alewench roasts Coffee Beans into Coffee, providing Entertainment happiness to nearby residents.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxury}}</wrap> **Luxury** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoffeehouse.png?nolink|Coffee House}}</wrap> **Coffee House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccalcohol.png?nolink|Alcohol}}</wrap> **Alcohol** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoffeehouse.png?nolink|Coffee House}}</wrap> **Coffee House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoffeehouse.png?nolink|Coffee House}}</wrap> **Coffee House**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                          ^ Produces                                    ^
+| 60 [[WikiPages:food:coffee_beans|Coffee Bean]]                       | [[WikiPages:alcohol:coffee|Coffee]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Brewery ColonialCharter}}

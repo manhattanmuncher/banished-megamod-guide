@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WP Gatherer ======
+----
+
+<WRAP right>
+^  WP Gatherer                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpgatherer.png?nolink|WP Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Work Place compact gatherer hut. Gatherers collect wild food from the surrounding area within a 24-tile radius.
+
+----
+
+^ Toolbar ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpgatherer.png?nolink|WP Gatherer}}</wrap> **WP Gatherer** |
+
+----
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building Gathering KidWorkPlace}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Inn ======
+----
+
+<WRAP right>
+^  Village Inn                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvinn.png?nolink|Village Inn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  4  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village boarding inn; houses up to 5 settlers temporarily across 4 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingaccom.png?nolink|Accommodation}}</wrap> **Accommodation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvinn.png?nolink|Village Inn}}</wrap> **Village Inn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingaccom.png?nolink|Accommodation}}</wrap> **Accommodation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvinn.png?nolink|Village Inn}}</wrap> **Village Inn**
+
+----
+
+This building originally came from **Small Village: Homes v1.3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=214|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231694360|Steam]]
+
+{{tag>Building Houses DS}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage (Bed and Breakfast) ======
+----
+
+<WRAP right>
+^  Storage                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbstorage.png?nolink|Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  10,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Custom 0/1/2/6/7  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bed and Breakfast general storage building. Settlers store food, tools, and other supplies with a capacity of 10,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbstorage.png?nolink|Storage}}</wrap> **Storage**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbstorage.png?nolink|Storage}}</wrap> **Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbstorage.png?nolink|Storage (Bed and Breakfast)}}</wrap> **Storage (Bed and Breakfast)**
+
+----
+
+This building originally came from **Bed and Breakfast v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=371|WoB]]
+
+{{tag>Building Storage KidBedBreakfast}}

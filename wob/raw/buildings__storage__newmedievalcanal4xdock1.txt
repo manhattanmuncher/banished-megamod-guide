@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Canal : Dock (4x) ======
+----
+
+<WRAP right>
+^  Medieval Canal : Dock (4x)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xdock1.png?nolink|Medieval Canal : Dock (4x)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+|  Storage Categories  |  Food, Grain, Fruit, Vegetable, Protein, Tools, Health, Clothing, Textile, Material  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town canal dock for storing goods at the waterfront. Settlers store food, grain, fruit, vegetables, protein, tools, health items, clothing, textiles, and construction materials with a capacity of 1,200 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbricks.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4x.png?nolink|New Medieval Canal 4x}}</wrap> **New Medieval Canal 4x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xdock1.png?nolink|Medieval Canal : Dock (4x)}}</wrap> **Medieval Canal : Dock (4x)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbricks.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4x.png?nolink|New Medieval Canal 4x}}</wrap> **New Medieval Canal 4x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xdock1.png?nolink|Medieval Canal : Dock (4x)}}</wrap> **Medieval Canal : Dock (4x)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xdock1.png?nolink|Medieval Canal : Dock (4x)}}</wrap> **Medieval Canal : Dock (4x)**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Storage NewMedievalTown}}

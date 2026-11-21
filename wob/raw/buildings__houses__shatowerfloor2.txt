@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== SHA Tower Floor 2 ======
+----
+
+<WRAP right>
+^  SHA Tower Floor 2                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerfloor2.png?nolink|SHA Tower Floor 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Stone House Addon modular tower floor; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatower.png?nolink|Tower}}</wrap> **Tower** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerfloor2.png?nolink|SHA Tower Floor 2}}</wrap> **SHA Tower Floor 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatower.png?nolink|Tower}}</wrap> **Tower** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerfloor2.png?nolink|SHA Tower Floor 2}}</wrap> **SHA Tower Floor 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshahouse.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerfloor2.png?nolink|SHA Tower Floor 2}}</wrap> **SHA Tower Floor 2**
+
+----
+
+This building originally came from **Stone House Addon v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=279|WoB]]
+
+{{tag>Building Houses StoneHouseAddon}}

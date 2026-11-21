@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== BG Animal Shed ======
+----
+
+<WRAP right>
+^  BG Animal Shed                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbganimalshed.png?nolink|BG Animal Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bakery & Garden Alt animal shed. A Herdsman collects Egg or Milk from housed livestock.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbganimalshed.png?nolink|BG Animal Shed}}</wrap> **BG Animal Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbganimalshed.png?nolink|BG Animal Shed}}</wrap> **BG Animal Shed**
+
+----
+
+===== Produces =====
+
+Random per cycle:
+  * [[WikiPages:food:egg|Egg]]
+  * [[WikiPages:food:milk|Milk]]
+
+----
+
+This building originally came from **Bakery & Garden Alternative v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=533|WoB]]
+
+{{tag>Building Animal BakeryGardenAlt}}

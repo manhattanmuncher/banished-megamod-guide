@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Multi-Quarry ======
+----
+
+<WRAP right>
+^  Multi-Quarry                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmultiquarry.png?nolink|Multi-Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  21 × 17  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 15)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  80  |
+|  [[WikiPages:iron:iron|Iron]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Used to mine iron, coal, and stone from the ground at the same time. This Quarry can be removed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmultiquarry.png?nolink|Multi-Quarry}}</wrap> **Multi-Quarry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmultiquarry.png?nolink|Multi-Quarry}}</wrap> **Multi-Quarry**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:stone:stone|Stone]]
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining MultiQuarry}}

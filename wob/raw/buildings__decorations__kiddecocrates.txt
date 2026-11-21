@@ -1,0 +1,25 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Decorative Crates (Kid) ======
+----
+
+<WRAP right>
+^  Decorative Crates (Kid)                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecocrates.png?nolink|Decorative Crates}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  No footprint  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Deco Crates — purely decorative crates, barrels and sacks for dressing up markets, docks and storehouses. Free to place, with a remove tool; they hold nothing.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecocrates.png?nolink|Decorative Crates}}</wrap> **Decorative Crates** → the crate cluster
+
+----
+
+{{tag>Building Decorations KidDecoCrates}}

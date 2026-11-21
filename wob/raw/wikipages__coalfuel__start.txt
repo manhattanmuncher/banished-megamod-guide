@@ -1,0 +1,28 @@
+~~NOTOC~~
+
+====== Minerals ======
+----
+
+Harvested mineral resources from mining operations, including coal, copper, tin, and iron ores.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/coal.png?nolink|Coal}} [[WikiPages:coalfuel:coal|Coal]]
+  * {{https://sprites.worldofbanished.com/copperore.png?nolink|Copper Ore}} [[WikiPages:coalfuel:copper_ore|Copper Ore]]
+  * {{https://sprites.worldofbanished.com/gems.png?nolink|Gemstone (Rough)}} [[WikiPages:coalfuel:gemstone_rough|Gemstone (Rough)]]
+  * {{https://sprites.worldofbanished.com/gold.png?nolink|Gold Ore}} [[WikiPages:coalfuel:gold_ore|Gold Ore]]
+  * {{https://sprites.worldofbanished.com/ironore.png?nolink|Iron Ore}} [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * {{https://sprites.worldofbanished.com/jade.png?nolink|Jade}} [[WikiPages:coalfuel:jade|Jade]]
+  * {{https://sprites.worldofbanished.com/marble.png?nolink|Marble}} [[WikiPages:coalfuel:marble|Marble]]
+  * {{https://sprites.worldofbanished.com/salt.png?nolink|Salt}} [[WikiPages:coalfuel:salt|Salt]]
+  * {{https://sprites.worldofbanished.com/silver.png?nolink|Silver Ore}} [[WikiPages:coalfuel:silver_ore|Silver Ore]]
+  * {{https://sprites.worldofbanished.com/steel.png?nolink|Steel}} [[WikiPages:coalfuel:steel|Steel]]
+  * {{https://sprites.worldofbanished.com/tinore.png?nolink|Tin Ore}} [[WikiPages:coalfuel:tin_ore|Tin Ore]]
+
+----
+
+{{tag>Mineral}}

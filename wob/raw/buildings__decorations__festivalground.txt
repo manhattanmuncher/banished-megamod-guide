@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Festival Ground ======
+----
+
+<WRAP right>
+^  Festival Ground                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfestivalground.png?nolink|Festival Ground}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Tents 3×3 to 5×5  |
+|  <abbr "Happiness provided">Happiness</abbr>  |  Goods / Entertainment / Spirit (by tent)  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Festival Ground — a set of fairground tents and decorations to build a festival site. The tents double as happiness sources, each covering a different need.
+
+----
+
+===== Variants =====
+
+  * **Food Tent** (5×5) — Goods happiness.
+  * **Music Tent** (3×3) — Entertainment happiness.
+  * **Exhibit Tent** (4×4) — Spirit happiness.
+  * Assorted festival decorations.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpark.png?nolink|Parks and Rec}}</wrap> **Parks and Rec** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfestivalground.png?nolink|Festival Ground}}</wrap> **Festival Ground** → the tent or decoration
+
+----
+
+{{tag>Building Decorations KidFestivalGround}}

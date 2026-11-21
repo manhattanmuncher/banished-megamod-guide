@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader Market ======
+----
+
+<WRAP right>
+^  Trader Market                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradermarket.png?nolink|Trader Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  8,200  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Traveling Trader covered market building. Distributes food, fuel, tools, clothing, and health items to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Specialized Trade Buildings}}</wrap> **Specialized Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradermarket.png?nolink|Trader Market}}</wrap> **Trader Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradermarket.png?nolink|Trader Market}}</wrap> **Trader Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Clothing
+  * Health items
+
+----
+
+===== Other Information =====
+
+This building originally came from **Traveling Trader v1.0 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=632|WoB]]
+
+{{tag>Market}}

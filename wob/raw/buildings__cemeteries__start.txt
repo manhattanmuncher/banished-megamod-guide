@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cemetery Buildings ======
+----
+
+Buildings and areas where the deceased are buried.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:cemeteries:abandonedcemetery|Abandoned Cemetery]] | KID Abandoned Places cemetery, free to place |
+| [[buildings:cemeteries:jinxiebittycemeterynone|Bitty Fenceless Cemetery]] | Jinxie Bitty Village Set fenceless cemetery |
+| [[buildings:cemeteries:jinxiebittycemeteryslate|Bitty Slate Cemetery]] | Jinxie Bitty Village Set slate cemetery |
+| [[buildings:cemeteries:jinxiebittycemeterystone|Bitty Stone Cemetery]] | Jinxie Bitty Village Set stone cemetery |
+| [[buildings:cemeteries:jinxiebittycemeterywood|Bitty Wood Cemetery]] | Jinxie Bitty Village Set wood cemetery |
+| [[buildings:cemeteries:nvburialground|Burial Ground]] | Native Village fenced burial ground; Variable size; free to build |
+| [[buildings:cemeteries:gfcrypt01|Crypt of the Lost]] | Gothic Deco decorative crypt; free to place; 1 × 1 footprint |
+| [[buildings:cemeteries:gfcrypt02|Crypt of Peace]] | Gothic Deco decorative crypt; free to place; 1 × 1 footprint |
+| [[buildings:cemeteries:shafencecemetery|Fenced Cemetery]] | KID Stone House Addon stone-fenced cemetery |
+| [[buildings:cemeteries:cemetery2|Fenceless Cemetery]] | Colonial Charter fenceless cemetery |
+| [[buildings:cemeteries:otnocemetery|Fenceless Cemetery (Old Town)]] | KID Old Town fenceless cemetery, free to place |
+| [[buildings:cemeteries:rkfencelesscemetery|Fenceless Cemetery (RK)]] | RK Editor's Choice Edition fenceless cemetery |
+| [[buildings:cemeteries:shanocemetery|Fenceless Cemetery (SHA)]] | KID Stone House Addon fenceless cemetery, free to place |
+| [[buildings:cemeteries:dssvcemeterynof|Fenceless Village Cemetery]] | DS Small Village fenceless cemetery |
+| [[buildings:cemeteries:ghostgravestone|Gravestones]] | Colonial decorative gravestones; 1 work, 1 stone; 1 × 1 footprint |
+| [[buildings:cemeteries:shahedgecemetery|Hedged Cemetery]] | KID Stone House Addon hedged cemetery |
+| [[buildings:cemeteries:hillsidecemetery|Hillside Cemetery]] | KID Hillside Village cemetery |
+| [[buildings:cemeteries:shaivyfencecemetery|Ivy Cemetery]] | KID Stone House Addon ivy-fenced cemetery |
+| [[buildings:cemeteries:japanesecemetery|Japanese Cemetery]] | Japanese All-in-One cemetery |
+| [[buildings:cemeteries:rkmetalcemetery|Metal Fence Cemetery]] | RK Editor's Choice Edition metal-fenced cemetery |
+| [[buildings:cemeteries:mgcemetery|MG Cemetery]] | KID Medieval Grace cemetery |
+| [[buildings:cemeteries:cemeterybl|Old Cemetery]] | Colonial Charter cemetery with old gravestones |
+| [[buildings:cemeteries:dssvcemeterysmall|Small Village Cemetery]] | DS Small Village smaller-scale cemetery using wood |
+| [[buildings:cemeteries:gffence01cemetery|Stone Fenced Cemetery (Dark)]] | KID Gothic Fantasy dark stone-fenced cemetery |
+| [[buildings:cemeteries:gffence02cemetery|Stone Fenced Cemetery (Happy)]] | KID Gothic Fantasy happy stone-fenced cemetery |
+| [[buildings:cemeteries:coventombstone|Tombstone (Coven)]] | Coven Village decorative tombstone; free to place; 1 × 1 footprint |
+| [[buildings:cemeteries:gftombstone|Tombstone (Gothic Deco)]] | Gothic Deco decorative tombstone; free to place; 1 × 1 footprint |
+| [[buildings:cemeteries:cemeterytrans|Transparent Cemetery]] | Colonial Charter cemetery with transparent ground |
+| [[buildings:cemeteries:cemetery2trans|Transparent Fenceless Cemetery]] | Colonial Charter fenceless cemetery with transparent ground |
+| [[buildings:cemeteries:dssvcemetery|Village Cemetery]] | DS Small Village cemetery |
+| [[buildings:cemeteries:zombiecemetery|Zombie Tombstone Cemetery]] | Zombie Tombstones cemetery with zombie hands as tombstones |
+
+----
+
+{{tag>Buildings Cemeteries}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Plantation Storage (Plimoth Plantation) ======
+----
+
+<WRAP right>
+^  Plantation Storage (Plimoth Plantation)                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppstorage.png?nolink|Plantation Storage (Plimoth Plantation)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Plimoth Plantation large storage building. Settlers store food, tools, clothing, and a variety of goods with a capacity of 12,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplimothplantation.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppstorage.png?nolink|Plantation Storage (Plimoth Plantation)}}</wrap> **Plantation Storage (Plimoth Plantation)**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplimothplantation.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppstorage.png?nolink|Plantation Storage (Plimoth Plantation)}}</wrap> **Plantation Storage (Plimoth Plantation)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppstorage.png?nolink|Plantation Storage (Plimoth Plantation)}}</wrap> **Plantation Storage (Plimoth Plantation)**
+
+----
+
+This building originally came from **Plimoth Plantation v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=213|WoB]], [[https://banishedinfo.com/mods/view/814-Plimoth-Plantation|BI]]
+
+{{tag>Building Storage PlimothPlantation}}

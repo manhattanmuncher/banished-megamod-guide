@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== New Garden (Ghost Town) ======
+----
+
+<WRAP right>
+^  Garden                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewgarden.png?nolink|New Garden}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  16  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Ghost Town garden where workers grow flax and process it into linseed oil.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewgarden.png?nolink|New Garden}}</wrap> **New Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewgarden.png?nolink|New Garden}}</wrap> **New Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtnewgarden.png?nolink|New Garden (Ghost Town)}}</wrap> **New Garden (Ghost Town)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                              ^
+| (none)                                                   | [[WikiPages:textile:flax|Flax]]                       |
+| 50 [[WikiPages:textile:flax|Flax]]                       | [[WikiPages:custom7:linseed_oil|Linseed Oil]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Ghost Town v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=460|WoB]]
+
+{{tag>Building KidGhostTown}}

@@ -1,0 +1,25 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pride Flags ======
+----
+
+<WRAP right>
+^  Pride Flags                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprideflags.png?nolink|Pride Flags}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  No footprint  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Some brightly colored flags to celebrate Pride, from the A8 mod set. Free to place, with a remove tool; holds nothing. 28 flag designs are available, cycled through in-game.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstatues.png?nolink|Statues, Flags and Monuments}}</wrap> **Statues, Flags and Monuments** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprideflags.png?nolink|Pride Flags}}</wrap> **Pride Flags**
+
+----
+
+{{tag>Building Decorations A8}}

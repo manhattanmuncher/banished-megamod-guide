@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Alotofanimals Trader ======
+----
+
+<WRAP right>
+^  Alotofanimals Trader                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildalotofanimals.png?nolink|Alotofanimals Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–4 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  20,000  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID mod river trading post. A Trader accepts a wide variety of goods from the settlement in exchange for livestock.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/alotofseedstoolbar.png?nolink|Alotofseeds}}</wrap> **Alotofseeds** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildalotofanimals.png?nolink|Alotofanimals Trader}}</wrap> **Alotofanimals Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/alotofseedstoolbar.png?nolink|Alotofseeds}}</wrap> **Alotofseeds** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildalotofanimals.png?nolink|Alotofanimals Trader}}</wrap> **Alotofanimals Trader**
+
+----
+
+===== Merchant =====
+
+The merchant arrives by river boat and offers up to 12 livestock items. The merchant accepts any goods as payment.
+
+----
+
+This building originally came from **Alotofseeds v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=262|WoB]]
+
+{{tag>Building TradingPost KID}}

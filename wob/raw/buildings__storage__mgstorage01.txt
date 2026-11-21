@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MG Monastery Storage ======
+----
+
+<WRAP right>
+^  MG Monastery Storage                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgstorage01.png?nolink|MG Monastery Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,200  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Mods Medieval Grace monastery storage building. Settlers store food, tools, health items, clothing, textiles, and alcohol with a capacity of 5,200 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgstorage01.png?nolink|MG Monastery Storage}}</wrap> **MG Monastery Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Buildings}}</wrap> **Themed Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgstorage01.png?nolink|MG Monastery Storage}}</wrap> **MG Monastery Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgstorage01.png?nolink|MG Monastery Storage}}</wrap> **MG Monastery Storage**
+
+----
+
+This building originally came from **Medieval Grace v1.32**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=407|WoB]]
+
+{{tag>Building Storage}}

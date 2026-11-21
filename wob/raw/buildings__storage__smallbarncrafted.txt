@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Crafted Barn ======
+----
+
+<WRAP right>
+^  Small Crafted Barn                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarncrafted.png?nolink|Small Crafted Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,500  |
+|  Storage Categories  |  Crafted Goods  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×30, Stone ×8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter mod storage barn dedicated to crafted goods. Settlers store crafted goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarncrafted.png?nolink|Small Crafted Barn}}</wrap> **Small Crafted Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarncrafted.png?nolink|Small Crafted Barn}}</wrap> **Small Crafted Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarncrafted.png?nolink|Small Crafted Barn}}</wrap> **Small Crafted Barn**
+
+----
+
+{{tag>Building Storage Colonial}}

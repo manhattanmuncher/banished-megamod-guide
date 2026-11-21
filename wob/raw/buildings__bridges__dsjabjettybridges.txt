@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== DS Jetty Bridges ======
+----
+
+<WRAP right>
+^  DS Jetty Bridges                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty6x1bridge.png?nolink|DS Jetty Bridges}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 6 (Truss Bridge)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  47  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:stone:stone|Stone]]  |  3  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  13  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Jetty & Bridge spanning bridges that connect jetty platforms across water. Includes straight truss bridges, a diagonal truss bridge, and a rough drawbridge. Each comes in two texture styles (T1 / T2). Complements the [[buildings:bridges:dsjabjettybridge|Village Truss Bridge]] and [[buildings:bridges:dsjabjettybridge02|Village Drawbridge]].
+
+----
+
+===== Variants =====
+
+^ Bridge ^ Size ^ Build Cost ^
+| Truss Bridge | 1 × 6 | 47 work, 5 Wood, 3 Stone, 13 Lumber, 5 Iron Fittings |
+| Large Truss Bridge | 2 × 6 | 55 work, 5 Wood, 5 Stone, 18 Lumber, 5 Iron Fittings |
+| Diagonal Truss Bridge | 6 × 6 | 47 work, 5 Wood, 3 Stone, 13 Lumber, 5 Iron Fittings |
+| Rough Drawbridge | 1 × 4 | 34 work, 4 Wood, 5 Lumber, 5 Iron Fittings, 1 Wagon Parts |
+
+Each is available in Texture #1 and Texture #2 styles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1 / #2}}</wrap> **Texture #1 / #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabbridges.png?nolink|Jetty Bridges}}</wrap> **Bridges**
+
+----
+
+{{tag>Bridge DSJettyAndBridge}}

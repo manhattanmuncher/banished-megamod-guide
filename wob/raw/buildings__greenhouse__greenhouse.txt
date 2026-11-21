@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Greenhouse ======
+----
+
+<WRAP right>
+^  Greenhouse                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgreenhouse.png?nolink|Greenhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/botanist.png?nolink|Botanist}}</wrap> Botanist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  15  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Greenhouse is a large 7×7 building where a Botanist grows Seedlings year-round without any input materials. Seedlings are used to plant trees in the Botanical Garden and similar systems.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgreenhouse.png?nolink|Greenhouse}}</wrap> **Greenhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgreenhouse.png?nolink|Greenhouse}}</wrap> **Greenhouse**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom4:seedling|Seedling]] (no inputs required)
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food Greenhouse}}

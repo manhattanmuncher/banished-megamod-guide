@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Patchwork Deco ======
+----
+
+<WRAP right>
+^  Patchwork Deco                                                                    ^  Kid - Patchwork  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchwork.png?nolink|Patchwork Deco}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid - Patchwork decorative crop plots — purely cosmetic versions of the mod's 18 growing patches, for dressing up farms and gardens without an actual worker or yield. Free to place, with a remove tool.
+
+----
+
+===== Variants =====
+
+  * Barley, Bean, Brussel Sprouts, Cabbage, Carrots, Corn
+  * Mushroom, Oat, Onion, Pepper, Potato, Pumpkin
+  * Squash, Strawberry, Sunflower, Sweet Potato, Tomato, Wheat
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|KID Food}}</wrap> **KID Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchwork.png?nolink|Patchwork}}</wrap> **Patchwork** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchwork.png?nolink|Patchwork}}</wrap> **Patchwork** → select variant
+
+----
+
+{{tag>Building Decorations KidPatchwork KID}}

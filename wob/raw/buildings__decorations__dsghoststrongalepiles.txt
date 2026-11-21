@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deco Strong Ale Barrels ======
+----
+
+<WRAP right>
+^  Deco Strong Ale Barrels                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsghoststrongalepiles.png?nolink|Deco Strong Ale Barrels}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative pile of strong ale barrels from the DS Ale House mod. Has no footprint and can be placed freely to dress taverns and storage yards.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrates.png?nolink|Crates, Barrels, Piles}}</wrap> **Crates, Barrels, Piles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsghoststrongalepiles.png?nolink|Deco Strong Ale Barrels}}</wrap> **Deco Strong Ale Barrels**
+
+----
+
+This building originally came from **Ale House v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=239|WoB]], [[https://www.nexusmods.com/banished/mods/90|Nexus]], [[https://banishedinfo.com/mods/view/564-DS-Ale-House|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1240519244|Steam]]
+
+{{tag>Building Decorations DSAleHouse}}

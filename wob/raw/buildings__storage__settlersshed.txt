@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Shed ======
+----
+
+<WRAP right>
+^  Shed                                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersshed.png?nolink|Shed}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  800  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Fruit, Vegetable, Grain, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  18  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Settlers mod small shed for general goods storage. Settlers store food, tools, and a variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersshed.png?nolink|Shed}}</wrap> **Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersshed.png?nolink|Shed}}</wrap> **Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersshed.png?nolink|Shed}}</wrap> **Shed**
+
+----
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Storage Settlers}}

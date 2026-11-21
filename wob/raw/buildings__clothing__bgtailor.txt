@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== BG Tailor ======
+----
+
+<WRAP right>
+^  BG Tailor                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgtailor.png?nolink|BG Tailor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bakery & Garden Alt tailor shop making clothing from a variety of materials.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgtailor.png?nolink|BG Tailor}}</wrap> **BG Tailor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgtailor.png?nolink|BG Tailor}}</wrap> **BG Tailor**
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 2 [[WikiPages:textile:leather|Leather]] | [[WikiPages:clothing:leathercoat|Leather Coat]] |
+| 4 [[WikiPages:custom2:linen|Linen]] | [[WikiPages:clothing:linen_clothing|Linen Clothing]] |
+| 2 [[WikiPages:textile:wool|Wool]] | [[WikiPages:clothing:woolcoat|Wool Coat]] |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:textile:leather|Leather]] | [[WikiPages:clothing:wintercoat|Winter Coat]] |
+| 2 [[WikiPages:textile:fur|Fur]] | [[WikiPages:clothing:wintercoat|Winter Coat]] |
+| 4 [[WikiPages:custom2:linen|Linen]] + 2 [[WikiPages:textile:wool|Wool]] | [[WikiPages:clothing:wintercoat|Winter Coat]] |
+| 4 [[WikiPages:custom2:linen|Linen]] + 2 [[WikiPages:textile:down|Down]] | [[WikiPages:clothing:wintercoat|Winter Coat]] |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:down|Down]] | [[WikiPages:clothing:wintercoat|Winter Coat]] |
+
+----
+
+This building originally came from **Bakery & Garden Alternative v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=533|WoB]]
+
+{{tag>Building Clothing BakeryGardenAlt}}

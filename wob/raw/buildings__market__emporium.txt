@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Emporium ======
+----
+
+<WRAP right>
+^  Emporium                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemporium.png?nolink|Emporium}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 25 (default: 12)  |
+|  Happiness  |  Goods  |
+|  Radius  |  30  |
+|  Storage  |  99,999  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  200  |
+|  [[WikiPages:wood:log|Wood]]  |  100  |
+|  Stone  |  60  |
+|  Iron  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A massive general market and storage building. Distributes a wide variety of goods to nearby settlers and supports an enormous storage capacity. Provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemporium.png?nolink|Emporium}}</wrap> **Emporium**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omstorage.png?nolink|Storage Barns, Trading & Markets}}</wrap> **Storage Barns, Trading & Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemporium.png?nolink|Emporium}}</wrap> **Emporium**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel and industrial fuel
+  * Tools
+  * Health items
+  * Clothing and Textiles
+  * Iron and Logs
+  * Coal and Coke
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+  * Alcohol
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

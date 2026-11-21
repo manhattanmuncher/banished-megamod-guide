@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seed Trader (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Seed Trader                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpseedtrader.png?nolink|Seed Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–4 (1)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports seed trading post. The Seed Merchant arrives by river boat and offers crop and orchard seeds. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpport.png?nolink|Port}}</wrap> **Port** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpseedtrader.png?nolink|Seed Trader}}</wrap> **Seed Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpport.png?nolink|Port}}</wrap> **Port** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpseedtrader.png?nolink|Seed Trader}}</wrap> **Seed Trader**
+
+----
+
+===== Merchant =====
+
+One merchant type may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Seed Merchant | Crop and orchard seeds |
+
+The merchant accepts any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpseedtrader.png?nolink|Seed Trader (Old Town Ports)}}</wrap> **Seed Trader (Old Town Ports)**
+
+----
+
+This building originally came from **Old Town Ports & Pirates v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=493|WoB]]
+
+{{tag>Building TradingPost OldTownPorts}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Modular Forester Shed ======
+----
+
+<WRAP right>
+^  Modular Forester Shed                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodforestershed.png?nolink|Modular Forester Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+|  Stone  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Modular Forester working shed. Foresters selectively cut down trees and plant new seedlings within a 30-tile radius. Typically paired with the [[buildings:forester:ebmodforesterhouse|Modular Forester House]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmodular.png?nolink|Modular Forest Buildings Toolbar}}</wrap> **Modular Forest Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodforestershed.png?nolink|Modular Forester Shed}}</wrap> **Modular Forester Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme}}</wrap> **EB Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmodular.png?nolink|Modular Forest Buildings Toolbar}}</wrap> **Modular Forest Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodforestershed.png?nolink|Modular Forester Shed}}</wrap> **Modular Forester Shed**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Forester EBMod}}

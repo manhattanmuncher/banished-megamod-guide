@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chili Oil ======
+----
+
+<WRAP right>
+^  Chili Oil                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  80/100  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/chilioil.png?nolink|Chili Oil}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Chili Oil is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Chili Oil Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:oilpress|Oil Press (Colonial)]]
+  * Produced at the [[buildings:crafting:oldoilpress|Old Oil Press (Colonial)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain}}

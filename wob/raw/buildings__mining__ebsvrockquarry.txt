@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Rock Quarry ======
+----
+
+<WRAP right>
+^  Village Rock Quarry                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvrockquarry.png?nolink|Village Rock Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 14  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 12 (default 2)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 22)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  6000  |
+|  Upgrades To  |  [[buildings:mining:ebsvrockquarryfish|Village Fish Hatchery]]  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  46  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Village Rock Quarry is used to mine Stone. Up to 12 Stonecutters can be employed. The quarry can be transformed into a Fish Hatchery.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvrockquarry.png?nolink|Village Rock Quarry}}</wrap> **Village Rock Quarry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resources}}</wrap> **Village Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubmining.png?nolink|Mines and Quarries}}</wrap> **Mines and Quarries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvrockquarry.png?nolink|Village Rock Quarry}}</wrap> **Village Rock Quarry**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining EBSVRockQuarry}}

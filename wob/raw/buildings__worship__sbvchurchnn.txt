@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mission Church (No Nomads) ======
+----
+
+<WRAP right>
+^  Mission Church                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvchurchnn.png?nolink|Mission Church}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 13  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Happiness from this building">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit (r35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  110  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  68  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A mission church staffed by a Priest, providing spiritual support to up to 200 worshippers. Unlike the standard [[buildings:worship:sbvchurch|Mission Church]], this variant does not attract nomad immigrants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|The Mission}}</wrap> **The Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvchurchnn.png?nolink|Mission Church}}</wrap> **Mission Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|The Mission}}</wrap> **The Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvchurchnn.png?nolink|Mission Church}}</wrap> **Mission Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvchurchnn.png?nolink|Mission Church (No Nomads)}}</wrap> **Mission Church (No Nomads)**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship SBVMission}}

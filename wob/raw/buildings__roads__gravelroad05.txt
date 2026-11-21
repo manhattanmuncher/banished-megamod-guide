@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gravel Road 05 ======
+----
+
+<WRAP right>
+^  Gravel Road 05                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgravelroad05.png?nolink|Gravel Road 05}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  154  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A gravel road texture variant that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardirtroad.png?nolink|Dirt and Gravel Roads}}</wrap> **Dirt and Gravel Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menugravelroads.png?nolink|Gravel Roads}}</wrap> **Gravel Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgravelroad05.png?nolink|Gravel Road 05}}</wrap> **Gravel Road 05**
+
+----
+
+===== Other Information =====
+
+{{tag>Road DSRoads}}

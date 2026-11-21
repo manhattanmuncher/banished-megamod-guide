@@ -1,0 +1,186 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Road Buildings ======
+----
+
+Structures used to build and maintain roads and pathways through the settlement.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:roads:blackroad|Black Road]] | Color Roads black-colored road texture |
+| [[buildings:roads:blueroad|Blue Road]] | Color Roads blue-colored road texture |
+| [[buildings:roads:brickroad|Brick Road]] | Brick Roads brick-paved road |
+| [[buildings:roads:brickroad2|Red Brick Road]] | Brick Roads red brick variant (see also: RK Editor Choice version) |
+| [[buildings:roads:brownroad|Brown Road]] | Color Roads brown-colored road texture |
+| [[buildings:roads:choochoo_tracks|Choo Choo — Tracks, Bridges & Tunnels]] | RK Choo Choo railway tracks, railroad bridges and tunnels; built from wood and iron |
+| [[buildings:roads:city_roads|City Roads]] | RK pre-formed paved road blocks; 3 textures, 1X/3X/4X widths, straights/turns/diagonals/junctions |
+| [[buildings:roads:croproad|Crop Road]] | More Roads crop field-appearance road texture |
+| [[buildings:roads:desertdirtroad|Desert Dirt Road]] | Base game desert dirt road texture |
+| [[buildings:roads:desertroad|Desert Road]] | More Roads desert-colored road texture |
+| [[buildings:roads:desertstoneroad|Desert Stone Road]] | Stone Roads pack desert stone road |
+| [[buildings:roads:dirtroad|Dirt Road]] | Base game vanilla dirt road |
+| [[buildings:roads:dirtroad01|Dirt Road 01]] | DS Roads dirt road texture variant 01 |
+| [[buildings:roads:dirtroad02|Dirt Road 02]] | DS Roads dirt road texture variant 02 |
+| [[buildings:roads:dirtroad03|Dirt Road 03]] | DS Roads dirt road texture variant 03 |
+| [[buildings:roads:dirtroad04|Dirt Road 04]] | DS Roads dirt road texture variant 04 |
+| [[buildings:roads:dirtroad05|Dirt Road 05]] | DS Roads dirt road texture variant 05 |
+| [[buildings:roads:dirtroad06|Dirt Road 06]] | DS Roads dirt road texture variant 06 |
+| [[buildings:roads:dirtroad07|Dirt Road 07]] | DS Roads dirt road texture variant 07 |
+| [[buildings:roads:dirtroad08|Dirt Road 08]] | DS Roads dirt road texture variant 08 |
+| [[buildings:roads:dirtroadz0|Dirt Road (#0)]] | Wintin dirt road variant #0 |
+| [[buildings:roads:dirtroadz1|Dirt Road (#1)]] | Wintin dirt road variant #1 |
+| [[buildings:roads:dirtroadz2|Dirt Road (#2)]] | Wintin dirt road variant #2 |
+| [[buildings:roads:dirtroadz3|Dirt Road (#3)]] | Wintin dirt road variant #3 |
+| [[buildings:roads:dirtroadz4|Dirt Road (#4)]] | Wintin dirt road variant #4 |
+| [[buildings:roads:dirtroadz5|Dirt Road (#5)]] | Wintin dirt road variant #5 |
+| [[buildings:roads:dirtroadz6|Dirt Road (#6)]] | Wintin dirt road variant #6 |
+| [[buildings:roads:dirtroadz7|Dirt Road (#7)]] | Wintin dirt road variant #7 |
+| [[buildings:roads:dirtroadz8|Dirt Road (#8)]] | Wintin dirt road variant #8 |
+| [[buildings:roads:dirtroadz9|Dirt Road (#9)]] | Wintin dirt road variant #9 |
+| [[buildings:roads:dirtroadz10|Dirt Road (#10)]] | Wintin dirt road variant #10 |
+| [[buildings:roads:dirtroadz11|Dirt Road (#11)]] | Wintin dirt road variant #11 |
+| [[buildings:roads:dirtroadz12|Dirt Road (#12)]] | Wintin dirt road variant #12 |
+| [[buildings:roads:dirtroadz13|Dirt Road (#13)]] | Wintin dirt road variant #13 |
+| [[buildings:roads:dirtroadz14|Dirt Road (#14)]] | Wintin dirt road variant #14 |
+| [[buildings:roads:dockroad1|Dock Road Vertical]] | Colonial wooden dock road with vertical plank pattern |
+| [[buildings:roads:dockroad2|Dock Road Horizontal]] | Colonial wooden dock road with horizontal plank pattern |
+| [[buildings:roads:dockroad3|Dock Road Diagonal]] | Colonial wooden dock road with diagonal plank pattern |
+| [[buildings:roads:earthroadz0|Mix Road (#0)]] | Wintin mixed earth/dirt road variant #0 |
+| [[buildings:roads:earthroadz1|Mix Road (#1)]] | Wintin mixed earth/dirt road variant #1 |
+| [[buildings:roads:earthroadz2|Mix Road (#2)]] | Wintin mixed earth/dirt road variant #2 |
+| [[buildings:roads:earthroadz3|Mix Road (#3)]] | Wintin mixed earth/dirt road variant #3 |
+| [[buildings:roads:earthroadz4|Mix Road (#4)]] | Wintin mixed earth/dirt road variant #4 |
+| [[buildings:roads:earthroadz5|Mix Road (#5)]] | Wintin mixed earth/dirt road variant #5 |
+| [[buildings:roads:earthroadz6|Mix Road (#6)]] | Wintin mixed earth/dirt road variant #6 |
+| [[buildings:roads:earthroadz7|Mix Road (#7)]] | Wintin mixed earth/dirt road variant #7 |
+| [[buildings:roads:earthroadz8|Mix Road (#8)]] | Wintin mixed earth/dirt road variant #8 |
+| [[buildings:roads:earthroadz9|Mix Road (#9)]] | Wintin mixed earth/dirt road variant #9 |
+| [[buildings:roads:earthroadz10|Mix Road (#10)]] | Wintin mixed earth/dirt road variant #10 |
+| [[buildings:roads:earthroadz11|Mix Road (#11)]] | Wintin mixed earth/dirt road variant #11 |
+| [[buildings:roads:earthroadz12|Mix Road (#12)]] | Wintin mixed earth/dirt road variant #12 |
+| [[buildings:roads:earthroadz13|Mix Road (#13)]] | Wintin mixed earth/dirt road variant #13 |
+| [[buildings:roads:earthroadz14|Mix Road (#14)]] | Wintin mixed earth/dirt road variant #14 |
+| [[buildings:roads:ebdirtroad1|Dirt Road 1 (EB Roads)]] | EB Roads dirt texture variant 1 |
+| [[buildings:roads:ebdirtroad2|Dirt Road 2 (EB Roads)]] | EB Roads dirt texture variant 2 |
+| [[buildings:roads:ebdirtroad3|Dirt Road 3 (EB Roads)]] | EB Roads dirt texture variant 3 |
+| [[buildings:roads:ebdirtroad4|Dirt Road 4 (EB Roads)]] | EB Roads dirt texture variant 4 |
+| [[buildings:roads:ebstoneroad1|Stone Road 1 (EB Roads)]] | EB Roads stone texture variant 1 |
+| [[buildings:roads:ebstoneroad2|Stone Road 2 (EB Roads)]] | EB Roads stone texture variant 2 |
+| [[buildings:roads:ebstoneroad3|Stone Road 3 (EB Roads)]] | EB Roads stone texture variant 3 |
+| [[buildings:roads:ebstoneroad4|Stone Road 4 (EB Roads)]] | EB Roads stone texture variant 4 |
+| [[buildings:roads:ebstoneroad5|Stone Road 5 (EB Roads)]] | EB Roads stone texture variant 5 |
+| [[buildings:roads:ebstoneroad6|Stone Road 6 (EB Roads)]] | EB Roads stone texture variant 6 |
+| [[buildings:roads:ebstoneroad7|Stone Road 7 (EB Roads)]] | EB Roads stone texture variant 7 |
+| [[buildings:roads:ebstoneroad8|Stone Road 8 (EB Roads)]] | EB Roads stone texture variant 8 |
+| [[buildings:roads:ebstoneroad9|Stone Road 9 (EB Roads)]] | EB Roads stone texture variant 9 |
+| [[buildings:roads:ebstoneroad10|Stone Road 10 (EB Roads)]] | EB Roads stone texture variant 10 |
+| [[buildings:roads:ebstoneroad11|Stone Road 11 (EB Roads)]] | EB Roads stone texture variant 11 |
+| [[buildings:roads:ebstoneroad12|Stone Road 12 (EB Roads)]] | EB Roads stone texture variant 12 |
+| [[buildings:roads:ebstoneroad13|Stone Road 13 (EB Roads)]] | EB Roads stone texture variant 13 |
+| [[buildings:roads:ebstoneroad14|Stone Road 14 (EB Roads)]] | EB Roads stone texture variant 14 |
+| [[buildings:roads:ebwoodroad1|Wood Road 1 (EB Roads)]] | EB Roads wood texture variant 1 |
+| [[buildings:roads:ebwoodroad2|Wood Road 2 (EB Roads)]] | EB Roads wood texture variant 2 |
+| [[buildings:roads:ebwoodroad3|Wood Road 3 (EB Roads)]] | EB Roads wood texture variant 3 |
+| [[buildings:roads:nmt30fcroad|Forest Center Path]] | NMT Forest Center district-designation path |
+| [[buildings:roads:gardenpath00|Wood Path Grass]] | Settlers decorative wood plank path on grass |
+| [[buildings:roads:gardenpath01|Wood Path Dirt]] | Settlers decorative wood plank path on dirt |
+| [[buildings:roads:gardenpath02|Stone Path Grass]] | Settlers decorative stone path on grass |
+| [[buildings:roads:gardenpath03|Stone Path Dirt]] | Settlers decorative stone path on dirt |
+| [[buildings:roads:gardenpathdirt|Dirt Path]] | Settlers decorative dirt path |
+| [[buildings:roads:gardenpathnodirt|Blocking Dirt Path]] | Settlers dirt path that blocks dirt-spread appearance |
+| [[buildings:roads:gardenpatchroad01|Garden Patch Road]] | DS Roads garden patch texture road |
+| [[buildings:roads:grassroad|Grass Road]] | Grassy Roads grass road texture |
+| [[buildings:roads:grassroad01|Grass Road 01]] | DS Roads grass road texture variant 01 |
+| [[buildings:roads:grassroad02|Grass Road 02]] | DS Roads grass road texture variant 02 |
+| [[buildings:roads:grassroad03|Grass Road 03]] | DS Roads grass road texture variant 03 |
+| [[buildings:roads:grassroad2|Grass Road 2]] | Grassy Roads grass road texture variant 2 |
+| [[buildings:roads:grassroad3|Grass Road 3]] | Grassy Roads grass road texture variant 3 |
+| [[buildings:roads:gravelroad|Gravel Road]] | Grassy Roads gravel road texture |
+| [[buildings:roads:gravelroad01|Gravel Road 01]] | DS Roads gravel road texture variant 01 |
+| [[buildings:roads:gravelroad02|Gravel Road 02]] | DS Roads gravel road texture variant 02 |
+| [[buildings:roads:gravelroad03|Gravel Road 03]] | DS Roads gravel road texture variant 03 |
+| [[buildings:roads:gravelroad04|Gravel Road 04]] | DS Roads gravel road texture variant 04 |
+| [[buildings:roads:gravelroad05|Gravel Road 05]] | DS Roads gravel road texture variant 05 |
+| [[buildings:roads:gravelroadbl1|Gravel Road 1]] | Colonial gravel road texture variant 1 |
+| [[buildings:roads:greenroad|Green Road]] | Color Roads green-colored road texture |
+| [[buildings:roads:maritimespeidirtroad|PEI Dirt Road]] | Maritimes red Prince Edward Island soil dirt road |
+| [[buildings:roads:maritimespeistoneroad|PEI Stone Road]] | Maritimes Prince Edward Island stone road |
+| [[buildings:roads:marshroad|Marsh Road]] | Grassy Roads marsh-appearance road texture |
+| [[buildings:roads:mossroad|Moss Road]] | Colonial moss-covered road texture |
+| [[buildings:roads:orangeroad|Orange Road]] | Color Roads orange-colored road texture |
+| [[buildings:roads:pastureroad|Pasture Road]] | Grassy Roads pasture-appearance road texture |
+| [[buildings:roads:plantationroad|Plantation Road]] | Grassy Roads plantation-appearance road texture |
+| [[buildings:roads:purpleroad|Purple Road]] | Color Roads purple-colored road texture |
+| [[buildings:roads:quayroad|Quay Road]] | Colonial quay stone road |
+| [[buildings:roads:redroad|Red Road]] | Color Roads red-colored road texture |
+| [[buildings:roads:rkbrickroad1|Red Brick Road]] | RK Editor Choice red brick road (see also: Brick Roads version) |
+| [[buildings:roads:rkbrickroad2|Sandbrick Road]] | RK Editor Choice sand-brick road |
+| [[buildings:roads:rkbrickroad3|Sandstone Road]] | RK Editor Choice sandstone road (see also: Colonial version) |
+| [[buildings:roads:rkbrickroad4|Fire Brick Road]] | RK Editor Choice fire brick road |
+| [[buildings:roads:rkstoneroad1|Classic Stone Road]] | RK Editor Choice classic stone road |
+| [[buildings:roads:rkstoneroad2|Old Stone Road]] | RK Editor Choice old stone road |
+| [[buildings:roads:rkstoneroad3|Old Church Stone Road]] | RK Editor Choice old church stone road |
+| [[buildings:roads:rkstoneroad4|Old Chapel Stone Road]] | RK Editor Choice old chapel stone road |
+| [[buildings:roads:rkstoneroad5|Dark Stones Road]] | RK Editor Choice dark stones road |
+| [[buildings:roads:rkwoodroad1|Wood Road]] | RK Editor Choice wood road |
+| [[buildings:roads:sandroad|Sand Road]] | Grassy Roads sand-colored road texture |
+| [[buildings:roads:sandstoneroad|Sandstone Road]] | Colonial sandstone road (see also: RK Editor Choice version) |
+| [[buildings:roads:sandyroad|Sandy Road]] | Grassy Roads sandy road texture |
+| [[buildings:roads:shockroad|Country Road]] | Colonial country road with fallen leaves |
+| [[buildings:roads:soilroad|Soil Road]] | Colonial soil road texture |
+| [[buildings:roads:stoneroad|Stone Road]] | Base game vanilla stone road |
+| [[buildings:roads:stoneroad01|Stone Road 01]] | DS Roads stone road 01 base tile |
+| [[buildings:roads:stoneroad01a45|Stone Road 01 alt.45]] | DS Roads stone road 01 at 45° tile rotation |
+| [[buildings:roads:stoneroad01a90|Stone Road 01 alt.90]] | DS Roads stone road 01 at 90° tile rotation |
+| [[buildings:roads:stoneroad01a135|Stone Road 01 alt.135]] | DS Roads stone road 01 at 135° tile rotation |
+| [[buildings:roads:stoneroad01rndm|Stone Road 01 repeating random arranged tile]] | DS Roads stone road 01 random tile arrangement |
+| [[buildings:roads:stoneroad02|Stone Road 02]] | DS Roads stone road texture variant 02 |
+| [[buildings:roads:stoneroad03|Stone Road 03]] | DS Roads stone road texture variant 03 |
+| [[buildings:roads:stoneroad03small|Stone Road 03 small version]] | DS Roads stone road 03 small tile variant |
+| [[buildings:roads:stoneroad04|Stone Road 04]] | DS Roads stone road 04 base tile |
+| [[buildings:roads:stoneroad04a45|Stone Road 04 alt.45]] | DS Roads stone road 04 at 45° tile rotation |
+| [[buildings:roads:stoneroad04a90|Stone Road 04 alt.90]] | DS Roads stone road 04 at 90° tile rotation |
+| [[buildings:roads:stoneroad04a135|Stone Road 04 alt.135]] | DS Roads stone road 04 at 135° tile rotation |
+| [[buildings:roads:stoneroad05|Stone Road 05]] | DS Roads stone road 05 base tile |
+| [[buildings:roads:stoneroad05a45|Stone Road 05 alt.45]] | DS Roads stone road 05 at 45° tile rotation |
+| [[buildings:roads:stoneroad05a90|Stone Road 05 alt.90]] | DS Roads stone road 05 at 90° tile rotation |
+| [[buildings:roads:stoneroad05a135|Stone Road 05 alt.135]] | DS Roads stone road 05 at 135° tile rotation |
+| [[buildings:roads:stoneroad06|Stone Road 06]] | DS Roads stone road texture variant 06 |
+| [[buildings:roads:stoneroad07|Stone Road 07]] | DS Roads stone road texture variant 07 |
+| [[buildings:roads:stoneroadz0|Stone Road (#0)]] | Wintin stone road variant #0 |
+| [[buildings:roads:stoneroadz1|Stone Road (#1)]] | Wintin stone road variant #1 |
+| [[buildings:roads:stoneroadz2|Stone Road (#2)]] | Wintin stone road variant #2 |
+| [[buildings:roads:stoneroadz3|Stone Road (#3)]] | Wintin stone road variant #3 |
+| [[buildings:roads:stoneroadz4|Stone Road (#4)]] | Wintin stone road variant #4 |
+| [[buildings:roads:stoneroadz5|Stone Road (#5)]] | Wintin stone road variant #5 |
+| [[buildings:roads:stoneroadz6|Stone Road (#6)]] | Wintin stone road variant #6 |
+| [[buildings:roads:stoneroadz7|Stone Road (#7)]] | Wintin stone road variant #7 |
+| [[buildings:roads:stoneroadz8|Stone Road (#8)]] | Wintin stone road variant #8 |
+| [[buildings:roads:stoneroadz9|Stone Road (#9)]] | Wintin stone road variant #9 |
+| [[buildings:roads:stoneroadz10|Stone Road (#10)]] | Wintin stone road variant #10 |
+| [[buildings:roads:stoneroadz11|Stone Road (#11)]] | Wintin stone road variant #11 |
+| [[buildings:roads:stoneroadz12|Stone Road (#12)]] | Wintin stone road variant #12 |
+| [[buildings:roads:stoneroadz13|Stone Road (#13)]] | Wintin stone road variant #13 |
+| [[buildings:roads:stoneroadz14|Stone Road (#14)]] | Wintin stone road variant #14 |
+| [[buildings:roads:swampdirtroad|Swamp Dirt Road]] | Swamp Thing pack swamp dirt road |
+| [[buildings:roads:swamproad|Swamp Road]] | Grassy Roads swamp-appearance road texture |
+| [[buildings:roads:swampstoneroad|Swamp Stone Road]] | Swamp Thing pack swamp stone road |
+| [[buildings:roads:transparentroad|Transparent Road]] | Grassy Roads transparent/invisible road texture |
+| [[buildings:roads:verdantroad|Verdant Road]] | Grassy Roads verdant green road texture |
+| [[buildings:roads:whdirtroad|Prairie Dirt Road]] | Westward Ho prairie dirt road |
+| [[buildings:roads:whfastroad|Prairie Fast Road]] | Westward Ho prairie fast road |
+| [[buildings:roads:whiteroad|White Road]] | Color Roads white-colored road texture |
+| [[buildings:roads:woodchiproad01|Wood Chip Road 01]] | DS Roads wood chip road texture variant 01 |
+| [[buildings:roads:woodchiproad02|Wood Chip Road 02]] | DS Roads wood chip road texture variant 02 |
+| [[buildings:roads:woodroad01|Wood Road 01]] | DS Roads wood road 01 base tile |
+| [[buildings:roads:woodroad01a45|Wood Road 01 alt.45]] | DS Roads wood road 01 at 45° tile rotation |
+| [[buildings:roads:woodroad01a90|Wood Road 01 alt.90]] | DS Roads wood road 01 at 90° tile rotation |
+| [[buildings:roads:woodroad01a135|Wood Road 01 alt.135]] | DS Roads wood road 01 at 135° tile rotation |
+| [[buildings:roads:woodroad02|Wood Road 02]] | DS Roads wood road texture variant 02 |
+| [[buildings:roads:woodroad03|Wood Road 03]] | DS Roads wood road texture variant 03 |
+| [[buildings:roads:yellowroad|Yellow Road]] | Color Roads yellow-colored road texture |
+
+----
+
+{{tag>Buildings Roads}}

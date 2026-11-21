@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chest 5000 ======
+----
+
+<WRAP right>
+^  Chest 5000                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  5000  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  30  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/otptreasurechest.png?nolink|Chest 5000}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Chest 5000 is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. At a trade value of 5000, it is highly prized by traveling merchants.
+
+----
+
+===== Chest 5000 Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:gathering:otptreasurehunt|Treasure Hunt (Old Town Ports)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

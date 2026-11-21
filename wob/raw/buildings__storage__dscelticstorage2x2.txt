@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage 2×2 (DS Celtic) ======
+----
+
+<WRAP right>
+^  Storage 2×2 (DS Celtic)                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticstorage2x2.png?nolink|Storage 2×2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  700  |
+|  Storage Categories  |  Food, Health  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  9  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Celtic mod storage building. Settlers store food and health items with a capacity of 700 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticstorage2x2.png?nolink|Storage 2×2}}</wrap> **Storage 2×2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticstorage2x2.png?nolink|Storage 2×2}}</wrap> **Storage 2×2**
+
+----
+
+This building originally came from **Celtic House v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=244|WoB]], [[https://www.nexusmods.com/banished/mods/74|Nexus]]
+
+{{tag>Building Storage DSCeltic}}

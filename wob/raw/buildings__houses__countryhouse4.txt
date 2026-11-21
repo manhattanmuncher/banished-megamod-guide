@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country House 4 ======
+----
+
+<WRAP right>
+^  Country House 4                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcountryhouse4.png?nolink|Country House 4}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  110  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  38  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+|  [[WikiPages:custom5:furnishing_kit2|Furnishing Kit 2]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter country house upgrade; houses up to 6 settlers. Can be further upgraded to [[buildings:houses:countryhouse5|Country House 5]].
+
+----
+
+===== Where to Find =====
+
+Upgrade from:
+  * [[buildings:houses:countryhouse3|Country House]]
+  * [[buildings:houses:countryhouse3upgrade|Country House 3 (Upgrade)]]
+  * [[buildings:houses:stonehouseupgrade|Stone Home]]
+  * [[buildings:houses:stonehouse|Stone House]]
+  * [[buildings:houses:woodhouse|Wood House]]
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

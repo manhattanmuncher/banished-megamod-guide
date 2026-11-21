@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forester Lodge 2 ======
+----
+
+<WRAP right>
+^  Forester Lodge 2                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/foresterlodge2.png?nolink|Forester Lodge 2}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup Editor's Choice forester lodge. Foresters plant and harvest a specialized set of trees within a 30-tile radius, producing Logs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/foresterlodge2.png?nolink|Forester Lodge 2}}</wrap> **Forester Lodge 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/foresterlodge2.png?nolink|Forester Lodge 2}}</wrap> **Forester Lodge 2**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Forester RKEditorChoiceEdition}}

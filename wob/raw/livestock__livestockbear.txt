@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bears ======
+----
+
+<WRAP right>
+^  Bears                                          ^  Kid - Raising Bears  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockbear.png?nolink|Bears}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  900  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  23 tiles  |
+</WRAP>
+<WRAP right></WRAP>
+
+Bears are large livestock raised at a Pasture. They yield Bear Meat and Fur when slaughtered. Not available as an initial livestock option at game start — purchase breeding stock from a Trading Post to begin raising them.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture. Not offered as a starting livestock choice; must be acquired later via a Trading Post.
+
+----
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:bear|Bear]]
+  * [[WikiPages:textile:fur|Fur]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockBear}}

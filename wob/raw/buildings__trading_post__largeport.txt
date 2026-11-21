@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Port ======
+----
+
+<WRAP right>
+^  Large Port                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlargeport.png?nolink|Large Port}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  22 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–10 (1)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  320,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  340  |
+|  [[WikiPages:wood:log|Wood]]  |  86  |
+|  [[WikiPages:stone:stone|Stone]]  |  220  |
+|  [[WikiPages:iron:iron|Iron]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID mod massive river trading port. Merchants arrive by river boat offering all resource categories. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlargeport.png?nolink|Large Port}}</wrap> **Large Port**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlargeport.png?nolink|Large Port}}</wrap> **Large Port**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, raw materials, and building supplies |
+| General Merchant | Tools, health items, food, textiles, clothing, alcohol, crafted goods, forged goods, fabric, precious goods, and miscellaneous items |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+This building originally came from **Large Port v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=217|WoB]], [[https://banishedinfo.com/mods/view/812-Large-Port|BI]]
+
+{{tag>Building TradingPost}}

@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Canal : Trading Post (Old Stones, 8×) ======
+----
+
+<WRAP right>
+^  Canal : Trading Post                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xtradingpostc2.png?nolink|Canal : Trading Post (Old Stones, 8×)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 15  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (default: 1)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+NMT 3.1 Canal Set canal trading post in the Old Stones style for 8-wide canal sections (RKEC2 edition); Traders receive merchants arriving by river boat; can be placed within a canal system. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks.png?nolink|NMT 3.1 Canal Old Stones Set Toolbar}}</wrap> **NMT 3.1 Canal Old Stones Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks8x.png?nolink|NMT 3.1 Canal Old Stones Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Stones Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xtradingpostc2.png?nolink|Canal : Trading Post}}</wrap> **Canal : Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks.png?nolink|NMT 3.1 Canal Old Stones Set Toolbar}}</wrap> **NMT 3.1 Canal Old Stones Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc2oldbricks8x.png?nolink|NMT 3.1 Canal Old Stones Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Stones Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xtradingpostc2.png?nolink|Canal : Trading Post}}</wrap> **Canal : Trading Post**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, tools, textiles, clothing, alcohol, crafted goods, forged goods, fabric, raw materials, building supplies, precious goods, and miscellaneous items |
+| General Merchant | Wood, stone, iron, fuel, industrial fuel, tools, health items, food, textiles, clothing, and alcohol |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+----
+
+{{tag>Building TradingPost NMT30CanalSet}}

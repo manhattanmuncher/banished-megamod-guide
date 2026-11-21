@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Well (Garden Walls) ======
+----
+
+<WRAP right>
+^  Water Well (Garden Walls)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwalls2well.png?nolink|Water Well (Garden Walls)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Garden Walls Water Well is a compact 1×1 well where a Worker draws Water for the colony. Part of the RK Garden Walls building set.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwater.png?nolink|Water}}</wrap> **Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwalls2well.png?nolink|Water Well (Garden Walls)}}</wrap> **Water Well (Garden Walls)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkservices.png?nolink|RK services}}</wrap> **RK services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwalls2well.png?nolink|Water Well (Garden Walls)}}</wrap> **Water Well (Garden Walls)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:water|Water]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Garden Walls: Utility v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=240|WoB]]
+
+{{tag>Building Wells RKGardenWalls}}

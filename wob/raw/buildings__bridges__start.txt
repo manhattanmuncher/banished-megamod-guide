@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bridges ======
+----
+
+Structures that allow settlers to cross rivers and waterways.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:bridges:dsjabjettybridge|Village Truss Bridge]] | DS Jetty & Bridge wooden truss bridge (Tex1, light-brown); drag to place over water; cost per tile: WR 8 + Wood 1 + Stone 1 + Lumber 2 + Iron Fittings 1 |
+| [[buildings:bridges:dsjabjettybridge01t2|Village Truss Bridge (Tex2)]] | DS Jetty & Bridge wooden truss bridge (Tex2, blue-grey); identical stats to Tex1 variant |
+| [[buildings:bridges:dsjabjettybridge02|Village Drawbridge]] | DS Jetty & Bridge wooden drawbridge (Tex1, light-brown); drag to place over water; cost per tile: WR 11 + Wood 1 + Stone 1 + Lumber 2 + Iron Fittings 3 |
+| [[buildings:bridges:dsjabjettybridge02t2|Village Drawbridge (Tex2)]] | DS Jetty & Bridge wooden drawbridge (Tex2, blue-grey); identical stats to Tex1 variant |
+| [[buildings:bridges:jinxiebittybridge|Bitty Bridge]] | Jinxie Bitty Village Set compact footbridge; drag to place over water; Wood/Stone/Slate styles; cost per tile: WR 3 + Wood 2 |
+| [[buildings:bridges:dsjabjettybridges|DS Jetty Bridges]] | DS Jetty & Bridge spanning bridges (Truss, Large Truss, Diagonal, Rough Drawbridge); T1/T2 textures |
+| [[buildings:bridges:ebwoodbridge|EB Wooden Bridge]] | EB Small Village wooden bridge; drag to place over water; open/roofed and Warm finishes; cost per tile: WR 3 + Wood 5 |
+| [[buildings:bridges:japanesewoodbridge|Japanese Wood Bridge]] | A8 Japanese arched wooden footbridge; drag to place over water; 4 colour variants; cost per tile: WR 3 + Wood 4 |
+| [[buildings:bridges:nmt30_bridges|NMT 3.0 Bridges]] | RK Editor's Choice NMT masonry bridges (Stone + 2 Brick styles); spans of 1/2/4/8 tiles; per segment WR 3 + Stone 4 (stone) or Brick |
+| [[buildings:bridges:maritimessawmillbridge|Sherbrooke Sawmill Bridge]] | Necora Maritimes Sherbrooke sawmill bridge sections (1–11) + dam; spans a river |
+| [[buildings:bridges:dsnormalstonebridgel|Stone Bridge Left]] | DS Stone Bridge left half; build in parallel with Stone Bridge Right; cost per tile: WR 5 + Stone 3 + Lumber 2 + Iron 1 |
+| [[buildings:bridges:dsnormalstonebridger|Stone Bridge Right]] | DS Stone Bridge right half; build in parallel with Stone Bridge Left; identical cost |
+| [[buildings:bridges:dsstonebridgewalkways|Stone Bridge Walkways]] | DS Stone Bridge walkway pieces (sections, ramps, stairs, 3/4-way, corners, drawbridge); pairs with the Stone Bridge halves |
+| [[buildings:bridges:woodbridge|Wood Bridge]] | Vanilla Banished bridge over water; variable length; cost per tile: WR 3 + Wood 4 + Stone 1 |
+
+----
+
+{{tag>Buildings Bridges}}

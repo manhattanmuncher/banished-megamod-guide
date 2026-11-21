@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pie Baker (Hobbit) ======
+----
+
+<WRAP right>
+^  Bakery                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitpiebaker.png?nolink|Pie Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  14.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hobbit Homes pie bakery where a worker bakes Meat Pies from flour, meat, and vegetables.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitpiebaker.png?nolink|Pie Baker}}</wrap> **Pie Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitpiebaker.png?nolink|Pie Baker}}</wrap> **Pie Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitpiebaker.png?nolink|Pie Baker (Hobbit)}}</wrap> **Pie Baker (Hobbit)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                ^ Produces                                  ^
+| 5 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:potato|Potato]] + 3 [[WikiPages:food:beef_beef|Beef]]                                               | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:beef_beef|Beef]] + 2 [[WikiPages:food:carrots|Carrot]]          | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:beef_beef|Beef]] + 2 [[WikiPages:food:onion|Onion]]             | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:mushroom|Mushroom]] + 4 [[WikiPages:food:beef_beef|Beef]]                                            | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:potato|Potato]] + 4 [[WikiPages:food:mutton|Mutton]]                                                 | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:mutton|Mutton]] + 2 [[WikiPages:food:carrots|Carrot]]           | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:mutton|Mutton]] + 2 [[WikiPages:food:onion|Onion]]              | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:mushroom|Mushroom]] + 4 [[WikiPages:food:mutton|Mutton]]                                             | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:potato|Potato]] + 4 [[WikiPages:food:chicken|Chicken]]                                               | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:chicken|Chicken]] + 2 [[WikiPages:food:carrots|Carrot]]         | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:chicken|Chicken]] + 2 [[WikiPages:food:onion|Onion]]            | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:mushroom|Mushroom]] + 4 [[WikiPages:food:chicken|Chicken]]                                           | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:potato|Potato]] + 4 [[WikiPages:food:venison|Venison]]                                               | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:venison|Venison]] + 2 [[WikiPages:food:carrots|Carrot]]         | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:venison|Venison]] + 2 [[WikiPages:food:onion|Onion]]            | [[WikiPages:food:meat_pie|Meat Pie]]      |
+| 5 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:mushroom|Mushroom]] + 4 [[WikiPages:food:venison|Venison]]                                           | [[WikiPages:food:meat_pie|Meat Pie]]      |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hobbits v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=608|WoB]]
+
+{{tag>Building Food KidHobbits}}

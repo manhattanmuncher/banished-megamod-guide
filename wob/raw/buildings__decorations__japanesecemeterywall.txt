@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Japanese Cemetery Wall ======
+----
+
+<WRAP right>
+^  Japanese Cemetery Wall                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecojapanesecemeterygate.png?nolink|Japanese Cemetery Wall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1 (walls)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorative Japanese cemetery wall and gate pieces from the A8 Japanese mod, used to enclose graveyards and shrines. Combine the straight, corner, end, junction, and gate pieces to build an enclosure. Decorative only — no burial function.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Build Cost ^
+| Cemetery Gate | 4 × 1 | 35 work, 10 [[WikiPages:wood:log|Wood]] |
+| Wall Gate | 2 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Wall Straight | 1 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Wall Straight (Long) | 2 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Wall Corner | 1 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Wall End | 1 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Wall T-Junction / Four-way | 1 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Tombstone | 1 × 1 | 35 work, 1 [[WikiPages:stone:stone|Stone]] |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8deco.png?nolink|A8 deco}}</wrap> **A8 deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8decowalls.png?nolink|A8 Walls}}</wrap> **A8 Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecojapanesecemeterygate.png?nolink|Japanese Cemetery Wall}}</wrap> **Japanese Cemetery Wall**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

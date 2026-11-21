@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MG Herb Healer ======
+----
+
+<WRAP right>
+^  MG Herb Healer                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgherbhealer.png?nolink|MG Herb Healer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  40  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+|  Storage Categories  |  Health  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  44  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  Stone  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Medieval Grace herbalist and healer. Herbalists collect Herb from wild plants within a 40-tile radius and provide basic healing for citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgherbhealer.png?nolink|MG Herb Healer}}</wrap> **MG Herb Healer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgherbhealer.png?nolink|MG Herb Healer}}</wrap> **MG Herb Healer**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+Also heals citizens within the working radius.
+
+This building originally came from **Medieval Grace v1.32**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=407|WoB]]
+
+{{tag>Building Gathering MedievalGrace}}

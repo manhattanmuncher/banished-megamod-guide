@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Choo Choo: Passenger Wagon ======
+----
+
+<WRAP right>
+^  Choo Choo: Passenger Wagon                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon4.png?nolink|Choo Choo: Passenger Wagon}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (default 4)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Choo Choo mod passenger wagon that also functions as a town hall and nomad attractor, attracting nomad groups of up to 15% of total population. Three visual variants are available (randomized at placement). Provides the same resource limit and town hall management interface as the vanilla Town Hall.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/trains.png?nolink|Trains}}</wrap> **Trains** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon4.png?nolink|Choo Choo: Passenger Wagon}}</wrap> **Choo Choo: Passenger Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/trains.png?nolink|Trains}}</wrap> **Trains** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon4.png?nolink|Choo Choo: Passenger Wagon}}</wrap> **Choo Choo: Passenger Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon4.png?nolink|Choo Choo: Passenger Wagon}}</wrap> **Choo Choo: Passenger Wagon (Choo Choo)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building Nomads ChooChoo}}

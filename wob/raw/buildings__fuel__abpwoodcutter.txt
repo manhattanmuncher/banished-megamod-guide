@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== ABP Wood Cutter ======
+----
+
+<WRAP right>
+^  ABP Wood Cutter                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabpwoodcutter.png?nolink|ABP Wood Cutter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A newly-textured wood cutting station from the Animal Barn Plus set where a Cutter splits logs into firewood.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalbarnplus.png?nolink|Animal Barn Plus}}</wrap> **Animal Barn Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabpwoodcutter.png?nolink|ABP Wood Cutter}}</wrap> **ABP Wood Cutter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalbarnplus.png?nolink|Animal Barn Plus}}</wrap> **Animal Barn Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabpwoodcutter.png?nolink|ABP Wood Cutter}}</wrap> **ABP Wood Cutter**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                           ^ Produces                                  ^
+| 1 [[WikiPages:wood:log|Wood]]         | [[WikiPages:fuel:firewood|Firewood]]      |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Animal Barn Plus (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=703|WoB]]
+
+{{tag>Building Fuel AnimalBarnPlus KID}}

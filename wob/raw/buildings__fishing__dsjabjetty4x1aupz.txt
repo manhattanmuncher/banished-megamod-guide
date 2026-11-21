@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== DS JaB Jetty 4×1 A Up Z ======
+----
+
+<WRAP right>
+^  DS JaB Jetty 4×1 A Up Z                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty4x1aupz.png?nolink|DS JaB Jetty 4×1 A Up Z}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  3  |
+|  Placement  |  Water  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+|  Lumber  |  7  |
+|  Iron Fittings  |  3  |
+|  Fishing Gear  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS JaB elevated arch jetty section with a fishing platform. Fishermen catch Fish from the water-placed 1×4 section within a 3-tile radius. Directly placeable from the Bridges toolbar.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS JaB Jetty}}</wrap> **DS JaB Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture 1}}</wrap> **Texture 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabbridges.png?nolink|Bridges}}</wrap> **Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty4x1aupz.png?nolink|DS JaB Jetty 4×1 A Up Z}}</wrap> **DS JaB Jetty 4×1 A Up Z**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS Toolbar}}</wrap> **DS Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS JaB Jetty}}</wrap> **DS JaB Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture 1}}</wrap> **Texture 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabbridges.png?nolink|Bridges}}</wrap> **Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty4x1aupz.png?nolink|DS JaB Jetty 4×1 A Up Z}}</wrap> **DS JaB Jetty 4×1 A Up Z**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Fishing DSJaB}}

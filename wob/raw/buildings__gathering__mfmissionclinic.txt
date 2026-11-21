@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mission Clinic ======
+----
+
+<WRAP right>
+^  Mission Clinic                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfmissionclinic.png?nolink|Mission Clinic}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+|  Clay  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Mexican Fantasy herbalist clinic. Herbalists collect Herb from wild plants within a 30-tile radius and provide basic healing for citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfmissionclinic.png?nolink|Mission Clinic}}</wrap> **Mission Clinic**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfmissionclinic.png?nolink|Mission Clinic}}</wrap> **Mission Clinic**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+Also heals citizens within the working radius.
+
+This building originally came from **Mexican Fantasy v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=575|WoB]], [[https://banishedinfo.com/mods/view/837-Mexican-Fantasy|BI]]
+
+{{tag>Building Gathering MexicanFantasy}}

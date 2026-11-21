@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Gatherer ======
+----
+
+<WRAP right>
+^  Stone Gatherer                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonefinder.png?nolink|Stone Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter stone gatherer. Gatherers collect Stone from rock deposits within a 60-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Produce}}</wrap> **Resource Produce** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonefinder.png?nolink|Stone Gatherer}}</wrap> **Stone Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroresandminerals.png?nolink|Ores and Minerals}}</wrap> **Ores and Minerals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonefinder.png?nolink|Stone Gatherer}}</wrap> **Stone Gatherer**
+
+----
+
+===== Produces =====
+
+  * Stone
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Gathering ColonialCharter}}

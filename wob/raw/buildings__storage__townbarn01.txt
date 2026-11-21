@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tudor Town Barn ======
+----
+
+<WRAP right>
+^  Tudor Town Barn                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtownbarn01.png?nolink|Tudor Town Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Storage Tudor-style town barn. Settlers store food, fuel, clothing, and a wide variety of goods with a capacity of 6,000 units. Can be upgraded to the Tudor Town Barn +.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtownbarn01.png?nolink|Tudor Town Barn}}</wrap> **Tudor Town Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtownbarn01.png?nolink|Tudor Town Barn}}</wrap> **Tudor Town Barn**
+
+----
+
+{{tag>Building Storage DS}}

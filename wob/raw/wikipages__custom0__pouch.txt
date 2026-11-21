@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pouch ======
+----
+
+<WRAP right>
+^  Pouch                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  7  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pouch.png?nolink|Pouch}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pouch is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. It has a modest trade value of 7.
+
+----
+
+===== Pouch Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

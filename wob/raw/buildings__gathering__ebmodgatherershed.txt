@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Modular Gatherer Shed ======
+----
+
+<WRAP right>
+^  Modular Gatherer Shed                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgatherershed.png?nolink|Modular Gatherer Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  Stone  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Modular Gatherer working shed. Gatherers collect wild food from within a 30-tile radius. Typically paired with the [[buildings:gathering:ebmodgathererhouse|Modular Gatherer House]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme}}</wrap> **EB Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmodular.png?nolink|Modular Forest Buildings Toolbar}}</wrap> **Modular Forest Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgatherershed.png?nolink|Modular Gatherer Shed}}</wrap> **Modular Gatherer Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmodular.png?nolink|Modular Forest Buildings Toolbar}}</wrap> **Modular Forest Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmodgatherershed.png?nolink|Modular Gatherer Shed}}</wrap> **Modular Gatherer Shed**
+
+----
+
+===== Produces =====
+
+Various wild food (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+{{tag>Building Gathering EBMod}}

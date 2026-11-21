@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Garden Patch Road ======
+----
+
+<WRAP right>
+^  Garden Patch Road                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgardenpatchroad01.png?nolink|Garden Patch Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Normal  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  195  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative garden patch road texture. Does not increase citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarroaddeco.png?nolink|Road Decorations}}</wrap> **Road Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menuroaddeco.png?nolink|Road Decorations}}</wrap> **Road Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgardenpatchroad01.png?nolink|Garden Patch Road}}</wrap> **Garden Patch Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road DSRoads}}

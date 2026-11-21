@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Barque Wreck ======
+----
+
+<WRAP right>
+^  Barque Wreck                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbbarquewreck.png?nolink|Barque Wreck}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  PickAxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  22.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Some Boats wrecked barque placed on land or water. A Worker salvages tools, firewood, leather coats, and herbs from the wreck. Free to place with no build cost. Production capped at 2,000 units total.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsomeboats.png?nolink|Some Boats}}</wrap> **Some Boats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbbarquewreck.png?nolink|Barque Wreck}}</wrap> **Barque Wreck**
+
+----
+
+===== Produces =====
+
+Random per cycle:
+  * [[WikiPages:tool:tool|Tool]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+  * [[WikiPages:clothing:leathercoat|Leather Coat]]
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Some Boats v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=535|WoB]]
+
+{{tag>Building Mining KID}}

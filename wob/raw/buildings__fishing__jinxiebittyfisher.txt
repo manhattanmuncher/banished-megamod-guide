@@ -1,0 +1,19 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyfisher.png?nolink|Bitty Fisher}}</wrap> **Bitty Fisher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxiefood.png?nolink|Jinxie's Food Production}}</wrap> **Jinxie's Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyfisher.png?nolink|Bitty Fisher}}</wrap> **Bitty Fisher**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+Must be placed in water tiles.
+
+{{tag>Building Fishing Jinxie}}

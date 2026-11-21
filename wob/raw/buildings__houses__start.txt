@@ -1,0 +1,957 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Houses ======
+----
+
+Residential buildings where settlers live.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:houses:abandonedrusticabode|Abandoned Rustic Abode]] | Colonial Charter pre-placed ruins; not buildable; upgrades to Rustic Abode Alt with 3×5 footprint |
+| [[buildings:houses:abandonedcottage|Abandoned Cottage]] | KID Abandoned Places cottage; free to place; houses up to 5 settlers with 6×5 footprint |
+| [[buildings:houses:abandonedhouse01|Abandoned House]] | KID Abandoned Places abandoned house; free to place; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:abandonedhouse02|Abandoned House (2)]] | KID Abandoned Places abandoned house, alternate model; identical stats to Abandoned House |
+| [[buildings:houses:ainuchise|Ainu Chise]] | Angainor88 Japanese-style ainu house; houses up to 6 settlers with 6×4 footprint |
+| [[buildings:houses:amoryhouse|Amory House]] | Angainor88 American City Living house; houses up to 6 settlers with 5×7 footprint |
+| [[buildings:houses:amoryhouseback|Amory House Extension]] | Angainor88 American City Living house extension; houses up to 4 settlers with 5×1 footprint |
+| [[buildings:houses:andalousquarterhouse|Andalous Quarter House]] | Angainor88 Moroccan-style house; houses up to 8 settlers with 6×7 footprint |
+| [[buildings:houses:anotherabode|Another Abode]] | KID Houses For Sale house; houses up to 7 settlers with 4×5 footprint |
+| [[buildings:houses:dauphinehouse|Dauphine House]] | Angainor88 American City Living house; houses up to 5 settlers with 3×7 footprint |
+| [[buildings:houses:dauphinehousetop|Dauphine House Top]] | Angainor88 American City Living house top-floor addition; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:apghostedcottage|Deco Cottage]] | KID Abandoned Places decoration cottage; free to place; houses up to 3 settlers; no fuel use |
+| [[buildings:houses:apghostedhouse01|Deco House]] | KID Abandoned Places decoration house; free to place; houses up to 3 settlers; no fuel use |
+| [[buildings:houses:apghostedhouse02|Deco House (2)]] | KID Abandoned Places decoration house, alternate model; identical stats to Deco House |
+| [[buildings:houses:icecave|Ice Cave]] | Kid Ice Castle ice dwelling for 4; storage 1000; free |
+| [[buildings:houses:kidlasthomelyhouse|Last Homely House]] | Kid single 5x5 home for 7 persons + decorative walls (Rivendell-inspired) |
+| [[buildings:houses:aprestoredcottage|Restored Cottage]] | KID Abandoned Places restored cottage; houses up to 5 settlers with 6×5 footprint |
+| [[buildings:houses:aprestoredhouse01|Restored House]] | KID Abandoned Places restored house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:aprestoredhouse02|Restored House (2)]] | KID Abandoned Places restored house, alternate model; identical stats to Restored House |
+| [[buildings:houses:asphomeb|Home 3]] | Animal Shed Plus house; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:asphomea4|Home 4]] | Animal Shed Plus house; houses up to 4 settlers with 5×3 footprint; upgrades to Home 6 |
+| [[buildings:houses:asphomea6|Home 6]] | Animal Shed Plus house; houses up to 6 settlers with 5×3 footprint; upgraded from Home 4 |
+| [[buildings:houses:atlasmountainhouse|Atlas Mountain House]] | Angainor88 Moroccan-style mountain house; houses up to 6 settlers with 6×5 footprint |
+| [[buildings:houses:atlasmountainstoragehouse|Atlas Mountain Storage House]] | Angainor88 Moroccan-style mountain storage house; houses up to 4 settlers with 1×2 footprint |
+| [[buildings:houses:barracks|Town Lodging]] | Colonial Charter boarding house; houses up to 7 settlers with 10×5 footprint |
+| [[buildings:houses:bedbreakfast01|Hostel]] | KID Bed and Breakfast boarding house; houses up to 4 settlers with 7×6 footprint |
+| [[buildings:houses:bedouinhouse|Bedouin House]] | Angainor88 Moroccan-style Bedouin house; houses up to 4 settlers with 5×5 footprint |
+| [[buildings:houses:bengarahouse|Bengara House]] | Angainor88 Japanese-style Bengara house; houses up to 5 settlers with 4×6 footprint |
+| [[buildings:houses:bgabode|Abode]] | KID Botanical Garden house; houses up to 7 settlers with 4×5 footprint |
+| [[buildings:houses:bgcottage|Small Cottage]] | KID Botanical Garden cottage; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:bghouse01|Small House (BG)]] | KID Botanical Garden house; houses up to 5 settlers with 5×5 footprint |
+| [[buildings:houses:bghouse01s|Small House (BG S)]] | KID Botanical Garden house, compact model; identical stats to Small House (BG) with 4×3 footprint |
+| [[buildings:houses:bghouse02|Small House (BG 2)]] | KID Botanical Garden house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:bghouse02s|Small House (BG 2S)]] | KID Botanical Garden house, compact model; identical stats to Small House (BG 2) with 4×3 footprint |
+| [[buildings:houses:bluebungalow|Blue Bungalow]] | KID Houses For Sale house; houses up to 5 settlers with 5×6 footprint |
+| [[buildings:houses:boatbuildershouse|Boatbuilders House]] | Angainor88 Japanese-style boatbuilder's house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:bodiammain|Bodiam Main]] | KID Bodiam Castle boarding house; houses up to 4 settlers with 19×20 footprint |
+| [[buildings:houses:bokaaprowhouse|Bo-Kaap Rowhouse]] | Angainor88 South African-style rowhouse; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:bostonhouse|Boston House]] | RedKetchup Editor's Choice Boston house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:bostonhouse2|Boston House 2]] | RedKetchup Editor's Choice Boston house, alternate model; identical stats to Boston House |
+| [[buildings:houses:brimmerhouse|Brimmer House]] | Angainor88 American City Living house; houses up to 5 settlers with 3×7 footprint |
+| [[buildings:houses:brimmercornerhouse|Brimmer Corner House]] | Angainor88 American City Living corner house; houses up to 5 settlers with 3×7 footprint |
+| [[buildings:houses:broadwaytower|Broadway Tower]] | KID Broadway Tower grand manor; houses up to 8 settlers with 8×8 footprint |
+| [[buildings:houses:wwbunkhouse|Bunkhouse]] | Wild West Cattle Drive bunkhouse; houses up to 16 settlers across 4 apartments with 8×4 footprint |
+| [[buildings:houses:capedutchboardinghouse|Cape Dutch Boarding House]] | Angainor88 South African-style Cape Dutch boarding house; houses up to 5 settlers temporarily with 5×4 footprint |
+| [[buildings:houses:capedutchcottage|Cape Dutch Cottage]] | Angainor88 South African-style Cape Dutch cottage; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:capedutchhouse|Cape Dutch House]] | Angainor88 South African-style Cape Dutch house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:capetownbarhouse|Cape Town Bar House]] | Angainor88 South African-style Cape Town bar house; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:cc17artisanhouse|Artisan House]] | Colonial Charter Row Houses artisan house; houses up to 5 settlers with 3×5 footprint |
+| [[buildings:houses:cc17bh|Old Boarding House]] | Colonial Charter boarding house; houses up to 5 settlers temporarily with 8×8 footprint |
+| [[buildings:houses:cc17captainhouse|Captain House]] | Colonial Charter Row Houses captain's house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:cc17captaintower|Captain Tower]] | Colonial Charter Row Houses captain's tower extension; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:cc17gablehouse|Gable House]] | Colonial Charter gable house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:cc17journeymanhouse|Journeyman House]] | Colonial Charter Row Houses journeyman's house; houses up to 6 settlers with 3×4 footprint |
+| [[buildings:houses:cc17journeymantower|Journeyman Tower]] | Colonial Charter Row Houses journeyman's tower extension; houses up to 4 settlers with 2×2 footprint |
+| [[buildings:houses:cc17rusticabode|Rustic Abode]] | Colonial Charter rustic abode; houses up to 4 settlers with 3×4 footprint; upgrades to Town Abode |
+| [[buildings:houses:cc17rusticabodealt|Rustic Abode Alt]] | Colonial Charter rustic abode upgrade variant; houses up to 4 settlers with 3×5 footprint; upgrade from Abandoned Rustic Abode |
+| [[buildings:houses:cccantiques|Antiques]] | KID Colonial City Center antiques house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccbank|Bank]] | KID Colonial City Center bank house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccbarber|Barber]] | KID Colonial City Center barber house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:cattleranch|Cattle Ranch]] | Wild West Cattle Drive ranch house; houses up to 6 settlers with 7×4 footprint |
+| [[buildings:houses:ccccobbler|Cobbler]] | KID Colonial City Center cobbler house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:cccfinefurniture|Fine Furniture]] | KID Colonial City Center fine furniture house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccgifts|Gifts]] | KID Colonial City Center gifts house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ccchomegoods|Home Goods]] | KID Colonial City Center home goods house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccmapsbooks|Maps Books]] | KID Colonial City Center maps and books house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:cccoddsends|Odds Ends]] | KID Colonial City Center odds and ends house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccpost|Post]] | KID Colonial City Center post house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccrooms|Rooms]] | KID Colonial City Center hostel; houses up to 5 settlers temporarily with 3×3 footprint |
+| [[buildings:houses:cccsundries|Sundries]] | KID Colonial City Center sundries house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:cccsweets|Sweets]] | KID Colonial City Center sweets house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:ccctaniusdeli|Tania's Deli]] | KID Colonial City Center Tania's Deli house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:chefchaouenhouse|Chefchaouen House]] | A8 Moroccan chefchaouen house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:choowagon5|Choo Choo: Cabooze Wagon]] | Choo Choo caboose wagon home; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:clhouse|Colonial Large House]] | KID Colonial Houses large house; houses up to 8 settlers with 6×4 footprint |
+| [[buildings:houses:clhousea|Angled Large House]] | KID Colonial Houses angled large house; houses up to 8 settlers with 6×5 footprint |
+| [[buildings:houses:cllodginghouse|Lodging House]] | KID Colonial Houses boarding house; houses up to 5 settlers temporarily across 4 apartments with 8×4 footprint |
+| [[buildings:houses:shippingoffice|Shipping Office]] | Wild West Cattle Drive shipping office; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:coachinn|Stagecoach Inn]] | KID Stagecoach inn; houses up to 3 families across 3 apartments with 3×4 footprint |
+| [[buildings:houses:livery|Livery]] | Wild West Cattle Drive livery stable; houses up to 5 settlers with 8×4 footprint |
+| [[buildings:houses:coachlivery|Livery Stable]] | KID Stagecoach livery stable; houses up to 4 settlers with 7×2 footprint |
+| [[buildings:houses:coachoffice|Stage Office]] | KID Stagecoach stage office; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:coachsheriff|Sheriff's Office]] | KID Stagecoach sheriff's office; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:coachwfoffice|Wells Fargo Office]] | KID Stagecoach Wells Fargo office; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:coastalhouse|Coastalhouse]] | Coastal house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:commonwealthhouse|Commonwealth House]] | Angainor88 American City Living house; houses up to 6 settlers with 3×8 footprint |
+| [[buildings:houses:commonwealthcornerhouse|Commonwealth Corner House]] | Angainor88 American City Living corner house; houses up to 7 settlers with 4×8 footprint |
+| [[buildings:houses:conshouse|Conservatory]] | Colonial Charter conservatory; houses up to 4 settlers with 3×1 footprint |
+| [[buildings:houses:corbelledhouse|Corbelled House]] | A8 South African corbelled house; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:countryhouse3|Country House]] | Colonial Charter country house; houses up to 6 settlers with 4×4 footprint; 6 F-key variants; upgrades to Nice Country House and Fancy Country House |
+| [[buildings:houses:countryhouse3upgrade|Country House 3 (Upgrade)]] | Colonial Charter country house upgrade variant; houses up to 6 settlers with 4×5 footprint; upgrade from Stone Home |
+| [[buildings:houses:countryhouse4|Country House 4]] | Colonial Charter country house upgrade; houses up to 6 settlers with 4×5 footprint |
+| [[buildings:houses:countryhouse5|Country House 5]] | Colonial Charter country house upgrade; houses up to 7 settlers with 4×5 footprint |
+| [[buildings:houses:countrylittlehouse|Country Little House (set 1)]] | RK Editor's Choice country house; houses up to 6 settlers with 4×4 footprint; 5 F-key color variants |
+| [[buildings:houses:countrylittlehouse2|Country Little House (set 2)]] | RK Editor's Choice country house; houses up to 6 settlers with 4×4 footprint; 10 F-key color variants |
+| [[buildings:houses:covencabin|Coven Cabin]] | Coven cabin; houses up to 4 settlers with 3×2 footprint; 3 F-key variants |
+| [[buildings:houses:covencabina|Coven Cabin Angled]] | Coven cabin, angled placement; houses up to 4 settlers with 4×3 footprint; 3 F-key variants |
+| [[buildings:houses:covenhouse01|Witch's House]] | Coven witch's house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:covenhouse01a|Witch's House Angled]] | Coven witch's house, angled placement; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:cozycabin|Cozy Cabin]] | KID Houses For Sale cozy cabin; houses up to 6 settlers with 3×5 footprint |
+| [[buildings:houses:cshouse|Colonial Small House]] | KID Colonial Houses small house; houses up to 5 settlers with 4×3 footprint; 8 F-key variants |
+| [[buildings:houses:cshousea|Angled Small House]] | KID Colonial Houses angled small house; houses up to 5 settlers with 4×3 footprint; 8 F-key variants |
+| [[buildings:houses:d20house|2 Story Medieval House]] | large 2-story medieval house; houses up to 6 settlers with 6×4 footprint; 2 F-key variants |
+| [[buildings:houses:d20house2|3 Story Medieval House]] | large 3-story medieval house; houses up to 7 settlers with 5×5 footprint |
+| [[buildings:houses:dockhouse|Dock Shanty]] | Colonial Charter dock shanty; placed on water; houses up to 4 settlers with 4×2 footprint; upgrades to Dock House; 2 F-key variants |
+| [[buildings:houses:dockhouseup|Dock Shanty (Upgrade)]] | Colonial Charter dock shanty upgrade; placed on water; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:dockhouse2|Dock Home]] | Colonial Charter dock home, placed on water; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:dockhouse2up|Dock Home (Upgrade)]] | Colonial Charter dock home upgrade; placed on water; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:nmthousedock|Dock House (NMT Dock)]] | NMT Docks house; houses up to 5 settlers with 4 × 5 footprint; water placement required |
+| [[buildings:houses:nmthousestonedock|Dock House (NMT Stone Dock)]] | NMT Stone Docks house; houses up to 5 settlers with 4 × 5 footprint; water placement required |
+| [[buildings:houses:dsceltichouse1|Celtic House]] | DS small round Celtic house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:dsceltichouse2|Celtic House (2)]] | DS round Celtic house, larger model; houses up to 6 settlers with 6×5 footprint |
+| [[buildings:houses:dsceltichouse3|Small Celtic House]] | DS small round Celtic house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:dscelticvillagehouse|Celtic Village House]] | DS Celtic boarding house; houses up to 4 settlers temporarily across 3 apartments with 8×4 footprint |
+| [[buildings:houses:dsjabjettyhome2x2|Workers House]] | DS Jetty & Bridge jetty home; houses up to 3 settlers with 2×2 footprint; buildable on water or land |
+| [[buildings:houses:dsjabjettyhome3x2|Workers Home]] | DS Jetty & Bridge jetty home; houses up to 4 settlers with 3×2 footprint; buildable on water or land |
+| [[buildings:houses:dsjabjettyhome5x3|Workers House (5×3)]] | DS Jetty & Bridge large jetty workers' house; 5 × 3 footprint; buildable on water or land |
+| [[buildings:houses:jamaicahouse|Jamaica House]] | Angainor88 American City Living house; houses up to 6 settlers with 4×8 footprint |
+| [[buildings:houses:jamaicahouseextension|Jamaica House Extension]] | Angainor88 American City Living house extension; houses up to 4 settlers with 4×2 footprint |
+| [[buildings:houses:dsjabjettyhome3x3|Jetty Small House]] | DS Jetty & Bridge small jetty house; houses up to 5 settlers with 3×3 footprint; buildable on water or land |
+| [[buildings:houses:dsjabjettyhome4x3|Jetty House]] | DS Jetty & Bridge jetty house; houses up to 6 settlers with 4×3 footprint; buildable on water or land |
+| [[buildings:houses:dsjabjettyhomews|Workers Shack]] | DS Jetty & Bridge small workers shack; houses up to 2 settlers with 1×2 footprint; buildable on water or land |
+| [[buildings:houses:dsjabjettytownhomes3x4|Jetty Town Home]] | DS Jetty & Bridge large jetty town home; houses up to 6 settlers with 3×4 footprint; buildable on water or land |
+| [[buildings:houses:dspickandhenhouse|Brewer's House]] | DS Pick & Hen Brewery residence; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:dsstonebridgehouses2x3mesh1|Stone Bridge OverHouse]] | DS Stone Bridge house; houses up to 5 settlers with 4×3 footprint; buildable on water or land |
+| [[buildings:houses:dsstonebridgehouses2x3mesh2|Stone Bridge House]] | DS Stone Bridge house; houses up to 4 settlers with 3×3 footprint; buildable on water or land |
+| [[buildings:houses:dsstonebridgehouses4x3|Stone Bridge Small Home]] | DS Stone Bridge small home; houses up to 3 settlers with 2×3 footprint; buildable on water or land |
+| [[buildings:houses:dsstonebridgehouses4x4|Stone Bridge Home]] | DS Stone Bridge home; houses up to 6 settlers with 3×4 footprint; buildable on water or land |
+| [[buildings:houses:dsstonebridgehouses5x6|Stone Bridge Large Home]] | DS Stone Bridge large home; houses up to 7 settlers with 5×6 footprint; buildable on water or land |
+| [[buildings:houses:dsstonebridgehousessq1|Stone Bridge Tiny UnderHouse]] | DS Stone Bridge tiny shack under a stone bridge; houses up to 2 settlers with 4×3 footprint; buildable on water or land |
+| [[buildings:houses:dsstonehovel2|Stone Hovel Cottage]] | DS stone hovel cottage; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:dsstonehovel3|Perry's Stone Hovel]] | DS stone hovel; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:dsstonehovel4|Hendry Family Stone Hovel]] | DS large stone hovel; houses up to 7 settlers with 5×4 footprint |
+| [[buildings:houses:dsstonehovels3x3|Stone Hovel]] | DS small stone hovel; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:dsstonehovels3x3angle|Angled Stone Hovel]] | DS angled stone hovel; houses up to 4 settlers with 4×3 footprint; identical stats to Stone Hovel |
+| [[buildings:houses:dssvhouse2x4|Village Townhouse]] | DS Small Village narrow townhouse; houses up to 5 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4small|Small Village Townhouse]] | DS Small Village compact townhouse; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4tentcanvas|Small Canvas Tent]] | DS Small Village canvas tent; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4tentleather|Small Leather Tent]] | DS Small Village leather tent; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4tentreindeerhide|Small Reindeer Hide Tent]] | DS Small Village reindeer hide tent; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4tentup1|Warmer Leather Tent]] | DS Small Village upgraded leather tent; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4tentwood|Small Log Tent]] | DS Small Village log tent; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse2x4tentthatch|Small Thatch Tent]] | DS Small Village thatch tent; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:dssvhouse3x3|Small Village Home]] | DS Small Village compact home; houses up to 3 settlers with 3×2 footprint; upgrades to Small Village Home (Upgrade) |
+| [[buildings:houses:dssvhouse3x3up|Small Village Home (Upgrade)]] | DS Small Village upgraded home; houses up to 4 settlers with 3×3 footprint; upgraded from Small Village Home |
+| [[buildings:houses:dssvhouse3x4a|Village Home]] | DS Small Village home, left-chimney variant; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:dssvhouse3x4b|Village Home (B)]] | DS Small Village home, right-chimney variant; identical stats to Village Home |
+| [[buildings:houses:dssvhouse4x3tentclusterleather|Small Leather Tent Cluster]] | DS Small Village leather tent cluster; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:dssvhouse4x3tentclusterreindeerhide|Small Reindeer Hide Tent Cluster]] | DS Small Village reindeer hide tent cluster; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:dssvhouse4x3tentclusterwood|Small Log Tent Cluster]] | DS Small Village log tent cluster; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:dssvhouse4x3tentclusterthatch|Small Thatch Tent Cluster]] | DS Small Village thatch tent cluster; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:dssvhouse4x4|Large Village Townhouse]] | DS Small Village large townhouse; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:dssvhouseangle3x3|Small Village Home (Angled)]] | DS Small Village angled home; houses up to 3 settlers with 3×2 footprint; identical stats to Small Village Home; upgrades to Small Village Home (Angled, Upgrade) |
+| [[buildings:houses:dssvhouseangle3x3up|Small Village Home (Angled, Upgrade)]] | DS Small Village upgraded angled home; houses up to 4 settlers with 3×3 footprint; upgraded from Small Village Home (Angled) |
+| [[buildings:houses:dssvhouseangle3x4a|Village Home (Angled A)]] | DS Small Village angled home, left-chimney variant; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:dssvhouseangle3x4b|Village Home (Angled B)]] | DS Small Village angled home, right-chimney variant; identical stats to Village Home (Angled A) |
+| [[buildings:houses:dssvinn|Village Inn]] | DS Small Village boarding inn; houses up to 5 settlers temporarily across 4 apartments with 5×4 footprint |
+| [[buildings:houses:dstownhousesa2x4|Small Townhouse]] | DS Town Houses comfortable stone townhouse; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:dstownhousesa3x4|Medium Townhouse]] | DS Town Houses comfortable stone townhouse; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:dstownhousesa4x4|Large Townhouse]] | DS Town Houses large stone townhouse; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:dstownhousesb3x4|Bryggen Townhouse]] | DS Town Houses Bryggen-style townhouse; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:dstownhousesb3x4tall|Bryggen Tall Townhouse]] | DS Town Houses tall Bryggen-style townhouse; houses up to 6 settlers with 3×3 footprint |
+| [[buildings:houses:dstownhousesbover1a|Bryggen Store Townhouse]] | DS Town Houses Bryggen store townhouse with right overhang; houses up to 7 settlers with 1×3 footprint |
+| [[buildings:houses:dstownhousesbover1b|Bryggen Store Townhouse (B)]] | DS Town Houses Bryggen store townhouse with left overhang; identical stats to Bryggen Store Townhouse |
+| [[buildings:houses:dstutorialsmalltownhome|Small Town Home]] | DS Housing compact town home; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:dumainehouse|Dumaine House]] | Angainor88 American City Living house; houses up to 6 settlers with 4×7 footprint |
+| [[buildings:houses:dumainehousetop|Dumaine House Top]] | Angainor88 American City Living house top-floor addition; houses up to 4 settlers with 1×2 footprint |
+| [[buildings:houses:duprehouse|Dupre House]] | Angainor88 American City Living house; houses up to 5 settlers with 4×8 footprint |
+| [[buildings:houses:dutchcapecottage|Dutch Cape Cottage]] | Angainor88 South African-style Cape Dutch cottage; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:ebfarmhousea|Farm House]] | EB farm house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:ebfarmhouseb|Farm House (B)]] | EB farm house, alternate model; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:ebfarmhousec|Farm House (C)]] | EB farm house, 3 F-key variant model; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:ebloghousea|Log House]] | EB log house; houses up to 6 settlers with 6×3 footprint |
+| [[buildings:houses:ebsvhostel|Village Boarding House]] | EB Simple Village boarding house; houses up to 5 settlers temporarily with 10×4 footprint |
+| [[buildings:houses:ebsvhousing|Wooden House]] | EB Simple Village wooden house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:ebsvhousing3x4|Village Wooden House]] | EB Simple Village small wooden house; houses up to 4 settlers with 3×4 footprint |
+| [[buildings:houses:ebsvhousingdark4x4a|Wooden House Dark]] | EB Simple Village dark-colored wooden house; houses up to 5 settlers; one of six F Key variants |
+| [[buildings:houses:ebsvhousingdark4x4b|Wooden House Dark (B)]] | EB Simple Village dark-colored wooden house, alternate model B; identical stats to Wooden House Dark |
+| [[buildings:houses:ebsvhousingdark4x4c|Wooden House Dark (C)]] | EB Simple Village dark-colored wooden house, alternate model C; identical stats to Wooden House Dark |
+| [[buildings:houses:ebsvhousingdark4x4d|Wooden House Dark (D)]] | EB Simple Village dark-colored wooden house, alternate model D; identical stats to Wooden House Dark |
+| [[buildings:houses:ebsvhousingdark4x4e|Wooden House Dark (E)]] | EB Simple Village dark-colored wooden house, alternate model E; identical stats to Wooden House Dark |
+| [[buildings:houses:ebsvhousingdark4x4f|Wooden House Dark (F)]] | EB Simple Village dark-colored wooden house, alternate model F; identical stats to Wooden House Dark |
+| [[buildings:houses:ebsvhousinglight4x4a|Wooden House Light]] | EB Simple Village light-colored wooden house; houses up to 5 settlers; one of six F Key variants |
+| [[buildings:houses:ebsvhousinglight4x4b|Wooden House Light (B)]] | EB Simple Village light-colored wooden house, alternate model B; identical stats to Wooden House Light |
+| [[buildings:houses:ebsvhousinglight4x4c|Wooden House Light (C)]] | EB Simple Village light-colored wooden house, alternate model C; identical stats to Wooden House Light |
+| [[buildings:houses:ebsvhousinglight4x4d|Wooden House Light (D)]] | EB Simple Village light-colored wooden house, alternate model D; identical stats to Wooden House Light |
+| [[buildings:houses:ebsvhousinglight4x4e|Wooden House Light (E)]] | EB Simple Village light-colored wooden house, alternate model E; identical stats to Wooden House Light |
+| [[buildings:houses:ebsvhousinglight4x4f|Wooden House Light (F)]] | EB Simple Village light-colored wooden house, alternate model F; identical stats to Wooden House Light |
+| [[buildings:houses:ebsvhousingwarm4x4a|Wooden House Medium]] | EB Simple Village medium-colored wooden house; houses up to 5 settlers; one of six F Key variants |
+| [[buildings:houses:ebsvhousingwarm4x4b|Wooden House Medium (B)]] | EB Simple Village medium-colored wooden house, alternate model B; identical stats to Wooden House Medium |
+| [[buildings:houses:ebsvhousingwarm4x4c|Wooden House Medium (C)]] | EB Simple Village medium-colored wooden house, alternate model C; identical stats to Wooden House Medium |
+| [[buildings:houses:ebsvhousingwarm4x4d|Wooden House Medium (D)]] | EB Simple Village medium-colored wooden house, alternate model D; identical stats to Wooden House Medium |
+| [[buildings:houses:ebsvhousingwarm4x4e|Wooden House Medium (E)]] | EB Simple Village medium-colored wooden house, alternate model E; identical stats to Wooden House Medium |
+| [[buildings:houses:ebsvhousingwarm4x4f|Wooden House Medium (F)]] | EB Simple Village medium-colored wooden house, alternate model F; identical stats to Wooden House Medium |
+| [[buildings:houses:echostel|Hostel (EC)]] | RedKetchup Editor's Choice hostel; houses up to 5 settlers temporarily across 5 apartments with 7×13 footprint |
+| [[buildings:houses:ecstonehouse|Stone House]] | RedKetchup Editor's Choice stone house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:ecwoodhouse|Wooden House (EC)]] | RedKetchup Editor's Choice wooden house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:eglestonhouse|Egleston House]] | Angainor88 American City Living house; houses up to 5 settlers with 5×7 footprint |
+| [[buildings:houses:eglestonhouseextension|Egleston House Extension]] | Angainor88 American City Living house extension; houses up to 3 settlers with 2×1 footprint |
+| [[buildings:houses:elfrethhouse|Elfreth House]] | Angainor88 American City Living house; houses up to 5 settlers with 3×7 footprint |
+| [[buildings:houses:elfrethcornerhouse|Elfreth Corner House]] | Angainor88 American City Living corner house; houses up to 6 settlers with 4×7 footprint |
+| [[buildings:houses:essaouirahouse|Essaouira House]] | Angainor88 Moroccan-style Essaouira house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:esshouses1|Colonial Half House (Left)]] | Colonial Charter colonial half-house, left variant; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:esshouses2|Colonial Half House (Right)]] | Colonial Charter colonial half-house, right variant; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:esshouses3|Colonial House]] | Colonial Charter colonial house; houses up to 6 settlers with 5×4 footprint |
+| [[buildings:houses:esshouses4|Colonial Townhouse]] | Colonial Charter colonial townhouse; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:esshouses5|Colonial Homestead]] | Colonial Charter colonial homestead; houses up to 6 settlers with 5×4 footprint; upgrades to Bed & Breakfast |
+| [[buildings:houses:esshouses5bh|Bed & Breakfast]] | Colonial Charter bed & breakfast; upgraded from Colonial Homestead; temporarily houses up to 6 settlers across 4 apartments with 5×5 footprint |
+| [[buildings:houses:esshouses6|Colonial Corner House]] | Colonial Charter colonial corner house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:esshouses7|Corner Area]] | Colonial Charter decorative corner area; does not flatten ground; no residents; 4×4 footprint |
+| [[buildings:houses:esshouses8|Colonial Tunnel House]] | Colonial Charter colonial tunnel house; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:fairygardenhouse|Fairy Garden House]] | KID Fairy Garden house with seasonal roof; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:fairygardenhouseleaves|Fairy Garden House (Leaves)]] | KID Fairy Garden house with leaves roof; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:fairygardenhousepines|Fairy Garden House (Pines)]] | KID Fairy Garden house with pines roof; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:fairygardennicecottage|Nice Cottage]] | KID Fairy Garden cottage; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:fairygardennicehouse01|Nice House (01)]] | KID Fairy Garden house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:fairygardennicehouse02|Nice House (02)]] | KID Fairy Garden house, alternate model; identical stats to Nice House (01) with 4×3 footprint |
+| [[buildings:houses:familyhouse|Family Townhouse]] | Colonial Charter family townhouse; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:fbhouse01|Friendly House 01]] | KID Friendly Blue house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:fbhouse02|Friendly House 02]] | KID Friendly Blue house, alternate model; identical stats to Friendly House 01 |
+| [[buildings:houses:fbhouse03|Friendly House 03]] | KID Friendly Blue house; houses up to 6 settlers with 5×2 footprint |
+| [[buildings:houses:fbhouse04|Friendly House 04]] | KID Friendly Blue house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:fbhouse05|Friendly House 05]] | KID Friendly Blue house, alternate model; identical stats to Friendly House 04 |
+| [[buildings:houses:fbthouse01|Friendly House 01 (Too)]] | KID Friendly Blue Too house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:fbthouse02|Friendly House 02 (Too)]] | KID Friendly Blue Too house, alternate model; identical stats to Friendly House 01 (Too) |
+| [[buildings:houses:fbthouse03|Friendly House 03 (Too)]] | KID Friendly Blue Too house; houses up to 6 settlers with 5×2 footprint |
+| [[buildings:houses:fbthouse04|Friendly House 04 (Too)]] | KID Friendly Blue Too house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:fbthouse05|Friendly House 05 (Too)]] | KID Friendly Blue Too house, alternate model; identical stats to Friendly House 04 (Too) |
+| [[buildings:houses:fhhouse|Haven House (Forest Haven)]] | KID Forest Haven house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:fhhousehi|Haven House High (Forest Haven)]] | KID Forest Haven high tree house; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:fhhouselo|Haven House Low (Forest Haven)]] | KID Forest Haven low tree house; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:fhtopperfour|Forest Topper Four]] | KID Forest Haven tree house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:fhtopperone|Forest Topper One]] | KID Forest Haven tree house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:fhtopperthree|Forest Topper Three]] | KID Forest Haven tree house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:fhtoppertwo|Forest Topper Two]] | KID Forest Haven tree house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:fishshipscabin|Cabin (Fish n Ships)]] | KID Fish n Ships shore cabin; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:fishshipscabinwater|Jetty Cabin Low]] | KID Fish n Ships low-level jetty cabin for small platform; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:fishshipscabinwaterhi|Jetty Cabin Hi]] | KID Fish n Ships ground-level jetty cabin for small platform; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:fishshipshouse|House (Fish n Ships)]] | KID Fish n Ships shore house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:fishshipshousewater|Jetty House Low]] | KID Fish n Ships low-level jetty house for large platform; houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:fishshipshousewaterhi|Jetty House Hi]] | KID Fish n Ships ground-level jetty house for large platform; houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:fnhouse01|Friendly House 01 (Friendly Neighborhood)]] | KID Friendly Neighborhood house; houses up to 6 settlers with 3×4 footprint |
+| [[buildings:houses:fnhouse02|Friendly House 02 (Friendly Neighborhood)]] | KID Friendly Neighborhood house, alternate model; identical stats to Friendly House 01 (Friendly Neighborhood) |
+| [[buildings:houses:fodgatedwelling|Dwelling Gate (Forge Of Dwarves)]] | KID Forge Of Dwarves boarding dwelling gate; temporarily houses up to 5 settlers across 5 apartments with 3×4 footprint |
+| [[buildings:houses:fodhouse01|House 1 (Forge Of Dwarves)]] | KID Forge Of Dwarves wooden house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:fodhouse02|House 2 (Forge Of Dwarves)]] | KID Forge Of Dwarves wooden house, alternate model; identical stats to House 1 (Forge Of Dwarves) |
+| [[buildings:houses:fodhouse03|House 3 (Forge Of Dwarves)]] | KID Forge Of Dwarves wooden house, alternate model; identical stats to House 1 (Forge Of Dwarves) |
+| [[buildings:houses:fodhouse04|House 4 (Forge Of Dwarves)]] | KID Forge Of Dwarves wooden house, alternate model; identical stats to House 1 (Forge Of Dwarves) |
+| [[buildings:houses:fodwgatedwelling|Dwelling Gate (Forge Of Dwarves - Winter)]] | KID Forge Of Dwarves - Winter boarding dwelling gate; temporarily houses up to 5 settlers across 5 apartments with 3×4 footprint |
+| [[buildings:houses:fodwhouse01|House 1 (Forge Of Dwarves - Winter)]] | KID Forge Of Dwarves - Winter wooden house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:fodwhouse02|House 2 (Forge Of Dwarves - Winter)]] | KID Forge Of Dwarves - Winter wooden house, alternate model; identical stats to House 1 (Forge Of Dwarves - Winter) |
+| [[buildings:houses:fodwhouse03|House 3 (Forge Of Dwarves - Winter)]] | KID Forge Of Dwarves - Winter wooden house, alternate model; identical stats to House 1 (Forge Of Dwarves - Winter) |
+| [[buildings:houses:fodwhouse04|House 4 (Forge Of Dwarves - Winter)]] | KID Forge Of Dwarves - Winter wooden house, alternate model; identical stats to House 1 (Forge Of Dwarves - Winter) |
+| [[buildings:houses:housewagon|House Wagon]] | Wild West Cattle Drive covered wagon home; free to place; houses up to 4 settlers with 1×2 footprint |
+| [[buildings:houses:fohouse|Forest House]] | KID Forest Outpost wooden house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:fohousea|Angled Forest House]] | KID Forest Outpost angled wooden house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:fologhouse|Forest Log House]] | KID Forest Outpost log house; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:fologhousea|Angled Log House]] | KID Forest Outpost angled log house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:forestdeephouse|Forest Deep House]] | KID Forest Deep wooden house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:fotcabin|Wood Cabin]] | KID Forest Trader wooden cabin; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:fotshack|Wood Shack]] | KID Forest Trader wooden shack; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:fottent|Simple Tent]] | KID Forest Trader simple tent; houses up to 2 settlers with 2×2 footprint |
+| [[buildings:houses:fottenta|Simple Angled Tent]] | KID Forest Trader simple angled tent; houses up to 2 settlers with 3×2 footprint |
+| [[buildings:houses:fphouse01|Friendly House 01 (Friendly Pumpkin)]] | KID Friendly Pumpkin house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:fphouse02|Friendly House 02 (Friendly Pumpkin)]] | KID Friendly Pumpkin house, alternate model; identical stats to Friendly House 01 (Friendly Pumpkin) |
+| [[buildings:houses:fphouse03|Friendly House 03 (Friendly Pumpkin)]] | KID Friendly Pumpkin house; houses up to 6 settlers with 5×2 footprint |
+| [[buildings:houses:fphouse04|Friendly House 04 (Friendly Pumpkin)]] | KID Friendly Pumpkin house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:fphouse05|Friendly House 05 (Friendly Pumpkin)]] | KID Friendly Pumpkin house, alternate model; identical stats to Friendly House 04 (Friendly Pumpkin) |
+| [[buildings:houses:ftcabin|Wood Cabin (Forest Trader)]] | Forest Trader wooden cabin; houses up to 5 settlers with 4×3 footprint; no toolbar |
+| [[buildings:houses:ftchostel|Hostel (Fairy Tale Center)]] | KID Fairy Tale Center hostel; temporarily houses up to 3 settlers across 3 apartments with 3×2 footprint |
+| [[buildings:houses:ftchouse1|House 1 (Fairy Tale Center)]] | KID Fairy Tale Center house; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:ftchouse2|House 2 (Fairy Tale Center)]] | KID Fairy Tale Center house; houses up to 5 settlers with 3×2 footprint |
+| [[buildings:houses:ftchouse3|House 3 (Fairy Tale Center)]] | KID Fairy Tale Center house; houses up to 7 settlers with 3×2 footprint |
+| [[buildings:houses:fthouse01|Mountain House 01 (Fairy Tale)]] | KID Fairy Tale mountain house; houses up to 6 settlers with 3×5 footprint |
+| [[buildings:houses:fthouse02|Mountain House 02 (Fairy Tale)]] | KID Fairy Tale mountain house; houses up to 6 settlers with 4×5 footprint |
+| [[buildings:houses:fthouse03|Mountain House 03 (Fairy Tale)]] | KID Fairy Tale mountain house, alternate model; identical stats to Mountain House 02 (Fairy Tale) |
+| [[buildings:houses:fthouseg1|Ground House 1 (Fairy Tale)]] | KID Fairy Tale ground house; houses up to 6 settlers with 3×3 footprint |
+| [[buildings:houses:fthouseg2|Ground House 2 (Fairy Tale)]] | KID Fairy Tale ground house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:fthouseg3|Ground House 3 (Fairy Tale)]] | KID Fairy Tale ground house, alternate model; identical stats to Ground House 2 (Fairy Tale) |
+| [[buildings:houses:ftmainhall|Council Hall (Fairy Tale)]] | KID Fairy Tale council hall; temporarily houses up to 6 settlers across 5 apartments with 9×8 footprint |
+| [[buildings:houses:ftshack|Wood Shack (Forest Trader)]] | Forest Trader wooden shack; houses up to 3 settlers with 3×3 footprint; no toolbar |
+| [[buildings:houses:fttent|Simple Tent (Forest Trader)]] | Forest Trader simple tent; houses up to 2 settlers with 2×2 footprint; no toolbar |
+| [[buildings:houses:fttenta|Simple Angled Tent (Forest Trader)]] | Forest Trader simple angled tent; houses up to 2 settlers with 3×2 footprint; no toolbar |
+| [[buildings:houses:gasshofarmhouse|Gassho Farmhouse]] | Angainor88 Japanese-style gassho farmhouse; houses up to 7 settlers with 7×10 footprint |
+| [[buildings:houses:gbvsmall01|GBV Small House 1]] | Gingerbread Village house; free to build, houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:gbvsmall02|GBV Small House 2]] | Gingerbread Village house; free to build, houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:gbvsmall03|GBV Small House 3]] | Gingerbread Village house; free to build, houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:gbvsmall04|GBV Small House 4]] | Gingerbread Village house; free to build, houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:gbvsmall05|GBV Small House 5]] | Gingerbread Village house; free to build, houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:gbvsmall06|GBV Small House 6]] | Gingerbread Village house; free to build, houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:gffarmhouse|Farm House (Gothic Farm)]] | KID Gothic Farm farmhouse; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:gfhouse1|House (Gothic Fantasy 1)]] | KID Gothic Fantasy 1 house; houses up to 6 settlers with 3×3 footprint |
+| [[buildings:houses:gfhouse2|House (Gothic Fantasy 2)]] | KID Gothic Fantasy 2 house; houses up to 6 settlers with 3×3 footprint |
+| [[buildings:houses:gfsmallhouse1|Small House (Gothic Fantasy 1)]] | KID Gothic Fantasy 1 small house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:gfsmallhouse2|Small House (Gothic Fantasy 2)]] | KID Gothic Fantasy 2 small house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:gfsmalltower1|Small Tower (Gothic Fantasy 1)]] | KID Gothic Fantasy 1 small tower; houses up to 7 settlers with 3×2 footprint |
+| [[buildings:houses:gfsmalltower2|Small Tower (Gothic Fantasy 2)]] | KID Gothic Fantasy 2 small tower; houses up to 7 settlers with 3×2 footprint |
+| [[buildings:houses:gfthecore01|The Core (Gothic Fantasy 1)]] | KID Gothic Fantasy 1 boarding house; temporarily houses up to 5 settlers across 4 apartments with 4×4 footprint |
+| [[buildings:houses:gfthecore02|The Core (Gothic Fantasy 2)]] | KID Gothic Fantasy 2 boarding house; temporarily houses up to 5 settlers across 4 apartments with 4×4 footprint |
+| [[buildings:houses:thewateringhole|The Watering Hole]] | Wild West Cattle Drive saloon; houses up to 16 settlers across 4 apartments with 6×7 footprint |
+| [[buildings:houses:ghlighthouse|Gay Head Lighthouse]] | KID Gay Head Lighthouse; houses up to 8 settlers with 4×4 footprint |
+| [[buildings:houses:ghostouthouse|Privy (Ghost)]] | Colonial Charter ghost privy; 0×0 footprint; free to place instantly; removes itself when upgraded |
+| [[buildings:houses:gifthome|Gift Shop Home]] | KID Gift Shop mod home; houses up to 5 settlers with 1×5 footprint |
+| [[buildings:houses:gnhouse01|Friendly House 01 (Granny Neighborhood)]] | Granny Neighborhood friendly house; houses up to 6 settlers with 3×4 footprint |
+| [[buildings:houses:gnhouse02|Friendly House 02 (Granny Neighborhood)]] | Granny Neighborhood friendly house, alternate model; identical stats to Friendly House 01 (Granny Neighborhood) |
+| [[buildings:houses:grannyhouse01|Granny House 1]] | Granny Park house; houses up to 6 settlers with 5×2 footprint |
+| [[buildings:houses:grannyhouse02|Granny House 2]] | Granny Park house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:grannyhouse03|Granny House 3]] | Granny Park house, alternate model; identical stats to Granny House 2 |
+| [[buildings:houses:gtacottage|Old Cottage (Abandoned)]] | Ghost Town abandoned cottage; requires no materials to build; houses up to 4 settlers with 6×5 footprint |
+| [[buildings:houses:gtahousea|Old House A (Abandoned)]] | Ghost Town abandoned house; requires no materials to build; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:gtahouseb|Old House B (Abandoned)]] | Ghost Town abandoned house; requires no materials to build; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:gtahousec|Old House C (Abandoned)]] | Ghost Town abandoned house; requires no materials to build; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:gtahoused|Old House D (Abandoned)]] | Ghost Town abandoned house, alternate model; identical stats to Old House A (Abandoned) |
+| [[buildings:houses:gtamansion|Ghost House (Abandoned)]] | Ghost Town abandoned boarding house; requires no materials to build; temporarily houses up to 4 settlers across 4 apartments with 8×3 footprint |
+| [[buildings:houses:gtarooms|Old Rooms for Rent (Abandoned)]] | Ghost Town abandoned boarding house; requires no materials to build; temporarily houses up to 4 settlers across 4 apartments with 7×3 footprint |
+| [[buildings:houses:gtnewcottage|New Cottage]] | Ghost Town new cottage; houses up to 4 settlers with 6×5 footprint |
+| [[buildings:houses:gtnewhousea|New House A]] | Ghost Town new house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:gtnewhouseb|New House B]] | Ghost Town new house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:gtnewhousec|New House C]] | Ghost Town new house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:gtnewhoused|New House D]] | Ghost Town new house, alternate model; identical stats to New House A |
+| [[buildings:houses:gtnewmansion|Guest House]] | Ghost Town new boarding house; temporarily houses up to 4 settlers across 4 apartments with 8×3 footprint |
+| [[buildings:houses:gtnewrooms|New Rooms for Rent]] | Ghost Town new boarding house; temporarily houses up to 4 settlers across 4 apartments with 7×3 footprint |
+| [[buildings:houses:gtoldcottage|Old Cottage]] | Ghost Town renovated old cottage; houses up to 4 settlers with 6×5 footprint |
+| [[buildings:houses:gtoldhousea|Old House A]] | Ghost Town renovated old house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:gtoldhouseb|Old House B]] | Ghost Town renovated old house; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:gtoldhousec|Old House C]] | Ghost Town renovated old house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:gtoldhoused|Old House D]] | Ghost Town renovated old house, alternate model; identical stats to Old House A |
+| [[buildings:houses:gtoldmansion|Ghost House]] | Ghost Town renovated boarding house; temporarily houses up to 4 settlers across 4 apartments with 8×3 footprint |
+| [[buildings:houses:gtoldrooms|Old Rooms for Rent]] | Ghost Town renovated boarding house; temporarily houses up to 4 settlers across 4 apartments with 7×3 footprint |
+| [[buildings:houses:gtshousea|House A (Ghost Town Houses)]] | Ghost Town Houses house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:gtshouseb|House B (Ghost Town Houses)]] | Ghost Town Houses house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:gtshousec|House C (Ghost Town Houses)]] | Ghost Town Houses house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:gtshoused|House D (Ghost Town Houses)]] | Ghost Town Houses house, alternate model; identical stats to House A (Ghost Town Houses) |
+| [[buildings:houses:gtsrooms|Rooms for Rent (Ghost Town Houses)]] | Ghost Town Houses boarding house; temporarily houses up to 4 settlers across 4 apartments with 7×3 footprint |
+| [[buildings:houses:happyhaven|Happy Haven]] | KID Mod happy haven house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:heianmachiya|Heian Machiya]] | Angainor88 Japanese heian machiya; houses up to 4 settlers with 5×5 footprint |
+| [[buildings:houses:hghouse00|Home Grown Hostel]] | Home Grown hostel; temporarily houses up to 4 settlers across 5 apartments with 7×6 footprint |
+| [[buildings:houses:hghouse01|Home Grown House 01]] | Home Grown house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:hghouse02|Home Grown House 02]] | Home Grown house; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:hghouse03|Home Grown House 03]] | Home Grown house, alternate model; identical stats to Home Grown House 02 |
+| [[buildings:houses:hghouse04|Home Grown House 04]] | Home Grown house, alternate model; identical stats to Home Grown House 02 |
+| [[buildings:houses:hghouse05|Home Grown House 05]] | Home Grown house; houses up to 4 settlers with 6×2 footprint |
+| [[buildings:houses:hghouse06|Home Grown House 06]] | Home Grown house, alternate model; identical stats to Home Grown House 05 |
+| [[buildings:houses:hghouse07|Home Grown House 07]] | Home Grown house, alternate model; identical stats to Home Grown House 05 |
+| [[buildings:houses:hghouse10|Home Grown House 10]] | Home Grown house; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:hillsidehouseground|Hillside House Ground]] | Hillside Village house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:hillsidehousehi|Hillside House Hi]] | Hillside Village house; houses up to 5 settlers with 4×6 footprint |
+| [[buildings:houses:hillsidehouselarge|Hillside House Large]] | Hillside Village house; houses up to 7 settlers with 5×4 footprint |
+| [[buildings:houses:hillsidehouselow|Hillside House Low]] | Hillside Village house; houses up to 5 settlers with 4×5 footprint |
+| [[buildings:houses:hillsidehousemid|Hillside House Mid]] | Hillside Village house; houses up to 5 settlers with 4×6 footprint |
+| [[buildings:houses:hobbithomea|Hobbit Home A]] | KID Hobbit home; houses up to 3 settlers with 5×4 footprint |
+| [[buildings:houses:hobbithomeb|Hobbit Home B]] | KID Hobbit home; houses up to 4 settlers with 6×4 footprint |
+| [[buildings:houses:hobbithomec|Hobbit Home C]] | KID Hobbit home; houses up to 5 settlers with 7×4 footprint |
+| [[buildings:houses:hobbithomefa|Hobbit Home FA]] | KID Hobbit home, alternate model; identical stats to Hobbit Home A |
+| [[buildings:houses:hobbithomefb|Hobbit Home FB]] | KID Hobbit home, alternate model; identical stats to Hobbit Home B |
+| [[buildings:houses:hobbithomefc|Hobbit Home FC]] | KID Hobbit home, alternate model; identical stats to Hobbit Home C |
+| [[buildings:houses:honmunefarmhouse|Honmune Farmhouse]] | A8 Japanese Housing farmhouse; houses up to 6 settlers with 5×7 footprint |
+| [[buildings:houses:hostel|Hostel (Colonial Charter)]] | Colonial Charter hostel; temporarily houses up to 5 settlers across 5 apartments with 7×13 footprint |
+| [[buildings:houses:coachinginn|Coaching Inn]] | Colonial Charter hostel upgrade; houses up to 36 settlers across 6 apartments with 7×14 footprint |
+| [[buildings:houses:hostelf1c1t1|Hostel 1st floor]] | RedKetchup Editor's Choice corner hostel; temporarily houses up to 5 settlers across 3 apartments with 5×4 footprint |
+| [[buildings:houses:hostelf1c1t2|Hostel 1st floor (Old Stones)]] | RedKetchup Editor's Choice corner hostel 1st floor, alternate model; identical stats to Hostel 1st floor |
+| [[buildings:houses:hostelf1c1t3|Hostel 1st floor (Red Bricks)]] | RedKetchup Editor's Choice corner hostel 1st floor; temporarily houses up to 5 settlers across 3 apartments with 5×4 footprint |
+| [[buildings:houses:hostelf1c1t4|Hostel 1st floor (Sand Bricks)]] | RedKetchup Editor's Choice corner hostel 1st floor, alternate model; identical stats to Hostel 1st floor (Red Bricks) |
+| [[buildings:houses:hostelf1c1t5|Hostel 1st floor (Fire Bricks)]] | RedKetchup Editor's Choice corner hostel 1st floor; temporarily houses up to 5 settlers across 3 apartments with 5×4 footprint |
+| [[buildings:houses:hostelf1c1t6|Hostel 1st floor (Old Church Stones)]] | RedKetchup Editor's Choice corner hostel 1st floor; temporarily houses up to 5 settlers across 3 apartments with 5×4 footprint |
+| [[buildings:houses:hostelf1c1t7|Hostel 1st floor (Old Chapel Stones)]] | RedKetchup Editor's Choice corner hostel 1st floor, alternate model; identical stats to Hostel 1st floor (Old Church Stones) |
+| [[buildings:houses:hostelf1c1t8|Hostel 1st floor (Old Wood)]] | RedKetchup Editor's Choice corner hostel 1st floor; temporarily houses up to 5 settlers across 3 apartments with 5×4 footprint |
+| [[buildings:houses:hostelf2c1t1|Hostel 2nd floor]] | RedKetchup Editor's Choice corner hostel 2nd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf2c1t2|Hostel 2nd floor (Old Stones)]] | RedKetchup Editor's Choice corner hostel 2nd floor, alternate model; identical stats to Hostel 2nd floor |
+| [[buildings:houses:hostelf2c1t3|Hostel 2nd floor (Red Bricks)]] | RedKetchup Editor's Choice corner hostel 2nd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf2c1t4|Hostel 2nd floor (Sand Bricks)]] | RedKetchup Editor's Choice corner hostel 2nd floor, alternate model; identical stats to Hostel 2nd floor (Red Bricks) |
+| [[buildings:houses:hostelf2c1t5|Hostel 2nd floor (Fire Bricks)]] | RedKetchup Editor's Choice corner hostel 2nd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf2c1t6|Hostel 2nd floor (Old Church Stones)]] | RedKetchup Editor's Choice corner hostel 2nd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf2c1t7|Hostel 2nd floor (Old Chapel Stones)]] | RedKetchup Editor's Choice corner hostel 2nd floor, alternate model; identical stats to Hostel 2nd floor (Old Church Stones) |
+| [[buildings:houses:hostelf2c1t8|Hostel 2nd floor (Old Wood)]] | RedKetchup Editor's Choice corner hostel 2nd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf3c1t1|Hostel 3rd floor]] | RedKetchup Editor's Choice corner hostel 3rd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf3c1t2|Hostel 3rd floor (Old Stones)]] | RedKetchup Editor's Choice corner hostel 3rd floor, alternate model; identical stats to Hostel 3rd floor |
+| [[buildings:houses:hostelf3c1t3|Hostel 3rd floor (Red Bricks)]] | RedKetchup Editor's Choice corner hostel 3rd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf3c1t4|Hostel 3rd floor (Sand Bricks)]] | RedKetchup Editor's Choice corner hostel 3rd floor, alternate model; identical stats to Hostel 3rd floor (Red Bricks) |
+| [[buildings:houses:hostelf3c1t5|Hostel 3rd floor (Fire Bricks)]] | RedKetchup Editor's Choice corner hostel 3rd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf3c1t6|Hostel 3rd floor (Old Church Stones)]] | RedKetchup Editor's Choice corner hostel 3rd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:hostelf3c1t7|Hostel 3rd floor (Old Chapel Stones)]] | RedKetchup Editor's Choice corner hostel 3rd floor, alternate model; identical stats to Hostel 3rd floor (Old Church Stones) |
+| [[buildings:houses:hostelf3c1t8|Hostel 3rd floor (Old Wood)]] | RedKetchup Editor's Choice corner hostel 3rd floor; temporarily houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:ichijodanimachiya|Ichijodani Machiya]] | Angainor88 Japanese townhouse; houses up to 4 settlers with 3×6 footprint |
+| [[buildings:houses:iwateinn|Iwate Inn]] | Angainor88 Japanese Edo period inn; temporarily houses up to 5 settlers across 5 apartments with 4×7 footprint |
+| [[buildings:houses:japanesehouseextensionslarge|House Extension Large]] | Angainor88 Japanese house extension; houses up to 3 settlers with 4×1 footprint |
+| [[buildings:houses:japanesehouseextensionssmall|House Extension Small]] | Angainor88 Japanese house extension; houses up to 3 settlers with 3×1 footprint |
+| [[buildings:houses:jinxiebittyabode1|Bitty Abode]] | Jinxie's Bitty Housing Add-On abode; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:jinxiebittyabode2|Bitty Abode (2)]] | Jinxie's Bitty Housing Add-On abode, alternate model; identical stats to Bitty Abode |
+| [[buildings:houses:jinxiebittyabode3|Bitty Abode (3)]] | Jinxie's Bitty Housing Add-On abode, alternate model; identical stats to Bitty Abode |
+| [[buildings:houses:jinxiebittybungalow|Bitty Bungalow]] | Jinxie's Bitty Village Set bungalow; houses up to 6 settlers with 3×2 footprint |
+| [[buildings:houses:jinxiebittybungalow1|Bitty Bungalow (1)]] | Jinxie's Bitty Housing Add-On bungalow; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:jinxiebittybungalow2|Bitty Bungalow (2)]] | Jinxie's Bitty Housing Add-On bungalow, alternate model; identical stats to Bitty Bungalow (1) |
+| [[buildings:houses:jinxiebittybungalow3|Bitty Bungalow (3)]] | Jinxie's Bitty Housing Add-On bungalow, alternate model; identical stats to Bitty Bungalow (1) |
+| [[buildings:houses:jinxiebittycottage|Bitty Cottage]] | Jinxie's Bitty Village Set cottage; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:jinxiebittydwelling1|Bitty Dwelling]] | Jinxie's Bitty Housing Add-On dwelling; houses up to 6 settlers with 3×3 footprint |
+| [[buildings:houses:jinxiebittydwelling2|Bitty Dwelling (2)]] | Jinxie's Bitty Housing Add-On dwelling, alternate model; identical stats to Bitty Dwelling |
+| [[buildings:houses:jinxiebittydwelling3|Bitty Dwelling (3)]] | Jinxie's Bitty Housing Add-On dwelling, alternate model; identical stats to Bitty Dwelling |
+| [[buildings:houses:kfbirdiehouse|Birdie House]] | KID Farmyard decorative birdhouse; 0×0 footprint; free to place |
+| [[buildings:houses:kidhostelboat|Hostel Boat]] | KID House Boat hostel; temporarily houses up to 3 settlers across 4 apartments with 7×4 footprint |
+| [[buildings:houses:kidhouseboat|House Boat]] | KID House Boat; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:kidhouseboata|Angled House Boat]] | KID House Boat angled variant; houses up to 4 settlers with 4×4 footprint |
+| [[buildings:houses:kitakatahouse|Kitakata House]] | A8 Japanese-style house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:ksarhouse|Ksar House]] | A8 Moroccan-style house; houses up to 6 settlers with 6×4 footprint |
+| [[buildings:houses:ksartower|Ksar Tower]] | A8 Moroccan-style tower house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:kurashikihouse|Kurashiki House]] | A8 Japanese-style house; houses up to 6 settlers with 6×5 footprint |
+| [[buildings:houses:kyotofarmhouse|Kyoto Farmhouse]] | A8 Japanese-style farmhouse; houses up to 6 settlers with 6×6 footprint |
+| [[buildings:houses:lhhhouse|Last Homely House]] | KID Last Homely House; houses up to 7 settlers with 5×4 footprint |
+| [[buildings:houses:littlehouse01|Colorful Little House]] | RK Editor's Choice colorful little house; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:littlehouse01floor2|Colorful Little House 2F]] | RK Editor's Choice colorful little house, second-floor variant; houses up to 6 settlers with 1×4 footprint |
+| [[buildings:houses:logcabin|Log Cabin (Colonial Charter)]] | Colonial Charter log cabin; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:logcabin2|Large Log Cabin]] | Colonial Charter large log cabin; upgraded from Log Cabin; houses up to 7 settlers with 4×5 footprint |
+| [[buildings:houses:longhouse|Native Longhouse (Buildable)]] | Colonial Charter native longhouse placeholder; 4×10 footprint; upgrades to Native Longhouse (House) or Native Longhouse Storage |
+| [[buildings:houses:longhousehouse|Native Longhouse]] | Colonial Charter native longhouse boarding house; gift from natives on Frontier maps; temporarily houses up to 6 settlers across 5 apartments with 4×10 footprint |
+| [[buildings:houses:magariyafarmhouse|Magariya Farmhouse]] | A8 Japanese-style farmhouse; houses up to 6 settlers with 8×7 footprint |
+| [[buildings:houses:manor1|Large Residence]] | Colonial Charter large residence; houses up to 6 settlers with 8×6 footprint |
+| [[buildings:houses:manor2|Manor]] | Colonial Charter manor; upgraded from Large Residence; houses up to 7 settlers with 8×7 footprint |
+| [[buildings:houses:manor3|Mansion]] | Colonial Charter mansion; upgraded from Large Residence or Manor; houses up to 8 settlers with 8×7 footprint |
+| [[buildings:houses:manor4|Estate]] | Colonial Charter estate; upgraded from Large Residence, Manor, or Mansion; houses up to 8 settlers with 8×7 footprint |
+| [[buildings:houses:maritimeslogcabin|Log Cabin (Maritimes)]] | Necora Maritimes log cabin; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:maritimeslogcabindiag|Diagonal Log Cabin]] | Necora Maritimes diagonal log cabin; houses up to 5 settlers with 2×1 footprint |
+| [[buildings:houses:mcdwelling|Dwelling Cave]] | KID More Caves dwelling; free to place; houses up to 4 settlers with 3×4 footprint; Gray/Brown cosmetic variants |
+| [[buildings:houses:mcshelter|Shelter Cave]] | KID More Caves shelter for 4 families; free to place; houses up to 16 settlers with 3×4 footprint; Gray/Brown cosmetic variants |
+| [[buildings:houses:mdwoodcottage|Wood Cottage]] | MD wood cottage; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:mellahhouse|Mellah House]] | A8 Moroccan-style Mellah house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:mf1blue|Blue 1st Floor]] | KID Mexican Fantasy blue first-floor house; alternate model of Red 1st Floor; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:mf1green|Green 1st Floor]] | KID Mexican Fantasy green first-floor house; alternate model of Red 1st Floor; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:mf1red|Red 1st Floor]] | KID Mexican Fantasy red first-floor house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:mf1yellow|Yellow 1st Floor]] | KID Mexican Fantasy yellow first-floor house; alternate model of Red 1st Floor; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:mf2blue|Blue 2nd Floor]] | KID Mexican Fantasy blue second-floor house; alternate model of Red 2nd Floor; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:mf2green|Green 2nd Floor]] | KID Mexican Fantasy green second-floor house; alternate model of Red 2nd Floor; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:mf2red|Red 2nd Floor]] | KID Mexican Fantasy red second-floor house; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:mf2yellow|Yellow 2nd Floor]] | KID Mexican Fantasy yellow second-floor house; alternate model of Red 2nd Floor; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:mf3blue|Blue 3rd Floor]] | KID Mexican Fantasy blue third-floor house; alternate model of Red 3rd Floor; houses up to 4 settlers with 1×4 footprint |
+| [[buildings:houses:mf3green|Green 3rd Floor]] | KID Mexican Fantasy green third-floor house; alternate model of Red 3rd Floor; houses up to 4 settlers with 1×4 footprint |
+| [[buildings:houses:mf3red|Red 3rd Floor]] | KID Mexican Fantasy red third-floor house; houses up to 4 settlers with 1×4 footprint |
+| [[buildings:houses:mf3yellow|Yellow 3rd Floor]] | KID Mexican Fantasy yellow third-floor house; alternate model of Red 3rd Floor; houses up to 4 settlers with 1×4 footprint |
+| [[buildings:houses:mfhhouse|Haven House (More Havens)]] | KID More Havens house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:mfhhousehi|Haven House High (More Havens)]] | KID More Havens high house; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:mfhhouselo|Haven House Low (More Havens)]] | KID More Havens low house; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:mfhtopperfour|More Topper Four]] | KID More Havens topper house; alternate model of More Topper One; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mfhtopperone|More Topper One]] | KID More Havens topper house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mfhtopperthree|More Topper Three]] | KID More Havens topper house; alternate model of More Topper One; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mfhtoppertwo|More Topper Two]] | KID More Havens topper house; alternate model of More Topper One; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mfsiestatent|Siesta Tent]] | KID Mexican Fantasy siesta tent; houses up to 1 settler with 2×2 footprint |
+| [[buildings:houses:mghouse01|MG House 01]] | Medieval Grace house; houses up to 7 settlers with 5×4 footprint |
+| [[buildings:houses:mghouse02|MG House 02]] | Medieval Grace house, alternate model; identical stats to MG House 01 |
+| [[buildings:houses:mgzalone|MGZ Alone]] | Kid MGZ House Alone monk's cabin; houses up to 1 settler with 3×3 footprint |
+| [[buildings:houses:mgzcottage|MGZ Cottage]] | Kid MGZ House Alone cottage; houses up to 3 settlers with 4×4 footprint |
+| [[buildings:houses:mgzhouse|MG Zero House]] | Medieval Grace house; houses up to 1 settler with 3×2 footprint |
+| [[buildings:houses:mhdhostel|Hostel (More Houses Dark)]] | More Houses Dark hostel; temporarily houses up to 4 settlers across 4 apartments with 8×4 footprint |
+| [[buildings:houses:mhhostel|Hostel (More Houses)]] | More Houses hostel; temporarily houses up to 4 settlers across 4 apartments with 8×4 footprint |
+| [[buildings:houses:mhshostel|Hostel (More Houses Stone)]] | More Houses Stone hostel; temporarily houses up to 4 settlers across 4 apartments with 8×4 footprint |
+| [[buildings:houses:mhsprettyhouse01|Pretty House 1 (More Houses Stone)]] | More Houses Stone house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:mhsprettyhouse02|Pretty House 2 (More Houses Stone)]] | More Houses Stone house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:mhsprettyhouse03|Pretty House 3 (More Houses Stone)]] | More Houses Stone house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:mhsrowhouse01|Row House 1 (More Houses Stone)]] | More Houses Stone house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:mhsrowhouse02|Row House 2 (More Houses Stone)]] | More Houses Stone house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:mhssnughouse01|Snug House 1 (More Houses Stone)]] | More Houses Stone house; houses up to 4 settlers with 6×3 footprint |
+| [[buildings:houses:mhssnughouse02|Snug House 2 (More Houses Stone)]] | More Houses Stone house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mhssnughouse03|Snug House 3 (More Houses Stone)]] | More Houses Stone house; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:mhssnughouse04|Snug House 4 (More Houses Stone)]] | More Houses Stone house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mhsspacioushouse01|Spacious House 1 (More Houses Stone)]] | More Houses Stone house; houses up to 7 settlers with 5×4 footprint |
+| [[buildings:houses:mhsspacioushouse02|Spacious House 2 (More Houses Stone)]] | More Houses Stone house; houses up to 7 settlers with 6×5 footprint |
+| [[buildings:houses:mhwhostel|Hostel (More Houses Wood)]] | More Houses Wood hostel; temporarily houses up to 4 settlers across 4 apartments with 8×4 footprint |
+| [[buildings:houses:mhwprettyhouse01|Pretty House 1 (More Houses Wood)]] | More Houses Wood house; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:mhwprettyhouse02|Pretty House 2 (More Houses Wood)]] | More Houses Wood house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:mhwprettyhouse03|Pretty House 3 (More Houses Wood)]] | More Houses Wood house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:mhwrowhouse01|Row House 1 (More Houses Wood)]] | More Houses Wood house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:mhwrowhouse02|Row House 2 (More Houses Wood)]] | More Houses Wood house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:mhwsnughouse01|Snug House 1 (More Houses Wood)]] | More Houses Wood house; houses up to 4 settlers with 6×3 footprint |
+| [[buildings:houses:mhwsnughouse02|Snug House 2 (More Houses Wood)]] | More Houses Wood house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mhwsnughouse03|Snug House 3 (More Houses Wood)]] | More Houses Wood house; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:mhwsnughouse04|Snug House 4 (More Houses Wood)]] | More Houses Wood house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:mhwspacioushouse01|Spacious House 1 (More Houses Wood)]] | More Houses Wood house; houses up to 7 settlers with 5×4 footprint |
+| [[buildings:houses:mhwspacioushouse02|Spacious House 2 (More Houses Wood)]] | More Houses Wood house; houses up to 7 settlers with 6×5 footprint |
+| [[buildings:houses:milbarracks|Barracks]] | CC Frontier barracks; temporarily houses up to 5 settlers across 6 apartments with 9×4 footprint |
+| [[buildings:houses:minihouse|Mini House]] | Mini Buildings house; houses up to 3 settlers with 2×1 footprint |
+| [[buildings:houses:moroccanriad|Moroccan Riad]] | Angainor88 Moroccan riad; temporarily houses up to 5 settlers across 5 apartments with 9×10 footprint |
+| [[buildings:houses:mountainmansion|Mountain Mansion]] | KID Mountain Mansion; houses up to 7 settlers with 7×4 footprint |
+| [[buildings:houses:mountainmansionx|MM No Fence]] | KID Mountain Mansion no-fence variant; alternate model of Mountain Mansion; houses up to 7 settlers with 7×4 footprint |
+| [[buildings:houses:muratahouse|Murata House]] | Angainor88 Japanese-style merchant quarter house; houses up to 4 settlers with 3×5 footprint |
+| [[buildings:houses:nagayamachiya|Nagaya Rowhouse]] | Angainor88 Japanese-style nagaya rowhouse; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:narrowt0|Humble Rowhouse 0]] | Narrow Row Houses starter rowhouse; houses up to 3 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt1a|Narrow Abode 1A]] | Narrow Row Houses narrow abode; houses up to 4 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt1b|Narrow Abode 1B]] | Narrow Row Houses narrow abode, alternate model; identical stats to Narrow Abode 1A |
+| [[buildings:houses:narrowt2a|Narrow Abode 2A]] | Narrow Row Houses narrow abode; houses up to 5 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt2b|Narrow Abode 2B]] | Narrow Row Houses narrow abode, alternate model; identical stats to Narrow Abode 2A |
+| [[buildings:houses:narrowt3a|Narrow Townhouse 3A]] | Narrow Row Houses narrow townhouse; houses up to 5 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt3b|Narrow Townhouse 3B]] | Narrow Row Houses narrow townhouse, alternate model; identical stats to Narrow Townhouse 3A |
+| [[buildings:houses:narrowt4a|Narrow Townhouse 4A]] | Narrow Row Houses narrow townhouse; houses up to 6 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt4b|Narrow Townhouse 4B]] | Narrow Row Houses narrow townhouse, alternate model; identical stats to Narrow Townhouse 4A |
+| [[buildings:houses:narrowt5a|Soaring Rowhouse 5A]] | Narrow Row Houses soaring rowhouse; houses up to 7 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt5b|Soaring Rowhouse 5B]] | Narrow Row Houses soaring rowhouse, alternate model; identical stats to Soaring Rowhouse 5A |
+| [[buildings:houses:narrowt6a|Soaring Rowhouse 6A]] | Narrow Row Houses soaring rowhouse; houses up to 8 settlers with 2×4 footprint |
+| [[buildings:houses:narrowt6b|Soaring Rowhouse 6B]] | Narrow Row Houses soaring rowhouse, alternate model; identical stats to Soaring Rowhouse 6A |
+| [[buildings:houses:ndebelehouse|Ndebele House]] | Angainor88 South African-style Ndebele house; houses up to 5 settlers with 5×5 footprint |
+| [[buildings:houses:ne1x2leanto|Small Lean-To (Early)]] | New England early-style lean-to; houses up to 4 settlers with 2×1 footprint |
+| [[buildings:houses:ne1x2leantog|Small Lean-To (Georgian)]] | New England Georgian-style lean-to; houses up to 4 settlers with 2×1 footprint |
+| [[buildings:houses:ne1x3leanto|Medium Lean-To (Early)]] | New England early-style lean-to; houses up to 4 settlers with 3×1 footprint |
+| [[buildings:houses:ne1x3leantog|Medium Lean-To (Georgian)]] | New England Georgian-style lean-to; houses up to 4 settlers with 3×1 footprint |
+| [[buildings:houses:ne1x4leanto|Large Lean-To (Early)]] | New England early-style lean-to; houses up to 4 settlers with 4×1 footprint |
+| [[buildings:houses:ne1x4leantog|Large Lean-To (Georgian)]] | New England Georgian-style lean-to; houses up to 4 settlers with 4×1 footprint |
+| [[buildings:houses:ne4x2bowershouse|Bowers House]] | New England Colonial Georgian house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:ne4x2cape|Cape House]] | New England Colonial house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:ne4x2capecottage|Cape Cottage]] | New England Colonial house, alternate model; identical stats to Cape House |
+| [[buildings:houses:ne4x2coxhouse|Cox House]] | New England Colonial Georgian house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:ne4x2goodspeedhouse|Goodspeed House]] | New England Early house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:ne4x2halfcape|Half Cape]] | New England Colonial house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:ne4x3aldenhouse|Alden House]] | New England Colonial Georgian house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3barnumhouse|Barnum House]] | New England Colonial Georgian house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3blakehouse|Blake House]] | New England Early house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3doublecape|Double Cape]] | New England Colonial house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3hoxiehouse|Hoxie House]] | New England Early house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3smallcolonial1|Small Colonial 1]] | New England Colonial house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3smallcolonial2|Small Colonial 2]] | New England Colonial house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne4x3smithhouse|Smith House]] | New England Colonial Georgian house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:ne5x3garrisonhouse|Garrison House]] | New England Colonial house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:ne5x3georgian|Georgian House]] | New England Colonial house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:ne5x3gilmanhouse|Gilman House]] | New England Early house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:ne5x3largecolonial|Large Colonial]] | New England Colonial house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:ne5x3masonhouse|Mason House]] | New England Colonial Georgian house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:ne5x3noyeshouse|Noyes House]] | New England Colonial Georgian house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:newhovel|New Hovel]] | KID Old Hovels residence; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:newmedievalbrickhouse1f|Medieval 1st Floor Brick Residence]] | New Medieval Town brick house; NoToolbar; houses up to 6 settlers with 4×5 footprint |
+| [[buildings:houses:newmedievalbrickhouse1fb|Medieval 1st Floor Brick Residence]] | New Medieval Town brick house, alternate model; NoToolbar; identical stats to Medieval 1st Floor Brick Residence |
+| [[buildings:houses:newmedievalbrickhouse1fc|Medieval 1st Floor Brick Residence]] | New Medieval Town brick house, alternate model; NoToolbar; identical stats to Medieval 1st Floor Brick Residence |
+| [[buildings:houses:newmedievalhostel1f|Medieval 1st Floor Hostel]] | New Medieval Town hostel; houses up to 5 settlers across 3 apartments with 6×5 footprint |
+| [[buildings:houses:newmedievalhostel2f|Medieval 2nd Floor Hostel]] | New Medieval Town hostel; houses up to 5 settlers across 3 apartments with 1×5 footprint |
+| [[buildings:houses:newmedievalhostel3f|Medieval 3rd Floor Hostel]] | New Medieval Town hostel; houses up to 5 settlers across 3 apartments with 1×6 footprint |
+| [[buildings:houses:newmedievalhouse1f|Medieval 1st Floor Residence]] | New Medieval Town house; houses up to 6 settlers with 4×5 footprint; upgrades to Medieval 1st Floor Brick Residence |
+| [[buildings:houses:newmedievalbrickhouse1f|Medieval 1st Floor Brick Residence]] | New Medieval Town upgraded brick house; houses up to 6 settlers with 4×6 footprint; upgraded from Medieval 1st Floor Residence |
+| [[buildings:houses:newmedievalbrickhouse1fb|Medieval 1st Floor Brick Residence (B)]] | Alternate model of Medieval 1st Floor Brick Residence; identical stats |
+| [[buildings:houses:newmedievalbrickhouse1fc|Medieval 1st Floor Brick Residence (C)]] | Alternate model of Medieval 1st Floor Brick Residence; identical stats |
+| [[buildings:houses:newmedievalhouse2f|Medieval 2nd Floor Residence]] | New Medieval Town house; placed on top of 1st floor; houses up to 6 settlers with 1×5 footprint |
+| [[buildings:houses:newmedievalhouse3f|Medieval 3rd Floor Residence]] | New Medieval Town house; placed on top of 2nd floor; houses up to 6 settlers with 1×5 footprint |
+| [[buildings:houses:newmedievalthouse1f|Medieval 1st Floor Residence (T)]] | New Medieval Town T-shaped house; houses up to 5 settlers with 4×5 footprint |
+| [[buildings:houses:nmt30rowhouse1color1all|NMT Row House (Color 1)]] | RK Editor's Choice NMT row house; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:nmt30rowhouse1color2all|NMT Row House (Color 2)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color3all|NMT Row House (Color 3)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color4all|NMT Row House (Color 4)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color5all|NMT Row House (Color 5)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color6all|NMT Row House (Color 6)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color7all|NMT Row House (Color 7)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color8all|NMT Row House (Color 8)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color9all|NMT Row House (Color 9)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color10all|NMT Row House (Color 10)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color11all|NMT Row House (Color 11)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse1color12all|NMT Row House (Color 12)]] | RK Editor's Choice NMT row house, alternate color; identical stats to NMT Row House (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color1all|NMT Row House 2 (Color 1)]] | RK Editor's Choice NMT row house, wider variant; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:nmt30rowhouse2color2all|NMT Row House 2 (Color 2)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color3all|NMT Row House 2 (Color 3)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color4all|NMT Row House 2 (Color 4)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color5all|NMT Row House 2 (Color 5)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color6all|NMT Row House 2 (Color 6)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color7all|NMT Row House 2 (Color 7)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color8all|NMT Row House 2 (Color 8)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color9all|NMT Row House 2 (Color 9)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color10all|NMT Row House 2 (Color 10)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color11all|NMT Row House 2 (Color 11)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse2color12all|NMT Row House 2 (Color 12)]] | RK Editor's Choice NMT row house 2, alternate color; identical stats to NMT Row House 2 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color1all|NMT Row House 3 (Color 1)]] | RK Editor's Choice NMT row house, widest variant; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:nmt30rowhouse3color2all|NMT Row House 3 (Color 2)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color3all|NMT Row House 3 (Color 3)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color4all|NMT Row House 3 (Color 4)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color5all|NMT Row House 3 (Color 5)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color6all|NMT Row House 3 (Color 6)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color7all|NMT Row House 3 (Color 7)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color8all|NMT Row House 3 (Color 8)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color9all|NMT Row House 3 (Color 9)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color10all|NMT Row House 3 (Color 10)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color11all|NMT Row House 3 (Color 11)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse3color12all|NMT Row House 3 (Color 12)]] | RK Editor's Choice NMT row house 3, alternate color; identical stats to NMT Row House 3 (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color1all|Retirement RowHouse (Color 1)]] | RK Editor's Choice NMT retirement row house; houses up to 2 settlers with 1×3 footprint |
+| [[buildings:houses:nmt30rowhouse4color2all|Retirement RowHouse (Color 2)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color3all|Retirement RowHouse (Color 3)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color4all|Retirement RowHouse (Color 4)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color5all|Retirement RowHouse (Color 5)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color6all|Retirement RowHouse (Color 6)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color7all|Retirement RowHouse (Color 7)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color8all|Retirement RowHouse (Color 8)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color9all|Retirement RowHouse (Color 9)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color10all|Retirement RowHouse (Color 10)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color11all|Retirement RowHouse (Color 11)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse4color12all|Retirement RowHouse (Color 12)]] | RK Editor's Choice retirement row house, alternate color; identical stats to Retirement RowHouse (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color1all|NMT Row House 5 (Color 1)]] | RK Editor's Choice NMT row house variant; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:nmt30rowhouse5color2all|NMT Row House 5 (Color 2)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color3all|NMT Row House 5 (Color 3)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color4all|NMT Row House 5 (Color 4)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color5all|NMT Row House 5 (Color 5)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color6all|NMT Row House 5 (Color 6)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color7all|NMT Row House 5 (Color 7)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color8all|NMT Row House 5 (Color 8)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color9all|NMT Row House 5 (Color 9)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color10all|NMT Row House 5 (Color 10)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color11all|NMT Row House 5 (Color 11)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt30rowhouse5color12all|NMT Row House 5 (Color 12)]] | RK Editor's Choice NMT row house 5, alternate color; identical stats to NMT Row House 5 (Color 1) |
+| [[buildings:houses:nmt3f1c1t1|MultiStory 1st Floor Corner (Texture 1)]] | RK Editor's Choice NMT multi-story corner residence; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:nmt3f1c1t2|MultiStory 1st Floor Corner (Texture 2)]] | RK Editor's Choice NMT multi-story corner residence, alternate texture; identical stats to Texture 1 |
+| [[buildings:houses:nmt3f1c1t3|MultiStory 1st Floor Corner (Texture 3)]] | RK Editor's Choice NMT multi-story corner residence, Red Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1c1t4|MultiStory 1st Floor Corner (Texture 4)]] | RK Editor's Choice NMT multi-story corner residence, alternate texture; identical stats to Texture 3 |
+| [[buildings:houses:nmt3f1c1t5|MultiStory 1st Floor Corner (Texture 5)]] | RK Editor's Choice NMT multi-story corner residence, Fire Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1c1t6|MultiStory 1st Floor Corner (Texture 6)]] | RK Editor's Choice NMT multi-story corner residence, Old Church Stones variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1c1t7|MultiStory 1st Floor Corner (Texture 7)]] | RK Editor's Choice NMT multi-story corner residence, alternate texture; identical stats to Texture 6 |
+| [[buildings:houses:nmt3f1c1t8|MultiStory 1st Floor Corner (Texture 8)]] | RK Editor's Choice NMT multi-story corner residence, Old Wood variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1t1|MultiStory 1st Floor (Texture 1)]] | RK Editor's Choice NMT multi-story residence; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:nmt3f1t2|MultiStory 1st Floor (Texture 2)]] | RK Editor's Choice NMT multi-story residence, alternate texture; identical stats to Texture 1 |
+| [[buildings:houses:nmt3f1t3|MultiStory 1st Floor (Texture 3)]] | RK Editor's Choice NMT multi-story residence, Red Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1t4|MultiStory 1st Floor (Texture 4)]] | RK Editor's Choice NMT multi-story residence, alternate texture; identical stats to Texture 3 |
+| [[buildings:houses:nmt3f1t5|MultiStory 1st Floor (Texture 5)]] | RK Editor's Choice NMT multi-story residence, Fire Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1t6|MultiStory 1st Floor (Texture 6)]] | RK Editor's Choice NMT multi-story residence, Old Church Stones variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f1t7|MultiStory 1st Floor (Texture 7)]] | RK Editor's Choice NMT multi-story residence, alternate texture; identical stats to Texture 6 |
+| [[buildings:houses:nmt3f1t8|MultiStory 1st Floor (Texture 8)]] | RK Editor's Choice NMT multi-story residence, Old Wood variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2c1t1|MultiStory 2nd Floor Corner (Texture 1)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:nmt3f2c1t2|MultiStory 2nd Floor Corner (Texture 2)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, alternate texture; identical stats to Texture 1 |
+| [[buildings:houses:nmt3f2c1t3|MultiStory 2nd Floor Corner (Texture 3)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, Red Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2c1t4|MultiStory 2nd Floor Corner (Texture 4)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, alternate texture; identical stats to Texture 3 |
+| [[buildings:houses:nmt3f2c1t5|MultiStory 2nd Floor Corner (Texture 5)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, Fire Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2c1t6|MultiStory 2nd Floor Corner (Texture 6)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, Old Church Stones variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2c1t7|MultiStory 2nd Floor Corner (Texture 7)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, alternate texture; identical stats to Texture 6 |
+| [[buildings:houses:nmt3f2c1t8|MultiStory 2nd Floor Corner (Texture 8)]] | RK Editor's Choice NMT multi-story corner residence, 2nd floor, Old Wood variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2t1|MultiStory 2nd Floor (Texture 1)]] | RK Editor's Choice NMT multi-story residence, 2nd floor; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:nmt3f2t2|MultiStory 2nd Floor (Texture 2)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, alternate texture; identical stats to Texture 1 |
+| [[buildings:houses:nmt3f2t3|MultiStory 2nd Floor (Texture 3)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, Red Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2t4|MultiStory 2nd Floor (Texture 4)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, alternate texture; identical stats to Texture 3 |
+| [[buildings:houses:nmt3f2t5|MultiStory 2nd Floor (Texture 5)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, Fire Bricks variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2t6|MultiStory 2nd Floor (Texture 6)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, Old Church Stones variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f2t7|MultiStory 2nd Floor (Texture 7)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, alternate texture; identical stats to Texture 6 |
+| [[buildings:houses:nmt3f2t8|MultiStory 2nd Floor (Texture 8)]] | RK Editor's Choice NMT multi-story residence, 2nd floor, Old Wood variant; houses up to 5 settlers |
+| [[buildings:houses:nmt3f3c1t1|MultiStory 3rd Floor Corner (Texture 1)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor; houses up to 6 settlers with 1×4 footprint |
+| [[buildings:houses:nmt3f3c1t2|MultiStory 3rd Floor Corner (Texture 2)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, alternate texture; identical stats to Texture 1 |
+| [[buildings:houses:nmt3f3c1t3|MultiStory 3rd Floor Corner (Texture 3)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, Red Bricks variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3c1t4|MultiStory 3rd Floor Corner (Texture 4)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, alternate texture; identical stats to Texture 3 |
+| [[buildings:houses:nmt3f3c1t5|MultiStory 3rd Floor Corner (Texture 5)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, Fire Bricks variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3c1t6|MultiStory 3rd Floor Corner (Texture 6)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, Old Church Stones variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3c1t7|MultiStory 3rd Floor Corner (Texture 7)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, alternate texture; identical stats to Texture 6 |
+| [[buildings:houses:nmt3f3c1t8|MultiStory 3rd Floor Corner (Texture 8)]] | RK Editor's Choice NMT multi-story corner residence, 3rd floor, Old Wood variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3t1|MultiStory 3rd Floor (Texture 1)]] | RK Editor's Choice NMT multi-story residence, 3rd floor; houses up to 6 settlers with 1×4 footprint |
+| [[buildings:houses:nmt3f3t2|MultiStory 3rd Floor (Texture 2)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, alternate texture; identical stats to Texture 1 |
+| [[buildings:houses:nmt3f3t3|MultiStory 3rd Floor (Texture 3)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, Red Bricks variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3t4|MultiStory 3rd Floor (Texture 4)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, alternate texture; identical stats to Texture 3 |
+| [[buildings:houses:nmt3f3t5|MultiStory 3rd Floor (Texture 5)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, Fire Bricks variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3t6|MultiStory 3rd Floor (Texture 6)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, Old Church Stones variant; houses up to 6 settlers |
+| [[buildings:houses:nmt3f3t7|MultiStory 3rd Floor (Texture 7)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, alternate texture; identical stats to Texture 6 |
+| [[buildings:houses:nmt3f3t8|MultiStory 3rd Floor (Texture 8)]] | RK Editor's Choice NMT multi-story residence, 3rd floor, Old Wood variant; houses up to 6 settlers |
+| [[buildings:houses:nmtcornerhousem1f1|Medieval Corner 1st Floor Residence]] | New Medieval Town corner residence; houses up to 6 settlers with 6×5 footprint |
+| [[buildings:houses:nmtcornerhousem1f2|Medieval Corner 2nd Floor Residence]] | New Medieval Town corner residence; houses up to 6 settlers with 1×5 footprint |
+| [[buildings:houses:nmtcornerhousem1f3|Medieval Corner 3rd Floor Residence]] | New Medieval Town corner residence; houses up to 6 settlers with 1×5 footprint |
+| [[buildings:houses:nmtcornerhousem2f1|Medieval Corner 1st Floor Residence (2)]] | New Medieval Town corner residence, alternate model; identical stats to Medieval Corner 1st Floor Residence |
+| [[buildings:houses:nmtcornerhousem2f2|Medieval Corner 2nd Floor Residence (2)]] | New Medieval Town corner residence, alternate model; identical stats to Medieval Corner 2nd Floor Residence |
+| [[buildings:houses:nmtcornerhousem2f3|Medieval Corner 3rd Floor Residence (2)]] | New Medieval Town corner residence, alternate model; identical stats to Medieval Corner 3rd Floor Residence |
+| [[buildings:houses:nmtlh1all|NMT Little House]] | RK Editor's Choice NMT small residence; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:nmtlh2all|NMT Little House (2)]] | RK Editor's Choice NMT small residence, alternate model; identical stats to NMT Little House |
+| [[buildings:houses:nmtlh2color1all|NMT Little House (Color 1)]] | RK Editor's Choice NMT small residence color variant; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:nmtlh3all|NMT Little House (3)]] | RK Editor's Choice NMT small residence, brick variant; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:nmtlh4all|NMT Little House (4)]] | RK Editor's Choice NMT small residence, alternate model; identical stats to NMT Little House (3) |
+| [[buildings:houses:nmtlh5all|NMT Little House (5)]] | RK Editor's Choice NMT small residence, alternate model; identical stats to NMT Little House (3) |
+| [[buildings:houses:nmtlh6all|NMT Little House (6)]] | RK Editor's Choice NMT small residence, alternate model; identical stats to NMT Little House |
+| [[buildings:houses:nmtlh7all|NMT Little House (7)]] | RK Editor's Choice NMT small residence, alternate model; identical stats to NMT Little House (6) |
+| [[buildings:houses:nmtlh8all|NMT Little House (8)]] | RK Editor's Choice NMT small residence; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:nordichousesc|Christmas Houses]] | Nordic Houses snow-roofed variant; houses up to 5 settlers with 4×5 footprint |
+| [[buildings:houses:nordichouses|Nordic Houses]] | Nordic-style residence; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:nvlonghouse|Longhouse]] | KID Native Village longhouse; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:nvteepeea|Teepee Angled]] | KID Native Village teepee, alternate model; identical stats to Teepee |
+| [[buildings:houses:nvteepees|Teepee]] | KID Native Village teepee; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:officerhouse|Officer Townhouse]] | Colonial Charter officer townhouse; houses up to 6 settlers with 3×4 footprint |
+| [[buildings:houses:okinawahouse|Okinawa House]] | Angainor88 Okinawa-style residence; houses up to 6 settlers with 8×10 footprint |
+| [[buildings:houses:oldhovel|Old Hovel]] | KID Old Hovels residence; houses up to 4 settlers with 4×2 footprint |
+| [[buildings:houses:oldhovelbridge|Old Bridge]] | KID Old Hovels decorative bridge piece; 3 work, 1 Wood; free-form placement |
+| [[buildings:houses:oldhovelfence|Old Fence]] | KID Old Hovels decorative ghost fence; 0×0 footprint; free to place |
+| [[buildings:houses:oldhovelvacanta|Old Hovel Vacant]] | KID Old Hovels residence; houses up to 4 settlers across 2 apartments with 5×4 footprint |
+| [[buildings:houses:oldtailorhouseresidence|Old Tailor Residence]] | Old Tailor House residence; houses up to 5 settlers with 1×5 footprint |
+| [[buildings:houses:ootwcanopyhouse1|Canopy House 1]] | KID Out Of This World canopy-style residence; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:ootwcanopyhouse2|Canopy House 2]] | KID Out Of This World canopy-style residence; houses up to 5 settlers with 3×2 footprint |
+| [[buildings:houses:ootwcanopyhouse3|Canopy House 3]] | KID Out Of This World canopy-style residence; houses up to 6 settlers with 3×2 footprint |
+| [[buildings:houses:ootwconnecthousel|Large House (Out Of This World)]] | KID Out Of This World residence; houses up to 6 settlers with 5×4 footprint |
+| [[buildings:houses:ootwconnecthouses|Small House (Out Of This World)]] | KID Out Of This World residence; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:ootwdomehouse1|Dome House 1]] | KID Out Of This World dome-style residence; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:ootwdomehouse2|Dome House 2]] | KID Out Of This World dome-style residence; houses up to 5 settlers with 3×2 footprint |
+| [[buildings:houses:ootwdomehouse3|Dome House 3]] | KID Out Of This World dome-style residence; houses up to 6 settlers with 3×2 footprint |
+| [[buildings:houses:ootwpod|Survival Pod]] | KID Out Of This World survival pod; houses up to 2 settlers with 3×2 footprint; requires no building materials |
+| [[buildings:houses:otcabin1|Cabin 1 (Old Town)]] | Old Town stackable cabin, 1st floor; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:otcabin1roof|Cabin 1 Roofed]] | Old Town stackable cabin, 1st floor with roof, alternate model; identical stats to Cabin 1 (Old Town) |
+| [[buildings:houses:otcabin2|Cabin 2 (Old Town)]] | Old Town stackable cabin, 2nd floor; houses up to 3 settlers with 1×2 footprint |
+| [[buildings:houses:otcabin2roof|Cabin 2 Roofed]] | Old Town stackable cabin, alternate model; identical stats to Cabin 2 (Old Town) |
+| [[buildings:houses:otcabin3roof|Cabin 3 Roofed]] | Old Town stackable cabin, alternate model; identical stats to Cabin 2 (Old Town) |
+| [[buildings:houses:othostel|Boarding House (Old Town)]] | Old Town boarding house; temporarily houses up to 4 settlers across 4 apartments with 7×5 footprint |
+| [[buildings:houses:otphousea|House A (Old Town Port)]] | Old Town Port house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:otphouseb|House B (Old Town Port)]] | Old Town Port house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:otphousec|House C (Old Town Port)]] | Old Town Port house, alternate model; identical stats to House B (Old Town Port) |
+| [[buildings:houses:otphoused|House D (Old Town Port)]] | Old Town Port house, alternate model; identical stats to House B (Old Town Port) |
+| [[buildings:houses:otpmansion|Mansion (Old Town Port)]] | Old Town Port mansion; houses up to 6 settlers with 7×4 footprint |
+| [[buildings:houses:otpmansiondark|Dark Mansion (Old Town Port)]] | Old Town Port mansion, alternate model; identical stats to Mansion (Old Town Port) |
+| [[buildings:houses:otshack|Old Shack (Old Town)]] | Old Town shack; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:otshacks|Old Stone Shack]] | Old Town stone shack; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:otstonehostel|Boarding House (Stone)]] | Old Town stone boarding house; temporarily houses up to 4 settlers across 4 apartments with 7×5 footprint |
+| [[buildings:houses:outhouse|Privy]] | Colonial Charter decorative privy; 10 work, 4 Wood; 1×1 footprint; purely decorative |
+| [[buildings:houses:phsmall01|Small Plantation House (Plimoth Harmonized)]] | Plimoth Plantation Harmonized small house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:phsmall02|Small Plantation House (Large, Plimoth Harmonized)]] | Plimoth Plantation Harmonized small house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:phsmall03|Small Plantation House (Plimoth Harmonized 2)]] | Plimoth Plantation Harmonized small house, alternate model; identical stats to Small Plantation House (Plimoth Harmonized) |
+| [[buildings:houses:phsmall04|Small Plantation House (Large, Plimoth Harmonized 2)]] | Plimoth Plantation Harmonized small house, alternate model; identical stats to Small Plantation House (Large, Plimoth Harmonized) |
+| [[buildings:houses:phsmall05|Small Plantation House (Plimoth Harmonized 3)]] | Plimoth Plantation Harmonized small house, alternate model; identical stats to Small Plantation House (Plimoth Harmonized) |
+| [[buildings:houses:phsmall06|Small Plantation House (Plimoth Harmonized 4)]] | Plimoth Plantation Harmonized small house, alternate model; identical stats to Small Plantation House (Plimoth Harmonized) |
+| [[buildings:houses:pinecabin|Pine Cabin]] | Necora Maritimes pine cabin; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:pinecabincolour|Colourful Pine Cabin]] | Necora Maritimes pine cabin, alternate model; identical stats to Pine Cabin |
+| [[buildings:houses:pinecabincolourdiag|Colourful Diagonal Pine Cabin]] | Necora Maritimes diagonal pine cabin; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:pinecabincolourdiagupgrade|Upgraded Diagonal Pine Cabin]] | Necora Maritimes upgraded diagonal pine cabin; houses up to 5 settlers with 1×1 footprint |
+| [[buildings:houses:pinecabincolourupgrade|Upgraded Pine Cabin]] | Necora Maritimes upgraded pine cabin; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:pinecabindiag|Diagonal Pine Cabin]] | Necora Maritimes diagonal pine cabin, alternate model; identical stats to Colourful Diagonal Pine Cabin |
+| [[buildings:houses:pineguesthouse|Small Pine Guest House]] | Necora Maritimes small pine guest house; temporarily houses up to 5 settlers across 3 apartments with 3×2 footprint |
+| [[buildings:houses:pinelodge1|Pine Lodge]] | Necora Maritimes pine lodge; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:pinelodge2|Pine Lodge (Large)]] | Necora Maritimes pine lodge; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:pinerowcornershort|Pine Town House Short Corner]] | Necora Maritimes short corner pine town house; houses up to 5 settlers with 3×2 footprint |
+| [[buildings:houses:pinerowcornertall|Pine Town House Tall Corner]] | Necora Maritimes tall corner pine town house; houses up to 7 settlers with 3×2 footprint |
+| [[buildings:houses:pinetownhouseshort|Pine Town House Short]] | Necora Maritimes short pine town house; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:pinetownhousetall|Pine Town House Tall]] | Necora Maritimes tall pine town house; houses up to 6 settlers with 2×3 footprint |
+| [[buildings:houses:plymouthhouse01|Plymouth House]] | Plymouth house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:portelizabethterracehouse|Port Elizabeth Terrace House]] | A8 Victorian-style terrace house; houses up to 5 settlers with 4×5 footprint |
+| [[buildings:houses:posttownhouse|Post Town House]] | A8 post town house; houses up to 5 settlers with 6×4 footprint |
+| [[buildings:houses:posttowninn|Post Town Inn]] | A8 post town inn; temporarily houses up to 5 settlers across 5 apartments with 6×4 footprint |
+| [[buildings:houses:ppsmall01|Small Plantation House (Plimoth Plantation)]] | Plimoth Plantation small house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:ppsmall02|Small Plantation House (Large, Plimoth Plantation)]] | Plimoth Plantation small house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:ppsmall03|Small Plantation House (Plimoth Plantation 2)]] | Plimoth Plantation small house, alternate model; identical stats to Small Plantation House (Plimoth Plantation) |
+| [[buildings:houses:ppsmall04|Small Plantation House (Large, Plimoth Plantation 2)]] | Plimoth Plantation small house, alternate model; identical stats to Small Plantation House (Large, Plimoth Plantation) |
+| [[buildings:houses:ppsmall05|Small Plantation House (Plimoth Plantation 3)]] | Plimoth Plantation small house, alternate model; identical stats to Small Plantation House (Plimoth Plantation) |
+| [[buildings:houses:ppsmall06|Small Plantation House (Plimoth Plantation 4)]] | Plimoth Plantation small house, alternate model; identical stats to Small Plantation House (Plimoth Plantation) |
+| [[buildings:houses:prcornerhigh1|Port Royal High Corner House]] | Port Royal high corner house; houses up to 4 settlers with 3×1 footprint |
+| [[buildings:houses:prcornerhigh2|Port Royal High Corner House (2)]] | Port Royal high corner house, alternate model; identical stats to Port Royal High Corner House |
+| [[buildings:houses:prcornerlow1|Port Royal Low Corner House]] | Port Royal low corner house; houses up to 4 settlers with 2×2 footprint |
+| [[buildings:houses:prcornerlow2|Port Royal Low Corner House (2)]] | Port Royal low corner house, alternate model; identical stats to Port Royal Low Corner House |
+| [[buildings:houses:prettyhouse01|Pretty House 1 (More Houses)]] | More Houses house; houses up to 7 settlers with 5×5 footprint |
+| [[buildings:houses:prettyhouse02|Pretty House 2 (More Houses)]] | More Houses house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:prettyhouse03|Pretty House 3 (More Houses)]] | More Houses house; houses up to 7 settlers with 5×3 footprint |
+| [[buildings:houses:prettyhoused01|Pretty House 1 (More Houses Dark)]] | More Houses Dark house; houses up to 7 settlers with 5×5 footprint |
+| [[buildings:houses:prettyhoused02|Pretty House 2 (More Houses Dark)]] | More Houses Dark house; houses up to 6 settlers with 4×3 footprint |
+| [[buildings:houses:prettyhoused03|Pretty House 3 (More Houses Dark)]] | More Houses Dark house; houses up to 7 settlers with 5×3 footprint |
+| [[buildings:houses:prhighleft|Port Royal High House Left]] | Port Royal elevated house left variant; houses up to 4 settlers with 1×2 footprint |
+| [[buildings:houses:prhighright|Port Royal High House Right]] | Port Royal elevated house right variant; houses up to 4 settlers with 1×2 footprint |
+| [[buildings:houses:prhouse1|Port Royal House]] | Port Royal house; houses up to 4 settlers with 4×2 footprint |
+| [[buildings:houses:prhouse2|Port Royal House (2)]] | Port Royal house, alternate model; identical stats to Port Royal House |
+| [[buildings:houses:prrowhousehighcenter|Port Royal 2 Level Row House]] | Port Royal two-story row house; houses up to 6 settlers with 3×2 footprint |
+| [[buildings:houses:prrowhousehighic|Port Royal 2 Level Row House Inner Corner]] | Port Royal two-story row house inner corner; houses up to 7 settlers with 3×2 footprint |
+| [[buildings:houses:prrowhousehighleft|Port Royal High Row House]] | Port Royal top-floor row house left-end piece; houses up to 5 settlers with 1×2 footprint |
+| [[buildings:houses:prrowhousehighoc|Port Royal 2 Level Row House Outer Corner]] | Port Royal two-story row house outer corner; houses up to 7 settlers with 3×2 footprint |
+| [[buildings:houses:prrowhousehighright|Port Royal High Row House (2)]] | Port Royal top-floor row house right-end piece, alternate model; identical stats to Port Royal High Row House |
+| [[buildings:houses:prrowhouselowcenter|Port Royal Row House]] | Port Royal row house; houses up to 5 settlers with 3×2 footprint |
+| [[buildings:houses:prrowhouselowic|Port Royal Row House Inner Corner]] | Port Royal row house inner corner; houses up to 6 settlers with 3×2 footprint |
+| [[buildings:houses:railwayrooms|Station Rooms]] | Railway station boarding house; 4 apartments housing up to 3 settlers each with 5×5 footprint |
+| [[buildings:houses:rhail|Inside Left Angled]] | Small Town Row Houses inside left angled house; houses up to 6 settlers with 4×2 footprint |
+| [[buildings:houses:rhair|Inside Right Angled]] | Small Town Row Houses inside right angled house; houses up to 6 settlers with 3×3 footprint |
+| [[buildings:houses:rhal|Left Side Angled]] | Small Town Row Houses left-side angled house; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:rham|Middle Angled]] | Small Town Row Houses middle angled house; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:rhaol|Outside Left Angled]] | Small Town Row Houses outside left angled house; houses up to 5 settlers with 2×3 footprint |
+| [[buildings:houses:rhaor|Outside Right Angled]] | Small Town Row Houses outside right angled house; houses up to 5 settlers with 3×1 footprint |
+| [[buildings:houses:rhar|Right Side Angled]] | Small Town Row Houses right-side angled house; houses up to 4 settlers with 4×1 footprint |
+| [[buildings:houses:rhazil|In Left 2-storey Angled]] | Small Town Row Houses inside left 2-storey angled house; houses up to 8 settlers with 4×2 footprint |
+| [[buildings:houses:rhazir|In Right 2-storey Angled]] | Small Town Row Houses inside right 2-storey angled house; houses up to 8 settlers with 3×3 footprint |
+| [[buildings:houses:rhazl|Left 2-storey Angled]] | Small Town Row Houses left 2-storey angled house; houses up to 6 settlers with 2×3 footprint |
+| [[buildings:houses:rhazm|Middle 2-storey Angled]] | Small Town Row Houses middle 2-storey angled house; houses up to 6 settlers with 2×3 footprint |
+| [[buildings:houses:rhazol|Out Left 2-storey Angled]] | Small Town Row Houses outside left 2-storey angled house; houses up to 7 settlers with 2×3 footprint |
+| [[buildings:houses:rhazor|Out Right 2-storey Angled]] | Small Town Row Houses outside right 2-storey angled house; houses up to 7 settlers with 3×1 footprint |
+| [[buildings:houses:rhazr|Right 2-storey Angled]] | Small Town Row Houses right 2-storey angled house; houses up to 6 settlers with 4×1 footprint |
+| [[buildings:houses:rhin|Inside Corner Row House]] | Small Town Row Houses inside corner house; houses up to 6 settlers with 5×4 footprint |
+| [[buildings:houses:rhl|Left Side Row House]] | Small Town Row Houses left-side house; houses up to 4 settlers with 2×4 footprint |
+| [[buildings:houses:rhm|Middle Row House]] | Small Town Row Houses middle house; houses up to 4 settlers with 2×4 footprint |
+| [[buildings:houses:rhout|Outside Corner Row House]] | Small Town Row Houses outside corner house; houses up to 6 settlers with 5×4 footprint |
+| [[buildings:houses:rhr|Right Side Row House]] | Small Town Row Houses right-side house; houses up to 4 settlers with 2×4 footprint |
+| [[buildings:houses:rhtinyl|Left Tiny Row House]] | Small Town Row Houses left tiny house; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:rhtinym|Middle Tiny Row House]] | Small Town Row Houses middle tiny house; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:rhtinyr|Right Tiny Row House]] | Small Town Row Houses right tiny house; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:rhzg|2 Storey Gate]] | Small Town Row Houses 2-storey gate house; houses up to 8 settlers with 4×4 footprint |
+| [[buildings:houses:rhzin|2 Storey Inside Corner]] | Small Town Row Houses 2-storey inside corner house; houses up to 8 settlers with 5×4 footprint |
+| [[buildings:houses:rhzl|2 Storey Left]] | Small Town Row Houses 2-storey left-end house; houses up to 6 settlers with 2×4 footprint |
+| [[buildings:houses:rhzm|2 Storey Middle]] | Small Town Row Houses 2-storey middle house; houses up to 6 settlers with 2×4 footprint |
+| [[buildings:houses:rhzout|2 Storey Outside Corner]] | Small Town Row Houses 2-storey outside corner house; houses up to 8 settlers with 5×4 footprint |
+| [[buildings:houses:rhzr|2 Storey Right]] | Small Town Row Houses 2-storey right-end house; houses up to 6 settlers with 2×4 footprint |
+| [[buildings:houses:rkbeachhouse1|Beach House]] | RK Beach Party house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:rkbeachhouse2|Beach House (2)]] | RK Beach Party house, alternate model; identical stats to Beach House |
+| [[buildings:houses:rkmchousetent1|Small Tent House]] | RK Training Camp small tent house; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:rkmchousetent2|Tent House]] | RK Training Camp tent house; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:rkoldbakeryresidence|Old Bakery Residence]] | RK old bakery residence; houses up to 5 settlers with 1×5 footprint |
+| [[buildings:houses:rkoldblacksmithresidence|Old Blacksmith Residence]] | RK old blacksmith residence; houses up to 5 settlers with 1×4 footprint |
+| [[buildings:houses:rkoldhunterhutresidence|Old Hunter Residence]] | RedKetchup Editor's Choice old hunter cabin residence; houses up to 5 settlers |
+| [[buildings:houses:rowhouse01|Row House 1 (More Houses)]] | More Houses row house; houses up to 7 settlers with 4×3 footprint |
+| [[buildings:houses:rowhouse02|Row House 2 (More Houses)]] | More Houses row house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:rowhoused01|Row House 1 (More Houses Dark)]] | More Houses Dark row house; houses up to 7 settlers with 4×3 footprint |
+| [[buildings:houses:rowhoused02|Row House 2 (More Houses Dark)]] | More Houses Dark row house; houses up to 5 settlers with 3×3 footprint |
+| [[buildings:houses:sawarahouse|Sawara House]] | Angainor88 Japanese-style sawara house; houses up to 6 settlers with 4×7 footprint |
+| [[buildings:houses:sbmediumhouse|Sherbrooke Medium House]] | Necora Maritimes Sherbrooke Village medium house; houses up to 5 settlers with 4×2 footprint |
+| [[buildings:houses:sbsmallhouse|Sherbrooke Small House]] | Necora Maritimes Sherbrooke Village small house; houses up to 4 settlers with 2×2 footprint |
+| [[buildings:houses:sbtailorhouse|Sherbrooke Tailor House]] | Necora Maritimes Sherbrooke Village tailor house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:sbvhostel|Mission Hostel]] | SBV Mission hostel; temporarily houses up to 4 settlers across 4 apartments with 9×3 footprint |
+| [[buildings:houses:sbvlargehouse|Mission Large House]] | SBV Mission large house; houses up to 6 settlers with 6×3 footprint |
+| [[buildings:houses:sbvsmallhouse|Mission Small House]] | SBV Mission small house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:settlerscottage|Settlers Cottage]] | Settlers mod cottage; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:settlershut|Settlers Hut]] | Settlers mod hut; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:settlersmanor|Settlers Manor]] | Settlers mod manor; houses up to 7 settlers with 5×3 footprint |
+| [[buildings:houses:settlerstents|Settlers Tents]] | Settlers Tents housing; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:shahouse|SHA House]] | Stone House Addon house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:shahousea|SHA House A]] | Stone House Addon house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:shahousem|SHA House M]] | Stone House Addon house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:shahousew|SHA House W]] | Stone House Addon house; houses up to 6 settlers with 4×4 footprint |
+| [[buildings:houses:shatowerfloor2|SHA Tower Floor 2]] | Stone House Addon modular tower floor; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor2roof|SHA Tower Floor 2 (Roof)]] | Stone House Addon modular tower floor with roof cap; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor3|SHA Tower Floor 3]] | Stone House Addon modular tower floor; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor3roof|SHA Tower Floor 3 (Roof)]] | Stone House Addon modular tower floor with roof cap; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor4|SHA Tower Floor 4]] | Stone House Addon modular tower floor; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor4roof|SHA Tower Floor 4 (Roof)]] | Stone House Addon modular tower floor with roof cap; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor5|SHA Tower Floor 5]] | Stone House Addon modular tower floor; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor5roof|SHA Tower Floor 5 (Roof)]] | Stone House Addon modular tower floor with roof cap; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor6|SHA Tower Floor 6]] | Stone House Addon modular tower floor; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerfloor6roof|SHA Tower Floor 6 (Roof)]] | Stone House Addon modular tower floor with roof cap; houses up to 6 settlers with 1×1 footprint |
+| [[buildings:houses:shatowerground|SHA Tower Ground]] | Stone House Addon modular tower ground floor; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:shatowergroundroof|SHA Tower Ground (Roof)]] | Stone House Addon modular tower ground floor with roof cap; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:shatowerhostel|SHA Tower Hostel]] | Stone House Addon hostel; temporarily houses up to 4 settlers across 4 apartments with 8×3 footprint |
+| [[buildings:houses:shatowerhostelroof|SHA Tower Hostel (Roof)]] | Stone House Addon hostel with roof cap; temporarily houses up to 4 settlers across 4 apartments with 8×3 footprint |
+| [[buildings:houses:shhouse|SH House]] | KID Summer Haven house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:shhousehi|Haven House High]] | KID Summer Haven elevated house; houses up to 4 settlers with 1×2 footprint; Fuel: 64 per resource |
+| [[buildings:houses:shhouselo|Haven House Low]] | KID Summer Haven elevated house; houses up to 4 settlers with 1×2 footprint; Fuel: 64 per resource |
+| [[buildings:houses:shhoushi|SH House Hi]] | KID Summer Haven elevated house; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:shhousl|SH House Lo]] | KID Summer Haven elevated house; houses up to 4 settlers with 1×1 footprint |
+| [[buildings:houses:shtopperfour|SH Topper Four]] | KID Summer Haven topper house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:shtopperone|SH Topper One]] | KID Summer Haven topper house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:shtopperthree|SH Topper Three]] | KID Summer Haven topper house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:shtoppertwo|SH Topper Two]] | KID Summer Haven topper house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:shwhouse|SHW House]] | KID Summer Haven house; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:simpleshack|Simple Shack]] | KID Houses for Sale simple shack; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:smalltownhome|Small Town Home]] | DS Housing small town home; houses up to 5 settlers with 3×2 footprint |
+| [[buildings:houses:smalltownhouse|Town Abode]] | Colonial Charter small town house; houses up to 5 settlers with 3×4 footprint |
+| [[buildings:houses:smalltownhousea|Town Abode A]] | Colonial Charter small town house variant; houses up to 4 settlers with 3×4 footprint |
+| [[buildings:houses:smalltownhousealt|Town Abode Alt]] | Alternate model of the Town Abode A |
+| [[buildings:houses:smalltownhousec|Town Abode C]] | Colonial Charter small town house; houses up to 6 settlers with 3×4 footprint |
+| [[buildings:houses:smalltownhoused|Town Abode D]] | Colonial Charter small town house; houses up to 6 settlers with 3×4 footprint |
+| [[buildings:houses:snughouse01|Snug House 1 (More Houses)]] | More Houses house; houses up to 5 settlers with 6×3 footprint |
+| [[buildings:houses:snughouse02|Snug House 2 (More Houses)]] | More Houses house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:snughouse03|Snug House 3 (More Houses)]] | More Houses house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:snughouse04|Snug House 4 (More Houses)]] | More Houses house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:snughoused01|Snug House 1 (More Houses Dark)]] | More Houses Dark house; houses up to 5 settlers with 6×3 footprint |
+| [[buildings:houses:snughoused02|Snug House 2 (More Houses Dark)]] | More Houses Dark house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:snughoused03|Snug House 3 (More Houses Dark)]] | More Houses Dark house; houses up to 5 settlers with 5×3 footprint |
+| [[buildings:houses:snughoused04|Snug House 4 (More Houses Dark)]] | More Houses Dark house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:spacioushouse01|Spacious House 1 (More Houses)]] | More Houses house; houses up to 8 settlers with 5×4 footprint |
+| [[buildings:houses:spacioushouse02|Spacious House 2 (More Houses)]] | More Houses house; houses up to 8 settlers with 6×5 footprint |
+| [[buildings:houses:spacioushoused01|Spacious House 1 (More Houses Dark)]] | More Houses Dark house; houses up to 8 settlers with 5×4 footprint |
+| [[buildings:houses:spacioushoused02|Spacious House 2 (More Houses Dark)]] | More Houses Dark house; houses up to 8 settlers with 6×5 footprint |
+| [[buildings:houses:stonehouse|Stone House]] | CC-modified vanilla stone house; houses up to 5 settlers with 4×4 footprint; does not appear in toolbar |
+| [[buildings:houses:stonehouseupgrade|Stone Home]] | Colonial Charter stone home; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:swamphouse|Swamp House]] | Swamp Houses mod house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:swamphouseboat|Swamp House Boat]] | Swamp Houses mod house boat; houses up to 4 settlers with 5�3 footprint |
+| [[buildings:houses:swhouse|Quay House]] | Colonial Charter quay house; houses up to 5 settlers with 4�4 footprint |
+| [[buildings:houses:tahacienda|Hacienda (Tequila Addon)]] | Tequila Addon hacienda; houses up to 7 settlers with 5�6 footprint |
+| [[buildings:houses:tahousef1|House F1 (Tequila Addon)]] | Tequila Addon house; houses up to 5 settlers with 4�4 footprint |
+| [[buildings:houses:tahousef2|House F2 (Tequila Addon)]] | Tequila Addon house; houses up to 5 settlers with 1�4 footprint |
+| [[buildings:houses:tahousef3|House F3 (Tequila Addon)]] | Tequila Addon house; houses up to 5 settlers with 1�4 footprint |
+| [[buildings:houses:takayamamachiya|Takayama Machiya]] | Angainor88 Japanese machiya townhouse; houses up to 5 settlers with 5�5 footprint |
+| [[buildings:houses:tchostel|Hostel (Tangerine Center)]] | Tangerine Center hostel; houses up to 3 settlers across 3 apartments with 3�2 footprint |
+| [[buildings:houses:tchouse1|House 1 (Tangerine Center)]] | Tangerine Center house; houses up to 3 settlers with 3�2 footprint |
+| [[buildings:houses:tchouse2|House 2 (Tangerine Center)]] | Tangerine Center house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tchouse3|House 3 (Tangerine Center)]] | Tangerine Center house; houses up to 7 settlers with 3�2 footprint |
+| [[buildings:houses:tdbaitshop|Bait Shop (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 4�2 footprint |
+| [[buildings:houses:tdboatrental|Boat Rental (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 4�5 footprint |
+| [[buildings:houses:tdcaretaker|Caretaker (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 3�2 footprint |
+| [[buildings:houses:tdcoffeehouse|Coffee House (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 4�2 footprint |
+| [[buildings:houses:tdhousea|House A (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 3�2 footprint |
+| [[buildings:houses:tdlighthouse|Lighthouse (Tiny Downtown)]] | Tiny Downtown lighthouse house; houses up to 5 settlers with 4�2 footprint |
+| [[buildings:houses:tdmaina|Main A (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 3�2 footprint |
+| [[buildings:houses:tdmainb|Main B (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 3�2 footprint |
+| [[buildings:houses:tdmainc|Main C (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmaind|Main D (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmaine|Main E (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmainf|Main F (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmaing|Main G (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmainh|Main H (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmaini|Main I (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdmainj|Main J (Tiny Downtown)]] | Tiny Downtown house; houses up to 5 settlers with 3�2 footprint |
+| [[buildings:houses:tdrooms|Rooms (Tiny Downtown)]] | Tiny Downtown boarding house; temporarily houses up to 4 settlers across 5 apartments with 5�2 footprint |
+| [[buildings:houses:tdstable|Stable (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 6�2 footprint |
+| [[buildings:houses:tdstonecutter|Stonecutter (Tiny Downtown)]] | Tiny Downtown house; houses up to 4 settlers with 5�2 footprint |
+| [[buildings:houses:teepeehouse|Tepee]] | Colonial Charter Frontier tepee; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:teknatent|Tekna Tent]] | Angainor88 Moroccan tent house; houses up to 6 settlers with 8×4 footprint |
+| [[buildings:houses:tentwithfire|Tent with Fire]] | Tent with Fire mod house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:tieredbuilding1a|Tiered Building 1A]] | Colonial Charter modular stacked building; houses up to 6 settlers with 5×5 footprint |
+| [[buildings:houses:tieredbuilding1b|Tiered Building 1B]] | Colonial Charter modular stacked building; alternate model of Tiered Building 1A with 5×5 footprint |
+| [[buildings:houses:tieredbuilding1c|Tiered Building 1C]] | Colonial Charter modular stacked building; houses up to 6 settlers with 1×3 footprint |
+| [[buildings:houses:tieredbuilding1d|Tiered Building 1D]] | Colonial Charter modular stacked building; alternate model of Tiered Building 1C with 1×3 footprint |
+| [[buildings:houses:tieredbuilding1e|Tiered Building 1E]] | Colonial Charter modular stacked building; alternate model of Tiered Building 1C with 1×3 footprint |
+| [[buildings:houses:tinyhouse|Tiny House]] | KID Tiny house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:tinyhousea|Tiny House A]] | KID Tiny house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:tinyhouseb|Tiny House B]] | KID Tiny house; houses up to 4 settlers with 4×3 footprint |
+| [[buildings:houses:tinyhousecc|Tiny House (Colonial Charter)]] | Colonial Charter tiny house; houses up to 4 settlers with 2×3 footprint |
+| [[buildings:houses:tinyshack|Tiny Shack]] | Colonial Charter tiny shack; houses up to 3 settlers with 2×3 footprint |
+| [[buildings:houses:townbarn01home|Tudor Old Barn Home]] | DS Storage Tudor barn converted to a home; houses 6 settlers with private food and fuel storage; upgrade from Tudor Town Barn + |
+| [[buildings:houses:townhouse|Large Residence (Townhouse)]] | Colonial Charter large residence; houses up to 8 settlers with 6×6 footprint |
+| [[buildings:houses:traderhouse|Trader House]] | Traveling Trader house; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:trainhomecar|Train Passenger Car]] | Railway train passenger car; houses up to 4 settlers with 4×1 footprint |
+| [[buildings:houses:treehouse01|Tree House One]] | KID tree house; houses up to 5 settlers with 4×3 footprint |
+| [[buildings:houses:treehouse02|Tree House Two]] | KID tree house; alternate model of Tree House One with 4×3 footprint |
+| [[buildings:houses:treehouse03|Tree House Three]] | KID tree house; houses up to 5 settlers with 5×4 footprint |
+| [[buildings:houses:treetopper01|Tree Topper One]] | KID tree topper house; houses up to 4 settlers with 5×4 footprint |
+| [[buildings:houses:treetopper02|Tree Topper Two]] | KID tree topper house; alternate model of Tree Topper One with 5×4 footprint |
+| [[buildings:houses:treetopper03|Tree Topper Three]] | KID tree topper house; alternate model of Tree Topper One with 5×4 footprint |
+| [[buildings:houses:treetopper04|Tree Topper Four]] | KID tree topper house; alternate model of Tree Topper One with 5×4 footprint |
+| [[buildings:houses:tremonthouse|Tremont House]] | Angainor88 American City Living house; houses up to 6 settlers with 3×7 footprint |
+| [[buildings:houses:ursulineshouse|Ursulines House]] | Angainor88 American City Living house; houses up to 4 settlers with 3×8 footprint |
+| [[buildings:houses:tribalhut|Native Hut]] | CCFrontier native hut; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:tribaltent|Native Tent]] | CCFrontier native tent; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:twilighthouse|Twilight House]] | Twilight Herbs house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:vchome4|Home 4]] | KID Animal Shed and Cheese house; houses up to 4 settlers with 5×3 footprint |
+| [[buildings:houses:vchome6|Home 6]] | KID Animal Shed and Cheese house; houses up to 6 settlers with 5×3 footprint |
+| [[buildings:houses:villageboardinghouse|Bitty Boarding House]] | Jinxie Bitty Village boarding house; temporarily houses up to 5 settlers across 4 apartments with 7×3 footprint |
+| [[buildings:houses:villageboardinghouserotated|Angled Bitty Boarding House]] | Jinxie Bitty Village boarding house; alternate placement of Bitty Boarding House with 7×6 footprint |
+| [[buildings:houses:villageslatecottage|Stone & Slate Cottage]] | Jinxie Bitty Village cottage; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:villageslatecottagerotated|Angled Stone & Slate Cottage]] | Jinxie Bitty Village cottage; alternate placement of Stone & Slate Cottage with 3×2 footprint |
+| [[buildings:houses:villagestonecottage|Stone & Shingle Cottage]] | Jinxie Bitty Village cottage; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:villagestonecottagerotated|Angled Stone & Shingle Cottage]] | Jinxie Bitty Village cottage; alternate placement of Stone & Shingle Cottage with 3×2 footprint |
+| [[buildings:houses:villagewoodcottage|Wood & Thatch Cottage]] | Jinxie Bitty Village cottage; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:villagewoodcottagerotated|Angled Wood & Thatch Cottage]] | Jinxie Bitty Village cottage; alternate placement of Wood & Thatch Cottage with 3×2 footprint |
+| [[buildings:houses:whhome3|Wagon 3]] | Westward Ho wagon; houses up to 3 settlers with 3×2 footprint |
+| [[buildings:houses:whhome3a|Wagon 3 Angled]] | Westward Ho wagon; alternate placement of Wagon 3 with 3×2 footprint |
+| [[buildings:houses:whhome4|Wagon 4]] | Westward Ho wagon; houses up to 4 settlers with 3×3 footprint |
+| [[buildings:houses:whhome4a|Wagon 4 Angled]] | Westward Ho wagon; alternate placement of Wagon 4 with 4×3 footprint |
+| [[buildings:houses:whroadhousea|Road House A]] | Westward Ho road house; temporarily houses up to 4 settlers across 2 apartments with 4×5 footprint |
+| [[buildings:houses:whroadhouseb|Road House B]] | Westward Ho road house; temporarily houses up to 4 settlers across 2 apartments with 5×5 footprint |
+| [[buildings:houses:wigwamhouse|Native WigWam House]] | CCFrontier native wigwam house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:woodhouse|Wood House]] | Colonial Charter-modified vanilla wood house; upgrades to stone home or country house variants |
+| [[buildings:houses:woodhousesb|Saltbox House]] | Colonial Charter saltbox house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:workhome|Workshop Home]] | Christmas Mod workshop home; houses up to 5 settlers with 1×5 footprint |
+| [[buildings:houses:wpcabina|Cabin 1]] | KID WorkPlace Village cabin; houses up to 3 settlers with 3×3 footprint |
+| [[buildings:houses:wpcabinaroof|Cabin 1 Roofed]] | KID WorkPlace Village cabin; alternate model of Cabin 1 with 3×3 footprint |
+| [[buildings:houses:wpcabinb|Cabin 2]] | KID WorkPlace Village cabin; houses up to 3 settlers with 1×2 footprint |
+| [[buildings:houses:wpcabinbroof|Cabin 2 Roofed]] | KID WorkPlace Village cabin; alternate model of Cabin 2 with 1×2 footprint |
+| [[buildings:houses:wpcabinc|Cabin 3]] | KID WorkPlace Village cabin; houses up to 3 settlers with 1×2 footprint |
+| [[buildings:houses:wpcabincroof|Cabin 3 Roofed]] | KID WorkPlace Village cabin; alternate model of Cabin 3 with 1×2 footprint |
+| [[buildings:houses:wpcabindroof|Cabin 4 Roofed]] | KID WorkPlace Village cabin; houses up to 3 settlers with 1×2 footprint |
+| [[buildings:houses:wphostel|Small Hostel]] | KID WorkPlace Village hostel; temporarily houses up to 4 settlers across 4 apartments with 7×3 footprint |
+| [[buildings:houses:wphouse|Small House]] | KID WorkPlace Village house; houses up to 4 settlers with 3×2 footprint |
+| [[buildings:houses:wphousa|Small Angled House]] | KID WorkPlace Village house; alternate placement of Small House with 4×3 footprint |
+| [[buildings:houses:wphousea|Small Angled House (4×4)]] | KID WorkPlace Village themed house; houses up to 4 settlers with 4×4 footprint; Fuel: 70 per resource |
+| [[buildings:houses:wwlarge|Large House]] | KID Wild West large house; houses up to 7 settlers with 6×4 footprint |
+| [[buildings:houses:wwmedium|Medium House]] | KID Wild West medium house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:xhosahouse|Xhosa House]] | Angainor88 South African Xhosa house; houses up to 5 settlers with 4×4 footprint |
+| [[buildings:houses:yayoipithouse|Yayoi Pit House]] | Angainor88 Japanese yayoi pit house; houses up to 7 settlers with 4×6 footprint |
+| [[buildings:houses:zuluhouse|Zulu House]] | Angainor88 South African Zulu house; houses up to 4 settlers with 4×4 footprint |
+
+----
+
+{{tag>Buildings Houses}}

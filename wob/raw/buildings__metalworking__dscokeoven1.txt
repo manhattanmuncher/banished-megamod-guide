@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coke Oven ======
+----
+
+<WRAP right>
+^  Coke Oven                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscokeoven1.png?nolink|Coke Oven}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Toolmaker}}</wrap> Toolmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  13  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+Coke Oven is a DS Mods industrial building. A Toolmaker converts Coal into Coke, a high-quality fuel used in smelting.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresourcemineral.png?nolink|Mineral}}</wrap> **Mineral** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dscokeovenmenu.png?nolink|Coke Oven}}</wrap> **Coke Oven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscokeoven1.png?nolink|Coke Oven}}</wrap> **Coke Oven**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dscokeovenmenu.png?nolink|Battery Coke Ovens}}</wrap> **Battery Coke Ovens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscokeoven1.png?nolink|Coke Oven}}</wrap> **Coke Oven**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                              ^ Produces                          ^
+| 1 [[WikiPages:coalfuel:coal|Coal]]       | [[WikiPages:fuel:coke|Coke]]      |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscokeoven1.png?nolink|Coke Oven}}</wrap> **Coke Oven**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Metalworking DS}}

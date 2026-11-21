@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mutton ======
+----
+
+<WRAP right>
+^  Mutton                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  160/200  |  160/200  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  3  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mutton.png?nolink|Mutton}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Mutton is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Mutton Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestocksheep|Sheep]]
+  * Produced at the [[buildings:animal_pens:animalgrowersheep|Sheep Farm]]
+  * Produced at the [[buildings:animal_pens:aspsheep|Sheep Shed]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:trainfoodcar|Train Food Car]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketstew|Market Stew]] (for [[WikiPages:food:stew_stew|Stew]])
+  * Used at the [[buildings:bakery:dssvbakery|Village Bakery]] (for Meat Pie)
+  * Used at the [[buildings:food:ebsvpreservist|Village Preservist]] (for Potted Meat)
+  * Used at the [[buildings:butcher:fbbutcher|Friendly Butcher]] (for Lamb Chop, Sausages)
+  * Used at the [[buildings:butcher:gfbutcher1|Small Butcher (Gothic Fantasy 1)]]
+  * Used at the [[buildings:butcher:gfbutcher2|Small Butcher (Gothic Fantasy 2)]]
+  * Used at the [[buildings:butcher:gnbutcher|Friendly Butcher (Granny Neighborhood)]]
+  * Used at the [[buildings:preserving:tinnerymeat|Meat Tinnery]]
+  * Used at the [[buildings:butcher:tinybutcher|Tiny Butcher]] (for Lamb Chop, Sausages)
+  * Used at the [[buildings:butcher:wpbutcher|WP Butcher]] (for Lamb Chop, Sausages)
+  * Used at the [[buildings:butcher:woodbutcher|Wood Butcher]] (for Lamb Chop)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

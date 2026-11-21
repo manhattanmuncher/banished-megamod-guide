@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cheese Soup ======
+----
+
+<WRAP right>
+^  Cheese Soup                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  11/12  |
+|  Edible  |  Yes  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/aspsoupveg.png?nolink|Cheese Soup}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Cheese Soup is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Cheese Soup Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:aspkitchen|Kitchen]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein Vegetable}}

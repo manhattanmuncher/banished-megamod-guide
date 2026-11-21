@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Milk Pen ======
+----
+
+<WRAP right>
+^  Milk Pen                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalpen2.png?nolink|Milk Pen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Milk Pen is a Colonial Charter pen specialized for dairy livestock. The product collected depends on which livestock type is assigned to the pen.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaranimalpen.png?nolink|Animal Pens}}</wrap> **Animal Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalpen2.png?nolink|Milk Pen}}</wrap> **Milk Pen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalpen2.png?nolink|Milk Pen}}</wrap> **Milk Pen**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:milk|Milk]] or [[WikiPages:textile:leather|Leather]] (depending on livestock assigned)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Animal ColonialCharter}}

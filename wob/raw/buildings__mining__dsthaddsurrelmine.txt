@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Industry Mine ======
+----
+
+<WRAP right>
+^  Industry Mine                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelmine.png?nolink|Industry Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 14  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–55 (8)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  3.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  34  |
+|  Happiness  |  Detraction (radius 25)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  84000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  165  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:custom0:candles|Candles]]  |  89  |
+</WRAP>
+<WRAP right></WRAP>
+
+A massive DS Mods industrial mine — the Thadd Surrel & family operation — covering an 8 × 14 footprint and employing up to 55 Miners. Coal is the default product but the mine can be switched between Coal and Iron Ore. The pit imposes a Detraction happiness penalty in a 25-tile radius and depletes after 84,000 units of total production.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresourcemining.png?nolink|Mining}}</wrap> **Mining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelmine.png?nolink|Industry Mine}}</wrap> **Industry Mine**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines}}</wrap> **Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelmine.png?nolink|Industry Mine}}</wrap> **Industry Mine**
+
+----
+
+===== Produces =====
+
+The player selects which material to produce:
+
+  * [[WikiPages:coalfuel:coal|Coal]]
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining DS}}

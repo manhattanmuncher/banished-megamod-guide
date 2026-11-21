@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Barn ======
+----
+
+<WRAP right>
+^  Storage Barn                                                                       ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragebarn.png?nolink|Storage Barn}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  4 (default)  ||
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |  7,500  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile  |  Food, Tools, Health, Clothing, Textile, Alcohol, Grain, Vegetable, Fruit, Protein, Crafted Items, Forged Items, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  ||
+|  [[WikiPages:wood:log|Log]]  |  48  ||
+|  [[WikiPages:stone:stone|Stone]]  |  16  ||
+</WRAP>
+<WRAP right></WRAP>
+
+The Storage Barn is the vanilla Banished general storage building. It stores food, tools, clothing, and textile goods for the colony.
+
+----
+
+===== Where to Find =====
+
+The Storage Barn is found in the vanilla Banished **Resource Production** building category.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Storage}}

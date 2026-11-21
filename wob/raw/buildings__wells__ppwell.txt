@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Plantation Well (Plimoth Plantation) ======
+----
+
+<WRAP right>
+^  Plantation Well                                                                   ^  Plimoth Plantation  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppwell.png?nolink|Plantation Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Plimoth Plantation themed well that provides Safety happiness and fire suppression within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppwell.png?nolink|Plantation Well}}</wrap> **Plantation Well (Plimoth Plantation)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplimothplantation.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppwell.png?nolink|Plantation Well}}</wrap> **Plantation Well**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplimothplantation.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppwell.png?nolink|Plantation Well}}</wrap> **Plantation Well**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Plimoth Plantation v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=213|WoB]], [[https://banishedinfo.com/mods/view/814-Plimoth-Plantation|BI]]
+
+{{tag>Building Wells PlimothPlantation}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Choo Choo — Tracks, Bridges & Tunnels ======
+----
+
+<WRAP right>
+^  Choo Choo — Tracks, Bridges & Tunnels                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tracks.png?nolink|Choo Choo Tracks}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (1×1 track tiles up to multi-tile bridges)  |
+^  Build Cost (per piece)                                                            ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  Varies (e.g. 6 for a straight track)  |
+|  [[WikiPages:wood:log|Wood]]  |  3 (straight track)  |
+|  [[WikiPages:iron:iron|Iron]]  |  2 (straight track)  |
+</WRAP>
+<WRAP right></WRAP>
+
+The railway infrastructure from RedKetchup's Choo Choo mod — the decorative train tracks plus the railroad bridges and tunnels they run through. Lay tracks to build a rail line that ties together the Choo Choo trains, wagons and stations (which have their own pages). Tracks are built from wood and iron; bridges and tunnels cost more.
+
+----
+
+===== Variants =====
+
+  * **Track tiles** — Straight, Turn Left, Turn Right, Diagonal.
+  * **Over-canal tracks** — Track Over Canal (4X / 6X / 8X spans, in New Bricks / Old Bricks finishes).
+  * **Railroad bridges** — Wood Railroad Bridge, Wood Stone Railroad Bridge, Stone Railroad Bridge, Covered Railroad Bridge.
+  * **Railroad tunnels** — Railroad Tunnel and Railroad Tunnel Deco (from the Choo Choo Deco Tunnel add-on).
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tracks.png?nolink|Tracks}}</wrap> **Tracks** → the track / bridge / tunnel
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tracks.png?nolink|Tracks}}</wrap> **Tracks** → the track / bridge / tunnel
+
+----
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building Roads ChooChoo}}

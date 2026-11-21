@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Transparent Road ======
+----
+
+<WRAP right>
+^  Transparent Road                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtransparentroad.png?nolink|Transparent Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  51  |
+^  Build Cost (per tile)                                                             ^^
+|  colspan=2  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A transparent road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtransparentroad.png?nolink|Transparent Road}}</wrap> **Transparent Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grassy Roads**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=695|WoB]]
+
+{{tag>Road GrassyRoads}}

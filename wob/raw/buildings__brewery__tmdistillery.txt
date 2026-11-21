@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tequila Distillery ======
+----
+
+<WRAP right>
+^  Tequila Distillery                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmdistillery.png?nolink|Tequila Distillery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  65  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tequila Mod distillery where Brewers ferment and distill Agave Pulp with Firewood into Tequila Barrels.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmdistillery.png?nolink|Tequila Distillery}}</wrap> **Tequila Distillery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmdistillery.png?nolink|Tequila Distillery}}</wrap> **Tequila Distillery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmdistillery.png?nolink|Tequila Distillery}}</wrap> **Tequila Distillery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                          ^ Produces                                              ^
+| 12 [[WikiPages:vegetable:agave_pulp|Agave Pulp]] + 1 [[WikiPages:fuel:firewood|Firewood]]                           | [[WikiPages:vegetable:tequila_barrel|Tequila Barrel]] |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tequila Mod v3.2 (with Tom Sawyer)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=228|WoB]]
+
+{{tag>Building Brewery TequilaMod}}

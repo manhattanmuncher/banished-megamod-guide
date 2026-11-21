@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Flax ======
+----
+
+<WRAP right>
+^  Flax                                           ^  xBLS  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |  1/2  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  2  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/flax.png?nolink|Flax}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Flax is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Flax Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:mfpatchflax|Flax Patch (Mexican Fantasy)]]
+  * Produced at the [[buildings:gathering:abandonedhedgerow|Hedgerow]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow01|Hedgerow 01 (Friendly Blue Too)]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow03|Hedgerow 03 (Friendly Blue Too)]]
+  * Produced at the [[buildings:gathering:fairygardenplumpatch|Fairy Garden Plum Patch (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fishshipsplantswaterhi|Jetty Plants High]]
+  * Produced at the [[buildings:gathering:fishshipsplantswaterlo|Jetty Plants Low]]
+  * Produced at the [[buildings:gathering:gtnewgarden|New Garden (Ghost Town)]]
+  * Produced at the [[buildings:hedgerow:hedgesummer02|Summer 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgesummer03|Summer 03 (Hedgerow)]] (random)
+  * Produced at the [[buildings:fields:settlerspatchflax|Flax Patch (Settlers)]]
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:weavers|Weavers]]
+  * Used at the [[buildings:clothing:dssvweaversguild|Weaving Guild]]
+  * Used at the [[buildings:crafting:eboilpress|Oil Press (EB)]] (for Linseed Oil)
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+  * Used at the [[buildings:gathering:gtnewgarden|New Garden (Ghost Town)]] (for Linseed Oil)
+  * Used at the [[buildings:crafting:tinyworkshop|Tiny Workshop]]
+  * Used at the [[buildings:milling:watermill3|Watermill 3]] (for Linen)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

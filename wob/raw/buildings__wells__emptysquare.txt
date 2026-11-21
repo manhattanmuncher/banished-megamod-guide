@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Empty Square (Settlers) ======
+----
+
+<WRAP right>
+^  Empty Square                                                                      ^  Settlers  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemptysquare.png?nolink|Empty Square}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Settlers mod decorative empty square that provides Safety happiness and fire suppression. Free to place with no build cost. Found in the Hedge Set toolbars within the Settlers theme. Also appears in the Well shortcut.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemptysquare.png?nolink|Empty Square}}</wrap> **Empty Square**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgeset01.png?nolink|Hedge Set 1}}</wrap> **Hedge Set 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemptysquare.png?nolink|Empty Square}}</wrap> **Empty Square**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgeset02.png?nolink|Hedge Set 2}}</wrap> **Hedge Set 2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemptysquare.png?nolink|Empty Square}}</wrap> **Empty Square**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgeset01.png?nolink|Hedge Set 1}}</wrap> **Hedge Set 1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemptysquare.png?nolink|Empty Square}}</wrap> **Empty Square**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgeset02.png?nolink|Hedge Set 2}}</wrap> **Hedge Set 2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildemptysquare.png?nolink|Empty Square}}</wrap> **Empty Square**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Wells Settlers}}

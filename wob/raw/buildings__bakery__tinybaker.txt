@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Baker ======
+----
+
+<WRAP right>
+^  Tiny Baker                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinybaker.png?nolink|Tiny Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionbaker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Tiny Baker is a compact bakery from the KID Toolbar where Bakers produce bread, cookies, and pastries in a minimal footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinybaker.png?nolink|Tiny Baker}}</wrap> **Tiny Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtiny.png?nolink|Tiny Buildings}}</wrap> **Tiny Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinybaker.png?nolink|Tiny Baker}}</wrap> **Tiny Baker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                          ^ Produces                                                ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                                                                   | [[WikiPages:food:bread_bread|Bread]]                    |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                                                                             | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]         |
+| 15 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:health:herb|Herb]]                                                                                | [[WikiPages:food:herb_bread|Herb Bread]]                |
+| 15 [[WikiPages:food:oats_oat|Oats]] + 8 [[WikiPages:food:honey|Honey]]                                                                               | [[WikiPages:food:oat_cookies|Oat Cookies]]              |
+| 15 [[WikiPages:food:oats_oat|Oats]] + 8 [[WikiPages:vegetable:sugar_refined|Sugar (Refined)]]                                                        | [[WikiPages:food:oat_cookies|Oat Cookies]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:food:apple|Apple]]                                                                               | [[WikiPages:food:fruit_pie|Fruit Pie]]                  |
+| 12 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:food:cherry|Cherry]]                                                                             | [[WikiPages:food:fruit_pie|Fruit Pie]]                  |
+| 12 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:food:blueberries|Blueberry]]                                                                     | [[WikiPages:food:fruit_pie|Fruit Pie]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Bakery KID}}

@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader Sign Double White ======
+----
+
+<WRAP right>
+^  Trader Sign Double White                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsigntraderdoublew.png?nolink|Trader Sign Double White}}</wrap>  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village decorative double white trader sign. Ghosted placement; intended for decoration near Trading Ports. Six F Key visual variants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsvsigns.png?nolink|EB Signs}}</wrap> **EB Signs** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsigntraderdoublew.png?nolink|Trader Sign Double White}}</wrap> **Trader Sign Double White**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebdecorations.png?nolink|EB Decorations}}</wrap> **EB Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsvsigns.png?nolink|EB Signs}}</wrap> **EB Signs** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsigntraderdoublew.png?nolink|Trader Sign Double White}}</wrap> **Trader Sign Double White**
+
+----
+
+{{tag>Building Decorations EB}}

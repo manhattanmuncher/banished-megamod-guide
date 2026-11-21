@@ -1,0 +1,19 @@
+~~NOTOC~~
+
+====== Industrial ======
+----
+
+Fuels used for industrial production processes, such as Furnace Fuel and Industrial Coal.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/fuelfurnace.png?nolink|Furnace Fuel}} [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]
+  * {{https://sprites.worldofbanished.com/coke.png?nolink|Industrial Coal}} [[WikiPages:custom3:industrial_coal|Industrial Coal]]
+
+----
+
+{{tag>Custom3}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader (Forge of Dwarves Winter) ======
+----
+
+<WRAP right>
+^  Trader (Forge of Dwarves Winter)                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtrader.png?nolink|Trader (Forge of Dwarves Winter)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  52  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge of Dwarves Winter river trading post with a snow-covered appearance. Traders work here and a General Merchant arrives by river boat offering a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge of Dwarves Winter}}</wrap> **Forge of Dwarves Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtrader.png?nolink|Trader}}</wrap> **Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge of Dwarves Winter}}</wrap> **Forge of Dwarves Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtrader.png?nolink|Trader}}</wrap> **Trader**
+
+----
+
+===== Merchant =====
+
+^ Merchant ^ Offers ^
+| General Merchant | Tools, health items, food, textiles, clothing, alcohol, crafted goods, forged goods, fabric, precious goods, and miscellaneous items |
+
+All merchants accept any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtrader.png?nolink|Trader (Forge of Dwarves Winter)}}</wrap> **Trader (Forge of Dwarves Winter)**
+
+----
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building TradingPost ForgeOfDwarvesWinter}}

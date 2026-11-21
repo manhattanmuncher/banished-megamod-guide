@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Well ======
+----
+
+<WRAP right>
+^  Well                                                                               ^  xBAN  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwell.png?nolink|Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2 (default)  |
+|  Happiness  |  Safety (radius 20)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Log]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Well is a vanilla Banished building that provides a Safety happiness bonus to nearby citizens within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+The Well is found in the vanilla Banished **Social** building category.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells}}

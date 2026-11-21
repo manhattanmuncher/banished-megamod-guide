@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== GBV Chapel ======
+----
+
+<WRAP right>
+^  GBV Chapel                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvchapel.png?nolink|GBV Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  54  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gingerbread Village chapel; free to build. A Priest provides a Spirit happiness bonus within a 35-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvchapel.png?nolink|GBV Chapel}}</wrap> **GBV Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvchapel.png?nolink|GBV Chapel}}</wrap> **GBV Chapel**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gingerbread Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=685|WoB]]
+
+{{tag>Building Worship GingerbreadVillage KID}}

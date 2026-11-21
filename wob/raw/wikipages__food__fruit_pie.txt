@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fruit Pie ======
+----
+
+<WRAP right>
+^  Fruit Pie                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  42/48  |
+|  Edible  |  Yes  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/fruitpie.png?nolink|Fruit Pie}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fruit Pie is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Fruit Pie Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:bakery:kbbbaker|KBB Baker]]
+  * Produced at the [[buildings:bakery:bgbakery|Bakery (Botanical Garden)]]
+  * Produced at the [[buildings:bakery:shbaker|Baker (Summer Haven)]]
+  * Produced at the [[buildings:bakery:tinybaker|Tiny Baker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain Vegetable}}

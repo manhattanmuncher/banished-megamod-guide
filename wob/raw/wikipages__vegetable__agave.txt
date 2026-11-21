@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Agave ======
+----
+
+<WRAP right>
+^  Agave                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  "Vegetable"  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  7  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tmagave.png?nolink|Agave}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Agave is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 4.
+
+----
+
+===== Agave Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:preparing:tmmasher|Agave Masher]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>"Vegetable"}}

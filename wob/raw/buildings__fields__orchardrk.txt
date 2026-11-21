@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Orchard (Editor's Choice) ======
+----
+
+<WRAP right>
+^  Orchard (Editor's Choice)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchard.png?nolink|Orchard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 3)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup Editor's Choice orchard zone. Farmers tend and harvest fruit from a drag-placed area with 2×2 tile tree spacing. The zone can be sized up to 225 tiles; additional workers are assigned automatically as the zone grows.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice}}</wrap> **Editor's Choice** → **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchard.png?nolink|Orchard}}</wrap> **Orchard**
+
+----
+
+===== Produces =====
+
+  * Food (varies by selected tree type)
+
+----
+
+{{tag>Building Fields}}

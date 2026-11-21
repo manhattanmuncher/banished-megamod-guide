@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly Butcher (Granny Neighborhood) ======
+----
+
+<WRAP right>
+^  Butcher                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbutcher.png?nolink|Friendly Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Granny Neighborhood butcher shop where a butcher processes raw meats into prepared cuts and sausages.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbutcher.png?nolink|Friendly Butcher}}</wrap> **Friendly Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbutcher.png?nolink|Friendly Butcher}}</wrap> **Friendly Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbutcher.png?nolink|Friendly Butcher (Granny Neighborhood)}}</wrap> **Friendly Butcher (Granny Neighborhood)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                     ^ Produces                                          ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                            | [[WikiPages:food:beef_steak|NM Steak]]               |
+| 12 [[WikiPages:food:mutton|Mutton]]                             | [[WikiPages:food:lamb_chop|NM Lamb Chop]]        |
+| 12 [[WikiPages:food:venison|Venison]]                           | [[WikiPages:food:venison_roast|NM Roast]]               |
+| 6 [[WikiPages:food:beef_beef|Beef]]                             | [[WikiPages:food:sausages|Meat Sausages]]     |
+| 6 [[WikiPages:food:mutton|Mutton]]                              | [[WikiPages:food:sausages|Meat Sausages]]     |
+| 6 [[WikiPages:food:venison|Venison]]                            | [[WikiPages:food:sausages|Meat Sausages]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Granny Neighborhood v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=515|WoB]]
+
+{{tag>Building Food KidGrannyNeighborhood}}

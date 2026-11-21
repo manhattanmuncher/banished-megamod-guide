@@ -1,0 +1,74 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron ======
+----
+
+<WRAP right>
+^  Iron                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Iron  |  Iron  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |  1/2  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  5  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  25  |  25  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/iron.png?nolink|Iron}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Iron is a metal resource smelted or refined in the Banished MegaMod. It is stockpiled and serves as a fundamental material for crafting tools and other metal goods. It has a modest trade value of 5.
+
+----
+
+===== Iron Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:mining:mfiron|Iron Deposit (Mexican Fantasy)]]
+  * Smelted at the [[buildings:mining:ironmine|Iron Mine]]
+  * Smelted at the [[buildings:mining:ironminedeep|Dark Mine]]
+  * Smelted at the [[buildings:mining:ironminedeeper|Deep Mine]]
+  * Mined at the [[buildings:mining:ironmineimproved|Mine (Improved)]]
+  * Mined at the [[buildings:mining:apnewmine|New Mine]]
+  * Produced at the [[buildings:resources:abandonedplaces|Abandoned Place]]
+  * Produced at the [[buildings:metalworking:dsblastfurnace|Blast Furnace]]
+  * Produced at the [[buildings:metalworking:dsjabconstructionyardforge|Jetty Construction: Forge]]
+  * Produced at the [[buildings:metalworking:ebsvsmelter|Iron Smelter]]
+  * Mined at the [[buildings:mining:exoticmine|Exotic Mine]]
+  * Smelted at the [[buildings:metalworking:fodfurnace|Smelter (Forge Of Dwarves)]]
+  * Smelted at the [[buildings:metalworking:fodwfurnace|Smelter (Forge Of Dwarves - Winter)]]
+  * Produced at the [[buildings:metalworking:forge|Forge]]
+  * Produced at the [[buildings:metalworking:foundry|Foundry]]
+  * Mined at the [[buildings:mining:ironsandmine|Iron Sand Mine]]
+  * Smelted at the [[buildings:metalworking:industrysmall|Small Iron Smelter]]
+  * Mined at the [[buildings:mining:jinxiebittymine|Bitty Mine Shaft]]
+  * Produced at the [[buildings:metalworking:maritimeshumbleironkiln|Iron Kiln (Maritimes Humble)]]
+  * [[buildings:metalworking:nmt30foundry|Foundry (NMT30)]]
+  * Produced at the [[buildings:mining:otpshipwreck|Shipwreck (Old Town Ports)]]
+  * Produced at the [[buildings:mining:oldhovelmine|Old Mine (Old Hovels)]]
+  * Smelted at the [[buildings:metalworking:prfurnace|Port Royal Furnace]]
+  * Smelted at the [[buildings:metalworking:tefurnace|Ore Furnace]]
+  * Produced at the [[buildings:trading_post:tradercartmine|Trader Cart (Mine)]] (random)
+  * Mined at the [[buildings:trading_post:tradermine|Trader Mine]]
+  * Produced at the [[buildings:trading_post:trainmaterialcar|Train Material Car]]
+  * Produced at the [[buildings:frontier:workcamp|Workcamp]]
+  * Mined at the [[buildings:gathering:mcmine|Mine Cave]] (More Caves)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]]
+  * Used at the [[buildings:crafting:dssvworkshop0small|Small Workshop]]
+  * Used at the [[buildings:crafting:dssvworkshop1|Village Workshop]]
+  * Used at the [[buildings:crafting:dsstonebridgeworkshop|Stone Bridge Workshop]]
+  * Used at the [[buildings:crafting:dswagonvendorworkshop|Wagon Workshop]]
+  * Used at the [[buildings:crafting:tinyworkshop|Tiny Workshop]]
+  * Exported at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Iron}}

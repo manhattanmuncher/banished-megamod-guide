@@ -1,0 +1,104 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fur Coat ======
+----
+
+<WRAP right>
+^  Fur Coat                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Clothing  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  65  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/furcoat.png?nolink|Fur Coat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fur Coat helps keep Banished citizens warm through cold seasons. It is stored in a Barn and distributed automatically to citizens when temperatures drop. At a trade value of 65, it is highly prized by traveling merchants.
+
+----
+
+===== Fur Coat Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:clothier|Clothier]]
+  * Produced at the [[buildings:clothing:cmclothesstore|Clothes Store]]
+  * Produced at the [[buildings:clothing:cornertailort1|Tailor (Corner T1)]]
+  * Produced at the [[buildings:clothing:cornertailort2|Tailor (Corner T2)]]
+  * Produced at the [[buildings:clothing:cornertailort3|Tailor (Corner T3)]]
+  * Produced at the [[buildings:clothing:cornertailort4|Tailor (Corner T4)]]
+  * Produced at the [[buildings:clothing:cornertailort5|Tailor (Corner T5)]]
+  * Produced at the [[buildings:clothing:cornertailort6|Tailor (Corner T6)]]
+  * Produced at the [[buildings:clothing:cornertailort7|Tailor (Corner T7)]]
+  * Produced at the [[buildings:clothing:cornertailort8|Tailor (Corner T8)]]
+  * Produced at the [[buildings:clothing:bodiamtailor|Tailor (Bodiam Castle)]]
+  * Produced at the [[buildings:clothing:tailor|Tailor]]
+  * Produced at the [[buildings:clothing:asptailor|Tailor Shed]]
+  * Produced at the [[buildings:clothing:dsjabjettytailor|Tailor (Jetty, Tex1)]]
+  * Produced at the [[buildings:clothing:dsjabjettytailortex2|Tailor (Jetty, Tex2)]]
+  * Produced at the [[buildings:clothing:dssvtailor|Tailor (Small Village)]]
+  * Produced at the [[buildings:clothing:dstownhousesbstore3x4tailor|Bryggen Town Tailor]]
+  * Produced at the [[buildings:clothing:ebsvtailor|Tailor (EB Small Village)]]
+  * Produced at the [[buildings:clothing:ectailor|Tailor (Editor's Choice)]]
+  * Produced at the [[buildings:clothing:esshouses6ta|Seamstress]]
+  * Produced at the [[buildings:clothing:fbtailor|Tailor (Friendly Blue)]]
+  * Produced at the [[buildings:clothing:fbttailor|Tailor (Friendly Blue Too)]]
+  * Produced at the [[buildings:clothing:fntailor|Tailor (Friendly Neighborhood)]]
+  * Produced at the [[buildings:clothing:fodtailor|Duds (Forge of Dwarves)]]
+  * Produced at the [[buildings:clothing:fodwtailor|Duds (Forge of Dwarves - Winter)]]
+  * Produced at the [[buildings:clothing:fptailor|Tailor (Friendly Pumpkin)]]
+  * Produced at the [[buildings:clothing:ftctailor|Tailor (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:clothing:fairygardenfrockmaker|Frock Maker (Fairy Garden)]]
+  * Produced at the [[buildings:clothing:fairygardenfrockmakerleaves|Frock Maker (Fairy Garden, Leaves)]]
+  * Produced at the [[buildings:clothing:fairygardenfrockmakerPines|Frock Maker (Fairy Garden, Pines)]]
+  * Produced at the [[buildings:clothing:gftailor1|Small Tailor (Gothic Fantasy 1)]]
+  * Produced at the [[buildings:clothing:gftailor2|Small Tailor (Gothic Fantasy 2)]]
+  * Produced at the [[buildings:clothing:gntailor|Friendly Tailor (Granny Neighborhood)]]
+  * Produced at the [[buildings:clothing:gtnewtailor|Tailor (Ghost Town)]]
+  * Produced at the [[buildings:clothing:gtstailor|Tailor (Ghost Town Houses)]]
+  * Produced at the [[buildings:clothing:hillsidetailor|Hillside Tailor]]
+  * Produced at the [[buildings:clothing:hobbittailor|Tailor (Hobbit)]]
+  * Produced at the [[buildings:clothing:jinxiebittytailor|Bitty Tailor]]
+  * Produced at the [[buildings:clothing:mftailor|Tailor (Mexican Fantasy)]]
+  * Produced at the [[buildings:clothing:naratailor|Nara Tailor]]
+  * Produced at the [[buildings:clothing:newmedievaltailor|Medieval Tailor]]
+  * Produced at the [[buildings:clothing:newmedievaltailorupg1|Medieval Tailor (Upgrade 1)]]
+  * Produced at the [[buildings:clothing:newmedievaltailorupg2|Medieval Tailor (Upgrade 2)]]
+  * Produced at the [[buildings:clothing:newmedievaltailorupg3|Medieval Tailor (Upgrade 3)]]
+  * Produced at the [[buildings:clothing:nvneedlework|Needlework]]
+  * Produced at the [[buildings:clothing:ootwclothes|Clothes Fabricator]]
+  * Produced at the [[buildings:clothing:oldhoveltailor|Old Tailor (Old Hovels)]]
+  * Produced at the [[buildings:clothing:oldtailorhouseshop|Old Tailor Shop]]
+  * Produced at the [[buildings:clothing:ottailor|Old Tailor (Old Town)]]
+  * Produced at the [[buildings:clothing:otstonetailor|Old Tailor (Old Town, Stone)]]
+  * Produced at the [[buildings:clothing:pinetailor|Pine Tailor]]
+  * Produced at the [[buildings:clothing:prtailor|Port Royal Tailor]]
+  * Produced at the [[buildings:clothing:rkmctailorhouse|Tailor house]]
+  * Produced at the [[buildings:clothing:sbtailor|Sherbrooke Tailor]]
+  * Produced at the [[buildings:clothing:sbvtailor|Mission Tailor]]
+  * Produced at the [[buildings:clothing:shatowertailor|Tailor (Stone House Addon)]]
+  * Produced at the [[buildings:clothing:settlersseamstress|Seamstress (Settlers)]]
+  * Produced at the [[buildings:clothing:shwtailor|Tailor (Summer Haven)]]
+  * Produced at the [[buildings:clothing:stitcher|Uniform Maker]]
+  * Produced at the [[buildings:clothing:tctailor|Tailor (Tangerine Center)]]
+  * Produced at the [[buildings:clothing:cc17clothier|Tailoring Company]]
+  * Produced at the [[buildings:clothing:rht|Small Town Tailor]]
+  * Produced at the [[buildings:clothing:tieredtailor|Urban Tailor]]
+  * Produced at the [[buildings:clothing:tinytailor|Tiny Tailor]]
+  * Produced at the [[buildings:clothing:wfcoatmaker|Fort Coat Maker]]
+  * Produced at the [[buildings:clothing:wptailor|Tailor (Workplace)]]
+  * Produced at the [[buildings:clothing:pinefurriershut|Pine Furriers Hut]]
+
+==== Processing / what to do with ====
+  * Exported at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Clothing ClothingWarm}}

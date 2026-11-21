@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medium Barn ======
+----
+
+<WRAP right>
+^  Medium Barn                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/mediumbarn.png?nolink|Medium Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town medium-sized general storage barn. Settlers store food, fuel, tools, clothing, and a wide variety of goods with a capacity of 6,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mediumbarn.png?nolink|Medium Barn}}</wrap> **Medium Barn**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Storage}}

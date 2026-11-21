@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sugar Cane ======
+----
+
+<WRAP right>
+^  Sugar Cane                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/sugarcane.png?nolink|Sugar Cane}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Sugar Cane is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Sugar Cane Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Vegetable}}

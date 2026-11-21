@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Baker (Settlers) ======
+----
+
+<WRAP right>
+^  Baker                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersbaker.png?nolink|Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Settlers mod bakery where a baker produces bread and other baked goods from flour and local ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersbaker.png?nolink|Baker}}</wrap> **Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersbaker.png?nolink|Baker}}</wrap> **Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersbaker.png?nolink|Baker (Settlers)}}</wrap> **Baker (Settlers)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                           ^ Produces                                              ^
+| 15 [[WikiPages:grain:flour|Flour]]                                                                    | [[WikiPages:food:bread_bread|Bread]]                  |
+| 10 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:walnut|Walnut]]                              | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]       |
+| 10 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:health:herb|Herb]]                                | [[WikiPages:food:herb_bread|Herb Bread]]              |
+| 10 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:blueberries|Blueberry]]                      | [[WikiPages:food:jelly_bun|Jelly Bun]]                |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Bakery Settlers}}

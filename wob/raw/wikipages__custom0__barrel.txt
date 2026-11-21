@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Barrel ======
+----
+
+<WRAP right>
+^  Barrel                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/2  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/barrel.png?nolink|Barrel}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Barrel is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Barrel Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:crafting:cooper|Cooper]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

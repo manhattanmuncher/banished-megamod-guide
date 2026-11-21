@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Home Grown House 02 ======
+----
+
+<WRAP right>
+^  Home Grown House 02                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouse02.png?nolink|Home Grown House 02}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  75  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:food:squash|Squash]]  |  1  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+|  [[WikiPages:custom7:compost|Compost]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Home Grown house; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouses.png?nolink|Home Grown Houses}}</wrap> **Home Grown Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouse02.png?nolink|Home Grown House 02}}</wrap> **Home Grown House 02**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouses.png?nolink|Home Grown Houses}}</wrap> **Home Grown Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouse02.png?nolink|Home Grown House 02}}</wrap> **Home Grown House 02**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouse00.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhghouse02.png?nolink|Home Grown House 02}}</wrap> **Home Grown House 02**
+
+----
+
+This building originally came from **Home Grown v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=629|WoB]]
+
+{{tag>Building Houses KidHomeGrown}}

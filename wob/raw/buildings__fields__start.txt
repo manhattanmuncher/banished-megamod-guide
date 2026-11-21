@@ -1,0 +1,85 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fields ======
+----
+
+Fields and growing areas for crops and other agricultural products.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:fields:patchbarley|Barley Patch]] | Butcher & Baker crop field; Worker grows Barley year-round with no input materials |
+| [[buildings:fields:settlerspatchberry|Berry Patch (Settlers)]] | Settlers mod berry patch; workers tend blueberry plants to produce berries |
+| [[buildings:fields:mfpatchcorn|Corn Patch]] | Mexican Fantasy crop field; workers irrigate with Water to grow Corn |
+| [[buildings:fields:fppatchcorn|Corn Patch (Friendly Pumpkin)]] | Friendly Pumpkin corn patch; workers cultivate and harvest Corn each season |
+| [[buildings:fields:mfpatchcotton|Cotton Patch]] | Mexican Fantasy crop field; workers irrigate with Water to grow Cotton |
+| [[buildings:fields:patchcotton|Cotton Patch (Coats & Cloth)]] | Coats & Cloth crop field; Worker grows Cotton year-round with no input materials |
+| [[buildings:fields:nmtcranberryfarm|Cranberry Bog (NMT Dock)]] | NMT Docks cranberry bog; Farmer grows Cranberries from the water; no seeds required |
+| [[buildings:fields:ebsvcropfield|Crop Field (EB Simple Village)]] | EB Simple Village crop field; Farmer grows the selected crop; variable size; free to designate |
+| [[buildings:fields:orchard2|Dense Orchard]] | Colonial Charter orchard zone; Farmer tends and harvests fruit trees with 2×2 tile spacing |
+| [[buildings:fields:orchard2trans|Dense Orchard (Transparent)]] | Colonial Charter orchard zone with transparent ground cover; Farmer tends and harvests fruit trees with 2×2 tile spacing |
+| [[buildings:fields:kf01|Farmyard 01]] | KID Farmyard plot; produces apples, wheat, beans, eggs, and firewood |
+| [[buildings:fields:kf02|Farmyard 02]] | KID Farmyard plot; produces blueberries, corn, potatoes, eggs, and firewood |
+| [[buildings:fields:kf03|Farmyard 03]] | KID Farmyard plot; produces pears, corn, cabbage, and beans |
+| [[buildings:fields:kf04|Farmyard 04]] | KID Farmyard plot; produces wheat, potatoes, cabbage, milk, and firewood |
+| [[buildings:fields:kf05|Farmyard 05]] | KID Farmyard plot; produces pears, oats, milk, leather coats, and tools |
+| [[buildings:fields:kf06|Farmyard 06]] | KID Farmyard plot; produces apples, oats, milk, and carrots |
+| [[buildings:fields:kf07|Farmyard 07]] | KID Farmyard plot; produces blueberries, corn, cabbage, potatoes, and eggs |
+| [[buildings:fields:kf08|Farmyard 08]] | KID Farmyard plot; produces potatoes, oats, carrots, wool coats, and wool |
+| [[buildings:fields:kf09|Farmyard 09]] | KID Farmyard plot; produces tomatoes, corn, peppers, and eggs |
+| [[buildings:fields:kf10|Farmyard 10]] | KID Farmyard plot; produces apples, Brussels sprouts, pumpkins, turkey meat, and firewood |
+| [[buildings:fields:kf11|Farmyard 11]] | KID Farmyard plot; produces honey, corn, blueberries, and beans |
+| [[buildings:fields:kf12|Farmyard 12]] | KID Farmyard plot; produces chestnuts, oats, carrots, and sweet potatoes |
+| [[buildings:fields:kf13|Farmyard 13]] | KID Farmyard plot; produces swinemeat, apples, mushrooms, and leather |
+| [[buildings:fields:kf14|Farmyard 14]] | KID Farmyard plot; produces milk, corn, beef, and leather |
+| [[buildings:fields:kf15|Farmyard 15]] | KID Farmyard plot; produces milk, corn, beef, and leather (variant) |
+| [[buildings:fields:kf16|Farmyard 16]] | KID Farmyard plot; produces duck meat, eggs, and down |
+| [[buildings:fields:kf17|Farmyard 17]] | KID Farmyard plot; produces corn, beans, and squash |
+| [[buildings:fields:kf18|Farmyard 18]] | KID Farmyard plot; produces cranberries |
+| [[buildings:fields:mfpatchflax|Flax Patch]] | Mexican Fantasy crop field; workers irrigate with Water to grow Flax |
+| [[buildings:fields:patchflax|Flax Patch (Coats & Cloth)]] | Coats & Cloth crop field; Worker grows Linen year-round with no input materials |
+| [[buildings:fields:settlerspatchflax|Flax Patch (Settlers)]] | Settlers mod flax patch; workers tend flax plants for textile fiber |
+| [[buildings:fields:bgherbgarden|Herb Garden]] | Botanical Garden building; farmer cultivates herbs and spices in a compact plot |
+| [[buildings:fields:settlerspatchherb|Herb Patch (Settlers)]] | Settlers mod herb patch; workers cultivate medicinal herbs |
+| [[buildings:fields:patchoat|Oat Patch]] | Butcher & Baker crop field; Worker grows Oat year-round with no input materials |
+| [[buildings:fields:orchardrk|Orchard (Editor's Choice)]] | RedKetchup Editor's Choice orchard zone; Farmer tends and harvests fruit trees with 2×2 tile spacing; zone scales up to 225 tiles |
+| [[buildings:fields:patchbean|Patch Bean]] | Kid - Patchwork crop field; Worker grows Bean year-round with no input materials |
+| [[buildings:fields:patchbrusselsprouts|Patch Brussel Sprouts]] | Kid - Patchwork crop field; Worker grows Brussel Sprouts year-round with no input materials |
+| [[buildings:fields:patchcabbage|Patch Cabbage]] | Kid - Patchwork crop field; Worker grows Cabbage year-round with no input materials |
+| [[buildings:fields:patchcarrots|Patch Carrots]] | Kid - Patchwork crop field; Worker grows Carrots year-round with no input materials |
+| [[buildings:fields:patchcorn|Patch Corn]] | Kid - Patchwork crop field; Worker grows Corn year-round with no input materials |
+| [[buildings:fields:patchmushroom|Patch Mushroom]] | Kid - Patchwork crop field; Worker grows Mushroom year-round with no input materials |
+| [[buildings:fields:patchonion|Patch Onion]] | Kid - Patchwork crop field; Worker grows Onion year-round with no input materials |
+| [[buildings:fields:patchpepper|Patch Pepper]] | Kid - Patchwork crop field; Worker grows Pepper year-round with no input materials |
+| [[buildings:fields:patchpotato|Patch Potato]] | Kid - Patchwork crop field; Worker grows Potato year-round with no input materials |
+| [[buildings:fields:patchpumpkin|Patch Pumpkin]] | Kid - Patchwork crop field; Worker grows Pumpkin year-round with no input materials |
+| [[buildings:fields:patchsquash|Patch Squash]] | Kid - Patchwork crop field; Worker grows Squash year-round with no input materials |
+| [[buildings:fields:patchstrawberry|Patch Strawberry]] | Kid - Patchwork crop field; Worker grows Strawberry year-round with no input materials |
+| [[buildings:fields:patchsunflower|Patch Sunflower]] | Kid - Patchwork crop field; Worker grows Sunflower year-round with no input materials; produces Kernels |
+| [[buildings:fields:patchsweetpotato|Patch Sweet Potato]] | Kid - Patchwork crop field; Worker grows Sweet Potato year-round with no input materials |
+| [[buildings:fields:patchtomato|Patch Tomato]] | Kid - Patchwork crop field; Worker grows Tomato year-round with no input materials |
+| [[buildings:fields:patchwheat|Patch Wheat]] | Kid - Patchwork crop field; Worker grows Wheat year-round with no input materials |
+| [[buildings:fields:mfpatchpepper|Pepper Patch]] | Mexican Fantasy crop field; workers irrigate with Water to grow Pepper |
+| [[buildings:fields:prairieorchard|Prairie Orchard]] | Kid Westward Ho drag-to-place orchard zone; Farmer tends and harvests fruit trees with 2×3 tile spacing |
+| [[buildings:fields:hobbitproudfoot|Proudfoot's Carrots (Hobbit)]] | Hobbit Homes carrot garden; workers cultivate and harvest Carrots |
+| [[buildings:fields:fppatchpumpkin|Pumpkin Patch (Friendly Pumpkin)]] | Friendly Pumpkin pumpkin patch; workers cultivate and harvest Pumpkins each season |
+| [[buildings:fields:nmtricefarm|Rice Farm (NMT Dock)]] | NMT Docks rice farm; Farmer grows Rice from the water; no seeds required |
+| [[buildings:fields:ricepaddy|Rice Paddy]] | A8 Japanese flooded rice field; Farmer grows Rice; variable size; free to designate |
+| [[buildings:fields:dockplanter|Rice Planter]] | Colonial Charter Dock paddy; Wetworker plants Rice on the water |
+| [[buildings:fields:patchrye|Rye Patch]] | Butcher & Baker crop field; Worker grows Rye year-round with no input materials |
+| [[buildings:fields:orchard|Standard Orchard]] | Colonial Charter orchard zone; Farmer tends and harvests fruit trees with 2×3 tile spacing |
+| [[buildings:fields:orchard1trans|Standard Orchard (Transparent)]] | Colonial Charter orchard zone with transparent ground cover; Farmer tends and harvests fruit trees with 2×3 tile spacing |
+| [[buildings:fields:nvtobaccopatch|Tobacco Patch]] | Native Village tobacco field; workers tend and harvest tobacco leaves |
+| [[buildings:fields:mfpatchtomato|Tomato Patch]] | Mexican Fantasy crop field; workers irrigate with Water to grow Tomatoes |
+| [[buildings:fields:orchard3|Very Dense Orchard]] | Colonial Charter orchard zone; Farmer tends and harvests fruit trees with 1×2 tile spacing |
+| [[buildings:fields:dssvcropfield|Village Crop Field (DS Small Village)]] | DS Small Village crop field; Farmer grows the selected crop; variable size; free to designate |
+| [[buildings:fields:ftvines|Vines (Fairy Tale Cottage)]] | Fairy Tale Cottage vines trellis; produces Vines used in crafting Elven Bows |
+| [[buildings:fields:jwvineyard|Vineyard]] | Jam & Wine mod field; workers harvest grapes from grapevines |
+| [[buildings:fields:nmtwatercressfarm|Watercress Farm (NMT Dock)]] | NMT Docks watercress farm; Farmer grows Watercress from the water; no seeds required |
+| [[buildings:fields:patchweed|Weed Patch (Coats & Cloth)]] | Coats & Cloth wild patch; Worker forages a random yield of Down, Fur, Egg, Rabbit Meat, or Game with no input materials |
+| [[buildings:fields:mulberrygrove|White Mulberry Grove]] | Grove tended for mulberry leaves used in silk production |
+| [[buildings:fields:cropfield|Crop Field]] | Vanilla Banished crop field; Farmer grows crops from seeds; variable size designation; free to build |
+
+----
+
+{{tag>Buildings Fields}}

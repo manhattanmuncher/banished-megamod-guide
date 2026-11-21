@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Meat Tinnery ======
+----
+
+<WRAP right>
+^  Meat Tinnery                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinnerymeat.png?nolink|Meat Tinnery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinner.png?nolink|Tinner}}</wrap> Tinner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 18)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+|  [[WikiPages:custom1:tin|Tin]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter tinnery where Tinners preserve fresh meat into Tinned Meat using Tin. Produces more food value than the raw ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartinnery.png?nolink|Tinneries}}</wrap> **Tinneries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinnerymeat.png?nolink|Meat Tinnery}}</wrap> **Meat Tinnery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartinnery.png?nolink|Tinneries}}</wrap> **Tinneries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinnerymeat.png?nolink|Meat Tinnery}}</wrap> **Meat Tinnery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                         ^ Produces                                          ^
+| 20 [[WikiPages:food:fish|Fish]] + 1 [[WikiPages:custom1:tin|Tin]]                                                  | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:beef_beef|Beef]] + 1 [[WikiPages:custom1:tin|Tin]]                                              | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:mutton|Mutton]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:venison|Venison]] + 1 [[WikiPages:custom1:tin|Tin]]                                             | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:chicken|Chicken]] + 1 [[WikiPages:custom1:tin|Tin]]                                             | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:duck_meat|Duck Meat]] + 1 [[WikiPages:custom1:tin|Tin]]                                         | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:charki|Charki]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:cheval|Cheval]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:pork|Pork]] + 1 [[WikiPages:custom1:tin|Tin]]                                                   | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:seal_meat|Seal Meat]] + 1 [[WikiPages:custom1:tin|Tin]]                                         | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+| 20 [[WikiPages:food:oyster|Oyster]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_meat|Tinned Meat]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Preserving ColonialCharter}}

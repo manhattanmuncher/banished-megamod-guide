@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Angling Pad (Out of This World) ======
+----
+
+<WRAP right>
+^  Angling Pad                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwanglingpad.png?nolink|Angling Pad}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Out of This World fishing pier. Fishermen catch [[WikiPages:food:fish|Fish]] from within a 14-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out of This World}}</wrap> **Out of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwanglingpad.png?nolink|Angling Pad}}</wrap> **Angling Pad**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out of This World}}</wrap> **Out of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwanglingpad.png?nolink|Angling Pad}}</wrap> **Angling Pad**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+  * Must be placed on water.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwanglingpad.png?nolink|Angling Pad (Out of This World)}}</wrap> **Angling Pad (Out of This World)**
+
+----
+
+This building originally came from **Out of This World Houses v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=641|WoB]]
+
+{{tag>Building Fishing OutOfThisWorld}}

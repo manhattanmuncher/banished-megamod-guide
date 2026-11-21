@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Compost ======
+----
+
+<WRAP right>
+^  Compost                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/compost.png?nolink|Compost}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Compost is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Compost Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:herbalist:ftcompostheap|Compost Bin (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgpatchonion|Onion Patch (Home Grown)]]
+  * Used at the [[buildings:greenhouse:hgpatchpepper|Pepper Patch (Home Grown)]]
+  * Used at the [[buildings:greenhouse:hgpatchpumpkin|Pumpkin Patch (Home Grown)]]
+  * Used at the [[buildings:greenhouse:hgpatchsquash|Squash Patch (Home Grown)]]
+  * Used at the [[buildings:greenhouse:hgpatchtomato|Tomato Patch (Home Grown)]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silk Cocoons ======
+----
+
+<WRAP right>
+^  Silk Cocoons                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/6  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/cocoons.png?nolink|Silk Cocoons}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silk Cocoons are a raw textile material gathered or produced in the Banished MegaMod. They are stored in a Barn and used as an ingredient in clothing and other crafted goods. They carry a trade value of 8, making them a worthwhile commodity for trade.
+
+----
+
+===== Silk Cocoons Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:animal_pens:silkwormhut|Silkworm Hut]]
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:weavers|Weavers]]
+  * Used at the [[buildings:milling:watermill3|Watermill 3]] (for Silk)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

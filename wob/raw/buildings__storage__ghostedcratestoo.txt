@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ghosted Crates (Too) ======
+----
+
+<WRAP right>
+^  Ghosted Crates                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghostedcratestoo.png?nolink|Ghosted Crates}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  400  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+Ghost-style storage crates, barrels, and sacks with no footprint and no construction cost. Settlers store food, tools, clothing, and a variety of goods with a capacity of 400 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghostedcratestoo.png?nolink|Ghosted Crates}}</wrap> **Ghosted Crates**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghostedcratestoo.png?nolink|Ghosted Crates}}</wrap> **Ghosted Crates**
+
+----
+
+This building originally came from **Crates v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=522|WoB]], [[https://banishedinfo.com/mods/view/871-Storage-Crates|BI]]
+
+{{tag>Building Storage}}

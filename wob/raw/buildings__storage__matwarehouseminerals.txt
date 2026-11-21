@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Minerals Warehouse ======
+----
+
+<WRAP right>
+^  Minerals Warehouse                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmatwarehouseminerals.png?nolink|Minerals Warehouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  9,800  |
+|  Storage Categories  |  Coal Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  33  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  12  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter minerals warehouse. Settlers store coal fuel with a capacity of 9,800 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccmatwarehouse.png?nolink|Materials Warehouse}}</wrap> **Materials Warehouse** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmatwarehouseminerals.png?nolink|Minerals Warehouse}}</wrap> **Minerals Warehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccmatwarehouse.png?nolink|Materials Warehouse}}</wrap> **Materials Warehouse** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmatwarehouseminerals.png?nolink|Minerals Warehouse}}</wrap> **Minerals Warehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmatwarehouseminerals.png?nolink|Minerals Warehouse}}</wrap> **Minerals Warehouse**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rail Carts Small (Coal Fuel) ======
+----
+
+<WRAP right>
+^  Rail Carts Small (Coal Fuel)                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsrailcartssmallcoalfuel.png?nolink|Rail Carts Small (Coal Fuel)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Storage Categories  |  Coal Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  13  |
+|  [[WikiPages:wood:log|Wood]]  |  3  |
+|  [[WikiPages:iron:iron|Iron]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods decorative small rail cart for coal storage. Settlers store coal fuel with a capacity of 300 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragewbc.png?nolink|Wagons, Barrows & Carts}}</wrap> **Wagons, Barrows & Carts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsrailcartssmallcoalfuel.png?nolink|Rail Carts Small (Coal Fuel)}}</wrap> **Rail Carts Small (Coal Fuel)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragewbc.png?nolink|Wagons, Barrows & Carts}}</wrap> **Wagons, Barrows & Carts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsrailcartssmallcoalfuel.png?nolink|Rail Carts Small (Coal Fuel)}}</wrap> **Rail Carts Small (Coal Fuel)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsrailcartssmallcoalfuel.png?nolink|Rail Carts Small (Coal Fuel)}}</wrap> **Rail Carts Small (Coal Fuel)**
+
+----
+
+{{tag>Building Storage DS}}

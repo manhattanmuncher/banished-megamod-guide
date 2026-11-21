@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lemon Groove (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Lemon Groove                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplemongroove.png?nolink|Lemon Groove (Old Town Ports)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/grovetender.png?nolink|Grovetender}}</wrap> Grovetender  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  96.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports lemon grove where a grovetender tends lemon trees and harvests lemons.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplemongroove.png?nolink|Lemon Groove}}</wrap> **Lemon Groove**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplemongroove.png?nolink|Lemon Groove}}</wrap> **Lemon Groove**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplemongroove.png?nolink|Lemon Groove}}</wrap> **Lemon Groove**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:lemon|Lemon]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town Ports & Pirates v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=493|WoB]]
+
+{{tag>Building Food Gathering OldTownPorts}}

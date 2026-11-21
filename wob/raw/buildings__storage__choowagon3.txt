@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Choo Choo: Material Wagon ======
+----
+
+<WRAP right>
+^  Choo Choo: Material Wagon                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon3.png?nolink|Choo Choo: Material Wagon}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Wood, Stone, Iron, Fuel, Coal Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Choo Choo mod material wagon for storing raw building materials in transit. Settlers store wood, stone, iron, and fuel with a capacity of 5,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/trains.png?nolink|Trains}}</wrap> **Trains** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon3.png?nolink|Choo Choo: Material Wagon}}</wrap> **Choo Choo: Material Wagon**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/trains.png?nolink|Trains}}</wrap> **Trains** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon3.png?nolink|Choo Choo: Material Wagon}}</wrap> **Choo Choo: Material Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/choowagon3.png?nolink|Choo Choo: Material Wagon}}</wrap> **Choo Choo: Material Wagon**
+
+----
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building Storage ChooChoo}}

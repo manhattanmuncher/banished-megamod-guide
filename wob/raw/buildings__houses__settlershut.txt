@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Settlers Hut ======
+----
+
+<WRAP right>
+^  Settlers Hut                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershut.png?nolink|Settlers Hut}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Settlers mod hut; houses up to 3 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershousing.png?nolink|Settlers Houses}}</wrap> **Settlers Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershut.png?nolink|Settlers Hut}}</wrap> **Settlers Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershousing.png?nolink|Settlers Houses}}</wrap> **Settlers Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershut.png?nolink|Settlers Hut}}</wrap> **Settlers Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlershut.png?nolink|Settlers Hut}}</wrap> **Settlers Hut**
+
+----
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Houses Settlers}}

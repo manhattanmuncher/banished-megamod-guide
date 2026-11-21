@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hangikjot ======
+----
+
+<WRAP right>
+^  Hangikjot                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  12/14  |
+|  Edible  |  Yes  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/hangikjot.png?nolink|Hangikjot}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Hangikjot is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 4.
+
+----
+
+===== Hangikjot Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:preserving:smokehouse|Smokehouse]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

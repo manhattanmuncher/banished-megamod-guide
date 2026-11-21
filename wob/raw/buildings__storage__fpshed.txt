@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly Shed (Friendly Pumpkin) ======
+----
+
+<WRAP right>
+^  Friendly Shed                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpshed.png?nolink|Friendly Shed}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  22  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Friendly Pumpkin compact storage shed. Settlers store food, tools, clothing, and a wide variety of goods with a capacity of 1,200 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpshed.png?nolink|Friendly Shed}}</wrap> **Friendly Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpshed.png?nolink|Friendly Shed}}</wrap> **Friendly Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpshed.png?nolink|Friendly Shed (Friendly Pumpkin)}}</wrap> **Friendly Shed (Friendly Pumpkin)**
+
+----
+
+This building originally came from **Friendly Pumpkin v1.12**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=578|WoB]]
+
+{{tag>Building Storage}}

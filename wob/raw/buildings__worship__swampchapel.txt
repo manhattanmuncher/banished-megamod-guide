@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Swamp Chapel ======
+----
+
+<WRAP right>
+^  Swamp Chapel                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampchapel.png?nolink|Swamp Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Worship type">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit  |
+|  <abbr "Service radius in tiles">Radius</abbr>  |  35  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  80  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A swamp chapel staffed by a Priest, providing Spirit happiness to up to 80 worshippers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampthing.png?nolink|Swamp Thing}}</wrap> **Swamp Thing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampchapel.png?nolink|Swamp Chapel}}</wrap> **Swamp Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampthing.png?nolink|Swamp Thing}}</wrap> **Swamp Thing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampchapel.png?nolink|Swamp Chapel}}</wrap> **Swamp Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampchapel.png?nolink|Swamp Chapel}}</wrap> **Swamp Chapel**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Swamp Thing v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=439|WoB]]
+
+{{tag>Building Worship SwampThing}}

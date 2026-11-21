@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dark Tin Ore Mine Shaft ======
+----
+
+<WRAP right>
+^  Dark Tin Ore Mine Shaft                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinmineupgrade.png?nolink|Dark Tin Ore Mine Shaft}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 5)  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  45  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  3100  |
+|  Upgraded From  |  Tinmine  |
+|  Upgrades To  |  [[buildings:mining:tinminedeeper|Deep Tin Ore Mine Shaft]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  128  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:custom0:candles|Candles]]  |  70  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Dark Tin Ore Mine Shaft is an upgraded Tinmine that extracts Tin Ore deeper underground. It can also smelt Tin directly by consuming Furnace Fuel. When depleted it can be upgraded to the Deep Tin Ore Mine Shaft for unlimited production.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the Tinmine.
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:tin_ore|Tin Ore]]
+  * [[WikiPages:custom1:tin|Tin]] (consumes [[WikiPages:custom3:furnace_fuel|Furnace Fuel]])
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining TinmineDeep}}

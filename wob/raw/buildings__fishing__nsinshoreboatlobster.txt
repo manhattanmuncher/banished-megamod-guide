@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lobster Boat ======
+----
+
+<WRAP right>
+^  Lobster Boat                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshoreboatlobster.png?nolink|Lobster Boat}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:dory|Dory]]  |  1  |
+|  [[WikiPages:custom0:lobster_pot|Lobster Pot]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Lobster Boat from the NS Inshore mod. Catches lobster up to a maximum of 300.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshoreboatlobster.png?nolink|Lobster Boat}}</wrap> **Lobster Boat**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshoreboatlobster.png?nolink|Lobster Boat}}</wrap> **Lobster Boat**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:lobster|Lobster]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes NS Inshore Fisheries v103**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=223|WoB]]
+
+{{tag>Building Fishing}}

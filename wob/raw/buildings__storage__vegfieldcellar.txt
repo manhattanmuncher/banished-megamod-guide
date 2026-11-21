@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Vegetable Field Cellar ======
+----
+
+<WRAP right>
+^  Vegetable Field Cellar                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvegfieldcellar.png?nolink|Vegetable Field Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,000  |
+|  Storage Categories  |  Vegetable  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  9  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Storage vegetable field cellar dedicated to vegetable storage. Settlers store vegetables with a capacity of 3,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvegfieldcellar.png?nolink|Vegetable Field Cellar}}</wrap> **Vegetable Field Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragecellars.png?nolink|Cellars}}</wrap> **Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvegfieldcellar.png?nolink|Vegetable Field Cellar}}</wrap> **Vegetable Field Cellar**
+
+----
+
+{{tag>Building Storage DS}}

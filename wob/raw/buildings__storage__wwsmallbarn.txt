@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Barn (Wild West Cattle Drive) ======
+----
+
+<WRAP right>
+^  Small Barn (Wild West Cattle Drive)                                               ^  Wild West Cattle Drive  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwsmallbarn.png?nolink|Small Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  9,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Custom 0–2, 6–9  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Wild West Cattle Drive small barn. Settlers store food, tools, health items, clothing, and textiles with a capacity of 9,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+----
+
+{{tag>Building Storage KidWWCattle KID}}

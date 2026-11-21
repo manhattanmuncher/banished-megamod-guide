@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Barn (Forest Outpost) ======
+----
+
+<WRAP right>
+^  Small Barn                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfobarn.png?nolink|Small Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Outpost general-purpose storage barn. Settlers store food, tools, clothing, and a variety of goods with a capacity of 5,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestoutpost.png?nolink|Forest Outpost}}</wrap> **Forest Outpost** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfobarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestoutpost.png?nolink|Forest Outpost}}</wrap> **Forest Outpost** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfobarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfobarn.png?nolink|Small Barn (Forest Outpost)}}</wrap> **Small Barn (Forest Outpost)**
+
+----
+
+{{tag>Building Storage}}

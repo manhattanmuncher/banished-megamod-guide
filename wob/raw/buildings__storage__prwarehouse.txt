@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal Warehouse ======
+----
+
+<WRAP right>
+^  Port Royal Warehouse                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprwarehouse.png?nolink|Port Royal Warehouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Fuel, Wood, Stone, Iron, Coal Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Port Royal warehouse. Settlers store fuel, building materials, and raw resources with a capacity of 5,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/portroyal.png?nolink|Port Royal Storage}}</wrap> **Port Royal Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprwarehouse.png?nolink|Port Royal Warehouse}}</wrap> **Port Royal Warehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage}}</wrap> **Necora's Maritimes Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/portroyal.png?nolink|Port Royal Storage}}</wrap> **Port Royal Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprwarehouse.png?nolink|Port Royal Warehouse}}</wrap> **Port Royal Warehouse**
+
+----
+
+This building originally came from **Maritimes Port Royal**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=367|WoB]]
+
+{{tag>Building Storage Maritimes}}

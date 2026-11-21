@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Soaring Rowhouse 5B ======
+----
+
+<WRAP right>
+^  Soaring Rowhouse 5B                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowt5b.png?nolink|Soaring Rowhouse 5B}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  140  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  130  |
+|  [[WikiPages:custom5:brick|Brick]]  |  30  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  5  |
+|  [[WikiPages:custom5:furnishing_kit2|Furnishing Kit 2]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:narrowt5a|Soaring Rowhouse 5A]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowrowhousestoolbar.png?nolink|Narrow Row Houses}}</wrap> **Narrow Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowt5b.png?nolink|Soaring Rowhouse 5B}}</wrap> **Soaring Rowhouse 5B**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowrowhousestoolbar.png?nolink|Narrow Row Houses}}</wrap> **Narrow Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowt5b.png?nolink|Soaring Rowhouse 5B}}</wrap> **Soaring Rowhouse 5B**
+
+----
+
+{{tag>Building Houses NarrowRowHouses}}

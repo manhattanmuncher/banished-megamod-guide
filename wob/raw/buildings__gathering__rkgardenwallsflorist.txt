@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Florist ======
+----
+
+<WRAP right>
+^  Florist                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsflorist.png?nolink|Florist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  32  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  32  |
+|  Stone  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup Editor's Choice Garden Walls florist. A Gatherer wanders and collects Flowers and Seedlings from within a 32-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Produce}}</wrap> **Resource Produce** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsflorist.png?nolink|Florist}}</wrap> **Florist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Resources}}</wrap> **RK Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsflorist.png?nolink|Florist}}</wrap> **Florist**
+
+----
+
+===== Produces =====
+
+  * Flowers
+  * Seedlings
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Gathering RKEditorChoiceEdition}}

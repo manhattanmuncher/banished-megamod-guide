@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herbs (Market Puzzle) ======
+----
+
+<WRAP right>
+^  Herbs                                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/mpherbs.png?nolink|Herbs}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  Workers  |  1  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  1,600  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Market Puzzle herbs stall. Distributes health items to nearby settlers; provides Goods happiness. Smallest Market Puzzle building.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|KID Storage}}</wrap> **KID Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketpuzzle.png?nolink|Market Puzzle}}</wrap> **Market Puzzle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mpherbs.png?nolink|Herbs}}</wrap> **Herbs**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketstall.png?nolink|Market Stalls, Carts, and Wagons}}</wrap> **Market Stalls, Carts, and Wagons** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketpuzzle.png?nolink|Market Puzzle}}</wrap> **Market Puzzle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mpherbs.png?nolink|Herbs}}</wrap> **Herbs**
+
+----
+
+===== Stocks =====
+
+  * Health items
+
+----
+
+===== Other Information =====
+
+This building originally came from **Market Puzzle v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=231|WoB]], [[https://banishedinfo.com/mods/view/888-Market-Puzzle|BI]]
+
+{{tag>Market}}

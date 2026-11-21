@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== House Jam ======
+----
+
+<WRAP right>
+^  House Jam                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  17/19  |
+|  Edible  |  Yes  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/blueberryjam.png?nolink|House Jam}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+House Jam is a fruit harvested from orchards or gathered in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 4.
+
+----
+
+===== House Jam Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

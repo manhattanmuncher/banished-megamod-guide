@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Strong Ale Storage Pile ======
+----
+
+<WRAP right>
+^  Strong Ale Storage Pile                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstrongalestoragepiles.png?nolink|Strong Ale Storage Pile}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods small alcohol storage pile. Settlers stack ale, mead, wine, and other alcohol with a capacity of 300 units. No materials are required to place.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragebbc.png?nolink|Barrels, Boxes & Crates}}</wrap> **Barrels, Boxes & Crates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstrongalestoragepiles.png?nolink|Strong Ale Storage Pile}}</wrap> **Strong Ale Storage Pile**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragebbc.png?nolink|Barrels, Boxes & Crates}}</wrap> **Barrels, Boxes & Crates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstrongalestoragepiles.png?nolink|Strong Ale Storage Pile}}</wrap> **Strong Ale Storage Pile**
+
+----
+
+This building originally came from **Ale House v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=239|WoB]], [[https://www.nexusmods.com/banished/mods/90|Nexus]], [[https://banishedinfo.com/mods/view/564-DS-Ale-House|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1240519244|Steam]]
+
+{{tag>Building Storage DS}}

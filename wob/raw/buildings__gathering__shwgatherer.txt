@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer (Summer Haven) ======
+----
+
+<WRAP right>
+^  Gatherer                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwgatherer.png?nolink|Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Summer Haven compact gatherer workplace. Gatherers collect wild food from within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed}}</wrap> **Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+----
+
+===== Produces =====
+
+Various wild food (depends on available map resources)
+
+----
+
+This building originally came from **Summer Haven v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=598|WoB]]
+
+{{tag>Building Gathering KidSummerHaven}}

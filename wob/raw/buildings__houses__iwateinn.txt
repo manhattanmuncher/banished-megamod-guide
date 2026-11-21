@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iwate Inn ======
+----
+
+<WRAP right>
+^  Iwate Inn                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildiwateinn.png?nolink|Iwate Inn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 7  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  5  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Angainor88 thatched country inn from the Edo period; temporarily houses up to 5 settlers across 5 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildiwateinn.png?nolink|Iwate Inn}}</wrap> **Iwate Inn**
+
+----
+
+{{tag>Building Houses A8JapaneseHousing}}

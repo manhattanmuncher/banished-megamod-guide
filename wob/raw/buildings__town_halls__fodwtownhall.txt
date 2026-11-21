@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Town Hall (Forge Of Dwarves Winter) ======
+----
+
+<WRAP right>
+^  Town Hall                                                                          ^  Forge Of Dwarves Winter  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtownhall.png?nolink|Town Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge Of Dwarves Winter town hall providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony. Only one can be placed per colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves Winter}}</wrap> **Forge Of Dwarves Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtownhall.png?nolink|Town Hall}}</wrap> **Town Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves Winter}}</wrap> **Forge Of Dwarves Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtownhall.png?nolink|Town Hall}}</wrap> **Town Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtownhall.png?nolink|Town Hall (Forge Of Dwarves Winter)}}</wrap> **Town Hall (Forge Of Dwarves Winter)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building TownHalls KidForgeOfDwarvesWinter}}

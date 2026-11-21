@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Library ======
+----
+
+<WRAP right>
+^  Library                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlibrary.png?nolink|Library}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Librarian  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Goods (radius 35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  300  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A library staffed by a Librarian, providing Goods happiness within a radius of 35 tiles to up to 300 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkservices.png?nolink|RK Services}}</wrap> **RK Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlibrary.png?nolink|Library}}</wrap> **Library**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlibrary.png?nolink|Library}}</wrap> **Library**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Civic Library}}

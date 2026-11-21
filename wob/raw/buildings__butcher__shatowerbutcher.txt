@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== SHA Tower Butcher ======
+----
+
+<WRAP right>
+^  SHA Tower Butcher                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbutcher.png?nolink|SHA Tower Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  Happiness  |  Goods (radius 20)  |
+|  Storage  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+Stone House Addon tower-style butcher shop. Processes raw meats into steaks, chops, and sausages.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbusiness.png?nolink|Tower Business}}</wrap> **Tower Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbutcher.png?nolink|SHA Tower Butcher}}</wrap> **SHA Tower Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbusiness.png?nolink|Tower Business}}</wrap> **Tower Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbutcher.png?nolink|SHA Tower Butcher}}</wrap> **SHA Tower Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbutcher.png?nolink|SHA Tower Butcher}}</wrap> **SHA Tower Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                          ^ Produces                                               ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                                                | [[WikiPages:food:beef_steak|Beef Steak]]               |
+| 12 [[WikiPages:food:mutton|Mutton]]                                                 | [[WikiPages:food:lamb_chop|Lamb Chop]]                 |
+| 12 [[WikiPages:food:venison|Venison]]                                               | [[WikiPages:food:venison_roast|Venison Roast]]          |
+| 12 [[WikiPages:food:pork|Pork]]                                                     | [[WikiPages:food:pork_chop|Pork Chop]]                 |
+| 12 [[WikiPages:food:bear|Bear Meat]]                                                | [[WikiPages:food:bear_steak|Bear Steak]]               |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                                         | [[WikiPages:food:bison_steak|Bison Steak]]             |
+| 12 [[WikiPages:food:boar|Boar Meat]]                                                | [[WikiPages:food:boar_ribs|Boar Ribs]]                 |
+| 6 [[WikiPages:food:beef_beef|Beef]] //or// Mutton //or// Venison //or// Pork //or// Bear Meat //or// Bison Meat //or// Boar Meat  | [[WikiPages:food:sausages|Sausages]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone House Addon v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=279|WoB]]
+
+{{tag>Building Butcher StoneHouseAddon}}

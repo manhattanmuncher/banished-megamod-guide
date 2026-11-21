@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Weapon Maker ======
+----
+
+<WRAP right>
+^  Weapon Maker                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30weaponmaker.png?nolink|Weapon Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Toolmaker}}</wrap> Toolmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  38  |
+|  [[WikiPages:iron:iron|Iron]]  |  36  |
+|  [[WikiPages:custom5:glass|Glass]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Weapon Maker forges weapons from iron, wood, and precious metals.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30weaponmaker.png?nolink|Weapon Maker}}</wrap> **Weapon Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30weaponmaker.png?nolink|Weapon Maker}}</wrap> **Weapon Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                   ^ Produces                                          ^
+| 2 [[WikiPages:wood:log|Wood]] + 2 [[WikiPages:iron:iron|Iron]] + 3 [[WikiPages:coalfuel:coal|Coal]]                          | [[WikiPages:custom1:weapon|Weapon]]               |
+| 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:custom1:copper|Copper]] + 3 [[WikiPages:coalfuel:coal|Coal]]                   | [[WikiPages:custom1:fine_weapon|Fine Weapon]]     |
+| 2 [[WikiPages:iron:iron|Iron]] + 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]]                                            | [[WikiPages:custom1:noble_weapon|Noble Weapon]]   |
+| 2 [[WikiPages:iron:iron|Iron]] + 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]]                                              | [[WikiPages:custom1:royal_weapon|Royal Weapon]]   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Metalworking}}

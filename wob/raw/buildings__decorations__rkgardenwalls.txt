@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Garden Walls ======
+----
+
+<WRAP right>
+^  Garden Walls                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsfireset.png?nolink|Garden Walls}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (1×1, 1×2 or 1×3 pieces)  |
+^  Build Cost (per piece)                                                            ^^
+|  [[WikiPages:stone:stone|Stone]]  |  10 (1×1 / 1×2) – 20 (1×3)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative stone garden-wall kit from RedKetchup's Garden Walls set, used to fence off gardens, line paths and frame buildings. The kit comes in two visual styles and a full range of wall sections, columns, gateways and matching props so walls can be run, turned and capped neatly. (The Garden Walls set's working buildings — well, greenhouse, florist, perfumery, stables, barns — have their own pages.)
+
+----
+
+===== Variants =====
+
+  * **Wall sections** — Straight Short (1×1), Med (1×2), Long (1×3), plus Long sections with Openings and with Windows.
+  * **Gateways** — Arch Door and Gate Door (1×3).
+  * **Columns** — Straight, Corner, 3-Way, 4-Way, End, diagonal and soft-turn column pieces.
+  * **Diagonals** — short diagonal straight runs.
+  * **Props** — Lamp Post and Lamp Post 2, Pot of Tree 1–4, and a road-deco tile.
+  * **Two styles** — original ("Fire") set and the "Old" set, each with the full piece range.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsfireset.png?nolink|Garden Walls}}</wrap> **Garden Walls (style set)** → the wall piece
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → **RK Decorations** → **Garden Walls (style set)** → the wall piece
+
+----
+
+{{tag>Building Decorations RKGardenWalls}}

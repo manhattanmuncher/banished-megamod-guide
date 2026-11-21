@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tunnel ======
+----
+
+<WRAP right>
+^  Tunnel                                                                             ^  xBAN  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtunnel.png?nolink|Tunnel}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3 (default)  |
+^  Build Cost (per tile)                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  3  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Tunnel is a vanilla Banished road that passes through terrain obstacles such as cliffs. Build cost scales with length.
+
+----
+
+===== Where to Find =====
+
+The Tunnel is found in the vanilla Banished **Roads** building category.
+
+----
+
+===== Other Information =====
+
+{{tag>Road Tunnel}}

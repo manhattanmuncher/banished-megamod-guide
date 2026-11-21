@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Oil Press (Colonial) ======
+----
+
+<WRAP right>
+^  Oil Press                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoilpress.png?nolink|Oil Press (Colonial)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/presser.png?nolink|Presser}}</wrap> Presser  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial oil press where a presser extracts various oils from seeds and blubber.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroilpress.png?nolink|Oil Presses}}</wrap> **Oil Presses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoilpress.png?nolink|Oil Press}}</wrap> **Oil Press (Colonial)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodrefining.png?nolink|Food Refining}}</wrap> **Food Refining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoilpress.png?nolink|Oil Press}}</wrap> **Oil Press (Colonial)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                   ^ Produces                                              ^
+| 250 Sunflower                                                                  | [[WikiPages:food:seed_oil|Seed Oil]]                  |
+| 250 [[WikiPages:food:canola|Canola]]                                           | [[WikiPages:food:seed_oil|Seed Oil]]                  |
+| 100 [[WikiPages:textile:flax|Flax]]                                            | [[WikiPages:food:seed_oil|Seed Oil]]                  |
+| 100 [[WikiPages:textile:cotton|Cotton]]                                        | [[WikiPages:food:seed_oil|Seed Oil]]                  |
+| 275 [[WikiPages:food:olives|Olive]]                                            | [[WikiPages:food:vegetable_oil|Vegetable Oil]]        |
+| 275 [[WikiPages:food:soybeans|Soybean]]                                        | [[WikiPages:food:vegetable_oil|Vegetable Oil]]        |
+| 275 [[WikiPages:food:chilies|Chili]]                                           | [[WikiPages:food:chili_oil|Chili Oil]]                |
+| 100 [[WikiPages:custom7:whale_blubber|Blubber]]                                | [[WikiPages:custom0:lamp_oil|Lamp Oil]]               |
+| 75 [[WikiPages:food:vegetable_oil|Vegetable Oil]]                              | [[WikiPages:custom0:lamp_oil|Lamp Oil]]               |
+| 75 [[WikiPages:food:seed_oil|Seed Oil]]                                        | [[WikiPages:custom0:lamp_oil|Lamp Oil]]               |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Canal : Dock 8x (Old Church Stone, Reversed) ======
+----
+
+<WRAP right>
+^  Canal : Dock 8x (Old Church Stone, Reversed)                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xdockc6r.png?nolink|Canal : Dock 8x (Old Church Stone, Reversed)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+|  Storage Categories  |  Food, Fruit, Vegetable, Grain, Protein, Tools, Health, Clothing, Textile  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A 4×8 Old Church Stone NMT Canal dock where settlers store food, tools, clothing, textiles, and health items with a capacity of 1,200 units. Water flow in this version is reversed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch.png?nolink|NMT 3.1 Canal Old Church Set Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch8x.png?nolink|NMT 3.1 Canal Old Church Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xdockc6r.png?nolink|Canal : Dock}}</wrap> **Canal : Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch.png?nolink|NMT 3.1 Canal Old Church Set Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc6oldchurch8x.png?nolink|NMT 3.1 Canal Old Church Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Church Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xdockc6r.png?nolink|Canal : Dock}}</wrap> **Canal : Dock**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage RKEditorChoice}}

@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seafood Farm, RNG (NMT Dock) ======
+----
+
+<WRAP right>
+^  Seafood Farm, RNG (NMT Dock)                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtseafoodfarmrng.png?nolink|Seafood Farm, RNG (NMT Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Fishing  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  9  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks randomized seafood farm. A Fisherman hauls in a random variety of shellfish each work cycle and occasionally finds pearls. No inputs required.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtfooddocktoolbar.png?nolink|NMT Dock Food Toolbar}}</wrap> **NMT Dock Food Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtseafoodfarmrng.png?nolink|Rng Seafood Farm}}</wrap> **Rng Seafood Farm**
+
+<wrap toolbaricon>{{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtfooddocktoolbar.png?nolink|NMT Dock Food Toolbar}}</wrap> **NMT Dock Food Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtseafoodfarmrng.png?nolink|Seafood Farm RNG}}</wrap> **Seafood Farm RNG**
+
+----
+
+===== Produces =====
+
+Randomly selected each work cycle:
+
+  * [[WikiPages:food:crawdad|Crawdad]]
+  * [[WikiPages:food:crab|Crab]]
+  * [[WikiPages:food:shrimp|Shrimp]]
+  * [[WikiPages:food:oyster|Oyster]]
+  * [[WikiPages:food:clam|Clam]]
+  * [[WikiPages:food:scallop|Scallop]]
+  * [[WikiPages:food:seaweed|Seaweed]]
+  * [[WikiPages:custom6:pearl|Pearl]]
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Fishing RKEditorChoice}}

@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dirt Road ======
+----
+
+<WRAP right>
+^  Dirt Road                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildroad.png?nolink|Dirt Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Normal  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A basic dirt road.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardirtroad.png?nolink|Roads}}</wrap> **Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildroad.png?nolink|Dirt Road}}</wrap> **Dirt Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road}}

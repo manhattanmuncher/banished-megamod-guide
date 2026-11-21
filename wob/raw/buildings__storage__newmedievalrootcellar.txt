@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Root Cellar ======
+----
+
+<WRAP right>
+^  Medieval Root Cellar                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalrootcellar.png?nolink|Medieval Root Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  20,000  |
+|  Storage Categories  |  Fruit, Vegetable  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town underground root cellar for long-term food storage. Settlers store fruit and vegetables with a capacity of 20,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Medieval Barns and Storage}}</wrap> **Medieval Barns and Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalrootcellar.png?nolink|Medieval Root Cellar}}</wrap> **Medieval Root Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Medieval Barns and Storage}}</wrap> **Medieval Barns and Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalrootcellar.png?nolink|Medieval Root Cellar}}</wrap> **Medieval Root Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalrootcellar.png?nolink|Medieval Root Cellar}}</wrap> **Medieval Root Cellar**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Storage NewMedievalTown}}

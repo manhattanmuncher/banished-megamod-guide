@@ -1,0 +1,97 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Fittings ======
+----
+
+<WRAP right>
+^  Iron Fittings                                  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/ironfittings.png?nolink|Iron Fittings}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Iron Fittings are a forged item crafted from metal in the Banished MegaMod. They are produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. Their trade value is low at 2, but they play an important role in the colony's production chains.
+
+----
+
+===== Iron Fittings Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht1|Blacksmith (Corner T1)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht2|Blacksmith (Corner T2)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht3|Blacksmith (Corner T3)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht4|Blacksmith (Corner T4)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht5|Blacksmith (Corner T5)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht6|Blacksmith (Corner T6)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht7|Blacksmith (Corner T7)]]
+  * Produced at the [[buildings:metalworking:cornerblacksmitht8|Blacksmith (Corner T8)]]
+  * Produced at the [[buildings:metalworking:cmhardwarestore|Hardware Store]]
+  * Produced at the [[buildings:metalworking:bodiamsmith|Smith (Bodiam Castle)]]
+  * Produced at the [[buildings:metalworking:dscrestblacksmith|Blacksmith (Crest Family)]]
+  * Produced at the [[buildings:metalworking:dsneubertsmithshop|Neubert Smith Shop]]
+  * Produced at the [[buildings:metalworking:dssvblacksmith|Blacksmith (Small Village)]]
+  * Produced at the [[buildings:metalworking:ebsvblacksmith|Blacksmith (EB Small Village)]]
+  * Produced at the [[buildings:metalworking:ectoolmaker|Tool Maker (Editor's Choice)]]
+  * Produced at the [[buildings:metalworking:fbsmith|Smith (Friendly Blue)]]
+  * Produced at the [[buildings:metalworking:fbtsmith|Smith (Friendly Blue Too)]]
+  * Produced at the [[buildings:metalworking:fnsmith|Smith (Friendly Neighborhood)]]
+  * Produced at the [[buildings:metalworking:fpsmith|Smith (Friendly Pumpkin)]]
+  * Produced at the [[buildings:metalworking:ftcsmith|Smith (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:metalworking:fortblacksmith|Fort Blacksmith]]
+  * Produced at the [[buildings:metalworking:gfsmith1|Small Smith (Gothic Fantasy 1)]]
+  * Produced at the [[buildings:metalworking:gfsmith2|Small Smith (Gothic Fantasy 2)]]
+  * Produced at the [[buildings:metalworking:gnsmith|Friendly Smith (Granny Neighborhood)]]
+  * Produced at the [[buildings:metalworking:hobbitsmith|Smith (Hobbit)]]
+  * Produced at the [[buildings:metalworking:japanforge|Tataraba Forge]]
+  * Produced at the [[buildings:metalworking:jinxiebittyblacksmith|Bitty Blacksmith]]
+  * Produced at the [[buildings:metalworking:largesmithy|Large Smithy]]
+  * Produced at the [[buildings:metalworking:newmedievalblacksmith|Medieval Blacksmith]]
+  * Produced at the [[buildings:metalworking:newmedievalblacksmithupg1|Medieval Blacksmith (Upgrade 1)]]
+  * Produced at the [[buildings:metalworking:newmedievalblacksmithupg2|Medieval Blacksmith (Upgrade 2)]]
+  * Produced at the [[buildings:metalworking:newmedievalblacksmithupg3|Medieval Blacksmith (Upgrade 3)]]
+  * Produced at the [[buildings:metalworking:oldhovelsmith|Old Smith (Old Hovels)]]
+  * Produced at the [[buildings:metalworking:otsmith|Old Smith (Old Town)]]
+  * Produced at the [[buildings:metalworking:otstonesmith|Old Smith (Old Town, Stone)]]
+  * Produced at the [[buildings:metalworking:pineblacksmith|Pine Blacksmith]]
+  * Produced at the [[buildings:metalworking:prblacksmith|Port Royal Blacksmith]]
+  * Produced at the [[buildings:metalworking:rkoldblacksmithshop|Old Blacksmith]]
+  * Produced at the [[buildings:metalworking:ruralsmith|Country Smithy]]
+  * Produced at the [[buildings:metalworking:sbblacksmith|Sherbrooke Smith]]
+  * Produced at the [[buildings:metalworking:sbvblacksmith|Mission Blacksmith]]
+  * Produced at the [[buildings:metalworking:shatowersmith|Smith (Stone House Addon)]]
+  * Produced at the [[buildings:metalworking:shatowersmithroof|Smith with Roof (Stone House Addon)]]
+  * Produced at the [[buildings:metalworking:settlerssmith|Smith (Settlers)]]
+  * Produced at the [[buildings:metalworking:shwtoolsmith|Toolsmith (Summer Haven)]]
+  * Produced at the [[buildings:metalworking:tcsmith|Smith (Tangerine Center)]]
+  * Produced at the [[buildings:metalworking:tesmith|Tool Smith (Tool Emporium)]]
+  * Produced at the [[buildings:metalworking:cc17blacksmith|City Blacksmith]]
+  * Produced at the [[buildings:metalworking:rhbs|Small Town Blacksmith]]
+  * Produced at the [[buildings:metalworking:tieredblacksmith|Urban Blacksmith]]
+  * Produced at the [[buildings:metalworking:tinysmith|Tiny Smith]]
+  * Produced at the [[buildings:metalworking:wftoolmaker|Fort Tool Maker]]
+  * Produced at the [[buildings:metalworking:wptoolsmith|Toolsmith]]
+  * Produced at the [[buildings:metalworking:wwtoolsmith|Toolsmith (Wild West)]]
+  * Produced at the [[buildings:metalworking:dsjabconstructionyardforge|Jetty Construction: Forge]]
+  * Produced at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]]
+  * Produced at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]] (for Wagon Parts)
+  * Used at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]] (for Wagon Parts)
+  * Used at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]] (for Wagon Parts)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

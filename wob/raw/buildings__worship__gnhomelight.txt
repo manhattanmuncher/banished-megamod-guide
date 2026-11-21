@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Spiritual Center (Granny Neighborhood) ======
+----
+
+<WRAP right>
+^  Spiritual Center                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnhomelight.png?nolink|Spiritual Center}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 42)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  62  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Granny Neighborhood spiritual center staffed by a Priest, providing Spirit happiness within a radius of 42 tiles to up to 62 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnhomelight.png?nolink|Spiritual Center}}</wrap> **Spiritual Center**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnhomelight.png?nolink|Spiritual Center}}</wrap> **Spiritual Center**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnhomelight.png?nolink|Spiritual Center (Granny Neighborhood)}}</wrap> **Spiritual Center (Granny Neighborhood)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Granny Neighborhood v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=515|WoB]]
+
+{{tag>Building Worship KidGrannyNeighborhood}}

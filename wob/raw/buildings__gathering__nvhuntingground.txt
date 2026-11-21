@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunting Ground ======
+----
+
+<WRAP right>
+^  Hunting Ground                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvhuntingground.png?nolink|Hunting Ground}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  64.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Native Village gathering area. Workers roam the grounds collecting wild food, fuel, and materials. Each work cycle yields a random resource.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvhuntingground.png?nolink|Hunting Ground}}</wrap> **Hunting Ground**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvhuntingground.png?nolink|Hunting Ground}}</wrap> **Hunting Ground**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvhuntingground.png?nolink|Hunting Ground}}</wrap> **Hunting Ground**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:food:blueberries|Blueberries]]
+  * [[WikiPages:food:pecan|Pecan]]
+  * [[WikiPages:food:honey|Honey]]
+  * [[WikiPages:food:game|Game]]
+  * [[WikiPages:food:rabbit_meat|Rabbit Meat]]
+  * [[WikiPages:textile:fur|Fur]]
+  * [[WikiPages:textile:rare_feather|Rare Feather]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Native Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=612|WoB]]
+
+{{tag>Building Gathering NativeVillage}}

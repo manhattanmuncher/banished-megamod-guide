@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dried Meat ======
+----
+
+<WRAP right>
+^  Dried Meat                                     ^  xRK  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  9/12  |  18/24  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  4  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/nmdriedmeat.png?nolink|Dried Meat}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Dried Meat is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 4.
+
+----
+
+===== Dried Meat Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:preserving:nmt30dryshack|Old Dry Shack]]
+  * [[buildings:preserving:newmedievaldryshack|Medieval Dry Shack (New Medieval)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

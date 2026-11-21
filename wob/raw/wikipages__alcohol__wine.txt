@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wine ======
+----
+
+<WRAP right>
+^  Wine                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/wine.png?nolink|Wine}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Wine is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Wine Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:more_civic:cornertavernt1|Tavern (Corner T1)]]
+  * Produced at the [[buildings:more_civic:cornertavernt2|Tavern (Corner T2)]]
+  * Produced at the [[buildings:more_civic:cornertavernt3|Tavern (Corner T3)]]
+  * Produced at the [[buildings:more_civic:cornertavernt4|Tavern (Corner T4)]]
+  * Produced at the [[buildings:more_civic:cornertavernt5|Tavern (Corner T5)]]
+  * Produced at the [[buildings:more_civic:cornertavernt6|Tavern (Corner T6)]]
+  * Produced at the [[buildings:more_civic:cornertavernt7|Tavern (Corner T7)]]
+  * Produced at the [[buildings:more_civic:cornertavernt8|Tavern (Corner T8)]]
+  * Produced at the [[buildings:brewery:dockstill|Ricewine Still]]
+  * Produced at the [[buildings:brewery:ebwinery|Winery]]
+  * Produced at the [[buildings:military:forwardpost|Forward Post]]
+  * Produced at the [[buildings:luxuries:jwphwinemaker|Wine Maker (Plimoth Harmonized)]]
+  * Produced at the [[buildings:luxuries:jwpwinemaker|Wine Maker (Plimoth Plantation)]]
+  * Produced at the [[buildings:luxuries:jwswinemaker|Wine Maker (Settlers)]]
+  * Produced at the [[buildings:luxuries:jwvwinemaker|Wine Maker (Vanilla Wood)]]
+  * Produced at the [[buildings:luxuries:jwvswinemaker|Wine Maker (Vanilla Stone)]]
+  * Produced at the [[buildings:worship:mgmonastery|MG Monastery (Medieval Grace)]]
+  * Produced at the [[buildings:brewery:oldwinery|Old Winery (Colonial)]]
+  * Produced at the [[buildings:brewery:winery|Winery]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

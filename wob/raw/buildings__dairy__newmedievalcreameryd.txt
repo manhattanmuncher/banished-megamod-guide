@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Creamery (Upgrade D) ======
+----
+
+<WRAP right>
+^  Creamery                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcreameryd.png?nolink|Medieval Creamery (Upgrade D)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dairyman.png?nolink|Dairyman}}</wrap> Dairyman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:custom5:brick|Brick]]  |  32  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An upgraded Medieval Creamery with improved efficiency.
+
+----
+
+===== Where to Find =====
+
+The Medieval Creamery (Upgrade D) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:dairy:newmedievalcreameryc|Medieval Creamery (Upgrade C)]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                   ^ Produces                                  ^
+| 24 [[WikiPages:food:milk|Milk]]                                                                                               | [[WikiPages:food:cheese|Cheese]]          |
+| 24 [[WikiPages:food:milk|Milk]]                                                                                               | [[WikiPages:food:cream|Cream]]            |
+| 24 [[WikiPages:food:milk|Milk]]                                                                                               | [[WikiPages:food:butter|Butter]]          |
+| 12 [[WikiPages:food:milk|Milk]] + 12 [[WikiPages:food:blueberries|Blueberries]]                                               | [[WikiPages:food:yogurt|Yogurt]]          |
+| 12 [[WikiPages:food:milk|Milk]] + 12 [[WikiPages:food:peach|Peach]]                                                           | [[WikiPages:food:yogurt|Yogurt]]          |
+| 12 [[WikiPages:food:milk|Milk]] + 12 [[WikiPages:food:cherry|Cherry]]                                                         | [[WikiPages:food:yogurt|Yogurt]]          |
+
+Can be upgraded to [[buildings:dairy:newmedievalcreamerye|Medieval Creamery (Upgrade E)]].
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Dairy RKEditorChoice}}

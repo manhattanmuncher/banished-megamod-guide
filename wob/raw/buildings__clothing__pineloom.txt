@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Loom ======
+----
+
+<WRAP right>
+^  Pine Loom                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineloom.png?nolink|Pine Loom}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/weaver.png?nolink|Weaver}}</wrap> Weaver  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  25  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+Necora Pine Set loom; weaves canvas from hemp and linen from flax.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarweaving.png?nolink|Weaving}}</wrap> **Weaving** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineloom.png?nolink|Pine Loom}}</wrap> **Pine Loom**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolindustry.png?nolink|Necora's Maritimes Industry}}</wrap> **Necora's Maritimes Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpineindustry.png?nolink|Pine Industry}}</wrap> **Pine Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineloom.png?nolink|Pine Loom}}</wrap> **Pine Loom**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                        ^ Produces                                              ^
+| 7 [[WikiPages:textile:hemp_hempleaf|Hemp]]                                         | [[WikiPages:custom2:canvas|Canvas]]                   |
+| 7 [[WikiPages:textile:flax|Flax]]                                                  | [[WikiPages:custom2:linen|Linen]]                     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Clothing Maritimes}}

@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== AT Hunter ======
+----
+
+<WRAP right>
+^  AT Hunter                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildathunter.png?nolink|AT Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 3)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  34  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,600  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Among Trees hunter's lodge. Hunters roam the forest within a 34-tile radius to harvest wild game food and Leather.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildat.png?nolink|Among Trees}}</wrap> **Among Trees** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildathunter.png?nolink|AT Hunter}}</wrap> **AT Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildat.png?nolink|Among Trees}}</wrap> **Among Trees** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildathunter.png?nolink|AT Hunter}}</wrap> **AT Hunter**
+
+----
+
+===== Produces =====
+
+Output depends on available wildlife.
+
+  * Wild game food (random)
+  * [[WikiPages:textile:leather|Leather]] (random)
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hunting AmongTrees}}

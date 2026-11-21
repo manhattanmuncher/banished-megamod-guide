@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hothouse ======
+----
+
+<WRAP right>
+^  Hothouse                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouse.png?nolink|Hothouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Hothouse is a large Botanical Garden building where a farmer grows Blueberries and Plums in a heated greenhouse.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouse.png?nolink|Hothouse}}</wrap> **Hothouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouse.png?nolink|Hothouse}}</wrap> **Hothouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouse.png?nolink|Hothouse}}</wrap> **Hothouse**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:blueberries|Blueberries]]
+  * [[WikiPages:food:plum|Plum]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food Greenhouse BotanicalGarden}}

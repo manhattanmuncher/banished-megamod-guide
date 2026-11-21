@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Soybean Seeds ======
+----
+
+<WRAP right>
+^  Soybean Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedsoybean.png?nolink|Soybean Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Soybean Seeds are used to plant [[WikiPages:food:soybeans|Soybeans]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

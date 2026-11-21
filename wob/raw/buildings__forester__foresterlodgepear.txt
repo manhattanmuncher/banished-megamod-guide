@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pear Forester ======
+----
+
+<WRAP right>
+^  Pear Forester                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesterlodgepear.png?nolink|Pear Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  20  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter orchard forester. Foresters plant and harvest pear trees within a 20-tile radius, producing Pears.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforesteritems.png?nolink|Orchard Foresters}}</wrap> **Orchard Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesterlodgepear.png?nolink|Pear Forester}}</wrap> **Pear Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarorchardforester.png?nolink|Orchard Foresters}}</wrap> **Orchard Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesterlodgepear.png?nolink|Pear Forester}}</wrap> **Pear Forester**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:pear|Pear]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Forester ColonialCharter}}

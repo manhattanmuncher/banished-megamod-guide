@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Learning Pods ======
+----
+
+<WRAP right>
+^  Learning Pods                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwlearningcenter.png?nolink|Learning Pods}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  36  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:coalfuel:steel|Steel]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+|  [[WikiPages:custom5:glass|Glass]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A learning pods facility staffed by a Teacher, educating up to 36 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwlearningcenter.png?nolink|Learning Pods}}</wrap> **Learning Pods**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwlearningcenter.png?nolink|Learning Pods}}</wrap> **Learning Pods**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwlearningcenter.png?nolink|Learning Pods}}</wrap> **Learning Pods**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Out of This World Houses v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=641|WoB]]
+
+{{tag>Building School KidOutOfThisWorld}}

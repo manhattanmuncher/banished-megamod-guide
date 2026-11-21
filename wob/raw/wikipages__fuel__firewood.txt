@@ -1,0 +1,105 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Firewood ======
+----
+
+<WRAP right>
+^  Firewood                                       ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fuel  |  Fuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |  3/4  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  4  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/firewood.png?nolink|Firewood}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Firewood serves as a fuel that keeps citizens warm during the long winters in Banished. It is stockpiled and consumed automatically by homes to provide heat. It has a modest trade value of 4.
+
+----
+
+===== Firewood Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fuel:abpwoodcutter|ABP Wood Cutter]]
+  * Produced at the [[buildings:gathering:abandonedhedgerow|Hedgerow]]
+  * Produced at the [[buildings:fuel:chopchop|Chop-Chop]]
+  * Produced at the [[buildings:fuel:chopper|Chopper]]
+  * Produced at the [[buildings:fuel:cutteryard|Cutter Yard]]
+  * Produced at the [[buildings:fuel:dscelticwoodchopper|Celtic Chopper]]
+  * Produced at the [[buildings:crafting:dsjabconstructionyardlumber|Jetty Construction: Lumber Yard]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollector|Drift Wood Collector]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollectort2|Drift Wood Collector (Tex2)]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollectorslct|Drift Wood Searcher]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollectorslctt2|Drift Wood Searcher (Tex2)]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodup|Drift Wood Collector (UP)]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodupt2|Drift Wood Collector (UP, Tex2)]]
+  * Produced at the [[buildings:fuel:dsjabjettyfirewood2x2|Jetty Firewood Splitter]]
+  * Produced at the [[buildings:fuel:dsjabjettyfirewood2x2tex2|Jetty Firewood Splitter (Tex2)]]
+  * Produced at the [[buildings:crafting:dslumbermill|Lumber Mill]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:gathering:driftwoodscavenger|Driftwood Scavenger]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow01|Hedgerow 01 (Friendly Blue Too)]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow02|Hedgerow 02 (Friendly Blue Too)]]
+  * Produced at the [[buildings:resources:fbwoodcutter|Wood Cutter (Friendly Blue)]]
+  * Produced at the [[buildings:fuel:fhwoodcutter|Woodcutter (Forest Haven)]]
+  * Produced at the [[buildings:fuel:fochopper|Wood Chopper (Forest Outpost)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch03|Fairy Garden Fall (Fairy Garden)]]
+  * Produced at the [[buildings:fuel:fishshipswoodcutter|Wood Cutter (Fish n Ships)]]
+  * Produced at the [[buildings:fuel:firebundler|Bundling Shed]]
+  * Produced at the [[buildings:fuel:japanesewoodcutter|Woodcutter (Japanese)]]
+  * Produced at the [[buildings:fuel:jinxiebittywoodcutter|Bitty WoodCutter]]
+  * Produced at the [[buildings:fields:kf01|Farmyard 01]]
+  * Produced at the [[buildings:fields:kf02|Farmyard 02]]
+  * Produced at the [[buildings:fields:kf04|Farmyard 04]]
+  * Produced at the [[buildings:fields:kf10|Farmyard 10]]
+  * Produced at the [[buildings:market:mftrader|Trade Post (Mexican Fantasy)]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * Produced at the [[buildings:fuel:maritimeshumblefirewoodchopper|Firewood Chopper (Maritimes Humble)]]
+  * Produced at the [[buildings:fuel:minichop|Mini Wood Cutter]]
+  * [[buildings:gathering:nmtforestcenter|NMT Forest Center]]
+  * Produced at the [[buildings:gathering:nvhuntingground|Hunting Ground (NV)]]
+  * Produced at the [[buildings:fuel:ootwchopper|Chopper (OOTW)]]
+  * Produced at the [[buildings:mining:otpshipwreck|Shipwreck (Old Town Ports)]]
+  * Produced at the [[buildings:crafting:otpwoodshop|Wood Shop (Old Town Ports)]]
+  * Produced at the [[buildings:fuel:oldhovelwoodcutter|Old Hovel Wood Cutter (Old Hovels)]]
+  * Produced at the [[buildings:fuel:pinechopper|Pine Chopper]]
+  * Produced at the [[buildings:milling:rkfclumbermill|Lumbermill (RK FC)]]
+  * Produced at the [[buildings:milling:sbsawmill|Sherbrooke Sawmill]]
+  * Produced at the [[buildings:fuel:shwchopper|Chopper (Summer Haven)]]
+  * Produced at the [[buildings:milling:sawmill|Waterwheel Sawmill]]
+  * Produced at the [[buildings:milling:sawmillbl|Sawmill]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:fuel:tieredchopper|Urban Wood Cutter]]
+  * Produced at the [[buildings:fuel:tinychopper|Tiny Chopper]]
+  * Produced at the [[buildings:crafting:tinylumberer|Tiny Lumberer]]
+  * Produced at the [[buildings:trading_post:trainmaterialcar|Train Material Car]]
+  * Produced at the [[buildings:milling:windsawmill|Wind Sawmill]]
+  * Produced at the [[buildings:brewery:workshop|Workshop]]
+  * Produced at the [[buildings:frontier:workcamp|Workcamp]]
+  * Produced at the [[buildings:crafting:cc17lumberyard|City Lumber Yard]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]]
+  * Used at the [[buildings:food:dsroastednutscampfire|Campfire, Roasting Nuts]]
+  * Used at the [[buildings:food:dssvgruelkitchen|Village Gruel Kitchen]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]]
+  * Used at the [[buildings:crafting:tinybrickworkshop|Tiny Brick Workshop]]
+  * Used at the [[buildings:crafting:tinyglassworkshop|Tiny Glass Workshop]]
+  * Used at the [[buildings:preserving:tinysmoker|Tiny Smoker]]
+  * Used at the [[buildings:preserving:wpsmoker|WP Smoker]] (for Smoked Fish)
+  * Used at the [[buildings:clothing:cc17seamstressguild|City Seamstress Guild]] (for Leather Coat)
+  * Exported at the [[buildings:trading_post:garemerchant3|Station: Utility Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Fuel WoodFuel Vanilla}}

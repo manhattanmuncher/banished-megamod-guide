@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== General Grain Warehouse ======
+----
+
+<WRAP right>
+^  General Grain Warehouse                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragegrain.png?nolink|General Grain Warehouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Grain  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village mod general warehouse for grain. Settlers store grain with a capacity of 6,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvstoragewarehouse.png?nolink|General Warehouses}}</wrap> **General Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragegrain.png?nolink|General Grain Warehouse}}</wrap> **General Grain Warehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvstoragewarehouse.png?nolink|General Warehouses}}</wrap> **General Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragegrain.png?nolink|General Grain Warehouse}}</wrap> **General Grain Warehouse**
+
+----
+
+This building originally came from **Small Village: Storage v1.2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=215|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231746080|Steam]]
+
+{{tag>Building Storage DSSV}}

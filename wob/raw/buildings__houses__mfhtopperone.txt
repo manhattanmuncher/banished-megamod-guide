@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== More Topper One ======
+----
+
+<WRAP right>
+^  More Topper One                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhtopperone.png?nolink|More Topper One}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  64  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID More Havens house; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehavens.png?nolink|More Havens}}</wrap> **More Havens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhtopperone.png?nolink|More Topper One}}</wrap> **More Topper One**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehavens.png?nolink|More Havens}}</wrap> **More Havens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhtopperone.png?nolink|More Topper One}}</wrap> **More Topper One**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhhouse.png?nolink|More Havens}}</wrap> **More Havens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhtopperone.png?nolink|More Topper One}}</wrap> **More Topper One**
+
+----
+
+This building originally came from **More Havens v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=591|WoB]]
+
+{{tag>Building Houses MoreHavens}}

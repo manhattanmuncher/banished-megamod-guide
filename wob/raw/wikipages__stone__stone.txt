@@ -1,0 +1,84 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone ======
+----
+
+<WRAP right>
+^  Stone                                          ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Stone  |  Stone  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  7  |  7  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  15  |  15  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/stone.png?nolink|Stone}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+Stone is a raw building material gathered from boulders or mined at a Quarry. It is used primarily as a construction material for buildings and is not edible. Its trade value is 7.
+
+----
+
+===== Stone Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:quarry|Quarry]]
+  * Mined at the [[buildings:mining:quarrydeep|Deep Quarry]]
+  * Mined at the [[buildings:mining:quarrydeeper|Deeper Quarry]]
+  * Mined at the [[buildings:mining:quarryrenew|Quarry (Renew)]]
+  * Mined at the [[buildings:mining:quarryrenew2|Quarry (Renew 2)]]
+  * Mined at the [[buildings:mining:quarryrenew3|Quarry (Renew 3)]]
+  * Mined at the [[buildings:mining:quarryrenew4|Quarry (Renew 4)]]
+  * Mined at the [[buildings:mining:quarryrenew5|Quarry (Renew 5)]]
+  * Mined at the [[buildings:mining:quarryrenew6|Quarry (Renew 6)]]
+  * Mined at the [[buildings:mining:quarryrenew7|Quarry (Renew 7)]]
+  * Mined at the [[buildings:mining:quarrysmall|Small Quarry]]
+  * Mined at the [[buildings:mining:quarrysmalldeep|Deep Small Quarry]]
+  * Mined at the [[buildings:mining:quarrysmalldeeper|Deeper Small Quarry]]
+  * Mined at the [[buildings:mining:tinyquarry|Tiny Quarry]]
+  * Mined at the [[buildings:mining:allminingquarry|Multi-Quarry]]
+  * Mined at the [[buildings:mining:blmquarry|Stone & Salt Mine]]
+  * Mined at the [[buildings:mining:dstunnelminecc|Tunnel Mine Random]]
+  * Mined at the [[buildings:mining:dstunnelmineccselect|Tunnel Mine Select]]
+  * Mined at the [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]]
+  * Mined at the [[buildings:mining:dstunnelmineccselectup|Tunnel Mine Upgrade (Select)]]
+  * Mined at the [[buildings:mining:ebsvquarry|Village Quarry]]
+  * Mined at the [[buildings:mining:ebsvrockquarry|Village Rock Quarry]]
+  * Mined at the [[buildings:mining:ecquarry|Quarry (Editor's Choice)]]
+  * Mined at the [[buildings:mining:fodsmallquarry|Small Quarry (Forge of Dwarves)]]
+  * Mined at the [[buildings:mining:fodwsmallquarry|Small Quarry (Forge of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarry|Rock Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl2|Rock Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl3|Rock Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl4|Rock Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl5|Rock Quarry Lvl5]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarry|Random Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]]
+  * Mined at the [[buildings:mining:apoldmine|Old Mine]]
+  * Produced at the [[buildings:resources:abandonedplaces|Abandoned Place]]
+  * Produced at the [[buildings:resources:abandonedruin|Abandoned Ruin]]
+  * Mined at the [[buildings:mining:allminingironmine|Multi-Mine]]
+  * Mined at the [[buildings:mining:fodlargemine|Large Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodwlargemine|Large Mine (Forge Of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:gtnewmine|New Mine (Ghost Town)]]
+  * Mined at the [[buildings:mining:gtoldmine|Old Mine (Ghost Town)]]
+  * Mined at the [[buildings:mining:jinxiebittymine|Bitty Mine Shaft]]
+  * Mined at the [[buildings:mining:oldhovelmine|Old Mine (Old Hovels)]]
+  * Produced at the [[buildings:trading_post:tradercartmine|Trader Cart (Mine)]] (random)
+  * Mined at the [[buildings:trading_post:tradermine|Trader Mine]]
+  * Produced at the [[buildings:trading_post:trainmaterialcar|Train Material Car]]
+  * Produced at the [[buildings:frontier:workcamp|Workcamp]]
+  * Mined at the [[buildings:gathering:mcmine|Mine Cave]] (More Caves)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:tinyworkshop|Tiny Workshop]] (for Stone Tool)
+  * Exported at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Stone Vanilla}}

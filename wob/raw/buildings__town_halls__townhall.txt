@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Town Hall ======
+----
+
+<WRAP right>
+^  Town Hall                                                                          ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtownhall.png?nolink|Town Hall}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 9  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  4 (default)  ||
+|  <abbr "Population required before Nomads can arrive">Nomad Population Threshold</abbr>  |  8  |  0  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  160  ||
+|  [[WikiPages:wood:log|Log]]  |  62  ||
+|  [[WikiPages:stone:stone|Stone]]  |  124  ||
+|  [[WikiPages:iron:iron|Iron]]  |  48  ||
+</WRAP>
+<WRAP right></WRAP>
+
+The Town Hall is the vanilla Banished administrative building, required for the colony to grow beyond a certain population. In vanilla, Nomads only begin arriving once the colony reaches a population of 8; MegaMod removes this threshold, so Nomads can arrive from the start.
+
+----
+
+===== Where to Find =====
+
+The Town Hall is found in the vanilla Banished **Social** building category.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtownhall.png?nolink|Town Hall}}</wrap> **Town Hall**
+
+----
+
+===== Other Information =====
+
+{{tag>Building TownHall}}

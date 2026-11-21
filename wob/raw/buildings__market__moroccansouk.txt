@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Moroccan Souk ======
+----
+
+<WRAP right>
+^  Moroccan Souk                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccansouk.png?nolink|Moroccan Souk}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  11 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 10 (default: 3)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  45  |
+|  Storage  |  10,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  Stone  |  70  |
+|  Iron  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Moroccan-style marketplace. Distributes food, fuel, tools, clothing, and materials to nearby settlers and provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccansouk.png?nolink|Moroccan Souk}}</wrap> **Moroccan Souk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8markets.png?nolink|A8 markets}}</wrap> **A8 markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccansouk.png?nolink|Moroccan Souk}}</wrap> **Moroccan Souk**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Health items
+  * Clothing
+  * Iron and Logs
+  * Textiles
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Miscellaneous v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=546|WoB]], [[https://www.nexusmods.com/banished/mods/108|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913001365|Steam]]
+
+{{tag>Market}}

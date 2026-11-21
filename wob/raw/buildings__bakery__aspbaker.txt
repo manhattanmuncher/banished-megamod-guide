@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Baker (Animal Shed Plus) ======
+----
+
+<WRAP right>
+^  Baker                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspbaker.png?nolink|Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Baker is an Animal Shed Plus building that bakes bread from any available grain. It accepts wheat, corn, oats, or barley as ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspbaker.png?nolink|Baker}}</wrap> **Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspbaker.png?nolink|Baker}}</wrap> **Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspbaker.png?nolink|Baker (Animal Shed Plus)}}</wrap> **Baker (Animal Shed Plus)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                        ^ Produces                              ^
+| 15 [[WikiPages:food:wheat|Wheat]]                  | [[WikiPages:food:bread_bread|Bread]]  |
+| 15 [[WikiPages:food:corn|Corn]]                    | [[WikiPages:food:bread_bread|Bread]]  |
+| 15 [[WikiPages:food:oats_oat|Oats]]                | [[WikiPages:food:bread_bread|Bread]]  |
+| 15 [[WikiPages:food:barley|Barley]]                | [[WikiPages:food:bread_bread|Bread]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Animal Shed Plus v2.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=613|WoB]]
+
+{{tag>Building Bakery AnimalShedPlus}}

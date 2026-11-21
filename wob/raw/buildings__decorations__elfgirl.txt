@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Elf Girl ======
+----
+
+<WRAP right>
+^  Elf Girl                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildelfgirl.png?nolink|Elf Girl}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1 / no footprint  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorative statues and matching walls from Kid's Elf Girl mod — a whimsical garden ornament set. Free to place.
+
+----
+
+===== Variants =====
+
+  * **Statues** — Elf Girl, plus animal statues (Squirrel, Rabbit, Fox, Bear and others).
+  * **Walls** — matching decorative wall pieces.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildelfgirl.png?nolink|Elf Girl}}</wrap> **Elf Girl** → the statue or wall
+
+----
+
+{{tag>Building Decorations KidElfGirl}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chili Sin Carne ======
+----
+
+<WRAP right>
+^  Chili Sin Carne                                ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/24  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/sbvchilisincarne.png?nolink|Chili Sin Carne}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Chili Sin Carne is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Chili Sin Carne Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:sbvkitchen|SBV Kitchen]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable}}

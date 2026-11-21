@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Snug House 3 (More Houses Wood) ======
+----
+
+<WRAP right>
+^  Snug House 3 (More Houses Wood)                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhwsnughouse03.png?nolink|Snug House 3 (More Houses Wood)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  65  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Houses Wood house; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehouseswood.png?nolink|More Houses Wood}}</wrap> **More Houses Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildresidentialhouseswood.png?nolink|Residential Houses Wood}}</wrap> **Residential Houses Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhwsnughouse03.png?nolink|Snug House 3}}</wrap> **Snug House 3**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehouseswood.png?nolink|More Houses Wood}}</wrap> **More Houses Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildresidentialhouseswood.png?nolink|Residential Houses Wood}}</wrap> **Residential Houses Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhwsnughouse03.png?nolink|Snug House 3}}</wrap> **Snug House 3**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhshostel.png?nolink|More Houses Vanilla}}</wrap> **More Houses Vanilla** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhwsnughouse03.png?nolink|Snug House 3 (More Houses Wood)}}</wrap> **Snug House 3 (More Houses Wood)**
+
+----
+
+This building originally came from **More Houses - Vanilla v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=473|WoB]]
+
+{{tag>Building Houses MoreHousesWood}}

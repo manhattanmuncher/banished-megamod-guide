@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Minerals Market ======
+----
+
+<WRAP right>
+^  Minerals Market                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebmarketminerals.png?nolink|Minerals Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Happiness  |  Goods  |
+|  Radius  |  24  |
+|  Storage  |  2,800  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small EB minerals market stall distributing stone, iron, and coal to nearby settlers. Provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebmarketminerals.png?nolink|Minerals Market}}</wrap> **Minerals Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagestorage.png?nolink|Village Storage}}</wrap> **Village Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubmarkets.png?nolink|Markets}}</wrap> **Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebmarketminerals.png?nolink|Minerals Market}}</wrap> **Minerals Market**
+
+----
+
+===== Stocks =====
+
+  * Stone
+  * Iron
+  * Coal and Coke
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

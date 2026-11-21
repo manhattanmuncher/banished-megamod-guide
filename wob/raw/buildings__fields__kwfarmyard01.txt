@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Farmyard 01 (Kid Workshop) ======
+----
+
+<WRAP right>
+^  Farmyard 01                                                                      ^  KidWorkshop  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkwfarmyard01.png?nolink|Farmyard 01}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  48.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  7  |
+</WRAP>
+<WRAP right></WRAP>
+
+Farmyard 01 is a Kid Workshop building where a worker tends a 5×5 backyard plot that produces apples, wheat, beans, eggs, and firewood.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarmisc.png?nolink|KID Misc}}</wrap> **KID Toolbar → Misc** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidworkshop.png?nolink|Kid Workshop}}</wrap> **Kid Workshop** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkwfarmyard01.png?nolink|Farmyard 01}}</wrap> **Farmyard 01**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkwfarmyard01.png?nolink|Farmyard 01}}</wrap> **Farmyard 01**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:apple|Apple]]
+  * [[WikiPages:food:wheat|Wheat]]
+  * [[WikiPages:food:bean|Bean]]
+  * [[WikiPages:food:egg|Egg]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food KidWorkshop}}

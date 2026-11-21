@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dairy Buildings ======
+----
+
+Buildings that process milk into cheese, butter, and other dairy products.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:dairy:dairy|Creamery]] | Colonial Charter dairy; Dairyman processes Milk into Cheese, Cream, or Butter |
+| [[buildings:dairy:crystalmilk|CrystalMilk]] | Crystal Cliffs / Maritimes Farming building; Herdsman produces Milk from livestock |
+| [[buildings:dairy:cowparlour|Dairy Parlour]] | Colonial Charter building; processes milk into cheese, cream, and butter |
+| [[buildings:dairy:aspdairy|Dairy Shed]] | Animal Shed Plus building; processes milk and goat milk into dairy products |
+| [[buildings:dairy:shwdairyman|Dairyman]] | SHW dairyman; processes milk into dairy products |
+| [[buildings:dairy:newmedievalcreamery|Medieval Creamery]] | NMT creamery; processes milk into cheese, cream, butter, and yogurt |
+| [[buildings:dairy:newmedievalcreamerya|Medieval Creamery (Upgrade A)]] | NMT upgraded Medieval Creamery, stage A |
+| [[buildings:dairy:newmedievalcreameryb|Medieval Creamery (Upgrade B)]] | NMT upgraded Medieval Creamery, stage B |
+| [[buildings:dairy:newmedievalcreameryc|Medieval Creamery (Upgrade C)]] | NMT upgraded Medieval Creamery, stage C |
+| [[buildings:dairy:newmedievalcreameryd|Medieval Creamery (Upgrade D)]] | NMT upgraded Medieval Creamery, stage D |
+| [[buildings:dairy:newmedievalcreamerye|Medieval Creamery (Upgrade E)]] | NMT upgraded Medieval Creamery, stage E |
+| [[buildings:dairy:nmt30creamery|Old Creamery]] | NMT old creamery; processes milk into dairy products |
+| [[buildings:dairy:olddairy|Old Dairy]] | Colonial dairy; processes milk into cheese, cream, or butter |
+| [[buildings:dairy:redcreamery|Red Creamery]] | Red Creamery mod dairy; processes milk into cheese, cream, butter, and yogurt |
+| [[buildings:dairy:redcreamerymain|Red Creamery (Main)]] | Red Creamery mod main dairy building; processes milk into cheese, cream, butter, and yogurt |
+| [[buildings:dairy:rkredcreamery|Red Creamery (RK)]] | RK Editor Choice dairy; processes Milk into Cheese, Cream, Butter, and fruit Yogurts |
+| [[buildings:dairy:shcow|SH Cow]] | Summer Haven cow pasture; produces Milk with no input materials |
+| [[buildings:dairy:tinydairy|Tiny Dairy]] | KID compact dairy; processes Milk into cheese, cream, butter, and yogurt |
+| [[buildings:dairy:vccheese|VC Cheese]] | Animal Shed Cheese mod; produces Goat Cheese, or Herb Cheese when supplied with Herbs |
+| [[buildings:dairy:wpdairyman|WP Dairyman]] | KID Workplace dairy; processes milk into cheese, cream, butter, and fruit yogurt |
+
+----
+
+{{tag>Buildings Dairy}}

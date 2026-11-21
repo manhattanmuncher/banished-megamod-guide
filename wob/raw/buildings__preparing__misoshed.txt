@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Miso Shed ======
+----
+
+<WRAP right>
+^  Miso Shed                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmisoshed.png?nolink|Miso Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Storage Categories  |  Food  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Miso Shed ferments soybeans into miso, a traditional Japanese food staple.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmisoshed.png?nolink|Miso Shed}}</wrap> **Miso Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmisoshed.png?nolink|Miso Shed}}</wrap> **Miso Shed**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                               ^ Produces                                  ^
+| 100 [[WikiPages:food:soybeans|Soybean]]                    | [[WikiPages:food:miso|Miso]]              |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food Preparing}}

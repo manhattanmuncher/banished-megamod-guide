@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Goat Meat ======
+----
+
+<WRAP right>
+^  Goat Meat                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  60/80  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mutton.png?nolink|Goat Meat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Goat Meat is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Goat Meat Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockgoat|Goats]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:butcher:woodbutcher|Wood Butcher]] (for Goat Meat Cuts)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

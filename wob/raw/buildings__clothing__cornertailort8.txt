@@ -1,0 +1,70 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tailor (Corner T8) ======
+----
+
+<WRAP right>
+^  Tailor                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertailor.png?nolink|Tailor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  26  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor Choice corner tailor in the Old Wood style. Produces clothing from a variety of materials.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Buildings Toolbar}}</wrap> **NMT Corner Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusinesst8.png?nolink|NMT Corner Old Wood Toolbar}}</wrap> **NMT Corner Old Wood Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertailor.png?nolink|Tailor}}</wrap> **Tailor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertailor.png?nolink|Corner Tailor}}</wrap> **Corner Tailor** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertailor.png?nolink|Tailor}}</wrap> **Tailor**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                 ^ Produces                                                              ^
+| 2 [[WikiPages:textile:leather|Leather]]                                                                                                                                     | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                               | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:custom2:linen|Linen]]                                                                                               | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 2 [[WikiPages:textile:wool|Wool]]                                                                                                                                           | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 1 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                                     | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 1 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 6 [[WikiPages:custom7:reeds|Reeds]] + 3 [[WikiPages:textile:feathers_feather|Feathers]]                                                                                   | [[WikiPages:clothing:survival_coat|Survival Coat]]                    |
+| 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                                                                         | [[WikiPages:clothing:cloth_coat|Cloth Coat]]                          |
+| 2 [[WikiPages:custom2:linen|Linen]]                                                                                                                                         | [[WikiPages:clothing:linen_clothing|Linen Clothing]]                  |
+| 3 [[WikiPages:custom2:cured_leather|Cured Leather]]                                                                                                                         | [[WikiPages:clothing:buff_coat|Buff Coat]]                            |
+| 10 [[WikiPages:textile:feathers_feather|Feathers]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                  | [[WikiPages:clothing:cloth_down_coat|Cloth Down Coat]]                |
+| 2 [[WikiPages:custom2:canvas|Canvas]]                                                                                                                                       | [[WikiPages:clothing:canvas_coat|Canvas Coat]]                        |
+| 4 [[WikiPages:textile:pelt|Pelt]]                                                                                                                                           | [[WikiPages:clothing:pelt_clothing|Pelt Clothing]]                    |
+| 4 [[WikiPages:textile:fur|Fur]]                                                                                                                                             | [[WikiPages:clothing:fur_coat|Fur Coat]]                              |
+| 10 [[WikiPages:custom2:silk|Silk]]                                                                                                                                          | [[WikiPages:clothing:kimono|Kimono]]                                  |
+| 2 [[WikiPages:custom2:silk|Silk]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:uniform|Uniform]]                                |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:textile:leather|Leather]]                                                                                                 | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                               | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                               | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                                     | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:canvas|Canvas]]                                                                                                   | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:down|Down]]                                                                                                 | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:fur|Fur]]                                                                                                   | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Clothing RKEditorChoice}}

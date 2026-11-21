@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Outdoor Furniture ======
+----
+
+<WRAP right>
+^  EB Outdoor Furniture                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachdecobench.png?nolink|EB Outdoor Furniture}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorative outdoor furniture from the EB (embx61) Beach Deco and Resort Deco mods, for dressing beaches, parks, and resorts. Each piece has no footprint and can be placed freely and overlapping other objects.
+
+----
+
+===== Variants =====
+
+^ Piece ^ ^ Piece ^
+| Bench | | Stall |
+| Chair | | Swing |
+| Lounge | | Table |
+| Parasol | | Wagons |
+| Roundabout | | Beach Wip |
+| Sandpit (Resort) | |  |
+
+All variants are free with no footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → select Beach Deco or Resort Deco furniture
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

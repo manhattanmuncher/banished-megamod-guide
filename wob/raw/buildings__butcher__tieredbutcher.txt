@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Urban Butcher ======
+----
+
+<WRAP right>
+^  Butcher                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbutcher.png?nolink|Urban Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter modular stacked urban butcher; processes raw meats into a variety of prepared cuts and products.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbutcher.png?nolink|Urban Butcher}}</wrap> **Urban Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbutcher.png?nolink|Urban Butcher}}</wrap> **Urban Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbutcher.png?nolink|Urban Butcher}}</wrap> **Urban Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                   ^ Produces                                              ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                          | [[WikiPages:food:beef_steak|Beef Steak]]              |
+| 12 [[WikiPages:food:mutton|Mutton]]                           | [[WikiPages:food:lamb_chop|Lamb Chop]]                |
+| 12 [[WikiPages:food:chicken|Chicken]]                         | [[WikiPages:food:chicken_nuggets|Chicken Nuggets]]    |
+| 12 [[WikiPages:food:pork|Pork]]                               | [[WikiPages:food:pork_chop|Pork Chop]]                |
+| 12 [[WikiPages:food:venison|Venison]]                         | [[WikiPages:food:venison_roast|Venison Roast]]        |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                   | [[WikiPages:food:bison_steak|Bison Steak]]            |
+| 12 [[WikiPages:food:duck_meat|Duck Meat]]                     | [[WikiPages:food:roast_duck|Roast Duck]]              |
+| 12 [[WikiPages:food:charki|Charki]]                           | [[WikiPages:food:charki_chops|Charki Chops]]          |
+| 12 [[WikiPages:food:cheval|Cheval]]                           | [[WikiPages:food:cheval_shank|Cheval Shank]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food ColonialCharter}}

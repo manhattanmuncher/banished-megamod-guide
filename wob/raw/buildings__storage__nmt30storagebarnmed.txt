@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medium Barn (NMT 3.0) ======
+----
+
+<WRAP right>
+^  Medium Barn (NMT 3.0)                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30storagebarnmed.png?nolink|Medium Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Alcohol, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town 3.0 medium storage barn. Settlers store food, alcohol, tools, clothing, and a variety of goods with a capacity of 6,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30storagebarnmed.png?nolink|Medium Barn}}</wrap> **Medium Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstoragebarntoolbar.png?nolink|StorageBarns Toolbar}}</wrap> **StorageBarns Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30storagebarnmed.png?nolink|Medium Barn}}</wrap> **Medium Barn**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage NewMedievalTown}}

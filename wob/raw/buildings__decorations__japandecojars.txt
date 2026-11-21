@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deco Jars ======
+----
+
+<WRAP right>
+^  Deco Jars                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapandecojars.png?nolink|Deco Jars}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative cluster of Japanese ceramic jars from the A8 Japanese mod. Has no footprint and can be placed freely.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapandecojars.png?nolink|Deco Jars}}</wrap> **Deco Jars**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old School ======
+----
+
+<WRAP right>
+^  Old School                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotschool.png?nolink|Old School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  14  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+An old school staffed by a Teacher, educating up to 14 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town}}</wrap> **Old Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotschool.png?nolink|Old School}}</wrap> **Old School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotschool.png?nolink|Old School}}</wrap> **Old School**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Building School OldTown}}

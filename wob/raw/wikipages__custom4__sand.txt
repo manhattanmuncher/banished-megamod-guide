@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sand ======
+----
+
+<WRAP right>
+^  Sand                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom4  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/7  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/sand.png?nolink|Sand}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Sand is a raw material harvested directly from the environment in the Banished MegaMod. It is stockpiled and used as a base ingredient for crafting and construction. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Sand Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:sand_clay:dsjabconstructionyardsand|Jetty Construction: Sand Mine]]
+  * Produced at the [[buildings:sand_clay:ebsvsandpit|Village Sand Pit]]
+  * Produced at the [[buildings:sand_clay:ebshorehut|Shore Hut]]
+  * [[buildings:sand_clay:nmt30mcsandpit|Sand Pit (NMMK)]]
+  * Produced at the [[buildings:sand_clay:oldshorepit|Old Shore Pit (Colonial)]]
+  * Produced at the [[buildings:sand_clay:shorepit|Shore House]]
+  * Produced at the [[buildings:mining:tinysandpit|Tiny Sand Pit]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:ebglassworks|Glass Works]]
+  * Used at the [[buildings:crafting:tinyglassworkshop|Tiny Glass Workshop]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom4}}

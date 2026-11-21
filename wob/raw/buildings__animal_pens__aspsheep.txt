@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sheep Shed ======
+----
+
+<WRAP right>
+^  Sheep Shed                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspsheep.png?nolink|Sheep Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  64.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  14  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Sheep Shed is an Animal Shed Plus building that raises sheep to produce mutton and wool. It requires oats or fodder-thatch as feed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspsheep.png?nolink|Sheep Shed}}</wrap> **Sheep Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspsheep.png?nolink|Sheep Shed}}</wrap> **Sheep Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspsheep.png?nolink|Sheep Shed}}</wrap> **Sheep Shed**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                           ^ Produces                          ^
+| 20 [[WikiPages:food:oats_oat|Oats]] or 20 [[WikiPages:custom7:fodder-thatch_haystack|Fodder-Thatch]]                 | [[WikiPages:food:mutton|Mutton]]  |
+| 4 [[WikiPages:food:oats_oat|Oats]] or 4 [[WikiPages:custom7:fodder-thatch_haystack|Fodder-Thatch]]                   | [[WikiPages:textile:wool|Wool]]   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Animal Shed Plus v2.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=613|WoB]]
+
+{{tag>Building Animal AnimalShedPlus}}

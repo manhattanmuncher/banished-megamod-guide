@@ -1,0 +1,52 @@
+~~NOTOC~~
+
+====== Crafted Items ======
+----
+
+Crafted goods produced at workshops and artisan buildings, such as Rope and Pottery.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/amphora.png?nolink|Amphora}} [[WikiPages:custom0:amphora|Amphora]]
+  * {{https://sprites.worldofbanished.com/barrel.png?nolink|Barrel}} [[WikiPages:custom0:barrel|Barrel]]
+  * {{https://sprites.worldofbanished.com/furniture.png?nolink|Basic Furniture}} [[WikiPages:custom0:basic_furniture|Basic Furniture]]
+  * {{https://sprites.worldofbanished.com/bronzestatue.png?nolink|Bronze Statue}} [[WikiPages:custom0:bronze_statue|Bronze Statue]]
+  * {{https://sprites.worldofbanished.com/candles.png?nolink|Candles}} [[WikiPages:custom0:candles|Candles]]
+  * {{https://sprites.worldofbanished.com/cask.png?nolink|Cask}} [[WikiPages:custom0:cask|Cask]]
+  * {{https://sprites.worldofbanished.com/crate.png?nolink|Crate}} [[WikiPages:custom0:crate|Crate]]
+  * {{https://sprites.worldofbanished.com/dwarvenaxe.png?nolink|Dwarven Axe}} [[WikiPages:custom0:dwarven_axe|Dwarven Axe]]
+  * {{https://sprites.worldofbanished.com/furniture2.png?nolink|Fancy Furniture}} [[WikiPages:custom0:fancy_furniture|Fancy Furniture]]
+  * {{https://sprites.worldofbanished.com/furniture.png?nolink|Fine Furniture}} [[WikiPages:custom0:fine_furniture|Fine Furniture]]
+  * {{https://sprites.worldofbanished.com/fishinggear.png?nolink|Fishing Gear}} [[WikiPages:custom0:fishing_gear|Fishing Gear]]
+  * {{https://sprites.worldofbanished.com/rmfishingline.png?nolink|Fishing Line}} [[WikiPages:custom0:fishing_line|Fishing Line]]
+  * {{https://sprites.worldofbanished.com/rmfishingnet.png?nolink|Fishing Net}} [[WikiPages:custom0:fishing_net|Fishing Net]]
+  * {{https://sprites.worldofbanished.com/rmtackle.png?nolink|Fishing Tackle}} [[WikiPages:custom0:fishing_tackle|Fishing Tackle]]
+  * {{https://sprites.worldofbanished.com/flag.png?nolink|Flag}} [[WikiPages:custom0:flag|Flag]]
+  * {{https://sprites.worldofbanished.com/furniture.png?nolink|Furniture}} [[WikiPages:custom0:furniture|Furniture]]
+  * {{https://sprites.worldofbanished.com/gatheringbasket.png?nolink|Gathering Basket}} [[WikiPages:custom0:gathering_basket|Gathering Basket]]
+  * {{https://sprites.worldofbanished.com/furniture2.png?nolink|Gilded Furniture}} [[WikiPages:custom0:gilded_furniture|Gilded Furniture]]
+  * {{https://sprites.worldofbanished.com/glassware.png?nolink|Glassware}} [[WikiPages:custom0:glassware|Glassware]]
+  * {{https://sprites.worldofbanished.com/huntinggear.png?nolink|Hunting Gear}} [[WikiPages:custom0:hunting_gear|Hunting Gear]]
+  * {{https://sprites.worldofbanished.com/ironstatue.png?nolink|Iron Statue}} [[WikiPages:custom0:iron_statue|Iron Statue]]
+  * {{https://sprites.worldofbanished.com/jadestatue.png?nolink|Jade Statue}} [[WikiPages:custom0:jade_statue|Jade Statue]]
+  * {{https://sprites.worldofbanished.com/lampoil.png?nolink|Lamp Oil}} [[WikiPages:custom0:lamp_oil|Lamp Oil]]
+  * {{https://sprites.worldofbanished.com/rmlobsterpot.png?nolink|Lobster Pot}} [[WikiPages:custom0:lobster_pot|Lobster Pot]]
+  * {{https://sprites.worldofbanished.com/marblestatue.png?nolink|Marble Statue}} [[WikiPages:custom0:marble_statue|Marble Statue]]
+  * {{https://sprites.worldofbanished.com/paint.png?nolink|Paint}} [[WikiPages:custom0:paint|Paint]]
+  * {{https://sprites.worldofbanished.com/pegleg.png?nolink|Peg Leg}} [[WikiPages:custom0:peg_leg|Peg Leg]]
+  * {{https://sprites.worldofbanished.com/pottery.png?nolink|Pottery}} [[WikiPages:custom0:pottery|Pottery]]
+  * {{https://sprites.worldofbanished.com/pouch.png?nolink|Pouch}} [[WikiPages:custom0:pouch|Pouch]]
+  * {{https://sprites.worldofbanished.com/rope.png?nolink|Rope}} [[WikiPages:custom0:rope|Rope]]
+  * {{https://sprites.worldofbanished.com/ebsaddle.png?nolink|Saddle}} [[WikiPages:custom0:saddle|Saddle]]
+  * {{https://sprites.worldofbanished.com/furniture2.png?nolink|Silvered Furniture}} [[WikiPages:custom0:silvered_furniture|Silvered Furniture]]
+  * {{https://sprites.worldofbanished.com/stonestatue.png?nolink|Stone Statue}} [[WikiPages:custom0:stone_statue|Stone Statue]]
+  * {{https://sprites.worldofbanished.com/wagonparts.png?nolink|Wagon Parts}} [[WikiPages:custom0:wagon_parts|Wagon Parts]]
+  * {{https://sprites.worldofbanished.com/woodstatue.png?nolink|Wood Statue}} [[WikiPages:custom0:wood_statue|Wood Statue]]
+
+----
+
+{{tag>Custom0}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Flags ======
+----
+
+<WRAP right>
+^  Village Flags                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvflagpole.png?nolink|Village Flags}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative DS Small Village flags. Raise a flag pole, then fly pennant or burgee flags from it to dress the village.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Build Cost ^
+| Village Flag Pole | 1 × 1 | 8 work, 3 Wood |
+| Pennant Flag | 1 × 1 | 3 work, 1 Flag |
+| Burgee Flag | 1 × 1 | 3 work, 1 Flag |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstatues.png?nolink|Statues}}</wrap> **Statues** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvflagpole.png?nolink|Village Flags}}</wrap> **Village Flags**
+
+----
+
+{{tag>Building Decorations DSSV}}

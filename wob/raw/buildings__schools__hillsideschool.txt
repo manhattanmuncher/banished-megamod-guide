@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hillside School (Hillside Village) ======
+----
+
+<WRAP right>
+^  Hillside School                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsideschool.png?nolink|Hillside School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  40  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hillside Village school staffed by a Teacher, accommodating up to 40 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsideschool.png?nolink|Hillside School}}</wrap> **Hillside School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsideschool.png?nolink|Hillside School}}</wrap> **Hillside School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsideschool.png?nolink|Hillside School (Hillside Village)}}</wrap> **Hillside School (Hillside Village)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hillside Village v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=639|WoB]]
+
+{{tag>Building School KidHillsideVillage}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Command Center (Out Of This World) ======
+----
+
+<WRAP right>
+^  Command Center                                                                     ^  Out Of This World  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwcommandcenter.png?nolink|Command Center}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:coalfuel:steel|Steel]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Out Of This World command center providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony. Only one can be placed per colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwcommandcenter.png?nolink|Command Center}}</wrap> **Command Center**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwcommandcenter.png?nolink|Command Center}}</wrap> **Command Center**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwcommandcenter.png?nolink|Command Center (Out Of This World)}}</wrap> **Command Center (Out Of This World)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Out of This World Houses v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=641|WoB]]
+
+{{tag>Building TownHalls KidOutOfThisWorld}}

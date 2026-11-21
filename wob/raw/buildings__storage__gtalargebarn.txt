@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Large Barn (Ghost Town, Old Versions) ======
+----
+
+<WRAP right>
+^  Old Large Barn                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldlargebarn.png?nolink|Old Large Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+|  Storage Categories  |  Food, Fuel, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+An old Ghost Town large barn in a ruined state, requiring minimal construction cost. Settlers store food, fuel, tools, clothing, and a wide variety of goods with a capacity of 12,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtacorner.png?nolink|Old Versions}}</wrap> **Old Versions** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldlargebarn.png?nolink|Old Large Barn}}</wrap> **Old Large Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghosttown.png?nolink|Ghost Town}}</wrap> **Ghost Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtacorner.png?nolink|Old Versions}}</wrap> **Old Versions** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldlargebarn.png?nolink|Old Large Barn}}</wrap> **Old Large Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtoldlargebarn.png?nolink|Old Large Barn (Ghost Town, Old Versions)}}</wrap> **Old Large Barn (Ghost Town, Old Versions)**
+
+----
+
+This building originally came from **Ghost Town v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=460|WoB]]
+
+{{tag>Building Storage}}

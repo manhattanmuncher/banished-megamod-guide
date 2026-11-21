@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mill ======
+----
+
+<WRAP right>
+^  Mill                                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfhmill.png?nolink|Mill}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmiller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Number of workers">Workers</abbr>  |  1  |
+|  <abbr "Required tool">Tool</abbr>  |  None  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  48  |
+|  Wood  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The Mill is a food processing building from the More Havens mod in the Banished MegaMod. A Miller grinds grain into Flour, accepting Wheat, Corn, or Oats as inputs.
+
+----
+
+===== Toolbar =====
+
+This building's toolbar registration is disabled in the current mod version and does not appear in the build menu.
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 20 [[WikiPages:food:wheat|Wheat]] | [[WikiPages:grain:flour|Flour]] |
+| 20 [[WikiPages:food:corn|Corn]] | [[WikiPages:grain:flour|Flour]] |
+| 20 [[WikiPages:food:oats_oats|Oats]] | [[WikiPages:grain:flour|Flour]] |
+| 20 [[WikiPages:food:wild_oats|Oats (Wild)]] | [[WikiPages:grain:flour|Flour]] |
+
+===== Other Information =====
+
+This building originally came from **More Havens v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=591|WoB]]
+
+{{tag>Food}}

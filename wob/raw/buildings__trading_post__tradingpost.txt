@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trading Post ======
+----
+
+<WRAP right>
+^  Trading Post                                                                       ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Trading Post}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 11  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 20 (default: 6)  ||
+|  Happiness  |  Goods (radius 20)  ||
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  ||
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Iron, Wood, Stone, Alcohol  |  (all categories)  |
+|  <abbr "Merchant types visiting">Merchants</abbr>  |  5 (Food, Goods, General, Seed, Livestock)  |  15 (specialized by category)  |
+|  <abbr "How often traders visit; scales down as population grows">Trade Frequency</abbr>  |  18 – 5 months (by population)  |  12 – 3 months (by population)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  ||
+|  [[WikiPages:wood:log|Log]]  |  82  ||
+|  [[WikiPages:stone:stone|Stone]]  |  80  ||
+|  [[WikiPages:iron:iron|Iron]]  |  40  ||
+</WRAP>
+<WRAP right></WRAP>
+
+The Trading Post is the vanilla Banished trading building. Traders facilitate trade with travelling merchants, and it provides a Goods happiness bonus to nearby citizens. MegaMod significantly expands the trade system: instead of vanilla's 5 general merchants, 15 specialized merchants visit covering every MegaMod storage category, and caravans arrive more frequently at every population tier.
+
+----
+
+===== Where to Find =====
+
+The Trading Post is found in the vanilla Banished **Social** building category.
+
+----
+
+===== Other Information =====
+
+{{tag>Building TradingPost}}

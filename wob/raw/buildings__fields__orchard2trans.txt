@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dense Orchard (Transparent) ======
+----
+
+<WRAP right>
+^  Dense Orchard                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtransorchard2.png?nolink|Dense Orchard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 25 (default: 1)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter orchard zone with closer tree spacing and transparent ground cover. Farmers plant and harvest fruit trees within the designated area using 2×2 tile tree spacing. Free to designate; no build cost.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtransorchard2.png?nolink|Dense Orchard}}</wrap> **Dense Orchard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/transparentitems.png?nolink|Transparent Fields}}</wrap> **Transparent Fields** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtransorchard2.png?nolink|Dense Orchard}}</wrap> **Dense Orchard**
+
+----
+
+===== Produces =====
+
+Fruit output depends on which tree type is planted.
+
+  * Fruit (random, based on selected tree type)
+
+----
+
+===== Other Information =====
+
+  * Identical to [[buildings:fields:orchard2|Dense Orchard]] but with a transparent ground overlay instead of the orchard ground texture.
+
+----
+
+{{tag>Building Fields}}

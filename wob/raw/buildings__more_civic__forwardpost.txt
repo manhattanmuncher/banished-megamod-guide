@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forward Post ======
+----
+
+<WRAP right>
+^  Forward Post                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforwardpost.png?nolink|Forward Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/garrison.png?nolink|Soldier}}</wrap> Soldier  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:custom5:military_supply|Military Supply]]  |  100  |
+|  [[WikiPages:custom1:musket|Musket]]  |  16  |
+|  [[WikiPages:custom1:cannon|Cannon]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter military outpost that represents a foray into enemy territory. Soldiers consume Military Supplies and return with a variety of captured goods. Player selects which type of goods to acquire.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort and Palisade Structures}}</wrap> **Fort and Palisade Structures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforwardpost.png?nolink|Forward Post}}</wrap> **Forward Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort and Palisade Structures}}</wrap> **Fort and Palisade Structures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforwardpost.png?nolink|Forward Post}}</wrap> **Forward Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorefood.png?nolink|More Food Processing}}</wrap> **More Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforwardpost.png?nolink|Forward Post}}</wrap> **Forward Post**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                  ^ Produces                                                             ^
+| 1 [[WikiPages:custom5:military_supply|Military Supply]]                      | [[WikiPages:alcohol:wine|Wine]]                                      |
+| 2 [[WikiPages:custom5:military_supply|Military Supply]]                      | [[WikiPages:alcohol:spirits|Spirits]]                                |
+| 7 [[WikiPages:custom5:military_supply|Military Supply]]                      | [[WikiPages:custom1:cannon|Cannon]]                                  |
+| 2 [[WikiPages:custom5:military_supply|Military Supply]]                      | [[WikiPages:custom1:musket|Musket]]                                  |
+| 3 [[WikiPages:custom5:military_supply|Military Supply]]                      | [[WikiPages:clothing:leathercoat|Leather Coat]]                      |
+| 4 [[WikiPages:custom5:military_supply|Military Supply]]                      | [[WikiPages:custom0:pottery|Pottery]]                                |
+| 35 [[WikiPages:custom5:military_supply|Military Supply]]                     | [[WikiPages:coalfuel:gemstone_rough|Gemstone (Rough)]]               |
+| 450 [[WikiPages:custom5:military_supply|Military Supply]]                    | [[WikiPages:custom6:native_artefact|Native Artefact]]                |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building ColonialCharter Military}}

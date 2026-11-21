@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Clerk (Old Hovels) ======
+----
+
+<WRAP right>
+^  Clerk                                                                              ^  Old Hovels  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelclerk.png?nolink|Clerk}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Hovels clerk's office providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelclerk.png?nolink|Clerk}}</wrap> **Clerk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelclerk.png?nolink|Clerk}}</wrap> **Clerk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelclerk.png?nolink|Clerk (Old Hovels)}}</wrap> **Clerk (Old Hovels)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Hovels v1.17**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=597|WoB]]
+
+{{tag>Building TownHalls KidOldHovels}}

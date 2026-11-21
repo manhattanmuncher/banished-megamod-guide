@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Small House ======
+----
+
+<WRAP right>
+^  Jetty Small House                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyhome3x3.png?nolink|Jetty Small House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  21  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  8  |
+|  [[WikiPages:custom5:glass|Glass]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Jetty & Bridge small jetty house. Houses up to 5 settlers. Buildable on water or on land.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Light-Brown Jetty}}</wrap> **Light-Brown Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyhomesmenu.png?nolink|Jetty Housing}}</wrap> **Jetty Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyhome3x3.png?nolink|Jetty Small House}}</wrap> **Jetty Small House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Light-Brown Jetty}}</wrap> **Light-Brown Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyhomesmenu.png?nolink|Jetty Housing}}</wrap> **Jetty Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyhome3x3.png?nolink|Jetty Small House}}</wrap> **Jetty Small House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing & Accomodation}}</wrap> **DS Housing & Accomodation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyhome3x3.png?nolink|Jetty Small House}}</wrap> **Jetty Small House**
+
+----
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Houses DS}}

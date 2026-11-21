@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Corner Area ======
+----
+
+<WRAP right>
+^  Corner Area                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses7.png?nolink|Corner Area}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  13  |
+|  Lumber  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter decorative corner area building; does not flatten the ground when placed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses7.png?nolink|Corner Area}}</wrap> **Corner Area**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses7.png?nolink|Corner Area}}</wrap> **Corner Area**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

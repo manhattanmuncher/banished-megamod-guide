@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer (Forest Outpost) ======
+----
+
+<WRAP right>
+^  Gatherer                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfogatherer.png?nolink|Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Outpost gatherer. Gatherers collect various wild food from the surrounding forest within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestoutpost.png?nolink|Forest Outpost}}</wrap> **Forest Outpost** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfogatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestoutpost.png?nolink|Forest Outpost}}</wrap> **Forest Outpost** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfogatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfogatherer.png?nolink|Gatherer (Forest Outpost)}}</wrap> **Gatherer (Forest Outpost)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Outpost v2 fixed**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=202|WoB]]
+
+{{tag>Building Gathering ForestOutpost}}

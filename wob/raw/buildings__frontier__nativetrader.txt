@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Native Trader ======
+----
+
+<WRAP right>
+^  Native Trader                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativetrader.png?nolink|Native Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  7.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  35  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Frontier trading post where a Trader barters goods with native peoples in exchange for local resources.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativetrader.png?nolink|Native Trader}}</wrap> **Native Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativetrader.png?nolink|Native Trader}}</wrap> **Native Trader**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                            ^ Produces                                                      ^
+| 1 [[WikiPages:alcohol:ale|Ale]]                                        | [[WikiPages:food:bison_meat|Bison Meat]]                      |
+| 1 [[WikiPages:alcohol:ale|Ale]]                                        | [[WikiPages:food:duck_meat|Duck Meat]]                        |
+| 1 [[WikiPages:alcohol:ale|Ale]]                                        | [[WikiPages:food:venison|Venison]]                            |
+| 1 [[WikiPages:alcohol:ale|Ale]]                                        | [[WikiPages:health:herb|Herb]]                                |
+| 2 [[WikiPages:custom1:musket|Musket]]                                  | [[WikiPages:textile:leather|Leather]]                         |
+| 2 [[WikiPages:custom1:musket|Musket]]                                  | [[WikiPages:alcohol:pipe_tobacco|Tobacco Cured]]             |
+| 3 [[WikiPages:custom1:musket|Musket]]                                  | [[WikiPages:clothing:leathercoat|Leather Coat]]               |
+| 1 [[WikiPages:tool:tool|Tool]]                                         | [[WikiPages:custom6:arrowhead|Arrowhead]]                     |
+| 1 [[WikiPages:tool:tool|Tool]]                                         | [[WikiPages:food:pemmican|Pemmican]]                          |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativetrader.png?nolink|Native Trader}}</wrap> **Native Trader**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Frontier}}

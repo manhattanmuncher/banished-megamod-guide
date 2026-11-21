@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fort Anne Garrison ======
+----
+
+<WRAP right>
+^  Fort Anne Garrison                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Fort Anne Garrison}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  50  |
+|  <abbr "Healing radius (tiles)">Service Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fort Anne hospital staffed by a Doctor, treating up to 50 patients within a service radius of 30 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolcivics.png?nolink|Necora's Maritimes Civics}}</wrap> **Necora's Maritimes Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Fort Anne Garrison}}</wrap> **Fort Anne Garrison**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Fort Anne Garrison}}</wrap> **Fort Anne Garrison**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hospital Maritimes}}

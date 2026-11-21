@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Smelter (Colonial) ======
+----
+
+<WRAP right>
+^  Old Smelter                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmelter.png?nolink|Old Smelter (Colonial)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/smelter.png?nolink|Smelter}}</wrap> Smelter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hammer  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  7.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  28  |
+^  Build Cost                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:stone:stone|Stone]]  |  45  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  25  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial smelter where workers mint silver and gold coins from precious metals using furnace fuel.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarprecious.png?nolink|Precious Items Production}}</wrap> **Precious Items Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmelter.png?nolink|Old Smelter}}</wrap> **Old Smelter (Colonial)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarolditems.png?nolink|Old Buildings}}</wrap> **Old Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmelter.png?nolink|Melting House}}</wrap> **Melting House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmelter.png?nolink|Old Smelter (Colonial)}}</wrap> **Old Smelter (Colonial)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                              ^ Produces                                           ^
+| 1 [[WikiPages:custom1:silver|Silver]] + 10 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]              | [[WikiPages:custom6:silver_pfennig|Silver Coin]]      |
+| 1 [[WikiPages:custom1:gold|Gold]] + 10 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]                  | [[WikiPages:custom6:gold_guilder|Gold Coin]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Metalworking ColonialCharter}}

@@ -1,0 +1,68 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Animal Pen Buildings ======
+----
+
+Buildings that house livestock and collect animal products such as eggs, milk, and wool.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:animal_pens:abandonedshed|Abandoned Shed]] | Abandoned Places shed; produces Milk and Wool — no build cost |
+| [[buildings:animal_pens:abpanimalbarn|ABP Animal Barn]] | Animal Barn Plus barn; converts Plant Debris into Milk, Egg, or Wool |
+| [[buildings:animal_pens:abpanimalpen|ABP Animal Pen]] | Animal Barn Plus large pen that collects Fertilizer from housed livestock |
+| [[buildings:animal_pens:abpcleaningshed|ABP Cleaning Shed]] | Animal Barn Plus shed; produces Plant Debris and Fertilizer |
+| [[buildings:animal_pens:bganimalshed|BG Animal Shed]] | Bakery & Garden Alt animal shed; Herdsman collects Egg or Milk from housed livestock |
+| [[buildings:animal_pens:bgsheepshed|BG Sheep Shed]] | Bakery & Garden Alt sheep shed staffed by a Herdsman; produces Wool |
+| [[buildings:animal_pens:fbanimalbarn01|Animal Barn]] | Frontier Buildings barn; converts Plant Debris into Milk, Egg, or Wool |
+| [[buildings:animal_pens:animalpen|Animal Pen]] | Large pen that collects Fertilizer from housed livestock |
+| [[buildings:animal_pens:animalshed|Animal Shed (Christmas)]] | Christmas Mod shed staffed by Elves; yields Egg or Milk |
+| [[buildings:animal_pens:ohanimalshed|Old Animal Shed]] | Old Hovels animal shed; yields Egg or Milk |
+| [[buildings:animal_pens:ohsheepshed|Old Sheep Shed]] | Old Hovels sheep shed staffed by a Herdsman; produces Wool |
+| [[buildings:animal_pens:otanimalshed|Animal Shed (Old Town)]] | Old Town wood-construction shed; yields Egg or Milk |
+| [[buildings:animal_pens:otanimalshedstone|Animal Shed (Old Town Stone)]] | Old Town stone-construction shed; yields Egg or Milk |
+| [[buildings:animal_pens:animalshedsa|Animal Shed (SA)]] | Animal shed producing Egg or Milk |
+| [[buildings:animal_pens:settlersanimalshed|Animal Shed (Settlers)]] | Settlers mod shed; yields Egg, Milk, or Wool |
+| [[buildings:animal_pens:animalgrowerbird|Bird Farm]] | Colonial Charter bird farm; Herdsman raises birds to harvest Chicken |
+| [[buildings:animal_pens:apchickencoop|Chicken Coop]] | Abandoned Places small coop; produces Eggs — no build cost |
+| [[buildings:animal_pens:jxbccchickencoopfenced|Chicken Coop (Fenced)]] | JXBCC fenced chicken coop |
+| [[buildings:animal_pens:jxbccchickencoopnofence|Chicken Coop (No Fence)]] | JXBCC chicken coop without enclosure |
+| [[buildings:animal_pens:aspchickens|Chicken Shed]] | Animal Shed Plus; raises chickens for Egg and Meat |
+| [[buildings:animal_pens:cc17stable|City Stable]] | Colonial Charter city stable; Herdsman converts grain into Domesticated Animals |
+| [[buildings:animal_pens:aspcows|Cow Shed]] | Animal Shed Plus; raises cows |
+| [[buildings:animal_pens:animalgrowercow|Cow Farm]] | Colonial Charter cow farm; Herdsman raises cattle to harvest Beef |
+| [[buildings:animal_pens:crystalstable|CrystalStable]] | Crystal Cliffs/Maritimes stable; Stableman breeds Domesticated Animals from grain |
+| [[buildings:animal_pens:animalgrowerdeer|Deer Farm]] | Colonial Charter deer farm; Herdsman raises deer to harvest Venison |
+| [[buildings:animal_pens:dockbreed|Dock Chicken Breeder]] | Wetworker chicken coop placed on dock platforms; yields Egg and Meat |
+| [[buildings:animal_pens:animalpen3|Egg Pen]] | Colonial Charter pen for egg-laying livestock; yields Egg or Feathers |
+| [[buildings:animal_pens:rkgardenwalls2stables|Garden Walls Stables]] | RK Garden Walls stables variant 2 |
+| [[buildings:animal_pens:aspgoats|Goat Shed]] | Animal Shed Plus; raises goats |
+| [[buildings:animal_pens:animalgrowerhorse|Horse Farm]] | Colonial Charter horse farm; Herdsman raises horses to harvest Cheval |
+| [[buildings:animal_pens:dsjabjetty5x3chickens|Jetty Chicken Coop]] | DS Jabberweek jetty chicken coop |
+| [[buildings:animal_pens:dsjabjetty5x3chickenstex2|Jetty Chicken Coop (Tex2)]] | DS Jabberweek jetty chicken coop alternate texture |
+| [[buildings:animal_pens:mgsheepshed|MG Sheep Shed]] | KID Mods Medieval Grace sheep shed staffed by a Monk; produces Wool |
+| [[buildings:animal_pens:animalpen2|Milk Pen]] | Colonial Charter pen for dairy livestock; yields Milk or Leather |
+| [[buildings:animal_pens:cowbarn|Milking Barn]] | Large milking barn for dairy production |
+| [[buildings:animal_pens:animalgrowerpig|Pig Farm]] | Colonial Charter pig farm; Herdsman raises pigs to harvest Pork |
+| [[buildings:animal_pens:asppigs|Pig Shed]] | Animal Shed Plus; raises pigs |
+| [[buildings:animal_pens:asppigsp|Pig Sty]] | Animal Shed Plus pig sty variant |
+| [[buildings:animal_pens:jinxievillagerabbithutchfenced|Rabbit Hutch (Jinxie)]] | Jinxie Bitty Village rabbit hutch with fence; produces Leather and Rabbit Meat |
+| [[buildings:animal_pens:jinxievillagerabbithutchnofence|Rabbit Hutch, Fenceless (Jinxie)]] | Jinxie Bitty Village rabbit hutch without fence; produces Leather and Rabbit Meat; identical stats to fenced version |
+| [[buildings:animal_pens:hobbitrabbitgarden|Rabbit Garden (Hobbit)]] | Hobbit mod rabbit garden |
+| [[buildings:animal_pens:aprestoredshed|Restored Shed]] | Abandoned Places upgraded shed; produces Milk and Wool |
+| [[buildings:animal_pens:animalgrowersheep|Sheep Farm]] | Colonial Charter sheep farm; Herdsman raises sheep to harvest Mutton |
+| [[buildings:animal_pens:aspsheep|Sheep Shed (ASP)]] | Animal Shed Plus; raises sheep for Wool and Meat |
+| [[buildings:animal_pens:otsheepshed|Sheep Shed (Old Town)]] | Old Town wood sheep shed for wool production |
+| [[buildings:animal_pens:otsheepshedstone|Sheep Shed Stone (Old Town)]] | Old Town stone sheep shed for wool production |
+| [[buildings:animal_pens:silkwormhut|Silkworm Hut]] | Farmer-staffed hut that produces Silk from Silkworm Eggs |
+| [[buildings:animal_pens:crystalhutch|Small Animal Hutch]] | Crystal Cliffs small hutch for small animals |
+| [[buildings:animal_pens:crystalgoatpen|Small Animal Pen]] | Crystal Cliffs pen; converts Corn into Milk or Wool |
+| [[buildings:animal_pens:stable|Stable]] | Basic stable for livestock |
+| [[buildings:animal_pens:rkgardenwallsstables|Stables (Garden Walls)]] | RK Garden Walls stables |
+| [[buildings:animal_pens:sheepshed|Sheep Shed]] | Sheep shed for wool production |
+| [[buildings:animal_pens:animalgrowerwild|Wild Farm]] | Colonial Charter wild animal farm; Herdsman tends wild animals to harvest Beef |
+| [[buildings:animal_pens:animalpen1|Wool Pen]] | Colonial Charter pen for wool-producing livestock; yields Wool or Leather |
+
+----
+
+{{tag>Buildings AnimalPens}}

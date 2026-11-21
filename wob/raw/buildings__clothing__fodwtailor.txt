@@ -1,0 +1,69 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Duds (Forge of Dwarves - Winter) ======
+----
+
+<WRAP right>
+^  Tailor                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtailor.png?nolink|Duds}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge of Dwarves (Winter) tailor that produces clothing from a variety of materials.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwwood.png?nolink|Wood}}</wrap> **Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtailor.png?nolink|Duds}}</wrap> **Duds**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwwood.png?nolink|Wood}}</wrap> **Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtailor.png?nolink|Duds}}</wrap> **Duds**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwtailor.png?nolink|Duds (Forge of Dwarves - Winter)}}</wrap> **Duds (Forge of Dwarves - Winter)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                 ^ Produces                                                              ^
+| 2 [[WikiPages:textile:leather|Leather]]                                                                                                                                     | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                               | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:custom2:linen|Linen]]                                                                                               | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 2 [[WikiPages:textile:wool|Wool]]                                                                                                                                           | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 1 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                                     | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 1 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 6 [[WikiPages:custom7:reeds|Reeds]] + 3 [[WikiPages:textile:feathers_feather|Feathers]]                                                                                   | [[WikiPages:clothing:survival_coat|Survival Coat]]                    |
+| 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                                                                         | [[WikiPages:clothing:cloth_coat|Cloth Coat]]                          |
+| 2 [[WikiPages:custom2:linen|Linen]]                                                                                                                                         | [[WikiPages:clothing:linen_clothing|Linen Clothing]]                  |
+| 3 [[WikiPages:custom2:cured_leather|Cured Leather]]                                                                                                                         | [[WikiPages:clothing:buff_coat|Buff Coat]]                            |
+| 10 [[WikiPages:textile:feathers_feather|Feathers]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                  | [[WikiPages:clothing:cloth_down_coat|Cloth Down Coat]]                |
+| 2 [[WikiPages:custom2:canvas|Canvas]]                                                                                                                                       | [[WikiPages:clothing:canvas_coat|Canvas Coat]]                        |
+| 4 [[WikiPages:textile:pelt|Pelt]]                                                                                                                                           | [[WikiPages:clothing:pelt_clothing|Pelt Clothing]]                    |
+| 4 [[WikiPages:textile:fur|Fur]]                                                                                                                                             | [[WikiPages:clothing:fur_coat|Fur Coat]]                              |
+| 10 [[WikiPages:custom2:silk|Silk]]                                                                                                                                          | [[WikiPages:clothing:kimono|Kimono]]                                  |
+| 2 [[WikiPages:custom2:silk|Silk]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:uniform|Uniform]]                                |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:textile:leather|Leather]]                                                                                                 | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                               | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                               | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                                     | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:canvas|Canvas]]                                                                                                   | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:down|Down]]                                                                                                 | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:fur|Fur]]                                                                                                   | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building Clothing KidForgeOfDwarvesWinter}}

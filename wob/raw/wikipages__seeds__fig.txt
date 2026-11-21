@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Fig Seeds ======
+----
+
+<WRAP right>
+^  Fig Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedfig.png?nolink|Fig Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Fig Seeds are used to plant a Fig tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:figs|Figs]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

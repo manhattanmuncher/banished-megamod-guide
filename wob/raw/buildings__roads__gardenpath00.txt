@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Path Grass ======
+----
+
+<WRAP right>
+^  Wood Path Grass                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgardenpath00.png?nolink|Wood Path Grass}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  628  |
+</WRAP>
+<WRAP right></WRAP>
+
+A wood-plank path on grass. A decorative road texture that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgardenpath.png?nolink|Garden Paths}}</wrap> **Garden Paths** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgardenpath00.png?nolink|Wood Path Grass}}</wrap> **Wood Path Grass**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Road KidSettlers}}

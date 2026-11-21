@@ -1,0 +1,25 @@
+~~NOTOC~~
+
+====== Vegetables ======
+----
+
+Vegetable crops grown in fields. Vegetables contribute to food variety and citizen happiness.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/tmagave.png?nolink|Agave}} [[WikiPages:vegetable:agave|Agave]]
+  * {{https://sprites.worldofbanished.com/tmpulp.png?nolink|Agave Pulp}} [[WikiPages:vegetable:agave_pulp|Agave Pulp]]
+  * {{https://sprites.worldofbanished.com/rumbarrel.png?nolink|Rum Barrel}} [[WikiPages:vegetable:rum_barrel|Rum Barrel]]
+  * {{https://sprites.worldofbanished.com/sugarcane.png?nolink|Sugar Cane}} [[WikiPages:vegetable:sugar_cane_sugar|Sugar Cane]]
+  * {{https://sprites.worldofbanished.com/sugarcane.png?nolink|Sugar Cane}} [[WikiPages:vegetable:sugar_cane_sugarcane|Sugar Cane]]
+  * {{https://sprites.worldofbanished.com/sugarrefined.png?nolink|Sugar (Refined)}} [[WikiPages:vegetable:sugar_refined|Sugar (Refined)]]
+  * {{https://sprites.worldofbanished.com/tmbarrel.png?nolink|Tequila Barrel}} [[WikiPages:vegetable:tequila_barrel|Tequila Barrel]]
+  * {{https://sprites.worldofbanished.com/vgvegetable.png?nolink|Vegetables}} [[WikiPages:vegetable:vegetables|Vegetables]]
+
+----
+
+{{tag>Vegetable}}

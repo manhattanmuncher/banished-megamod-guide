@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Classic Stone Road ======
+----
+
+<WRAP right>
+^  Classic Stone Road                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstoneroad1.png?nolink|Classic Stone Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  70  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A classic stone road that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstoneroad.png?nolink|Stone Roads}}</wrap> **Stone Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstoneroad1.png?nolink|Classic Stone Road}}</wrap> **Classic Stone Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Road RKEditorChoice}}

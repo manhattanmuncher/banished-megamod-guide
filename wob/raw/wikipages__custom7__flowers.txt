@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Flowers ======
+----
+
+<WRAP right>
+^  Flowers                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  15/20  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/flowers.png?nolink|Flowers}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Flowers are a miscellaneous trade good available in the Banished MegaMod. They are stored in a Barn and mainly useful for trading with passing merchant caravans. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Flowers Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:greenhouse:gtgreenhouse|Greenhouse (Ghost Town)]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

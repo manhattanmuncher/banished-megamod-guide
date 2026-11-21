@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Urban Windmill ======
+----
+
+<WRAP right>
+^  Mill                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredwindmill.png?nolink|Urban Windmill}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmiller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter modular stacked urban windmill; processes grain into flour.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredwindmill.png?nolink|Urban Windmill}}</wrap> **Urban Windmill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredwindmill.png?nolink|Urban Windmill}}</wrap> **Urban Windmill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmilling.png?nolink|Milling}}</wrap> **Milling** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredwindmill.png?nolink|Urban Windmill}}</wrap> **Urban Windmill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                ^ Produces                              ^
+| 20 [[WikiPages:food:wheat|Wheat]]                         | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:corn|Corn]]                           | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:barley|Barley]]                       | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:sorghum|Sorghum]]                     | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:oats_oat|Oat]]                        | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:rye|Rye]]                             | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:rice|Rice]]                           | [[WikiPages:grain:flour|Flour]]       |
+| 12 [[WikiPages:textile:hemp_hempleaf|Hemp]]               | [[WikiPages:grain:flour|Flour]]       |
+| 15 [[WikiPages:food:acorns|Acorns]]                       | [[WikiPages:grain:flour|Flour]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Grain ColonialCharter}}

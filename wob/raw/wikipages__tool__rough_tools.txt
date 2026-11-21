@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rough Tools ======
+----
+
+<WRAP right>
+^  Rough Tools                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Tool  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Tool effectiveness rating">Use Value</abbr>  |  40  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  8  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/crudetool.png?nolink|Rough Tools}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Rough Tools are a worker's tool crafted in the Banished MegaMod. They are stored in a Barn and distributed to labourers, improving their productivity on the job. Their trade value is low at 2, but they play an important role in the colony's production chains.
+
+----
+
+===== Rough Tools Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * [[buildings:workshop:miniwork|Mini Work (NMT30)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Tool}}

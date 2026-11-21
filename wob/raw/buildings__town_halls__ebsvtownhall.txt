@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Town Hall ======
+----
+
+<WRAP right>
+^  Village Town Hall                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtownhall.png?nolink|Village Town Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  96  |
+|  [[WikiPages:wood:log|Wood]]  |  68  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village town hall. Records census data and attracts nomads to the settlement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Halls}}</wrap> **Town Halls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtownhall.png?nolink|Village Town Hall}}</wrap> **Village Town Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageservices.png?nolink|Village Town Services}}</wrap> **Village Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtownhall.png?nolink|Village Town Hall}}</wrap> **Village Town Hall**
+
+----
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building TownHalls EB}}

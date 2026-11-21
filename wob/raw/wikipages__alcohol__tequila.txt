@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tequila ======
+----
+
+<WRAP right>
+^  Tequila                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/6  |
+|  Edible  |  No  |
+|  Trade Value  |  10  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tmtequila.png?nolink|Tequila}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Tequila is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 10, making it a worthwhile commodity for trade.
+
+----
+
+===== Tequila Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:tmbar|Tequila Bar]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

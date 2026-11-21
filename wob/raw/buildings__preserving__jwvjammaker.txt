@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jam Maker (Vanilla Wood) ======
+----
+
+<WRAP right>
+^  Jam Maker                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjwvjammaker.png?nolink|Jam Maker (Vanilla Wood)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Jam Maker (Vanilla Wood) is a Jam & Wine mod building where workers produce fruit jam from grapes or elderberries and honey.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjwjammaker.png?nolink|Jam Maker}}</wrap> **Jam Maker** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjwvjammaker.png?nolink|Jam Maker (Vanilla Wood)}}</wrap> **Jam Maker (Vanilla Wood)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjamwine.png?nolink|Jam & Wine}}</wrap> **Jam & Wine** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjwjammaker.png?nolink|Jam Maker}}</wrap> **Jam Maker** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjwvjammaker.png?nolink|Jam Maker (Vanilla Wood)}}</wrap> **Jam Maker (Vanilla Wood)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                    ^ Produces                                          ^
+| 10 [[WikiPages:food:grapes|Grapes]] + 6 [[WikiPages:food:honey|Honey]]                        | [[WikiPages:food:fruit_jam|Fruit Jam]]             |
+| 10 [[WikiPages:food:elderberry|Elderberry]] + 6 [[WikiPages:food:honey|Honey]]                 | [[WikiPages:food:fruit_jam|Fruit Jam]]             |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jam & Wine v1.1 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=636|WoB]]
+
+{{tag>Building Food Preserving KidJamWine}}

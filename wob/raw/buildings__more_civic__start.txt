@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Civic Buildings ======
+----
+
+Additional civic buildings that serve the needs of the community.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:more_civic:abbey|Abbey]] | Colonial Charter abbey; Monks tend gardens, producing blueberries, herbs, and ale |
+| [[buildings:more_civic:dsalehouse|Ale House]] | DS Mods tavern; Brewer produces Ale or Strong Ale from fruits and grains; provides Entertainment happiness |
+| [[buildings:more_civic:blockhouse|Blockhouse]] | CCFrontier building; Soldier garrisons a strategic point and taxes passers-by to generate income |
+| [[buildings:more_civic:capetownbar|Cape Town Bar]] | South African mod tavern; Brewer ferments fruits and grain into Ale; provides Entertainment happiness |
+| [[buildings:more_civic:capetownclocktower|Cape Town Clocktower]] | South African mod civic landmark; provides Spirit happiness, radius 30; also functions as a town hall for setting colony resource limits; 7 × 7 footprint |
+| [[buildings:more_civic:courthouse|Court House]] | Colonial Court House; Priest provides Safety happiness to nearby citizens; one per settlement |
+| [[buildings:more_civic:giftshop|Gift Shop]] | Standalone mod civic building; Giftmaker distributes selected goods and provides Entertainment happiness |
+| [[buildings:more_civic:dsglobetheatre|Globe Theatre]] | DS Mods entertainment building; Performers boost happiness across large radius; one per settlement |
+| [[buildings:more_civic:govhouse|Governor's Office]] | Colonial Resources civic building; Official generates Silver Pfennig; Detraction building |
+| [[buildings:more_civic:ikedakabukitheater|Ikeda Kabuki Theater]] | A8 Japanese kabuki theater; provides Safety happiness within a 40-tile radius; 7 × 9 footprint |
+| [[buildings:more_civic:library|Library]] | Library; Librarian provides Goods happiness to nearby citizens |
+| [[buildings:more_civic:mdoldbailiffoffice|Old Bailiff's Office (MD)]] | MD old bailiff's office; Bailiff provides Safety happiness to nearby citizens |
+| [[buildings:more_civic:oldbarnpub|Old Barn Pub]] | RK Editor's Choice pub; Brewer combines meat, vegetables, and alcohol into meals; provides Entertainment happiness |
+| [[buildings:more_civic:mdoldcourthouse|Old Courthouse (MD)]] | MD old courthouse; Bailiff provides Safety happiness to nearby citizens; one per village |
+| [[buildings:more_civic:pinetavern|Small Pine Tavern]] | Necora Maritimes Pine Set tavern; Entertainment happiness, radius 15; 3 × 3 footprint |
+| [[buildings:more_civic:cornertavernt1|Tavern (Corner T1)]] | RK Editor Choice corner tavern, Classic Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt2|Tavern (Corner T2)]] | RK Editor Choice corner tavern, Old Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt3|Tavern (Corner T3)]] | RK Editor Choice corner tavern, Red Bricks style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt4|Tavern (Corner T4)]] | RK Editor Choice corner tavern, Sand Bricks style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt5|Tavern (Corner T5)]] | RK Editor Choice corner tavern, Fire Bricks style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt6|Tavern (Corner T6)]] | RK Editor Choice corner tavern, Old Church Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt7|Tavern (Corner T7)]] | RK Editor Choice corner tavern, Old Chapel Stones style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cornertavernt8|Tavern (Corner T8)]] | RK Editor Choice corner tavern, Old Wood style; Brewer produces ales; provides Entertainment happiness |
+| [[buildings:more_civic:cmtavern|The Pilgrims Rest]] | Colonial Resources tavern; Brewer produces ales and root beer; provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert1|Theater (Corner T1)]] | RK Editor Choice corner theater, Classic Stones style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert2|Theater (Corner T2)]] | RK Editor Choice corner theater, Old Stones style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert3|Theater (Corner T3)]] | RK Editor Choice corner theater, Red Bricks style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert4|Theater (Corner T4)]] | RK Editor Choice corner theater, Sand Bricks style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert5|Theater (Corner T5)]] | RK Editor Choice corner theater, Fire Bricks style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert6|Theater (Corner T6)]] | RK Editor Choice corner theater, Old Church Stones style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert7|Theater (Corner T7)]] | RK Editor Choice corner theater, Old Chapel Stones style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:cornertheatert8|Theater (Corner T8)]] | RK Editor Choice corner theater, Old Wood style; Performer provides Entertainment happiness |
+| [[buildings:more_civic:tavern|Tavern]] | Vanilla Banished tavern; Brewer provides Entertainment happiness within a 30-tile radius; 6 × 7 footprint |
+
+----
+
+{{tag>Buildings MoreCivic}}

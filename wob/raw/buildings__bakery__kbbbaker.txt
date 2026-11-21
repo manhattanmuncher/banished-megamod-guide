@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== KBB Baker ======
+----
+
+<WRAP right>
+^  KBB Baker                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkbbbaker.png?nolink|KBB Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Butcher & Baker bakery where a Baker turns Flour and fruit into Fruit Pie or Jelly Buns, Oat and Honey into Oat Cookies, or bakes Plum Cake and Pumpkin Pie.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbaker.png?nolink|Butcher & Baker}}</wrap> **Butcher & Baker** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkbbbaker.png?nolink|KBB Baker}}</wrap> **KBB Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbutcherbaker.png?nolink|Butcher & Baker}}</wrap> **Butcher & Baker** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkbbbaker.png?nolink|KBB Baker}}</wrap> **KBB Baker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                              ^ Produces                                            ^
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:apple|Apple]]                                                   | [[WikiPages:food:fruit_pie|Fruit Pie]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:blueberries|Blueberries]]                                       | [[WikiPages:food:fruit_pie|Fruit Pie]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:cherry|Cherry]]                                                 | [[WikiPages:food:fruit_pie|Fruit Pie]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:elderberry|Elderberry]]                                         | [[WikiPages:food:fruit_pie|Fruit Pie]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:peach|Peach]]                                                   | [[WikiPages:food:fruit_pie|Fruit Pie]]              |
+| 10 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:apple|Apple]]                                                    | [[WikiPages:food:jelly_bun|Jelly Bun]]              |
+| 10 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:blueberries|Blueberries]]                                        | [[WikiPages:food:jelly_bun|Jelly Bun]]              |
+| 10 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:plum|Plum]]                                                      | [[WikiPages:food:jelly_bun|Jelly Bun]]              |
+| 15 [[WikiPages:seeds:oat|Oat]] + 8 [[WikiPages:food:honey|Honey]]                                                        | [[WikiPages:food:oatcookie|Oat Cookie]]             |
+| 15 [[WikiPages:seeds:oat|Oat]] + 8 [[WikiPages:food:wild_honey|Wild Honey]]                                              | [[WikiPages:food:oatcookie|Oat Cookie]]             |
+| 10 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:plum|Plum]] + 5 [[WikiPages:food:spices|Spices]]                 | [[WikiPages:food:plum_cake|Plum Cake]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:pumpkin|Pumpkin]] + 2 [[WikiPages:food:spices|Spices]]          | [[WikiPages:food:spiced_pumpkin_pie|Spiced Pumpkin Pie]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Butcher Baker**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=715|WoB]]
+
+{{tag>Building Bakery ButcherBaker KID}}

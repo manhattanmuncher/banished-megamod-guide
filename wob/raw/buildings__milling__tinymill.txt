@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Mill ======
+----
+
+<WRAP right>
+^  Tiny Mill                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinymill.png?nolink|Tiny Mill}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmiller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact mill from the KID Toolbar where a Miller grinds grain into Flour in a minimal 4×4 footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinymill.png?nolink|Tiny Mill}}</wrap> **Tiny Mill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmilling.png?nolink|Milling}}</wrap> **Milling** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinymill.png?nolink|Tiny Mill}}</wrap> **Tiny Mill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                   ^
+| 10 [[WikiPages:food:wheat|Wheat]]                        | [[WikiPages:grain:flour|Flour]]            |
+| 10 [[WikiPages:food:corn|Corn]]                          | [[WikiPages:grain:flour|Flour]]            |
+| 10 [[WikiPages:food:oats_oat|Oats]]                      | [[WikiPages:grain:flour|Flour]]            |
+| 10 [[WikiPages:food:barley|Barley]]                      | [[WikiPages:grain:flour|Flour]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Milling KID}}

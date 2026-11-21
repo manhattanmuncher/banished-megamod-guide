@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Stone Wall Curved Corner ======
+----
+
+<WRAP right>
+^  Country Stone Wall Curved Corner                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallcurvedcnr.png?nolink|Country Stone Wall Curved Corner}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Storage Categories  |  Food  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods decorative curved corner for the Country Stone Wall set. Settlers store food with a capacity of 300 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Decorative}}</wrap> **Fences, Walls & Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsdecofencestonelow.png?nolink|Low Stone Walls}}</wrap> **Low Stone Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menucountrystonewall.png?nolink|Country Stone Wall}}</wrap> **Country Stone Wall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallcurvedcnr.png?nolink|Curved Corner}}</wrap> **Curved Corner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsdecofencestonelow.png?nolink|Low Stone Walls}}</wrap> **Low Stone Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menucountrystonewall.png?nolink|Country Stone Wall}}</wrap> **Country Stone Wall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallcurvedcnr.png?nolink|Curved Corner}}</wrap> **Curved Corner**
+
+----
+
+This building originally came from **Fences v17004**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=357|WoB]]
+
+{{tag>Building Storage DS}}

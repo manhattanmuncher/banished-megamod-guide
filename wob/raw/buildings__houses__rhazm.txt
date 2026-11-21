@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Middle 2-storey Angled ======
+----
+
+<WRAP right>
+^  Middle 2-storey Angled                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhazm.png?nolink|Middle 2-storey Angled}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A middle 2-storey angled row house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhmenu.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrowangle.png?nolink|Angled Residences}}</wrap> **Angled Residences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhazm.png?nolink|Middle 2-storey Angled}}</wrap> **Middle 2-storey Angled**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhmenu.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrowangle.png?nolink|Angled Residences}}</wrap> **Angled Residences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhazm.png?nolink|Middle 2-storey Angled}}</wrap> **Middle 2-storey Angled**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhail.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhazm.png?nolink|Middle 2-storey Angled}}</wrap> **Middle 2-storey Angled**
+
+----
+
+{{tag>Building Houses KidRowHouses}}

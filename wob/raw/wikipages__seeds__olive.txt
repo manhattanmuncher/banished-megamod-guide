@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Olive Seeds ======
+----
+
+<WRAP right>
+^  Olive Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedolive.png?nolink|Olive Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  4,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Olive Seeds are used to plant an Olive tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:olives|Olives]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

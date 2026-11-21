@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Train Food Car ======
+----
+
+<WRAP right>
+^  Train Food Car                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfoodcar.png?nolink|Train Food Car}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:iron:iron|Iron]]  |  88  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Railway trade car. Workers consume coal stored on-site to produce food by rail trade. The on-site coal supply holds up to 1,000 units and is reserved for production — it is not distributed to the settlement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcars.png?nolink|Cars}}</wrap> **Cars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfoodcar.png?nolink|Train Food Car}}</wrap> **Train Food Car**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcars.png?nolink|Cars}}</wrap> **Cars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfoodcar.png?nolink|Train Food Car}}</wrap> **Train Food Car**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfoodcar.png?nolink|Train Food Car}}</wrap> **Train Food Car**
+
+----
+
+===== Recipes =====
+
+^ Consumes ^ Produces ^
+| [[WikiPages:coalfuel:coal|Coal]] ×2 | [[WikiPages:food:apple|Apple]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×2 | [[WikiPages:food:cherry|Cherry]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×2 | [[WikiPages:food:walnut|Walnut]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×1 | [[WikiPages:food:bean|Bean]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×1 | [[WikiPages:food:cabbage|Cabbage]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×1 | [[WikiPages:food:potato|Potato]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×1 | [[WikiPages:food:corn|Corn]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×1 | [[WikiPages:food:wheat|Wheat]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×22 | [[WikiPages:food:beef_beef|Beef]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×22 | [[WikiPages:food:mutton|Mutton]] |
+| [[WikiPages:coalfuel:coal|Coal]] ×22 | [[WikiPages:food:venison|Venison]] |
+
+----
+
+This building originally came from **Railway v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=581|WoB]]
+
+{{tag>Building TradingPost Railway}}

@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nomad Buildings ======
+----
+
+Buildings associated with nomadic settlers and wandering groups.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:nomads:chomecoming|Homecoming (Colonial Houses)]] | Colonial Houses nomad attractor; groups up to 12% of population; 1 × 2 footprint; max 1 instance |
+| [[buildings:nomads:choowagon4|Choo Choo: Passenger Wagon (Choo Choo)]] | Choo Choo town hall and nomad attractor; groups up to 15% of population; 4 × 3 footprint; 80 work, 48 Wood, 12 Iron |
+| [[buildings:nomads:fairygardenmagicportal|Magic Portals (Fairy Garden)]] | Fairy Garden ghosted portals; six variants (2%–100% max group size); free to place; 0 × 0 footprint |
+| [[buildings:nomads:folamppost|Lamp Post (Forest Outpost)]] | Forest Outpost decorative lamp post; groups up to 15% of population; free to place; 1 × 1 footprint; removable |
+| [[buildings:nomads:fpscarecrownomads|Nomads Scarecrow (Friendly Pumpkin)]] | Friendly Pumpkin scarecrow nomad attractors; six variants (2%–100% max group size); free to place; 0 × 0 footprint |
+| [[buildings:nomads:mfhitchingpost|Hitching Post (Mexican Fantasy)]] | Mexican Fantasy hitching posts; seven variants including no-nomads suppressor; free to place; 0 × 0 footprint |
+| [[buildings:nomads:newmedievallighthouse|Medieval Lighthouse (New Medieval Town)]] | New Medieval Town lighthouse; groups up to 15% of population; 10 × 7 footprint; 160 work, 48 Wood, 148 Stone, 12 Iron; max 1 instance |
+| [[buildings:nomads:nomadlampa|Nomad Lamp (Kid - Nomads)]] | Kid - Nomads decorative lamp; seven variants (plain decorative + 2%-100% max group size); free to place; 0 × 0 footprint; max 1 instance per variant |
+| [[buildings:nomads:nomadsigna|Nomad Sign (Kid - Nomads)]] | Kid - Nomads decorative sign; seven variants (plain decorative + 2%-100% max group size); free to place; 0 × 0 footprint; max 1 instance per variant; supersedes the former standalone "Nomad Sign Complete" mod |
+| [[buildings:nomads:nomadwella|Nomad Well (Kid - Nomads)]] | Kid - Nomads decorative well; seven variants (plain decorative + 2%-100% max group size); free to place; 1 × 1 footprint; max 1 instance per variant |
+| [[buildings:nomads:ootwnomadpod|Nomad Pod (Out Of This World)]] | Out Of This World nomad pod; fixed 15% group size; free to place; 5 × 5 footprint; max 1 instance; removable |
+| [[buildings:nomads:rhio|Immigration Office (Row Business)]] | Row Business immigration office; groups up to 12% of population; 2 × 5 footprint; 40 work, 20 Wood, 24 Stone; max 1 instance |
+| [[buildings:nomads:whtetheringpost|Tethering Post (Westward Ho)]] | Westward Ho tethering posts; six variants (2%–100% max group size); free to place; 0 × 0 footprint |
+| [[buildings:nomads:icecastletower|The Light (Ice Castle)]] | Kid Ice Castle nomad-attracting tower (~12% pop yearly); WR 32 + Stone 28 + Iron 12 |
+
+----
+
+{{tag>Buildings Nomads}}

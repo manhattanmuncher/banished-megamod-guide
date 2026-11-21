@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cured Leather ======
+----
+
+<WRAP right>
+^  Cured Leather                                  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom2  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  20  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/leathercured.png?nolink|Cured Leather}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Cured Leather is a processed fabric or refined textile in the Banished MegaMod. It is produced from raw fibers and stored in a Barn, used as an ingredient in clothing and other crafted goods. At a trade value of 20, it is highly prized by traveling merchants.
+
+----
+
+===== Cured Leather Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:cornershoemakert1|Shoemaker (Corner T1)]]
+  * Produced at the [[buildings:clothing:cornershoemakert2|Shoemaker (Corner T2)]]
+  * Produced at the [[buildings:clothing:cornershoemakert3|Shoemaker (Corner T3)]]
+  * Produced at the [[buildings:clothing:cornershoemakert4|Shoemaker (Corner T4)]]
+  * Produced at the [[buildings:clothing:cornershoemakert5|Shoemaker (Corner T5)]]
+  * Produced at the [[buildings:clothing:cornershoemakert6|Shoemaker (Corner T6)]]
+  * Produced at the [[buildings:clothing:cornershoemakert7|Shoemaker (Corner T7)]]
+  * Produced at the [[buildings:clothing:cornershoemakert8|Shoemaker (Corner T8)]]
+  * Produced at the [[buildings:clothing:ebsvtannery|Village Tannery]]
+  * Produced at the [[buildings:clothing:ebtannery|Tannery (EB)]]
+  * Produced at the [[buildings:clothing:tannery|Tannery]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:clothing:ebleatherworks|Leather Works]] (for Pouch, Saddle)
+  * Used at the [[buildings:clothing:ebsvshoemaker|Village Shoemaker]] (for Shoes, Boots)
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+* Used at the [[buildings:clothing:weavers|Weavers]]
+  * Used at the [[buildings:milling:watermill3|Watermill 3]] (for Rug)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom2}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Spaghetteria ======
+----
+
+<WRAP right>
+^  Bitty Spaghetteria                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyspagrestaurant.png?nolink|Bitty Spaghetteria}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Time per work cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                         ^^
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Italian restaurant from Jinxie's Bitty Pasta mod. A Chef prepares various Italian-themed foods from grain and vegetables.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyspagrestaurant.png?nolink|Bitty Spaghetteria}}</wrap> **Bitty Spaghetteria**
+
+----
+
+===== Produces =====
+
+^ Produces ^
+| [[WikiPages:food:pasta|Pasta]] |
+| [[WikiPages:food:spaghetti|Spaghetti]] |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Preparing JinxieBittyPasta}}

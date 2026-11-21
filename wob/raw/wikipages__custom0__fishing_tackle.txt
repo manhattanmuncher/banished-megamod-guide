@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fishing Tackle ======
+----
+
+<WRAP right>
+^  Fishing Tackle                                 ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rmtackle.png?nolink|Fishing Tackle}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fishing Tackle is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. It has a modest trade value of 4.
+
+----
+
+===== Fishing Tackle Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

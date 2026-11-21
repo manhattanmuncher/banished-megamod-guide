@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Meat Locker ======
+----
+
+<WRAP right>
+^  Meat Locker                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmeatlocker.png?nolink|Meat Locker}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,600  |
+|  Storage Categories  |  Protein  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×5, Stone ×12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor's Choice half-underground storage for meat and proteins. Settlers store proteins only.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Special Barn}}</wrap> **Special Barn** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmeatlocker.png?nolink|Meat Locker}}</wrap> **Meat Locker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstoragebarntoolbar.png?nolink|StorageBarns Toolbar}}</wrap> **StorageBarns Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmeatlocker.png?nolink|Meat Locker}}</wrap> **Meat Locker**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage RKEditorChoice}}

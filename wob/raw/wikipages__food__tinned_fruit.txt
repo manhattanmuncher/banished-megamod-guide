@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tinned Fruit ======
+----
+
+<WRAP right>
+^  Tinned Fruit                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  30/36  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tinnedfruit.png?nolink|Tinned Fruit}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Tinned Fruit is a fruit harvested from orchards or gathered in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Tinned Fruit Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:preserving:tinneryfruit|Fruit Tinnery]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

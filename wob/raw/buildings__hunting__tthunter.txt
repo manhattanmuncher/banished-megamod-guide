@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunter (Tree Topper) ======
+----
+
+<WRAP right>
+^  Hunter (Tree Topper)                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtthunter.png?nolink|Hunter (Tree Topper)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  34  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tree Topper hunting cabin. Hunters hunt wild game within a 34-tile radius.
+
+----
+
+^ Toolbar ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtthunter.png?nolink|Hunter (Tree Topper)}}</wrap> **Hunter (Tree Topper)** |
+
+----
+
+This building originally came from **Tree Topper v1.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=577|WoB]]
+
+{{tag>Building Hunting KidTreeTopper}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tree House Three ======
+----
+
+<WRAP right>
+^  Tree House Three                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehouse03.png?nolink|Tree House Three}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID tree house; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehouse03.png?nolink|Tree House Three}}</wrap> **Tree House Three**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehouse03.png?nolink|Tree House Three}}</wrap> **Tree House Three**
+
+----
+
+This building originally came from **Tree House v3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=224|WoB]], [[https://banishedinfo.com/mods/view/815-Tree-House-V3|BI]]
+
+{{tag>Building Houses KidTreeHouses}}

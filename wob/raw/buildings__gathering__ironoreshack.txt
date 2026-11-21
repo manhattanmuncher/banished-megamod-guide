@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Ore Shack ======
+----
+
+<WRAP right>
+^  Iron Ore Shack                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironoreshack.png?nolink|Iron Ore Shack}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  15  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  11  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Renewable Resources mining shack. A Miner plants and harvests dense iron ore deposits within a 15-tile radius, providing a renewable source of Iron Ore.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/renewabletoolbar.png?nolink|Renewable Resources}}</wrap> **Renewable Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironoreshack.png?nolink|Iron Ore Shack}}</wrap> **Iron Ore Shack**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/renewabletoolbar.png?nolink|Renewable Resources}}</wrap> **Renewable Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironoreshack.png?nolink|Iron Ore Shack}}</wrap> **Iron Ore Shack**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+
+----
+
+===== See Also =====
+
+  * [[buildings:gathering:ironshack|Iron Shack]]
+
+----
+
+This building originally came from **Renewable Resources v2 beta**. Download the mod here: [[https://banishedinfo.com/mods/view/846-Renewable-Resources|BI]]
+
+{{tag>Building Gathering RenewableResources}}

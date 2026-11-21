@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Spinner ======
+----
+
+<WRAP right>
+^  Pine Spinner                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinespinner.png?nolink|Pine Spinner}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/weaver.png?nolink|Weaver}}</wrap> Weaver  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+Necora Pine Set spinner; spins twine from hemp or flax, and yarn from wool.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarweaving.png?nolink|Weaving}}</wrap> **Weaving** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinespinner.png?nolink|Pine Spinner}}</wrap> **Pine Spinner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolindustry.png?nolink|Necora's Maritimes Industry}}</wrap> **Necora's Maritimes Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpineindustry.png?nolink|Pine Industry}}</wrap> **Pine Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinespinner.png?nolink|Pine Spinner}}</wrap> **Pine Spinner**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                        ^ Produces                                              ^
+| 3 [[WikiPages:textile:hemp_hempleaf|Hemp]]                                         | [[WikiPages:textile:twine|Twine]]                     |
+| 5 [[WikiPages:textile:flax|Flax]]                                                  | [[WikiPages:textile:twine|Twine]]                     |
+| 3 [[WikiPages:textile:wool|Wool]]                                                  | [[WikiPages:textile:yarn|Yarn]]                       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Clothing Maritimes}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Church (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Church                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpchurch.png?nolink|Church (Old Town Ports)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Happiness from this building">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit (r42)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  180  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  108  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  96  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A church staffed by a Priest, providing spiritual support to up to 180 worshippers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpchurch.png?nolink|Church}}</wrap> **Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpchurch.png?nolink|Church}}</wrap> **Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpchurch.png?nolink|Church (Old Town Ports)}}</wrap> **Church (Old Town Ports)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town Ports & Pirates v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=493|WoB]]
+
+{{tag>Building Worship OldTownPorts}}

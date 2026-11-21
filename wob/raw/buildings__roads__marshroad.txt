@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Marsh Road ======
+----
+
+<WRAP right>
+^  Marsh Road                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarshroad.png?nolink|Marsh Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  46  |
+</WRAP>
+<WRAP right></WRAP>
+
+A marsh road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargrassroad.png?nolink|Grass Roads}}</wrap> **Grass Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarshroad.png?nolink|Marsh Road}}</wrap> **Marsh Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grassy Roads**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=695|WoB]]
+
+{{tag>Road GrassyRoads}}

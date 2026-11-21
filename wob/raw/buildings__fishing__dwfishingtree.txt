@@ -1,0 +1,19 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddeadwood.png?nolink|Deadwood}}</wrap> **Deadwood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwpatch.png?nolink|Patches}}</wrap> **Patches** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwfishingtree.png?nolink|Fishing Tree}}</wrap> **Fishing Tree**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbardeco.png?nolink|KID Deco}}</wrap> **KID Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddeadwood.png?nolink|Deadwood}}</wrap> **Deadwood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwpatch.png?nolink|Patches}}</wrap> **Patches** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwfishingtree.png?nolink|Fishing Tree}}</wrap> **Fishing Tree**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Deadwood v1.1 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=713|WoB]]
+
+{{tag>Building Fishing Deadwood}}

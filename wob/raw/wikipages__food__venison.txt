@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Venison ======
+----
+
+<WRAP right>
+^  Venison                                        ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  160/200  |  160/200  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  3  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/venison.png?nolink|Venison}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Venison is an edible food item available in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Venison Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockdeer|Deer]]
+  * Produced at the [[buildings:animal_pens:animalgrowerdeer|Deer Farm]]
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:hunting:fthunter|Elven Hunter (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:hunting:ghfhuntingcabin|Hunting Cabin (Grow Hunt Fish)]]
+  * [[buildings:gathering:nmtforestcenter|NMT Forest Center]]
+  * [[buildings:frontier:nativetrader|Native Trader (CC Frontier)]]
+  * Produced at the [[buildings:hunting:rkmctower|Watch Tower (RK Training Camp)]] (random)
+  * Produced at the [[buildings:hunting:rkmctower2|Watch Tower 2 (RK Training Camp)]] (random)
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:tradercarthunter|Trader Cart (Hunter)]] (random)
+  * Produced at the [[buildings:trading_post:traderhunter_bak|Trader Hunter (Backup)]] (random)
+  * Produced at the [[buildings:trading_post:trainfoodcar|Train Food Car]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketroastlarge|Market Roast Large]] (for Market Roast)
+  * Used at the [[buildings:food:marketstew|Market Stew]] (for [[WikiPages:food:stew_stew|Stew]])
+  * Used at the [[buildings:bakery:dssvbakery|Village Bakery]] (for Meat Pie)
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Hunter's Stew)
+  * Used at the [[buildings:butcher:fbbutcher|Friendly Butcher]] (for Venison Roast, Sausages)
+  * Used at the [[buildings:butcher:gfbutcher1|Small Butcher (Gothic Fantasy 1)]]
+  * Used at the [[buildings:butcher:gfbutcher2|Small Butcher (Gothic Fantasy 2)]]
+  * Used at the [[buildings:butcher:gnbutcher|Friendly Butcher (Granny Neighborhood)]]
+  * Used at the [[buildings:preserving:tinnerymeat|Meat Tinnery]]
+  * Used at the [[buildings:butcher:tinybutcher|Tiny Butcher]] (for Venison Roast, Sausages)
+  * Used at the [[buildings:butcher:wfbutcher|WF Butcher]] (for Venison Roast, Sausages)
+  * Used at the [[buildings:butcher:wpbutcher|WP Butcher]] (for Venison Roast, Sausages)
+  * Used at the [[buildings:food:whchuck|Chuck Wagon]] (for Stew)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+  * Used at the [[buildings:butcher:wwbutcher|Butcher (Wild West Cattle Drive)]] (for Roast, Sausages)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein Vanilla}}

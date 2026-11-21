@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Log Fence Gate Large (Impassable) ======
+----
+
+<WRAP right>
+^  Log Fence Gate Large (Impassable)                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddslogfencegatelarge.png?nolink|Log Fence Gate Large (Impassable)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  100  |
+|  Storage Categories  |  Tools  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods impassable log fence gate upgrade. Settlers store tools with a capacity of 100 units. Built by upgrading the DS Log Fence Gate Large.
+
+----
+
+===== Where to Find =====
+
+Upgrade from: DS Log Fence Gate Large
+
+----
+
+This building originally came from **Fences v17004**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=357|WoB]]
+
+{{tag>Building Storage DS}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Abandoned House ======
+----
+
+<WRAP right>
+^  Abandoned House                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedhouse01.png?nolink|Abandoned House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  50  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Abandoned Places abandoned house. Free to place; houses up to 3 settlers. See also [[buildings:houses:abandonedhouse02|Abandoned House (2)]] for an alternate model with identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedhouses.png?nolink|Abandoned Houses}}</wrap> **Abandoned Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedhouse01.png?nolink|Abandoned House}}</wrap> **Abandoned House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedhouses.png?nolink|Abandoned Houses}}</wrap> **Abandoned Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedhouse01.png?nolink|Abandoned House}}</wrap> **Abandoned House**
+
+----
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Houses AbandonedPlaces}}

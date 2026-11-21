@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Llamas ======
+----
+
+<WRAP right>
+^  Llamas                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/llama.png?nolink|Llamas}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  600  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  16 tiles  |
+|  <abbr "Product produced periodically while alive">Periodic Product</abbr>  |  Wool (every 3.0 months)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Llamas are fibre-producing livestock raised at a Pasture. They are shorn for Wool periodically and yield Charki when slaughtered.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Periodic Products =====
+
+  * [[WikiPages:textile:wool|Wool]] — produced every 3.0 months
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:charki|Charki]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockLlama}}

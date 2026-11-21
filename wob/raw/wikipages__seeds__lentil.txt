@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Lentil Seeds ======
+----
+
+<WRAP right>
+^  Lentil Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedlentil.png?nolink|Lentil Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Lentil Seeds are used to plant [[WikiPages:food:lentils|Lentils]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

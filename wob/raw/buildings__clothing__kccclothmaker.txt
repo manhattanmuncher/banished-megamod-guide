@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== KCC Cloth Maker ======
+----
+
+<WRAP right>
+^  KCC Cloth Maker                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkccclothmaker.png?nolink|KCC Cloth Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Coats & Cloth building where a Tailor weaves Linen or Cotton into Linen Clothing.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkcccoatscloth.png?nolink|Coats & Cloth}}</wrap> **Coats & Cloth** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkccclothmaker.png?nolink|KCC Cloth Maker}}</wrap> **KCC Cloth Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing}}</wrap> **Clothing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkcccoatscloth.png?nolink|Coats & Cloth}}</wrap> **Coats & Cloth** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkccclothmaker.png?nolink|KCC Cloth Maker}}</wrap> **KCC Cloth Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                     ^ Produces                                            ^
+| 4 [[WikiPages:custom2:linen|Linen]]                                                              | [[WikiPages:clothing:linen_clothing|Linen Clothing]] |
+| 4 [[WikiPages:textile:cotton|Cotton]]                                                             | [[WikiPages:clothing:linen_clothing|Linen Clothing]] |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Coats and Cloth (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=714|WoB]]
+
+{{tag>Building Clothing CoatsCloth KID}}

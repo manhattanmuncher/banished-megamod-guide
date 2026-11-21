@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Plantation Road ======
+----
+
+<WRAP right>
+^  Plantation Road                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplantationroad.png?nolink|Plantation Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  42  |
+</WRAP>
+<WRAP right></WRAP>
+
+A plantation road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplantationroad.png?nolink|Plantation Road}}</wrap> **Plantation Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grassy Roads**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=695|WoB]]
+
+{{tag>Road GrassyRoads}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sack ======
+----
+
+<WRAP right>
+^  Sack                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/2  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/sack.png?nolink|Sack}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Sack is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Sack Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

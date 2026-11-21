@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chapel (Editor's Choice) ======
+----
+
+<WRAP right>
+^  Chapel (Editor's Choice)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 12  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:wood:log|Wood]]  |  50  |
+|  [[WikiPages:stone:stone|Stone]]  |  130  |
+|  [[WikiPages:iron:iron|Iron]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Editor's Choice chapel staffed by a Priest, providing Spirit happiness within a radius of 35 tiles to up to 200 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Chapel}}</wrap> **Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice Toolbar}}</wrap> **Editor's Choice Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Chapel}}</wrap> **Chapel**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship EditorChoice}}

@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== General Trader ======
+----
+
+<WRAP right>
+^  General Trader                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcstrader.png?nolink|General Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–4 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  20,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Resource trading post. A General merchant arrives by river boat and offers a wide variety of goods from all categories, including seeds and livestock.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialresource.png?nolink|Colonial Resource}}</wrap> **Colonial Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcstrader.png?nolink|General Trader}}</wrap> **General Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialresource.png?nolink|Colonial Resource}}</wrap> **Colonial Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcstrader.png?nolink|General Trader}}</wrap> **General Trader**
+
+----
+
+===== Merchant =====
+
+The merchant arrives by river boat and offers up to 20 items from all good categories, including food, raw materials, crafted goods, seeds, and livestock. The merchant accepts any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcstrader.png?nolink|General Trader}}</wrap> **General Trader**
+
+----
+
+This building originally came from **Colonial Modular: Housing v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=220|WoB]]
+
+{{tag>Building TradingPost ColonialResource}}

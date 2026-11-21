@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Council Hall (Fairy Tale) ======
+----
+
+<WRAP right>
+^  Council Hall (Fairy Tale)                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmainhall.png?nolink|Council Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 8  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  5  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  122  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  52  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Fairy Tale council hall; temporarily houses up to 6 settlers across 5 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmainhall.png?nolink|Council Hall}}</wrap> **Council Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmainhall.png?nolink|Council Hall}}</wrap> **Council Hall**
+
+----
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Houses FairyTale}}

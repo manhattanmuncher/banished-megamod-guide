@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Peg Leg ======
+----
+
+<WRAP right>
+^  Peg Leg                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  3  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pegleg.png?nolink|Peg Leg}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Peg Leg is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Peg Leg Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:trading_post:otplootship|Loot Ship (Old Town Ports)]]
+  * Produced at the [[buildings:crafting:otpwoodshop|Wood Shop (Old Town Ports)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

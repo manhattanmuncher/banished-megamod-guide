@@ -1,0 +1,58 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bakery ======
+----
+
+<WRAP right>
+^  Bakery                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgbakery.png?nolink|Bakery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Bakery is a Botanical Garden building where a baker bakes a wide variety of breads and pies from flour, fruits, and oils.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgbakery.png?nolink|Bakery}}</wrap> **Bakery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|KID Food}}</wrap> **KID Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgbakery.png?nolink|Bakery}}</wrap> **Bakery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgbakery.png?nolink|Bakery}}</wrap> **Bakery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                         ^ Produces                                                    ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                                                                                  | [[WikiPages:food:bread_bread|Bread]]                        |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                                                                                            | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]             |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]]                                                                                               | [[WikiPages:food:herb_bread|Herb Bread]]                    |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:pumpkin|Pumpkin]] + 2 [[WikiPages:food:seed_oil|Seed Oil]] + 2 [[WikiPages:food:spices|Spices]]            | [[WikiPages:food:spiced_pumpkin_pie|Spiced Pumpkin Pie]]    |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:mango|Mango]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                                     | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:pineapple|Pineapple]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                             | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:apple|Apple]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                                     | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:cherry|Cherry]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                                   | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:peach|Peach]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                                     | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:pear|Pear]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                                       | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:blueberries|Blueberries]] + 2 [[WikiPages:food:seed_oil|Seed Oil]]                                         | [[WikiPages:food:fruit_pie|Fruit Pie]]                      |
+| 12 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:beef_beef|Beef]] + 2 [[WikiPages:food:spices|Spices]]                                                       | [[WikiPages:food:basic_meat_pie|Basic Meat Pie]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:venison|Venison]] + 2 [[WikiPages:food:spices|Spices]]                                                      | [[WikiPages:food:basic_meat_pie|Basic Meat Pie]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:mutton|Mutton]] + 2 [[WikiPages:food:spices|Spices]]                                                        | [[WikiPages:food:basic_meat_pie|Basic Meat Pie]]            |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food Bakery BotanicalGarden}}

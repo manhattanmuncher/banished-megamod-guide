@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dwelling Gate (Forge Of Dwarves - Winter) ======
+----
+
+<WRAP right>
+^  Dwelling Gate                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatedwelling.png?nolink|Dwelling Gate}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  5  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Forge Of Dwarves - Winter dwelling gate; temporarily houses up to 5 settlers across 5 apartments. No construction cost.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgates.png?nolink|Gates}}</wrap> **Gates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatedwelling.png?nolink|Dwelling Gate}}</wrap> **Dwelling Gate**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgates.png?nolink|Gates}}</wrap> **Gates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatedwelling.png?nolink|Dwelling Gate}}</wrap> **Dwelling Gate**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatedwelling.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatedwelling.png?nolink|Dwelling Gate (Forge Of Dwarves - Winter)}}</wrap> **Dwelling Gate (Forge Of Dwarves - Winter)**
+
+----
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building Houses ForgeOfDwarvesWinter}}

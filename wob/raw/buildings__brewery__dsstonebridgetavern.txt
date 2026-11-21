@@ -1,0 +1,62 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Bridge Tavern ======
+----
+
+<WRAP right>
+^  Stone Bridge Tavern                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgetavern.png?nolink|Stone Bridge Tavern}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+|  Storage Categories  |  Alcohol  |
+|  Placement  |  On Stone Bridge spans  |
+|  Happiness  |  Entertainment (radius 30, requires alcohol)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  84  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Stone Bridge tavern that sits on a stone bridge span. A Brewer ferments fruits, grains, vegetables, and honey into Ale and Mead, then serves them on-site to provide Entertainment happiness across a 30-tile radius. Press F when placing to cycle through six visual variants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgeprodservmenu.png?nolink|Production & Services}}</wrap> **Production & Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgetavern.png?nolink|Stone Bridge Tavern}}</wrap> **Stone Bridge Tavern**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgeprodservmenu.png?nolink|Production & Services}}</wrap> **Production & Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgetavern.png?nolink|Stone Bridge Tavern}}</wrap> **Stone Bridge Tavern**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                  ^ Produces                                              ^
+| 30 [[WikiPages:food:apple|Apple]]                                                            | [[WikiPages:alcohol:ale|Ale]]                         |
+| 60 [[WikiPages:food:blueberries|Blueberry]]                                                  | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:cherry|Cherry]]                                                          | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:peach|Peach]]                                                            | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:pear|Pear]]                                                              | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:plum|Plum]]                                                              | [[WikiPages:alcohol:ale|Ale]]                         |
+| 100 [[WikiPages:food:wheat|Wheat]]                                                           | [[WikiPages:alcohol:ale|Ale]]                         |
+| 100 [[WikiPages:food:corn|Corn]]                                                             | [[WikiPages:alcohol:ale|Ale]]                         |
+| 100 [[WikiPages:food:potato|Potato]]                                                         | [[WikiPages:alcohol:ale|Ale]]                         |
+| 60 [[WikiPages:food:pumpkin|Pumpkin]]                                                        | [[WikiPages:alcohol:ale|Ale]]                         |
+| 60 [[WikiPages:food:honey|Honey]]                                                            | [[WikiPages:alcohol:mead|Mead]]                       |
+| 40 [[WikiPages:food:honey|Honey]] + 20 [[WikiPages:food:water|Water]]                        | [[WikiPages:alcohol:mead|Mead]]                       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone Bridge v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=385|WoB]], [[https://www.nexusmods.com/banished/mods/71|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1238017268|Steam]]
+
+{{tag>Building Brewery DS}}

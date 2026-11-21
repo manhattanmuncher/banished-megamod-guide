@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Hovel Vacant ======
+----
+
+<WRAP right>
+^  Old Hovel Vacant                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelvacanta.png?nolink|Old Hovel Vacant}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  2  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  50  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Hovels residence; a house of 2 apartments for settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelvacanta.png?nolink|Old Hovel Vacant}}</wrap> **Old Hovel Vacant**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelvacanta.png?nolink|Old Hovel Vacant}}</wrap> **Old Hovel Vacant**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovelvacanta.png?nolink|Old Hovel Vacant}}</wrap> **Old Hovel Vacant**
+
+----
+
+This building originally came from **Old Hovels v1.17**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=597|WoB]]
+
+{{tag>Building Houses KidOldHovels}}

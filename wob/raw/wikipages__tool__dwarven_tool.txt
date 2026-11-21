@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dwarven Tool ======
+----
+
+<WRAP right>
+^  Dwarven Tool                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Tool  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  20  |
+|  <abbr "Tool effectiveness rating">Use Value</abbr>  |  400  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  12  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/dwarventool.png?nolink|Dwarven Tool}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Dwarven Tool is a worker's tool crafted in the Banished MegaMod. It is stored in a Barn and distributed to labourers, improving their productivity on the job. At a trade value of 20, it is highly prized by traveling merchants.
+
+----
+
+===== Dwarven Tool Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Tool}}

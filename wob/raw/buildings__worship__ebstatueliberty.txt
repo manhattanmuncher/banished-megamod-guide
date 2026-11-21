@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Statue of Liberty ======
+----
+
+<WRAP right>
+^  Statue of Liberty                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstatueliberty.png?nolink|Statue of Liberty}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fireworker.png?nolink|Fire Worker}}</wrap> Fire Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 100)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  250  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  80  |
+|  [[WikiPages:iron:iron|Iron]]  |  54  |
+|  [[WikiPages:custom5:copper|Copper]]  |  94  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large statue staffed by a Fire Worker who keeps the torch lit, providing Spirit happiness within a radius of 100 tiles. Spans land and water. Only one Statue of Liberty may be built per settlement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstatues.png?nolink|Statues, Flags and Monuments}}</wrap> **Statues, Flags and Monuments** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstatueliberty.png?nolink|Statue of Liberty}}</wrap> **Statue of Liberty**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarsubwonders.png?nolink|Wonders Toolbar}}</wrap> **Wonders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstatueliberty.png?nolink|Statue of Liberty}}</wrap> **Statue of Liberty**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship EB}}

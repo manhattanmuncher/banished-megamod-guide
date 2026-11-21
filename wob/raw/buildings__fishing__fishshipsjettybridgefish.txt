@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fishing Bridge (Fish n Ships) ======
+----
+
+<WRAP right>
+^  Fishing Bridge                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybridgefish.png?nolink|Fishing Bridge}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 10  |
+|  Placement  |  Water's edge  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fish n Ships fishing bridge. A Fisherman catches Fish from a water's-edge bridge extending into the water within a 14-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybridgefish.png?nolink|Fishing Bridge}}</wrap> **Fishing Bridge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybridgefish.png?nolink|Fishing Bridge}}</wrap> **Fishing Bridge**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing KidFishShips}}

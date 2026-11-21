@@ -1,0 +1,20 @@
+~~NOTOC~~
+
+====== Grain ======
+----
+
+Grain crops harvested from fields and processed into flour at mills. Grain is the foundation of most baked food production.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/flour.png?nolink|Flour}} [[WikiPages:grain:flour|Flour]]
+  * {{https://sprites.worldofbanished.com/hops.png?nolink|Hops}} [[WikiPages:grain:hops|Hops]]
+  * {{https://sprites.worldofbanished.com/malt.png?nolink|Malt}} [[WikiPages:grain:malt|Malt]]
+
+----
+
+{{tag>Grain}}

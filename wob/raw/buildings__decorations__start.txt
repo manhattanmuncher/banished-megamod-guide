@@ -1,0 +1,110 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Decoration Buildings ======
+----
+
+Decorative objects that can be placed in the colony for aesthetic purposes.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:decorations:kiddecocrates|Decorative Crates (Kid)]] | Kid decorative crates/barrels/sacks; no footprint; free; no storage |
+| [[buildings:decorations:festivalground|Festival Ground]] | Kid fairground tents (Food/Music/Exhibit) providing Goods/Entertainment/Spirit happiness; free |
+| [[buildings:decorations:kidoldfence|Old Fence (Kid)]] | Kid decorative weathered fence; 1 x 1; free |
+| [[buildings:decorations:kidsomeboats|Some Boats]] | Kid ghosted decorative boats (fishing/sail/yacht); water-placed; free |
+| [[buildings:decorations:ebsvsigntrader|Trader Sign Yellow]] | EB Simple Village decorative yellow trader sign for Trading Ports; ghosted placement; 8 F Key variants |
+| [[buildings:decorations:ebsvsigntraderdouble|Trader Sign Double Yellow]] | EB Simple Village decorative double yellow trader sign for Trading Ports; ghosted placement; 6 F Key variants |
+| [[buildings:decorations:ebsvsigntraderdoublew|Trader Sign Double White]] | EB Simple Village decorative double white trader sign for Trading Ports; ghosted placement; 6 F Key variants |
+| [[buildings:decorations:ebsvsigntraderw|Trader Sign White]] | EB Simple Village decorative white trader sign for Trading Ports; ghosted placement; 8 F Key variants |
+| [[buildings:decorations:bamboolatticefence|Bamboo Lattice Fence]] | A8 Japanese decorative woven bamboo lattice fence; 1 × 1; 1 Wood |
+| [[buildings:decorations:moroccanbitterlemondeco|Bitter Lemon Tree]] | A8 Moroccan Housing decorative bitter lemon tree; no footprint; free overlapping placement |
+| [[buildings:decorations:jinxiebittyroundtable|Bitty Round Table]] | Jinxie Bitty Pasta decorative round picnic table; no footprint; free; 3 F-key variants |
+| [[buildings:decorations:brandenburgertor|Brandenburger Tor]] | EB (embx61) colossal Brandenburg Gate monument; 30 × 16; end-game showpiece (25000 work) |
+| [[buildings:decorations:brickcitysidewalk|Brick City Sidewalk]] | Angainor88 American City Living decorative brick sidewalk; no footprint; free |
+| [[buildings:decorations:dscelticpalisade|Celtic Palisade]] | DS Celtic House defensive timber palisade; straight/corner/gate/tower pieces; low (05) and high (10) heights |
+| [[buildings:decorations:dschristmasdeco|Christmas Decorations]] | Christmas Mod festive decorations (snowman + 3 wreath designs); 1 × 1; free |
+| [[buildings:decorations:brimmerhouseplants|City Planters]] | Angainor88 American City Living decorative plant box; no footprint; free |
+| [[buildings:decorations:mcdeco|Deco Cave]] | KID More Caves decorative rock cluster; free; 3 × 4 footprint; Gray/Brown cosmetic variants |
+| [[buildings:decorations:japandecojars|Deco Jars]] | A8 Japanese decorative ceramic jars; no footprint; free overlapping placement |
+| [[buildings:decorations:sdecostone|Deco Stone]] | A8 Japanese decorative landscaping rock; no footprint; free overlapping placement |
+| [[buildings:decorations:maritimescrystalfence|Crystal Cliffs Fence]] | Necora Maritimes Crystal Cliffs decorative fence (Brown/Red/White); straight/diagonal/gate pieces |
+| [[buildings:decorations:deadwood|Deadwood]] | Kid Deadwood decorative dead trees and logs (small/large); no footprint; free |
+| [[buildings:decorations:decomagicmushroom|Deco Magic Mushroom]] | Kid decorative magic mushrooms (small/large/XL); no footprint; free |
+| [[buildings:decorations:decopeople|Deco People]] | Kid ghosted decorative villager figures (Vanilla/First/Rural/New Outfit sets); no footprint; free |
+| [[buildings:decorations:dsghoststrongalepiles|Deco Strong Ale Barrels]] | DS Ale House decorative pile of strong ale barrels; no footprint; free |
+| [[buildings:decorations:decowreaths|Decoration Wreaths]] | Kid decorative hanging wreaths (assorted floral designs); no footprint; free |
+| [[buildings:decorations:crystalgoat|Decorative Goat]] | Necora Maritimes Crystal Cliffs decorative goat; no footprint; small Safety happiness radius |
+| [[buildings:decorations:deerscare|Deerscare]] | A8 Japanese decorative bamboo deer-scarer (shishi-odoshi); 1 × 1 garden ornament |
+| [[buildings:decorations:mcdog|Dog Cave]] | KID More Caves decorative dog outside a cave den; no footprint; free; Gray/Brown cosmetic variants |
+| [[buildings:decorations:dsjabjettydeco|DS Jetty Decorations]] | DS Jetty & Bridge decorative accents (bench, pole, fence rails, stairs, low deck); free |
+| [[buildings:decorations:dsjabjettyplatforms|DS Jetty Platforms]] | DS Jetty & Bridge walkable jetty deck pieces (sections, corners, stairs, angles); T1/T2 textures |
+| [[buildings:decorations:dsjabboats|DS Small Boats]] | DS Jetty & Bridge decorative small boats and rowboat; water-placed; free |
+| [[buildings:decorations:ebdecofence|EB Decorative Fence]] | EB (embx61) decorative wooden fence; 4 wood finishes (Cherry/Oak/Wenge/White) × straight/corner/end/gate/3way/4way; 1 Wood each |
+| [[buildings:decorations:ebships|EB Decorative Ships]] | EB (embx61) decorative ships (Village Gallion, Viking Ship); water-placed; no footprint; free |
+| [[buildings:decorations:ebdecostatues|EB Decorative Statues]] | EB (embx61) classical Greco-Roman statues (Apollo, Zeus, Venus, etc.); 11 types; no footprint; free |
+| [[buildings:decorations:eboutdoorfurniture|EB Outdoor Furniture]] | EB (embx61) beach & resort furniture (bench, chair, parasol, swing, etc.); no footprint; free |
+| [[buildings:decorations:ebstatuesofhonour|EB Statues of Honour]] | EB (embx61) memorial statues (Jukov, Pojarski); standard, ghosted, and nomad-attracting versions |
+| [[buildings:decorations:ebstonewall|EB Stone Wall]] | EB (embx61) decorative stone wall set; straight/corner/gate/post pieces + ghosted; 1 Stone each |
+| [[buildings:decorations:ebvillagefence|EB Village Fence]] | EB Simple Village decorative wood fence + fence-less (ghosted) sets + end railing |
+| [[buildings:decorations:ebsvsigns|EB Village Signs]] | EB Simple Village decorative town/market/top/bottom signs; yellow & white; ghosted, free; F-key variants |
+| [[buildings:decorations:ebsvdecostatues|EB Village Statues]] | EB Simple Village decorative statues (Dragon, Jesus, Lion, Woman); no footprint; free |
+| [[buildings:decorations:elfgirl|Elf Girl]] | Kid Elf Girl decorative statues (Elf Girl + animal statues) and matching walls; no footprint; free |
+| [[buildings:decorations:essaouiraboatdeco|Essaouira Boat Deco]] | A8 Moroccan Misc decorative water-placed fishing boat; 4 appearance variants; removable via dialog; free to place |
+| [[buildings:decorations:kiddecoplants|Exotic Plants]] | Kid Deco Plants large set of decorative exotic plants (bromeliads, desert rose, etc.); no footprint; free |
+| [[buildings:decorations:sbfishingboat|Fishing Boat]] | Kid Some Boats decorative water-placed fishing boat; free to place |
+| [[buildings:decorations:sbfishingboattoo|Fishing Boat 2]] | Kid Some Boats decorative water-placed fishing boat variant; free to place |
+| [[buildings:decorations:moroccangraypoplardeco|Gray Poplar Tree]] | A8 Moroccan Housing decorative gray poplar tree; no footprint; free overlapping placement |
+| [[buildings:decorations:maritimesfortanne|Fort Anne Earthworks]] | Necora Maritimes Fort Anne earthen rampart pieces (straight/diagonal/gate/corners) |
+| [[buildings:decorations:rkgardenwalls|Garden Walls]] | RK decorative stone garden-wall kit (walls/columns/gates/lamps/pots); two styles; 10–20 Stone per piece |
+| [[buildings:decorations:ghostflowers|Ghost Flowers]] | Kid decorative coloured flower-bed tiles (center/corner/edge/row pieces); 1 × 1; free |
+| [[buildings:decorations:fbhusky|Husky]] | Friendly Blue mod free decorative husky dog; can be removed via its dialog |
+| [[buildings:decorations:iseefire|I See Fire — Torches & Candles]] | RK decorative torches, wall torches (9 positions) and candles; 1 × 1; free |
+| [[buildings:decorations:fbhuskyhouse|Husky House]] | Friendly Blue mod free decorative dog kennel; can be removed via its dialog |
+| [[buildings:decorations:japanesecemeterywall|Japanese Cemetery Wall]] | A8 Japanese decorative cemetery wall/gate/tombstone set; decorative only; Stone/Wood per piece |
+| [[buildings:decorations:japanesefence|Japanese Fence]] | A8 Japanese decorative wooden fence; straight/corner/end/gate pieces; 2 Wood each |
+| [[buildings:decorations:japaneseplantdecorations|Japanese Plant Decorations]] | A8 Japanese decorative trees, shrubs and plants (13 types incl. Maple, Sakura, Black Pine); no footprint; free |
+| [[buildings:decorations:jinxiechickencoopdeco|Jinxie Chicken Coop Decorations]] | Jinxie decorative poultry (hen, rooster, chick, feeder); no footprint; free; many F-key variants |
+| [[buildings:decorations:jinxiefestivalparks|Jinxie Festival Parks]] | Jinxie decorated festival parks (Christmas/Easter/Halloween/Thanksgiving/Wedding/Village); Entertainment happiness, radius 20; 5 × 5; free |
+| [[buildings:decorations:jinxienaturaldecorations|Jinxie Natural Decorations]] | Jinxie decorative base-game trees, rocks, ore, crops and gathering props (18 items); no footprint; free |
+| [[buildings:decorations:kidworkshop|Kid Workshop]] | Kid Workshop decorative set (29 pieces: deco objects, bush, paths, 5×5 cover & awnings, playground, farmyard, Happy Squares); free; Happy Squares give happiness in a 16-tile radius |
+| [[buildings:decorations:nmt30decocrop|NMT 3.0 Deco Crop]] | RK NMT decorative crop tiles (barley, tomato, carrot, etc., 13 types); 1 × 1; free; grow nothing |
+| [[buildings:decorations:nomadjettya|Nomad Jetty (Kid - Nomads)]] | Kid - Nomads walkable water floor tile; no immigration mechanic despite the name; free; 1 × 1 footprint |
+| [[buildings:decorations:koipond|Koi Pond]] | A8 Japanese landscaped koi pond; Spirit happiness, radius 30; 10 × 7 footprint |
+| [[buildings:decorations:dscelticstonelugh|Lugh's Stone]] | DS Celtic House monumental standing stone; 6 × 6 decorative landmark; costs 200 Venison |
+| [[buildings:decorations:dslumbermilldeco|Lumber Mill Decorations]] | DS Lumber Mill decorative log piles, lumber stacks and wharf pieces |
+| [[buildings:decorations:maritimescoverings|Maritimes Coverings]] | Necora Maritimes roof coverings/awnings (flat & arched, Brown/Gray); no footprint; free |
+| [[buildings:decorations:maritimesdecorations|Maritimes Decorations]] | Necora Maritimes decorative trees, resource props and PEI road accents; no footprint; free |
+| [[buildings:decorations:maritimesdockset|Maritimes Dock Set]] | Necora Maritimes walkable dock/jetty pieces + Lobster Pot; build over water |
+| [[buildings:decorations:maritimesriffle|Maritimes Riffle & Terrain Painting]] | Necora Maritimes river riffles/waterfalls + terrain-painting tools (flatten/dig/slope/texture) |
+| [[buildings:decorations:moroccanarch|Moroccan Arch]] | A8 Moroccan Housing decorative archway; 1 × 1 (Large variant 2 × 1); 1 Stone |
+| [[buildings:decorations:moroccanawning|Moroccan Awning]] | A8 Moroccan Housing decorative shop awning; 1 × 1 (Large variant 2 × 1); 1 Wood; free ghosted variants |
+| [[buildings:decorations:moroccanbuttress|Moroccan Buttress]] | A8 Moroccan Housing decorative wall buttress; 1 × 1 (Large variant 2 × 1); 1 Stone; free ghosted variants |
+| [[buildings:decorations:moroccangate|Moroccan Gate]] | A8 Moroccan Misc decorative gate; 6 × 1 footprint with walkable center arch; 3 appearance variants |
+| [[buildings:decorations:moroccangatedia|Moroccan Gate Diagonal]] | A8 Moroccan Misc diagonal wall corner piece; 1 × 1 footprint; 3 appearance variants |
+| [[buildings:decorations:moroccangatetower|Moroccan Gate Tower]] | A8 Moroccan Misc corner tower piece; 1 × 1 footprint; 3 appearance variants |
+| [[buildings:decorations:moroccangatewall|Moroccan Gate Wall]] | A8 Moroccan Misc wall segment piece; 1 × 1 footprint; 3 appearance variants |
+| [[buildings:decorations:paperlantern|Paper Lantern]] | A8 Japanese decorative paper lantern; no footprint; free overlapping placement |
+| [[buildings:decorations:patchworkdeco|Patchwork Deco]] | Kid - Patchwork decorative crop plots; 18 variants matching the mod's growing patches; free; no footprint; grow nothing |
+| [[buildings:decorations:a8prideflags|Pride Flags]] | A8 mod set decorative flags; 28 designs, cycled in-game; no footprint; free |
+| [[buildings:decorations:pondstone|Pond Stone]] | A8 Japanese decorative water-edge stone; no footprint; free overlapping placement |
+| [[buildings:decorations:maritimesportroyalfort|Port Royal Fortifications]] | Necora Maritimes Port Royal fort pieces (palisade, gates, gatehouses, tower, cannons) |
+| [[buildings:decorations:portaexilium|Porta Exilium]] | EB (embx61) monumental triumphal arch; 10 × 6 stone gateway |
+| [[buildings:decorations:rkcrypt|RK Crypt]] | RK Editor's Choice decorative stone crypt; Spirit happiness, radius 30; 1 × 1; WR 24 + Stone 16; on the Creepy Cemetery toolbar |
+| [[buildings:decorations:rkmetalfence|RK Metal Fence]] | RK Editor's Choice wrought-metal fence (straight/corner/gate/3-way/4-way/turns); 1 × 1; WR 10 + Stone 2 each |
+| [[buildings:decorations:jriverquays|River Quay Wall]] | A8 Japanese decorative stone river-quay wall pieces; large/small/diagonal variants |
+| [[buildings:decorations:moroccanrosebushdeco|Rosebush]] | A8 Moroccan Housing decorative rosebush; no footprint; free overlapping placement |
+| [[buildings:decorations:decosakebarrel|Sake Barrel]] | A8 Japanese decorative stacked sake barrels (kazaridaru); no footprint; free overlapping placement |
+| [[buildings:decorations:sashimonoflag|Sashimono Flag]] | A8 Japanese decorative samurai war banner; no footprint; free overlapping placement |
+| [[buildings:decorations:ebstatuetrapper|Statue of Trapper Luke]] | EB (embx61) commemorative statue; 1 × 1; standard + free ghosted version |
+| [[buildings:decorations:stonelantern|Stone Lantern]] | A8 Japanese decorative stone lantern (tōrō); no footprint; free overlapping placement |
+| [[buildings:decorations:teatreedeco|Tea Tree Deco]] | A8 Moroccan Tea decorative tea tree; free land placement; removable via dialog |
+| [[buildings:decorations:torii|Torii]] | A8 Japanese decorative torii shrine gate; 4 × 4 walkable arch; 5 Wood |
+| [[buildings:decorations:trainingcampdeco|Training Camp Decorations]] | RK Training Camp props (palisades/gates, archery targets, flags, dummies, weapon tables, horses) |
+| [[buildings:decorations:ebsvanimalshelter|Village Animal Shelter]] | EB Simple Village decorative animal shelter; 5 × 3; model-only, with/without fence |
+| [[buildings:decorations:dssvflags|Village Flags]] | DS Small Village decorative flag pole + pennant/burgee flags; 1 × 1 |
+| [[buildings:decorations:washingmod|Washing Mod]] | Kid laundry decorations (wash tub, water tub, washing lines); 1 x 1; free/1 Wood |
+| [[buildings:decorations:whitefenceset|White Fence Set]] | RK white picket fence (straight/corner/end/3-way/4-way/door/arch); 1 × 1; ~1 Wood each |
+
+----
+
+{{tag>Buildings Decorations}}

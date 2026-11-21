@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly Baker (Granny Neighborhood) ======
+----
+
+<WRAP right>
+^  Bakery                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbaker.png?nolink|Friendly Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Granny Neighborhood bakery where a baker produces bread and baked goods from flour and other ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgnbaker.png?nolink|Friendly Baker (Granny Neighborhood)}}</wrap> **Friendly Baker (Granny Neighborhood)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                        ^ Produces                                          ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                                 | [[WikiPages:food:bread_bread|Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                                           | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]   |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]]                                              | [[WikiPages:food:herb_bread|Herb Bread]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Granny Neighborhood v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=515|WoB]]
+
+{{tag>Building Food KidGrannyNeighborhood}}

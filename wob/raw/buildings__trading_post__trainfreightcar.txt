@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Train Freight Car ======
+----
+
+<WRAP right>
+^  Train Freight Car                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfreightcar.png?nolink|Train Freight Car}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:iron:iron|Iron]]  |  88  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Railway trade car. Merchants arrive by river boat offering food, goods, seeds, and livestock. Accepts all goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcars.png?nolink|Cars}}</wrap> **Cars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfreightcar.png?nolink|Train Freight Car}}</wrap> **Train Freight Car**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcars.png?nolink|Cars}}</wrap> **Cars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfreightcar.png?nolink|Train Freight Car}}</wrap> **Train Freight Car**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^ Accepts ^
+| Food Merchant | Food | Wood, stone, iron, firewood, tools, herbs, food, textiles, clothing, alcohol |
+| Goods Merchant | Wood, stone, iron, firewood, tools, textiles, clothing, alcohol | Same |
+| General Merchant | Wood, stone, iron, firewood, tools, herbs, food, textiles, clothing, alcohol; crop and orchard seeds | Same |
+| Seed Merchant | Crop and orchard seeds | Wood, stone, iron, firewood, tools, textiles, clothing |
+| Livestock Merchant | Livestock | Wood, stone, iron, firewood, tools, textiles, clothing |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtrainfreightcar.png?nolink|Train Freight Car}}</wrap> **Train Freight Car**
+
+----
+
+This building originally came from **Railway v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=581|WoB]]
+
+{{tag>Building TradingPost Railway}}

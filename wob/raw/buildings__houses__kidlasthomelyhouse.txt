@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Last Homely House ======
+----
+
+<WRAP right>
+^  Last Homely House                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlasthomelyhouse.png?nolink|Last Homely House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  House 5×5  |
+|  <abbr "Household capacity">Occupancy</abbr>  |  7 persons  |
+^  Build Cost (House)                                                                ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Last Homely House — a single elegant 5×5 home for 7 persons, with matching decorative walls (an "elven retreat" set inspired by Rivendell).
+
+----
+
+===== Buildings =====
+
+  * **Last Homely House** — 5×5 dwelling for 7 persons.
+  * **Wall Low** and **Wall High** — matching decorative walls.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarkidhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlasthomelyhouse.png?nolink|Last Homely House}}</wrap> **Last Homely House** → the house or wall
+
+----
+
+{{tag>Building Houses KidLastHomelyHouse}}

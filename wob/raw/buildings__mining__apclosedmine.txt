@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Closed Mine ======
+----
+
+<WRAP right>
+^  Closed Mine                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapclosedmine.png?nolink|Closed Mine}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Closed Mine is a placeable Abandoned Places decoration that serves as the starting point for the AP mine upgrade chain. It has no function of its own but can be upgraded to an Old Mine or directly to a New Mine.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapclosedmine.png?nolink|Closed Mine}}</wrap> **Closed Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapclosedmine.png?nolink|Closed Mine}}</wrap> **Closed Mine**
+
+----
+
+===== Upgrades To =====
+
+  * [[buildings:mining:apoldmine|Old Mine]]
+  * [[buildings:mining:apnewmine|New Mine]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Resources AbandonedPlaces}}

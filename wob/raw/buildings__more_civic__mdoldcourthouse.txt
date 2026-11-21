@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Courthouse (MD) ======
+----
+
+<WRAP right>
+^  Old Courthouse                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmdoldcourthouse.png?nolink|Old Courthouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/official.png?nolink|Official}}</wrap> Bailiff  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Safety (radius 60)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  350  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  175  |
+|  [[WikiPages:wood:log|Wood]]  |  67  |
+|  [[WikiPages:stone:stone|Stone]]  |  135  |
+|  [[WikiPages:iron:iron|Iron]]  |  52  |
+</WRAP>
+<WRAP right></WRAP>
+
+An old courthouse staffed by a Bailiff, providing Safety happiness within a radius of 60 tiles to up to 350 citizens. One per village.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/mdtoolbar.png?nolink|MD Toolbar}}</wrap> **MD Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mdservices.png?nolink|MD Services}}</wrap> **MD Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmdoldcourthouse.png?nolink|Old Courthouse}}</wrap> **Old Courthouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmdoldcourthouse.png?nolink|Old Courthouse}}</wrap> **Old Courthouse**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Civic MDOldCourthouse}}

@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mollusc ======
+----
+
+<WRAP right>
+^  Mollusc                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  8/10  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mollusc.png?nolink|Mollusc}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Mollusc is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Mollusc Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:dsjabjettymolluscfarm|Jetty Mollusc Farm]]
+  * Produced at the [[buildings:food:dsjabjettymolluscfarmtex2|Jetty Mollusc Farm (Tex2)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:dsjabjettyfishdrying|Jetty Fish Drying]]
+  * Used at the [[buildings:food:dsjabjettyfishdryingtex2|Jetty Fish Drying (Tex2)]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Fisherman's Catch)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

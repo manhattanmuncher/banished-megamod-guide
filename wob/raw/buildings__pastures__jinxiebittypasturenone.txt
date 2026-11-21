@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fenceless Pasture (Jinxie) ======
+----
+
+<WRAP right>
+^  Fenceless Pasture (Jinxie)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittypasturenone.png?nolink|Fenceless Pasture (Jinxie)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie Bitty Village Set fenceless pasture with no ground decoration; build in a player-drawn area for livestock to graze. No materials required beyond labor.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxiefood.png?nolink|Jinxie's Food Production}}</wrap> **Jinxie's Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenupasturesicon.png?nolink|Bitty Pastures}}</wrap> **Bitty Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittypasturenone.png?nolink|Fenceless Pasture (Jinxie)}}</wrap> **Fenceless Pasture (Jinxie)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpasture.png?nolink|Pastures}}</wrap> **Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittypasturenone.png?nolink|Fenceless Pasture (Jinxie)}}</wrap> **Fenceless Pasture (Jinxie)**
+
+----
+
+{{tag>Building Pastures JinxieBittyVillageSet}}

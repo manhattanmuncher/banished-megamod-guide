@@ -1,0 +1,77 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apple ======
+----
+
+<WRAP right>
+^  Apple                                          ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  50/65  |  50/65  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/apple.png?nolink|Apple}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Apple is a fruit harvested from orchards or gathered in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Apple Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:gathering:abandonedhedgerow|Hedgerow]]
+  * Produced at the [[buildings:gathering:bbplaza|Plaza]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow02|Hedgerow 02 (Friendly Blue Too)]]
+  * Produced at the [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch01|Fairy Garden Summer (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fishshipsjettyemergency|Supply Jetty]]
+  * Produced at the [[buildings:gathering:fruitnut03|Fruit and Nut 03]]
+  * Produced at the [[buildings:gathering:dwappletree|Apple Tree]]
+  * Produced at the [[buildings:beekeeping:gfbeekeeper|Bee Keeper (Gothic Farm)]]
+  * Produced at the [[buildings:hedgerow:hedgesummer01|Summer 01 (Hedgerow)]] (random)
+  * Produced at the [[buildings:animal_pens:hobbitrabbitgarden|Rabbit Garden (Hobbit)]]
+  * Produced at the [[buildings:fields:kf01|Farmyard 01]]
+  * Produced at the [[buildings:fields:kf06|Farmyard 06]]
+  * Produced at the [[buildings:fields:kf10|Farmyard 10]]
+  * Produced at the [[buildings:fields:kf13|Farmyard 13]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * Produced at the [[buildings:trading_post:otplootship|Loot Ship (Old Town Ports)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:tradercartpeddler|Trader Cart (Peddler)]] (random)
+  * Produced at the [[buildings:trading_post:trainfoodcar|Train Food Car]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketfallfood|Market Fall Food]] (for Market Apple)
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Used at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]]
+  * Used at the [[buildings:brewery:distillery|Distillery]] (for Spirits)
+  * Used at the [[buildings:preserving:gfjamhouse|Jam House (Gothic Farm)]]
+  * Used at the [[buildings:brewery:gftavern1|Midnight Heart (Gothic Fantasy 1)]]
+  * Used at the [[buildings:brewery:gftavern2|Autumn Leaves (Gothic Fantasy 2)]]
+  * Used at the [[buildings:brewery:gntavern|Friendly Tavern (Granny Neighborhood)]]
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]] (for Fruit Pie)
+  * Used at the [[buildings:preserving:tinyjamshop|Tiny Jam Shop]] (for Preserves Fruit)
+  * Used at the [[buildings:brewery:tinytavern|Tiny Tavern]] (for Cider)
+  * Used at the [[buildings:brewery:wfbrewer|WF Brewer]] (for Ale)
+  * Used at the [[buildings:brewery:wpbrewer|WP Brewer]] (for Ale)
+  * Used at the [[buildings:preserving:wppreservist|WP Preservist]] (for Fruit Preserves)
+  * Used at the [[buildings:food:xmasmarket|Xmas Market]] (for [[WikiPages:food:baked_apple|Baked Apple]])
+  * Used at the [[buildings:brewery:yuletap|Yule Tap]] (for Cider)
+  * Used at the [[buildings:brewery:rhxp|Row House Pub]] (for Cider)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit Vanilla}}

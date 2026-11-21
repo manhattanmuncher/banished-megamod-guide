@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MIS Wagon Vendor ======
+----
+
+<WRAP right>
+^  MIS Wagon Vendor                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddswagonvendormis.png?nolink|MIS Wagon Vendor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Happiness  |  Goods  |
+|  Radius  |  21  |
+|  Storage  |  2,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  9  |
+|  Wagon Parts  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small vendor wagon from the DS Wagon Vendor set specializing in mining and industrial supplies. Distributes iron, stone, and coal to nearby settlers. Provides Goods happiness when a worker is assigned.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketstall.png?nolink|Market Stalls, Carts, and Wagons}}</wrap> **Market Stalls, Carts, and Wagons** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddswagonvendormis.png?nolink|MIS Wagon Vendor}}</wrap> **MIS Wagon Vendor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarketstaverns.png?nolink|Markets Taverns}}</wrap> **Markets Taverns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarkets.png?nolink|Markets}}</wrap> **Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddswagonvendormis.png?nolink|MIS Wagon Vendor}}</wrap> **MIS Wagon Vendor**
+
+----
+
+===== Stocks =====
+
+  * Iron and Stone
+  * Coal and Coke
+
+----
+
+===== Other Information =====
+
+This building originally came from **Wagon Vendor v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=138|WoB]], [[https://www.nexusmods.com/banished/mods/50|Nexus]], [[https://banishedinfo.com/mods/view/891-DS-Wagon-Vendor|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=756253624|Steam]]
+
+{{tag>Market}}

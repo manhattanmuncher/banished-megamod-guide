@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Healer ======
+----
+
+<WRAP right>
+^  Dock Healer                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhealer2.png?nolink|Dock Healer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/apothecary.png?nolink|Apothecary}}</wrap> Apothecary  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  3  |
+|  Placement  |  Water or shore  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Dock healer building. An Apothecary gathers Herbs from within a 3-tile radius and tends to the health of nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhealer2.png?nolink|Dock Healer}}</wrap> **Dock Healer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhealer2.png?nolink|Dock Healer}}</wrap> **Dock Healer**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+Also functions as a healer, treating sick citizens within range.
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Gathering ColonialCharter}}

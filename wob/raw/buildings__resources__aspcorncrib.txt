@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Corn Crib ======
+----
+
+<WRAP right>
+^  Corn Crib                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspcorncrib.png?nolink|Corn Crib}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  42.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  16  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Corn Crib is an Animal Shed Plus building that processes raw corn to make it suitable for use as food or feed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspcorncrib.png?nolink|Corn Crib}}</wrap> **Corn Crib**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildanimalshedplus.png?nolink|Animal Shed Plus}}</wrap> **Animal Shed Plus** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspcorncrib.png?nolink|Corn Crib}}</wrap> **Corn Crib**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaspcorncrib.png?nolink|Corn Crib}}</wrap> **Corn Crib**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                            ^ Produces                      ^
+| 20 [[WikiPages:food:corn|Corn]]        | [[WikiPages:food:corn|Corn]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Animal Shed Plus v2.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=613|WoB]]
+
+{{tag>Building Resources AnimalShedPlus}}

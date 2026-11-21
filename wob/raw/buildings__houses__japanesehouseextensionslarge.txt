@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== House Extension Large ======
+----
+
+<WRAP right>
+^  House Extension Large                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapanesehouseextensionslarge.png?nolink|House Extension Large}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 1  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  40  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Angainor88 Japanese house extension; houses up to 3 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapanesehouseextensionslarge.png?nolink|House Extension Large}}</wrap> **House Extension Large**
+
+----
+
+{{tag>Building Houses A8JapaneseHousing}}

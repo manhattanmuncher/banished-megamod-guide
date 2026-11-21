@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Storage ======
+----
+
+<WRAP right>
+^  Large Storage                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxsl.png?nolink|Large Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  54  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Rowhouses mod large storage building. Settlers store a wide variety of goods with a capacity of 8,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxsl.png?nolink|Large Storage}}</wrap> **Large Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxsl.png?nolink|Large Storage}}</wrap> **Large Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxsl.png?nolink|Large Storage}}</wrap> **Large Storage**
+
+----
+
+{{tag>Building Storage KidRowBusiness}}

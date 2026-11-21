@@ -1,0 +1,60 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Preservists ======
+----
+
+<WRAP right>
+^  Preservists                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpreservists.png?nolink|Preservists}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservist.png?nolink|Preservist}}</wrap> Preservist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Storage  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Preservists is a Colonial Charter food preservation building where a Preservist turns fruit, vegetables, and meat into long-lasting preserved foods using Glassware or Pottery as containers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpreservists.png?nolink|Preservists}}</wrap> **Preservists**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodrefining.png?nolink|Food Refining}}</wrap> **Food Refining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpreservists.png?nolink|Preservists}}</wrap> **Preservists**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                    ^ Produces            ^
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:apple|Apple]] + 6 [[WikiPages:vegetable:sugar_refined|Refined Sugar]]        | Fruit Preserves     |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:blueberries|Blueberry]] + 6 [[WikiPages:vegetable:sugar_refined|Refined Sugar]]  | Fruit Preserves  |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:strawberries|Strawberry]] + 6 [[WikiPages:vegetable:sugar_refined|Refined Sugar]] | Fruit Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:quinces|Quince]] + 6 [[WikiPages:vegetable:sugar_refined|Refined Sugar]]      | Fruit Preserves     |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:red_mulberries|Mulberry]] + 6 [[WikiPages:vegetable:sugar_refined|Refined Sugar]] | Fruit Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:blackberries|Blackberry]] + 6 [[WikiPages:vegetable:sugar_refined|Refined Sugar]] | Fruit Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:cucumber|Cucumber]] + 1 Liquor                                              | Vegetable Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:onion|Onion]] + 1 Liquor                                                    | Vegetable Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:beetroots|Beet]] + 1 Liquor                                                 | Vegetable Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:radishes|Radish]] + 1 Liquor                                                | Vegetable Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:pepper|Pepper]] + 1 Liquor                                                  | Vegetable Preserves |
+| 5 [[WikiPages:custom0:glassware|Glassware]] + 10 [[WikiPages:food:egg|Egg]] + 1 [[WikiPages:coalfuel:salt|Salt]]                              | [[WikiPages:food:pickled_eggs|Pickled Eggs]]  |
+| 5 [[WikiPages:custom0:pottery|Pottery]] + 10 [[WikiPages:food:chicken|Chicken]] + 1 [[WikiPages:coalfuel:salt|Salt]]                          | [[WikiPages:food:potted_meat|Potted Meat]]    |
+| 5 [[WikiPages:custom0:pottery|Pottery]] + 10 [[WikiPages:food:duck_meat|Duck Meat]] + 1 [[WikiPages:coalfuel:salt|Salt]]                       | [[WikiPages:food:potted_meat|Potted Meat]]    |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Preserving ColonialCharter}}

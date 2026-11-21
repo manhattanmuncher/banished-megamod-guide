@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Road Diagonal ======
+----
+
+<WRAP right>
+^  Dock Road Diagonal                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockroad3.png?nolink|Dock Road Diagonal}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  17  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A wooden dock road with diagonal planks that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwoodroad.png?nolink|Wood Roads}}</wrap> **Wood Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardockroad.png?nolink|Dock Road}}</wrap> **Dock Road** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockroad3.png?nolink|Dock Road Diagonal}}</wrap> **Dock Road Diagonal**
+
+----
+
+===== Other Information =====
+
+{{tag>Road Colonial}}

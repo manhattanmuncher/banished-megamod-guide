@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Lighthouse ======
+----
+
+<WRAP right>
+^  Medieval Lighthouse                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievallighthouse.png?nolink|Medieval Lighthouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (default 4)  |
+|  <abbr "Maximum instances allowed">Max Instances</abbr>  |  1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  160  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  148  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town lighthouse that attracts nomad immigrants, with groups of up to 15% of total population. Only one may be built per game.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalservices.png?nolink|New Medieval Services}}</wrap> **New Medieval Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievallighthouse.png?nolink|Medieval Lighthouse}}</wrap> **Medieval Lighthouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalservices.png?nolink|New Medieval Services}}</wrap> **New Medieval Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievallighthouse.png?nolink|Medieval Lighthouse}}</wrap> **Medieval Lighthouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievallighthouse.png?nolink|Medieval Lighthouse}}</wrap> **Medieval Lighthouse (New Medieval Town)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Nomads NewMedievalTown}}

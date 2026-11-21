@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pond Ghosts (Colonial Charter) ======
+----
+
+<WRAP right>
+^  Pond Ghosts                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccpond1.png?nolink|Pond Ghosts}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0  |
+|  Radius  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+Ghost versions of the Colonial Charter decorative ponds that provide Safety happiness and fire suppression within a 20-tile radius. As ghost buildings, they have a 0×0 footprint and can be placed literally anywhere on the map. They cannot be removed with the standard removal tool — use the building's own interface to remove them. Two variants are available; both share the same appearance as the [[buildings:wells:ccpond|Pond (Colonial Charter)]] variants.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Stone ^
+| Pond | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccpond1.png?nolink|Pond}}</wrap> | 10 |
+| Large Pond | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccpond2.png?nolink|Large Pond}}</wrap> | 20 |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ghostdecoitems.png?nolink|Ghost Decorations}}</wrap> **Ghost Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/towndecoitems.png?nolink|Town Decorations}}</wrap> **Town Decorations** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Wells ColonialCharter}}

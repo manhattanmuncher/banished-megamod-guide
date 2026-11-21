@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silver Pfennig ======
+----
+
+<WRAP right>
+^  Silver Pfennig                                 ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  10/10  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/silvercoin.png?nolink|Silver Pfennig}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silver Pfennig is a precious item valued for Its rarity or beauty in the Banished MegaMod. It is stored in a Barn and functions primarily as luxury trade goods, attracting favourable prices from merchants. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Silver Pfennig Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:more_civic:blockhouse|Blockhouse]]
+  * Produced at the [[buildings:more_civic:dsglobetheatre|Globe Theatre]]
+  * Produced at the [[buildings:more_civic:govhouse|Governor's Office (Colonial Resources)]]
+  * Produced at the [[buildings:precious:smelter|Melting House]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

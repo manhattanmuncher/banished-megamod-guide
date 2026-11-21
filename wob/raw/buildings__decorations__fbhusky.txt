@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Husky ======
+----
+
+<WRAP right>
+^  Husky                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhusky.png?nolink|Husky}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  Build Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Husky is a free decorative object from the Friendly Blue mod. It places a ghosted husky dog in the colony. It can be removed via its dialog.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbdeco.png?nolink|Friendly Deco}}</wrap> **Friendly Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhusky.png?nolink|Husky}}</wrap> **Husky**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbdeco.png?nolink|Friendly Deco}}</wrap> **Friendly Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhusky.png?nolink|Husky}}</wrap> **Husky**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Blue (Ice) v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=587|WoB]]
+
+{{tag>Building Decorations FrontierBuildings}}

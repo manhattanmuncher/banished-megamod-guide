@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Collector Dock ======
+----
+
+<WRAP right>
+^  Collector Dock                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgttdock.png?nolink|Collector Dock}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–4 (1)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  56  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gothic Tithes & Tributes river dock. A Tax Collector arrives by river boat offering precious goods in exchange for any settlement goods as tribute. Must be placed on water. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtt.png?nolink|Gothic Tithes & Tributes}}</wrap> **Gothic Tithes & Tributes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgttdock.png?nolink|Collector Dock}}</wrap> **Collector Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtt.png?nolink|Gothic Tithes & Tributes}}</wrap> **Gothic Tithes & Tributes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgttdock.png?nolink|Collector Dock}}</wrap> **Collector Dock**
+
+----
+
+===== Merchant =====
+
+One merchant type arrives by river boat:
+
+^ Merchant ^ Offers ^
+| Tax Collector | Precious goods |
+
+The Tax Collector accepts any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgttdock.png?nolink|Collector Dock}}</wrap> **Collector Dock**
+
+----
+
+This building originally came from **Gothic Tithes & Tributes v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=594|WoB]]
+
+{{tag>Building TradingPost GothicTithesTributes}}

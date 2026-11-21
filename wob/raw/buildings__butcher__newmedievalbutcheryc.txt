@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Butchery (Upgrade C) ======
+----
+
+<WRAP right>
+^  Butchery                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbutcheryc.png?nolink|Medieval Butchery (Upgrade C)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Handsaw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:custom5:brick|Brick]]  |  26  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An upgraded Medieval Butchery with improved efficiency.
+
+----
+
+===== Where to Find =====
+
+The Medieval Butchery (Upgrade C) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:butcher:newmedievalbutcheryb|Medieval Butchery (Upgrade B)]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                       ^ Produces                                          ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                                               | [[WikiPages:food:beef_steak|Beef Steak]]          |
+| 12 [[WikiPages:food:mutton|Mutton]]                                                | [[WikiPages:food:lamb_chop|Lamb Chop]]             |
+| 12 [[WikiPages:food:venison|Venison]]                                              | [[WikiPages:food:venison_roast|Venison Roast]]     |
+
+Can be upgraded to [[buildings:butcher:newmedievalbutcheryd|Medieval Butchery (Upgrade D)]] or [[buildings:butcher:newmedievalbutcherye|E]].
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Food RKEditorChoice}}

@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Barn (EC) ======
+----
+
+<WRAP right>
+^  Storage Barn (EC)                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragebarn.png?nolink|Storage Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  7,500  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor's Choice large storage barn. Settlers store food, tools, clothing, and a wide variety of goods with a capacity of 7,500 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice Toolbar}}</wrap> **Editor's Choice Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragebarn.png?nolink|Storage Barn}}</wrap> **Storage Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragebarn.png?nolink|Storage Barn}}</wrap> **Storage Barn**
+
+----
+
+{{tag>Building Storage EditorChoice}}

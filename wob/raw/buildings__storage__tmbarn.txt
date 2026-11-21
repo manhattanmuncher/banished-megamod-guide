@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Vegetable Barn ======
+----
+
+<WRAP right>
+^  Vegetable Barn                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmbarn.png?nolink|Vegetable Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4×6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Vegetable  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  44  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×42, Stone ×14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tequila Mod storage barn dedicated to vegetables. Settlers store vegetables.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmbarn.png?nolink|Vegetable Barn}}</wrap> **Vegetable Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmbarn.png?nolink|Vegetable Barn}}</wrap> **Vegetable Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmbarn.png?nolink|Vegetable Barn}}</wrap> **Vegetable Barn**
+
+----
+
+This building originally came from **Tequila Mod v3.2 (with Tom Sawyer)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=228|WoB]]
+
+{{tag>Building Storage TequilaMod}}

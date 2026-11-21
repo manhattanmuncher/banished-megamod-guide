@@ -1,0 +1,109 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tailor Buildings ======
+----
+
+Tailors, seamstresses, and other buildings that produce clothing from textiles.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:clothing:jinxiebittytailor|Bitty Tailor]] | Bitty Village tailor; produces clothing from textiles |
+| [[buildings:clothing:bgtailor|BG Tailor]] | Bakery & Garden Alt tailor; makes clothing from a variety of materials |
+| [[buildings:clothing:bodiamtailor|Tailor (Bodiam Castle)]] | Bodiam Castle tailor; produces clothing from textiles |
+| [[buildings:clothing:dstownhousesbstore3x4tailor|Bryggen Town Tailor]] | DS Bryggen-style tailor; produces clothing from textiles |
+| [[buildings:clothing:cc17seamstressguild|City Seamstress Guild]] | Colonial Charter city seamstress guild |
+| [[buildings:clothing:cmclothesstore|Clothes Store]] | Colonial Resources tailor shop; produces clothing from textiles |
+| [[buildings:clothing:ootwclothes|Clothes Fabricator]] | KID Out of This World tailor; produces clothing for your citizens |
+| [[buildings:clothing:clothier|Clothier]] | Colonial Charter upgrade to the Tailor; produces higher-quality clothing |
+| [[buildings:clothing:fodtailor|Duds (Forge of Dwarves)]] | Forge of Dwarves tailor; produces clothing from textiles |
+| [[buildings:clothing:fodwtailor|Duds (Forge of Dwarves - Winter)]] | Forge of Dwarves Winter tailor; produces clothing from textiles |
+| [[buildings:clothing:festannery|Fes Tannery]] | Fes tannery; processes hides into leather |
+| [[buildings:clothing:wfcoatmaker|Fort Coat Maker]] | KID Wooden Fort coat maker; produces clothing from textiles |
+| [[buildings:clothing:fairygardenfrockmaker|Frock Maker (Fairy Garden)]] | Fairy Garden tailor, seasonal roof style; produces clothing from textiles |
+| [[buildings:clothing:fairygardenfrockmakerleaves|Frock Maker (Fairy Garden, Leaves)]] | Fairy Garden tailor, leaves roof style; produces clothing from textiles |
+| [[buildings:clothing:fairygardenfrockmakerPines|Frock Maker (Fairy Garden, Pines)]] | Fairy Garden tailor, pines roof style; produces clothing from textiles |
+| [[buildings:clothing:fbtailor|Tailor (Friendly Blue)]] | Friendly Blue tailor; produces clothing from textiles |
+| [[buildings:clothing:fbttailor|Tailor (Friendly Blue Too)]] | Friendly Blue Too tailor; produces clothing from textiles |
+| [[buildings:clothing:gntailor|Friendly Tailor (Granny Neighborhood)]] | Granny Neighborhood tailor; produces clothing from textiles |
+| [[buildings:clothing:fotfurrier|Furrier]] | Processes furs and hides into warm clothing |
+| [[buildings:clothing:gasshosilk|Gassho Silk]] | Japanese Gassho-style silk producer |
+| [[buildings:clothing:gftailor1|Small Tailor (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed tailor; produces clothing from textiles |
+| [[buildings:clothing:gftailor2|Small Tailor (Gothic Fantasy 2)]] | Gothic Fantasy happy-themed tailor; produces clothing from textiles |
+| [[buildings:clothing:hillsidetailor|Hillside Tailor]] | Hillside Village tailor; produces clothing from textiles |
+| [[buildings:clothing:dsjabjettytailor|Jetty Tailor (Tex1)]] | DS Jetty & Bridge tailor, light-brown style; can be placed on water |
+| [[buildings:clothing:dsjabjettytailortex2|Jetty Tailor (Tex2)]] | DS Jetty & Bridge tailor, blue-grey style; can be placed on water |
+| [[buildings:clothing:kccclothmaker|KCC Cloth Maker]] | Coats & Cloth building; Tailor weaves Linen or Cotton into Linen Clothing |
+| [[buildings:clothing:kcccoatsmaker|KCC Coats Maker]] | Coats & Cloth building; Tailor combines Wool, Down, Leather, Linen, or Fur into a Warm Coat |
+| [[buildings:clothing:ebleatherworks|Leather Works]] | EB leather works; processes hides into leather goods |
+| [[buildings:clothing:newmedievaltailor|Medieval Tailor]] | New Medieval Town tailor; produces clothing from textiles |
+| [[buildings:clothing:newmedievaltailorupg1|Medieval Tailor (Upgrade 1)]] | New Medieval Town tailor upgrade 1, stone; produces clothing from textiles |
+| [[buildings:clothing:newmedievaltailorupg2|Medieval Tailor (Upgrade 2)]] | New Medieval Town tailor upgrade 2, brick; produces clothing from textiles |
+| [[buildings:clothing:newmedievaltailorupg3|Medieval Tailor (Upgrade 3)]] | New Medieval Town tailor upgrade 3, brick; produces clothing from textiles |
+| [[buildings:clothing:sbvtailor|Mission Tailor]] | SBV Mission tailor; produces clothing from textiles |
+| [[buildings:clothing:naratailor|Nara Tailor]] | A8 Japanese style tailor; produces clothing from textiles |
+| [[buildings:clothing:nvneedlework|Needlework]] | Native Village seamstress; produces clothing from textiles |
+| [[buildings:clothing:oldhoveltailor|Old Tailor (Old Hovels)]] | KID Old Hovels tailor; produces clothing for your citizens |
+| [[buildings:clothing:oldtailorhouseshop|Old Tailor Shop]] | RK Editor Choice tailor shop; produces clothing for your citizens |
+| [[buildings:clothing:ottailor|Old Tailor (Old Town)]] | KID Old Town tailor; produces clothing for your citizens |
+| [[buildings:clothing:otstonetailor|Old Tailor (Old Town, Stone)]] | KID Old Town stone tailor; produces clothing for your citizens |
+| [[buildings:clothing:linenweaver|Linen Weaver]] | New Flora linen weaver; produces Linen Clothing from Flax |
+| [[buildings:clothing:oldweavers|Old Weavers (Colonial)]] | Old Colonial weavers; processes raw textiles into fabrics |
+| [[buildings:clothing:pinefurriershut|Pine Furriers Hut]] | Necora Pine Set furriers hut; processes furs into clothing |
+| [[buildings:clothing:pineloom|Pine Loom]] | Necora Pine Set loom; processes raw fibers into cloth |
+| [[buildings:clothing:pinespinner|Pine Spinner]] | Necora Pine Set spinner; spins fibers into thread |
+| [[buildings:clothing:pinetailor|Pine Tailor]] | Necora Pine Set tailor; produces clothing from textiles |
+| [[buildings:clothing:prtailor|Port Royal Tailor]] | Necora Port Royal tailor; produces clothing for your citizens |
+| [[buildings:clothing:shatowertailor|Tailor (Stone House Addon)]] | Stone House Addon tailor; produces clothing from textiles |
+| [[buildings:clothing:shatowertailorroof|SHA Tower Tailor (Roof)]] | Stone House Addon tower tailor with rooftop access |
+| [[buildings:clothing:esshouses6ta|Seamstress]] | Colonial-style seamstress; produces clothing; upgraded from Colonial Corner House |
+| [[buildings:clothing:settlersseamstress|Seamstress (Settlers)]] | Settlers seamstress; produces clothing from textiles |
+| [[buildings:clothing:sbtailor|Sherbrooke Tailor]] | Sherbrooke tailor; produces clothing from textiles |
+| [[buildings:clothing:cornershoemakert1|Shoemaker (Corner T1)]] | RK Editor Choice corner shoemaker tier 1 |
+| [[buildings:clothing:cornershoemakert2|Shoemaker (Corner T2)]] | RK Editor Choice corner shoemaker tier 2 |
+| [[buildings:clothing:cornershoemakert3|Shoemaker (Corner T3)]] | RK Editor Choice corner shoemaker tier 3 |
+| [[buildings:clothing:cornershoemakert4|Shoemaker (Corner T4)]] | RK Editor Choice corner shoemaker tier 4 |
+| [[buildings:clothing:cornershoemakert5|Shoemaker (Corner T5)]] | RK Editor Choice corner shoemaker tier 5 |
+| [[buildings:clothing:cornershoemakert6|Shoemaker (Corner T6)]] | RK Editor Choice corner shoemaker tier 6 |
+| [[buildings:clothing:cornershoemakert7|Shoemaker (Corner T7)]] | RK Editor Choice corner shoemaker tier 7 |
+| [[buildings:clothing:cornershoemakert8|Shoemaker (Corner T8)]] | RK Editor Choice corner shoemaker tier 8 |
+| [[buildings:clothing:rht|Small Town Tailor]] | KID Small Town Row Business tailor; produces clothing from textiles |
+| [[buildings:clothing:tailor|Tailor]] | Produces clothing from textiles |
+| [[buildings:clothing:hobbittailor|Tailor (Hobbit)]] | Hobbit village tailor; produces clothing from textiles |
+| [[buildings:clothing:ectailor|Tailor (Editor's Choice)]] | Editor's Choice tailor; produces clothing from textiles |
+| [[buildings:clothing:ftctailor|Tailor (Fairy Tale Cottage)]] | Fairy Tale Cottage tailor; produces clothing from textiles |
+| [[buildings:clothing:fntailor|Tailor (Friendly Neighborhood)]] | Friendly Neighborhood tailor; produces clothing from textiles |
+| [[buildings:clothing:fptailor|Tailor (Friendly Pumpkin)]] | Friendly Pumpkin tailor; produces clothing from textiles |
+| [[buildings:clothing:gtnewtailor|Tailor (Ghost Town)]] | Ghost Town tailor; produces clothing from textiles |
+| [[buildings:clothing:gtstailor|Tailor (Ghost Town Houses)]] | Ghost Town Houses tailor; produces clothing from textiles |
+| [[buildings:clothing:mftailor|Tailor (Mexican Fantasy)]] | Mexican Fantasy tailor; produces clothing from textiles |
+| [[buildings:clothing:dssvtailor|Tailor (Small Village)]] | DS Small Village tailor; produces clothing from textiles |
+| [[buildings:clothing:shwtailor|Tailor (Summer Haven)]] | Summer Haven tailor; produces clothing from textiles |
+| [[buildings:clothing:tctailor|Tailor (Tangerine Center)]] | Tangerine Center tailor; produces clothing from textiles |
+| [[buildings:clothing:cornertailort1|Tailor (Corner T1)]] | RK Editor Choice corner tailor, Classic Stones style |
+| [[buildings:clothing:cornertailort2|Tailor (Corner T2)]] | RK Editor Choice corner tailor, Old Stones style |
+| [[buildings:clothing:cornertailort3|Tailor (Corner T3)]] | RK Editor Choice corner tailor, Red Bricks style |
+| [[buildings:clothing:cornertailort4|Tailor (Corner T4)]] | RK Editor Choice corner tailor, Sand Bricks style |
+| [[buildings:clothing:cornertailort5|Tailor (Corner T5)]] | RK Editor Choice corner tailor, Fire Bricks style |
+| [[buildings:clothing:cornertailort6|Tailor (Corner T6)]] | RK Editor Choice corner tailor, Old Church Stones style |
+| [[buildings:clothing:cornertailort7|Tailor (Corner T7)]] | RK Editor Choice corner tailor, Old Chapel Stones style |
+| [[buildings:clothing:cornertailort8|Tailor (Corner T8)]] | RK Editor Choice corner tailor, Old Wood style |
+| [[buildings:clothing:asptailor|Tailor Shed]] | Animal Shed Plus tailor; produces clothing from textiles |
+| [[buildings:clothing:rkmctailorhouse|Tailor house]] | RK Editor Choice tailor house; produces clothing for your citizens |
+| [[buildings:clothing:cc17clothier|Tailoring Company]] | Colonial Charter tailoring company; produces clothing from textiles |
+| [[buildings:clothing:tannery|Tannery]] | Processes hides into leather |
+| [[buildings:clothing:ebtannery|Tannery (EB)]] | EB tannery; processes hides into leather |
+| [[buildings:clothing:stitcher|Uniform Maker]] | Colonial Charter frontier uniform maker; produces clothing from textiles |
+| [[buildings:clothing:tieredtailor|Urban Tailor]] | Colonial Charter modular stacked urban tailor; produces clothing from textiles |
+| [[buildings:clothing:dssvflagmaker|Village Flag Maker]] | DS Stone Village flag maker |
+| [[buildings:clothing:ebsvshoemaker|Village Shoemaker]] | EB Small Village shoemaker |
+| [[buildings:clothing:ebsvtailor|Village Tailor (EB)]] | EB Small Village tailor; produces clothing from textiles |
+| [[buildings:clothing:ebsvtannery|Village Tannery]] | EB Small Village tannery; processes hides into leather |
+| [[buildings:clothing:dssvweaversguild|Weaving Guild]] | DS Stone Village weaving guild |
+| [[buildings:clothing:weavers|Weavers]] | Processes raw textiles into fabrics |
+| [[buildings:clothing:tinytailor|Tiny Tailor]] | KID Tiny Village tailor; produces clothing from textiles |
+| [[buildings:clothing:wptailor|Tailor (Workplace)]] | KID Workplace tailor; produces clothing from textiles |
+
+----
+
+{{tag>Buildings Tailor}}

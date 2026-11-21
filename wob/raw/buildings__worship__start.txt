@@ -1,0 +1,114 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Worship Buildings ======
+----
+
+Buildings dedicated to religion, worship, and the spiritual life of settlers.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:worship:kidabbey|Abbey (KID)]] | KID abbey; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievalabandonned|Abandonned Church (New Medieval Town)]] | NMT abandoned church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:jinxiebittychurch|Bitty Church (Jinxie's Bitty Village Set)]] | Jinxie's Bitty Village Set chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:bgchapel|BG Chapel]] | Bakery & Garden Alt chapel; Priest provides Spirit happiness within a 42-tile radius |
+| [[buildings:worship:bokaapmosque|Bo-kaap Mosque]] | Bo-kaap district mosque; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:casablancamosque|Casablanca Mosque]] | Large Moroccan mosque; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:nmt30cathedral|Cathedral (NMT 3.1)]] | NMT 3.1 cathedral; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gfcathedral2|Cathedral of the Joyous (Gothic Fantasy 2)]] | Gothic Fantasy cheerful cathedral; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gfcathedral1|Cathedral of the Wicked (Gothic Fantasy 1)]] | Gothic Fantasy dark cathedral; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:churchbl|Central Church]] | Large Colonial Charter church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:chapel|Chapel (CC)]] | Colonial Charter chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ebchapel|Chapel (EB)]] | EB chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:bodiamchapel|Chapel (Bodiam Castle)]] | Bodiam Castle courtyard chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ecchapel|Chapel (Editor's Choice)]] | Editor's Choice chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:nmtchapeldock|Chapel (NMT Dock)]] | NMT Docks chapel; Priest provides Spirit happiness within 24 tiles; 100 members; 5 × 7 footprint |
+| [[buildings:worship:nmtchapelstonedock|Chapel (NMT Stone Dock)]] | NMT Stone Docks chapel; Priest provides Spirit happiness within 26 tiles; 120 members; 5 × 7 footprint |
+| [[buildings:worship:settlerschapel|Chapel (Settlers)]] | Settlers chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:chefchaouensynagogue|Chefchaouen Synagogue]] | Moroccan-style synagogue; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ebchurch|Church]] | EB church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:otpchurch|Church (Old Town Ports)]] | Old Town Ports church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ftmainhall|Council Hall (Fairy Tale)]] | Fairy Tale council hall; Priest provides Spirit happiness; also provides additional services |
+| [[buildings:worship:cschapel|CS Chapel]] | Colonial-themed CS chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:dockchapel|Dock Chapel]] | Colonial Charter dock chapel; Priest provides Spirit happiness; can be placed on water |
+| [[buildings:worship:druidgrove|Druid Grove]] | Druidic grove; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:druidgrovecopie|Druid Grove (Variant)]] | Druidic grove variant; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:dscelticstonecircles|DS Celtic Stone Circles]] | DS Mods Celtic stone circle; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:dschapelofernest|DS Chapel of Ernest]] | Unique DS chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fbhomelight|Gathering Place (Friendly Blue)]] | Friendly Blue gathering place; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fbthomelight|Gathering Place (Friendly Blue Too)]] | Friendly Blue Too gathering place; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fphomelight|Gathering Place (Friendly Pumpkin)]] | Friendly Pumpkin gathering place; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gbvchapel|GBV Chapel]] | Gingerbread Village chapel; free to build; Priest provides Spirit happiness within a 35-tile radius |
+| [[buildings:worship:hillsidechapel|Hillside Chapel (Hillside Village)]] | Hillside Village chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:pinechurch|Humble Church]] | Pine Set humble church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:hinokishintoshrine|Ise Shinto Shrine (Japanese All-In-One)]] | Japanese shrine; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gtnewjail|Jail (Ghost Town)]] | Ghost Town jail; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gtsjail|Jail (Ghost Town Houses)]] | Ghost Town Houses jail; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:dsjabjetty8x5chapel|Jetty Chapel (Tex1)]] | DS Jetty & Bridge chapel, light-brown style; Priest provides Spirit happiness; can be placed on water |
+| [[buildings:worship:dsjabjetty8x5chapeltex2|Jetty Chapel (Tex2)]] | DS Jetty & Bridge chapel, blue-grey style; Priest provides Spirit happiness; can be placed on water |
+| [[buildings:worship:kyotopagoda|Kyoto Pagoda (Japanese All-In-One)]] | Japanese pagoda; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:littlechapelrk|Little Chapel (RK)]] | RK small chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:rkebchapelstone|Little Stone Chapel]] | RK EB stone chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:rkebchapelwood|Little Wood Chapel]] | RK EB wood chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievalcathedral|Medieval Cathedral (New Medieval Town)]] | NMT grand cathedral; Priests provide Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievallibrary|Medieval Library (New Medieval Town)]] | NMT medieval library; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievallibrarya|Medieval Library (Upgrade A)]] | NMT medieval library upgrade A; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievallibraryb|Medieval Library (Upgrade B)]] | NMT medieval library upgrade B; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievallibraryc|Medieval Library (Upgrade C)]] | NMT medieval library upgrade C; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievallibraryd|Medieval Library (Upgrade D)]] | NMT medieval library upgrade D; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievallibrarye|Medieval Library (Upgrade E)]] | NMT medieval library upgrade E; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:newmedievalstonehedge|Medieval Stonehedge]] | NMT stone circle; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fodmeetinghall|Meeting Hall (Forge Of Dwarves)]] | Forge Of Dwarves meeting hall; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fodwmeetinghall|Meeting Hall (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter meeting hall; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:mgchurch|MG Chapel (Medieval Grace)]] | Medieval Grace chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:mgmonastery|MG Monastery]] | Medieval Grace large monastery; Monks produce Bread, Beer, and other goods |
+| [[buildings:worship:minichurch|Mini Chapel (Mini Buildings)]] | Mini Buildings chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:mfmissionchapel|Mission Chapel (Mexican Fantasy)]] | Mexican Fantasy mission chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:sbvchurch|Mission Church]] | SBV Mission church; Priest provides Spirit happiness; attracts nomad immigrants |
+| [[buildings:worship:sbvchurchnn|Mission Church (No Nomads)]] | SBV Mission church without nomad attraction; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:monastery|Monastery]] | Colonial Charter monastery; Monks produce books; one per colony |
+| [[buildings:worship:ebstatuealexander|Monument of our Founding Father]] | EB monument; Fire Worker keeps torches lit; provides Spirit happiness; one per colony |
+| [[buildings:worship:nativitychapel|Nativity Chapel]] | Nativity chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:notredamecathedral|Notre Dame]] | Notre Dame cathedral; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:otchapel|Old Chapel]] | KID Old Town chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:oldhovelchapel|Old Chapel (Old Hovels)]] | Old Hovels chapel for 32 villagers; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:cc17oldchurch|Old Church (CC)]] | Colonial Charter old church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:wwchurch|Old Church (Wild West)]] | Wild West old church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:clchurch|Parish Church]] | Colonial-themed parish church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:littlechapel|Parish House (CCFrontier)]] | Colonial Frontier parish house; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:phchapel|Plantation Chapel (Plimoth Harmonized)]] | Plimoth Harmonized plantation chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ppchapel|Plantation Chapel (Plimoth Plantation)]] | Plimoth Plantation chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:prchapel|Port Royal Chapel]] | Necora Port Royal chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:realbonfire|Real Bonfire]] | Bonfire; Fire Worker provides Spirit happiness to nearby citizens |
+| [[buildings:worship:realbonfirehuge|Real Huge Bonfire]] | Large bonfire; Fire Worker provides Spirit happiness to nearby citizens |
+| [[buildings:worship:realfirecamp|Real Firecamp]] | Small firecamp; Fire Worker provides Spirit happiness to nearby citizens |
+| [[buildings:worship:realfirepot|Real Firepot]] | Small firepot; Fire Worker provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ootwretreat|Retreat Center]] | Out Of This World retreat center; Priest provides spiritual support to worshippers |
+| [[buildings:worship:sacredstone|Sacred Stone]] | Sacred stone; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:cc17shrinesseachapel|Seafarers Shrine]] | Colonial Charter seafarers shrine; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fairygardenshamrock|Shamrock (Fairy Garden)]] | Fairy Garden shamrock patch; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:sbchurch|Sherbrooke Church]] | Sherbrooke church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:cc17church|Small Chapel (CC)]] | Colonial Charter small chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fochapel|Small Chapel (Forest Outpost)]] | Forest Outpost small chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:shachapel|Small Chapel (Stone House Addon)]] | Stone House Addon small chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:wpchapel|Small Chapel (Workplace)]] | KID Workplace small chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:pinechapel|Small Pine Chapel]] | Pine Set small chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:rhxc|Small Town Chapel]] | KID Small Town Row Business chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gnhomelight|Spiritual Center (Granny Neighborhood)]] | Granny Neighborhood spiritual center; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ebstatueliberty|Statue of Liberty]] | EB large Statue of Liberty; Fire Worker keeps torch lit; provides Spirit happiness |
+| [[buildings:worship:swampchapel|Swamp Chapel]] | Swamp Houses chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:nvsweatlodge|Sweat Lodge]] | Native Village sweat lodge; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:tinychapel|Tiny Chapel]] | KID tiny chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fbtrinity|Trinity Chapel (Friendly Blue)]] | Friendly Blue chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fbttrinity|Trinity Chapel (Friendly Blue Too)]] | Friendly Blue Too chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:fptrinity|Trinity Chapel (Friendly Pumpkin)]] | Friendly Pumpkin chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:gntrinity|Trinity Chapel (Granny Neighborhood)]] | Granny Neighborhood chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:tieredchapel|Urban Chapel]] | Colonial Charter modular stacked urban chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:dssvchapel|Village Chapel (DS)]] | DS Small Village chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:ebsvchapel|Village Chapel (EB)]] | EB Small Village chapel; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:dssvchurch|Village Church]] | DS Small Village church; Priest provides Spirit happiness to nearby citizens |
+| [[buildings:worship:otpwatchtower|Watchtower (Old Town Ports)]] | Old Town Ports watchtower; Priest provides Spirit happiness to nearby citizens |
+
+----
+
+{{tag>Buildings Worship}}

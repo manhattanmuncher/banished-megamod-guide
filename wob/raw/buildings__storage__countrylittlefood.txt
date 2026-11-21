@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Little Pantry ======
+----
+
+<WRAP right>
+^  Country Little Pantry                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlefood.png?nolink|Country Little Pantry}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,600  |
+|  Storage Categories  |  Food  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Country Little House food pantry. Settlers store food with a capacity of 1,600 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehousetoolbar.png?nolink|Country Little House Toolbar}}</wrap> **Country Little House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlefood.png?nolink|Country Little Pantry}}</wrap> **Country Little Pantry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehousetoolbar.png?nolink|Country Little House Toolbar}}</wrap> **Country Little House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlefood.png?nolink|Country Little Pantry}}</wrap> **Country Little Pantry**
+
+----
+
+{{tag>Building Storage CountryLittle}}

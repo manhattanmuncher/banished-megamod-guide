@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hostel (Colonial Charter) ======
+----
+
+<WRAP right>
+^  Hostel (Colonial Charter)                                                            ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhostel.png?nolink|Hostel (Colonial Charter)}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 14  ||
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  ||
+|  Apartments  |  5  ||
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  ||
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  ||
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  ||
+|  [[WikiPages:wood:log|Log]]  |  100  |  90  |
+|  [[WikiPages:stone:stone|Stone]]  |  45  |  25  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter hostel; temporarily houses up to 5 settlers across 5 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhostel.png?nolink|Hostel (Colonial Charter)}}</wrap> **Hostel (Colonial Charter)**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

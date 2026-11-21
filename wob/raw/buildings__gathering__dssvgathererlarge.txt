@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Forest Food Gatherer ======
+----
+
+<WRAP right>
+^  Large Forest Food Gatherer                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvgathererlarge.png?nolink|Large Forest Food Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default: 5)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  39  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  Stone  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village large forest food gathering shelter. Gatherers collect wild foods (roots, berries, mushrooms, and onions) from within a large 39-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS Toolbar}}</wrap> **DS Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|DS Food}}</wrap> **DS Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvgatherermenu.png?nolink|Gatherer}}</wrap> **Gatherer** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvgathererlarge.png?nolink|Large Forest Food Gatherer}}</wrap> **Large Forest Food Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvgatherermenu.png?nolink|Gatherer}}</wrap> **Gatherer** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvgathererlarge.png?nolink|Large Forest Food Gatherer}}</wrap> **Large Forest Food Gatherer**
+
+----
+
+===== Produces =====
+
+Various wild food (roots, berries, mushrooms, onions — depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Gathering DSSmallVillage}}

@@ -1,0 +1,19 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+{{tag>Buildings BoardingHouses}}
+
+| [[buildings:boarding_houses:icecastleinn|Ice Castle Inn]] | Kid Ice Castle hostel; 5 families of 3; storage 6000; WR 40 + Stone 32 + Iron 16 |
+{{tag>Buildings BoardingHouses}}
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Boarding Houses ======
+----
+
+Buildings that provide lodging and accommodation for settlers.
+
+----
+
+^ Building ^ Description ^
+
+----
+
+{{tag>Buildings BoardingHouses}}

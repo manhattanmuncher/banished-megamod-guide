@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Stone Wall ======
+----
+
+<WRAP right>
+^  EB Stone Wall                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonewallstraight1x.png?nolink|EB Stone Wall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1 (straight)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  5  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorative EB (embx61) stone wall pieces. Combine the straight, corner, gate, and post pieces to enclose properties. Each piece comes in standard and free "Ghosted" (no-footprint, overlapping) versions, with A/B style sub-variants.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Build Cost ^
+| Straight 1x Piece | 1 × 1 | 5 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Straight 2x Piece | 2 × 1 | 8 work, 2 [[WikiPages:stone:stone|Stone]] |
+| Corner Piece | 1 × 1 | 6 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Gate Piece | 1 × 1 | 6 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Post Piece | 1 × 1 | 6 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Ghosted versions | 0 × 0 | Free |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonewallstraight1x.png?nolink|EB Stone Wall}}</wrap> **EB Stone Walls**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

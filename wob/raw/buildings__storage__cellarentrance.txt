@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cellar Entrance ======
+----
+
+<WRAP right>
+^  Cellar Entrance                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcellarentrance.png?nolink|Cellar Entrance}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  800  |
+|  Storage Categories  |  Food, Tools, Health, Clothing  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Storage compact cellar entrance. Settlers store food, tools, health items, and clothing with a capacity of 800 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragecellars.png?nolink|Cellars}}</wrap> **Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcellarentrance.png?nolink|Cellar Entrance}}</wrap> **Cellar Entrance**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragecellars.png?nolink|Cellars}}</wrap> **Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcellarentrance.png?nolink|Cellar Entrance}}</wrap> **Cellar Entrance**
+
+----
+
+{{tag>Building Storage DS}}

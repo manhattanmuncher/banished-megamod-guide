@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sugar Plum Shop (Fairy Garden) ======
+----
+
+<WRAP right>
+^  Sugar Plum Shop                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencandyshop.png?nolink|Sugar Plum Shop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionleprechaun.png?nolink|Leprechaun}}</wrap> Leprechaun  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+|  <abbr "Happiness effect radius">Radius</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:food:plum|Plum]]  |  1  |
+|  [[WikiPages:custom7:fairy_dust|Fairy Dust]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Garden sweet shop. A leprechaun combines honey and plums to produce Sugar Plums, a prized confection.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencandyshop.png?nolink|Sugar Plum Shop}}</wrap> **Sugar Plum Shop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencandyshop.png?nolink|Sugar Plum Shop}}</wrap> **Sugar Plum Shop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorefood.png?nolink|More Food Processing}}</wrap> **More Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencandyshop.png?nolink|Sugar Plum Shop (Fairy Garden)}}</wrap> **Sugar Plum Shop (Fairy Garden)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                  ^ Produces                                              ^
+| 16 [[WikiPages:food:honey|Honey]] + 10 [[WikiPages:food:plum|Plum]]         | [[WikiPages:food:sugar_plum|Sugar Plum]]               |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building Food KidFairyGarden}}

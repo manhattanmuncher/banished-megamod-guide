@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tokyo Bathhouse ======
+----
+
+<WRAP right>
+^  Tokyo Bathhouse                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtokyobathhouse.png?nolink|Tokyo Bathhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/bathattendant.png?nolink|Bath Attendant}}</wrap> Bath Attendant  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  80  |
+|  Stone  |  20  |
+|  Iron  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Japanese-themed civic bathhouse. Bath Attendants provide Health happiness and healing to citizens within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtokyobathhouse.png?nolink|Tokyo Bathhouse}}</wrap> **Tokyo Bathhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtokyobathhouse.png?nolink|Tokyo Bathhouse}}</wrap> **Tokyo Bathhouse**
+
+----
+
+{{tag>Building Hospital A8JapaneseAllInOne}}

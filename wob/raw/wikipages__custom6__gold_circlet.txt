@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gold Circlet ======
+----
+
+<WRAP right>
+^  Gold Circlet                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  650  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rkgoldcirclet.png?nolink|Gold Circlet}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Gold Circlet is a precious item valued for Its rarity or beauty in the Banished MegaMod. It is stored in a Barn and functions primarily as luxury trade goods, attracting favourable prices from merchants. At a trade value of 650, it is highly prized by traveling merchants.
+
+----
+
+===== Gold Circlet Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:precious:nmt30jewelmaker|Jewelry Maker]] (from Gold Bar + Coal + Ruby)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

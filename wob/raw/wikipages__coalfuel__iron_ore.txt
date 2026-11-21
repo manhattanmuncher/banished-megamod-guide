@@ -1,0 +1,74 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Ore ======
+----
+
+<WRAP right>
+^  Iron Ore                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/ironore.png?nolink|Iron Ore}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Iron Ore is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Iron Ore Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:pminerkec|Portable RKEC Mine]]
+  * Mined at the [[buildings:mining:allminingquarry|Multi-Quarry]]
+  * Mined at the [[buildings:mining:blmquarry2|Iron Ore & Coal Mine]]
+  * Mined at the [[buildings:mining:dssmallironoremine|Small Iron Ore Mine]]
+  * Mined at the [[buildings:mining:dssmallironoremine_upgrade|Iron Ore Mine]]
+  * Mined at the [[buildings:mining:dstunnelminecc|Tunnel Mine Random]]
+  * Mined at the [[buildings:mining:dstunnelmineccselect|Tunnel Mine Select]]
+  * Mined at the [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]]
+  * Mined at the [[buildings:mining:dstunnelmineccselectup|Tunnel Mine Upgrade (Select)]]
+  * Mined at the [[buildings:mining:ironmine|Iron Mine]]
+  * Mined at the [[buildings:mining:ecionmine|Mine (EC Edition)]]
+  * Mined at the [[buildings:mining:ironminedeep|Dark Mine]]
+  * Mined at the [[buildings:mining:ironminedeeper|Deep Mine]]
+  * Mined at the [[buildings:mining:ironminerenew|Mine (Renew)]]
+  * Mined at the [[buildings:mining:ironminerenew2|Mine (Renew 2)]]
+  * Mined at the [[buildings:mining:ironminerenew3|Mine (Renew 3)]]
+  * Mined at the [[buildings:mining:nmt30mcironquarry|Iron Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl2|Iron Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl3|Iron Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl4|Iron Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcironquarrylvl5|Iron Quarry Lvl5]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarry|Random Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]]
+  * Produced at the [[buildings:resources:abandonedruin|Abandoned Ruin]]
+  * Mined at the [[buildings:mining:allminingironmine|Multi-Mine]]
+  * Mined at the [[buildings:mining:dsthaddsurrelmine|Industry Mine]]
+  * Mined at the [[buildings:mining:fodlargemine|Large Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodsmallmine|Small Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodwlargemine|Large Mine (Forge Of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:fodwsmallmine|Small Mine (Forge Of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:minimine|Mini Mine]]
+  * Mined at the [[buildings:mining:pmine|Portable Mine]]
+  * Mined at the [[buildings:mining:temine|Mine (Tool Emporium)]]
+  * Mined at the [[buildings:mining:tinymine|Tiny Mine]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

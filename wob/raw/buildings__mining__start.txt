@@ -1,0 +1,151 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mining Buildings ======
+----
+
+Quarries, mines, and shafts for extracting stone, ores, and minerals.
+
+----
+
+===== Stone Quarries =====
+
+^ Building ^ Description ^
+| [[buildings:mining:icecavemine|Ice Cave Mine]] | Kid Ice Castle mine; produces stone/iron/coal; radius 20; free |
+| [[buildings:mining:quarry|Quarry]] | Standard Banished quarry; upgrades to Deep Quarry or Quarry (Renew) chain when depleted |
+| [[buildings:mining:quarrydeep|Deep Quarry]] | Upgraded Quarry; mines Stone; upgrades to Deeper Quarry |
+| [[buildings:mining:quarrydeeper|Deeper Quarry]] | Final tier of Quarry chain; mines Stone and Salt; no production cap |
+| [[buildings:mining:quarryrenew|Quarry (Renew)]] | Renewal upgrade of depleted Quarry; mines Stone; cap 3000 |
+| [[buildings:mining:quarryrenew2|Quarry (Renew 2)]] | Quarry Renew chain tier 2; cap 4000 |
+| [[buildings:mining:quarryrenew3|Quarry (Renew 3)]] | Quarry Renew chain tier 3; cap 6000 |
+| [[buildings:mining:quarryrenew4|Quarry (Renew 4)]] | Quarry Renew chain tier 4; cap 8000 |
+| [[buildings:mining:quarryrenew5|Quarry (Renew 5)]] | Quarry Renew chain tier 5; cap 10000 |
+| [[buildings:mining:quarryrenew6|Quarry (Renew 6)]] | Quarry Renew chain tier 6; cap 20000 |
+| [[buildings:mining:quarryrenew7|Quarry (Renew 7)]] | Quarry Renew chain final tier; cap 30000 |
+| [[buildings:mining:quarrysmall|Small Quarry]] | Compact quarry; mines Stone; upgrades to Deep Small Quarry |
+| [[buildings:mining:quarrysmalldeep|Deep Small Quarry]] | Upgraded Small Quarry; mines Stone; upgrades to Deeper Small Quarry |
+| [[buildings:mining:quarrysmalldeeper|Deeper Small Quarry]] | Final tier of Small Quarry chain; mines Stone and Salt; no production cap |
+| [[buildings:mining:tinyquarry|Tiny Quarry]] | Very small 5×6 quarry from KID Toolbar; mines Stone |
+| [[buildings:mining:ecquarry|Quarry (Editor's Choice)]] | Large quarry for Stone; up to 30 Stonecutters |
+| [[buildings:mining:ebsvquarry|Village Quarry]] | Village quarry; mines Stone; up to 12 Stonecutters |
+| [[buildings:mining:ebsvrockquarry|Village Rock Quarry]] | Village rock quarry; mines Stone; can convert to Fish Hatchery |
+| [[buildings:mining:ebsvrockquarryfish|Village Fish Hatchery]] | Converted Village Rock Quarry; produces Fish |
+| [[buildings:mining:fodsmallquarry|Small Quarry (Forge of Dwarves)]] | Small stone quarry; unlimited production |
+| [[buildings:mining:fodwsmallquarry|Small Quarry (Forge of Dwarves - Winter)]] | Small stone quarry (winter variant); unlimited production |
+
+===== Iron & Coal Mines =====
+
+^ Building ^ Description ^
+| [[buildings:mining:ironmine|Iron Mine]] | Colonial Charter mine; produces Iron Ore, Coal, or Iron; upgrades when depleted |
+| [[buildings:mining:ironminedeep|Dark Mine]] | Upgraded Iron Mine; produces Iron Ore, Coal, or Iron |
+| [[buildings:mining:ironminedeeper|Deep Mine]] | Final upgrade of Iron Mine chain; no production cap |
+| [[buildings:mining:ironmineimproved|Mine (Improved)]] | Compact modded mine; produces Iron or Coal directly |
+| [[buildings:mining:ecionmine|Mine (EC Edition)]] | Editor's Choice iron mine; produces Iron Ore or Coal; upgrades when depleted |
+| [[buildings:mining:ironminerenew|Mine (Renew)]] | Renewal upgrade of EC Mine; cap 8000 |
+| [[buildings:mining:ironminerenew2|Mine (Renew 2)]] | EC Mine Renew chain tier 2; cap 10000 |
+| [[buildings:mining:ironminerenew3|Mine (Renew 3)]] | EC Mine Renew chain tier 3; cap 11000 |
+| [[buildings:mining:ironminerenew4|Mine (Renew 4)]] | EC Mine Renew chain tier 4; cap 12000 |
+| [[buildings:mining:ironminerenew5|Mine (Renew 5)]] | EC Mine Renew chain tier 5; cap 13000 |
+| [[buildings:mining:ironminerenew6|Mine (Renew 6)]] | EC Mine Renew chain tier 6; cap 14000 |
+| [[buildings:mining:ironminerenew7|Mine (Renew 7)]] | EC Mine Renew final tier; cap 20000 |
+| [[buildings:mining:dssmallironoremine|Small Iron Ore Mine]] | Small mountain mine; produces Iron Ore; cap 1200; upgrades when depleted |
+| [[buildings:mining:dssmallironoremine_upgrade|Iron Ore Mine]] | Upgraded Small Iron Ore Mine; faster extraction; up to 21 miners |
+| [[buildings:mining:dstunnelminecc|Tunnel Mine Random]] | Mountain tunnel mine; randomly produces Stone, Coal, or Iron Ore |
+| [[buildings:mining:dstunnelmineccselect|Tunnel Mine Select]] | Mountain tunnel mine; player selects Stone, Coal, or Iron Ore |
+| [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]] | Upgraded Tunnel Mine Random; cap 40000 |
+| [[buildings:mining:dstunnelmineccselectup|Tunnel Mine Upgrade (Select)]] | Upgraded Tunnel Mine Select; cap 40000 |
+| [[buildings:mining:dstunnelmineccupmush|Old Mine Mushroom Farm]] | Converts a Tunnel Mine into a Mushroom Farm |
+| [[buildings:mining:apclosedmine|Closed Mine (Abandoned Places)]] | Abandoned Places placeable decoration; no function; upgrades to Old Mine or New Mine |
+| [[buildings:mining:apoldmine|Old Mine (Abandoned Places)]] | Abandoned Places mine; mines stone and occasional gold; upgrades to New Mine |
+| [[buildings:mining:apnewmine|New Mine (Abandoned Places)]] | Abandoned Places upgraded mine; miner extracts Iron Ore, Coal, or Gold; player selects |
+| [[buildings:mining:dscoalbellpit1|Coal Bell Pit]] | DS Mods open-pit mine; extracts Stone, Coal, or Iron Ore; Detraction building |
+| [[buildings:mining:dscoalbellpit1upgrade|Coal Bell Pit Mine]] | Upgraded Coal Bell Pit; expanded extraction capacity |
+| [[buildings:mining:dsthaddsurrelmine|Industry Mine]] | DS Mods massive industrial mine; extracts Stone, Coal, and Iron Ore; Detraction building |
+| [[buildings:mining:ebsvironmine|Village Mine (EB)]] | EB Small Village mine; extracts Iron Ore or Coal; Detraction building |
+| [[buildings:mining:ecironmine|Mine (EC Edition, Mines)]] | RK Editor's Choice mine in Mines toolbar; produces Iron Ore or Coal; Detraction building |
+| [[buildings:mining:exoticmine|Exotic Mine]] | Massive test mine; produces refined Iron in single-unit yields |
+| [[buildings:mining:fodlargemine|Large Mine (Forge Of Dwarves)]] | Forge Of Dwarves large mine; unlimited Iron Ore, Coal, Stone, and Magic Crystals |
+| [[buildings:mining:fodsmallmine|Small Mine (Forge Of Dwarves)]] | Forge Of Dwarves small mine; extracts Iron Ore, Coal, and Magic Crystals |
+| [[buildings:mining:fodminer|Miner (Forge Of Dwarves)]] | Forge Of Dwarves decorative mine entrance; workers assigned but no resources extracted |
+| [[buildings:mining:fodwlargemine|Large Mine (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter large mine; unlimited Iron Ore, Coal, Stone, and Magic Crystals |
+| [[buildings:mining:fodwsmallmine|Small Mine (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter small mine; extracts Iron Ore, Coal, and Magic Crystals |
+| [[buildings:mining:fodwminer|Miner (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter decorative mine entrance; workers assigned but no resources extracted |
+| [[buildings:mining:gtclosedmine|Closed Mine (Ghost Town)]] | Ghost Town placeable mine decoration; no function; upgrades to Old Mine or New Mine |
+| [[buildings:mining:gtoldmine|Old Mine (Ghost Town)]] | Ghost Town old mine; mines stone and occasional gold; upgrades to New Mine |
+| [[buildings:mining:gtnewmine|New Mine (Ghost Town)]] | Ghost Town upgraded mine; mines stone and gold; player selects |
+| [[buildings:mining:ironsandmine|Iron Sand Mine]] | A8 Japanese mod mine; extracts Iron from rocky outcrop |
+| [[buildings:mining:jinxiebittymine|Bitty Mine Shaft]] | Jinxie's Bitty Village mine shaft; extracts iron, coal, and stone |
+| [[buildings:mining:mfiron|Iron Deposit]] | Mexican Fantasy resource patch; Worker harvests raw Iron until depleted |
+| [[buildings:mining:mfiron_copy|Iron Deposit (Copy)]] | Mexican Fantasy iron deposit variant; no toolbar placement |
+| [[buildings:mining:minimine|Mini Mine]] | Compact mine; extracts Iron Ore and Coal; Detraction building |
+
+===== Copper & Tin Mines =====
+
+^ Building ^ Description ^
+| [[buildings:mining:copperminedeep|Dark Copper Ore Mine Shaft]] | Deep shaft mine for Copper Ore; upgrades to Deeper |
+| [[buildings:mining:copperminedeeper|Deep Copper Ore Mine Shaft]] | Final tier copper mine; no production cap |
+| [[buildings:mining:tinminedeep|Dark Tin Ore Mine Shaft]] | Upgraded Tinmine; produces Tin Ore or Tin (with Furnace Fuel) |
+| [[buildings:mining:tinminedeeper|Deep Tin Ore Mine Shaft]] | Final tier Tinmine; no production cap |
+| [[buildings:mining:coppermine|Copper Ore Mine Shaft]] | CC mine shaft; limited yield; extracts Copper Ore; upgrades to Dark Copper Ore Mine Shaft |
+
+===== Stone & Salt / Iron & Coal Surface Mines =====
+
+^ Building ^ Description ^
+| [[buildings:mining:blmquarry|Stone & Salt Mine]] | Surface mine for Stone and Salt; upgrades to Deep |
+| [[buildings:mining:blmquarrydeep|Deep Stone & Salt Mine]] | Upgraded Stone & Salt Mine; greater production |
+| [[buildings:mining:blmquarrydeeper|Deeper Stone & Salt Mine]] | Final tier Stone & Salt Mine; vast production |
+| [[buildings:mining:blmquarry2|Iron Ore & Coal Mine]] | Surface mine for Iron Ore and Coal; upgrades to Deep |
+| [[buildings:mining:blmquarry2deep|Deep Iron Ore & Coal Mine]] | Upgraded Iron Ore & Coal Mine; greater production |
+| [[buildings:mining:blmquarry2deeper|Deeper Iron Ore & Coal Mine]] | Final tier Iron Ore & Coal Mine; vast production |
+
+===== Salt Mines =====
+
+^ Building ^ Description ^
+| [[buildings:mining:ebsaltworks|Salt Works]] | EB salt-evaporation works; extracts Salt from the earth |
+| [[buildings:mining:ebsvsaltmine|Village Salt Mine]] | EB Small Village salt mine; extracts Salt |
+| [[buildings:mining:newmedievalsaltmine|Medieval Salt Mine]] | NMT large salt mine; extracts Salt; negative happiness effect on nearby residents |
+| [[buildings:mining:nmt30saltmine|Salt Mine]] | NMT salt mine; extracts Salt; negative happiness effect on nearby residents |
+
+===== Jade & Marble Quarries =====
+
+^ Building ^ Description ^
+| [[buildings:mining:jadequarry|Jade Quarry]] | Mines Jade; upgrades when depleted |
+| [[buildings:mining:jadequarry2|Jade Quarry 2]] | Upgraded Jade Quarry; faster cycle; cap 1000 |
+| [[buildings:mining:jadequarry3|Jade Quarry 3]] | Final tier Jade Quarry; no production cap |
+| [[buildings:mining:marblequarry|Marble Quarry]] | Mines Marble; upgrades when depleted |
+| [[buildings:mining:marblequarry2|Marble Quarry 2]] | Upgraded Marble Quarry; faster cycle; cap 1000 |
+| [[buildings:mining:marblequarry3|Marble Quarry 3]] | Final tier Marble Quarry; no production cap |
+
+===== RK Edition Quarries =====
+
+^ Building ^ Description ^
+| [[buildings:mining:nmt30mcironquarry|Iron Quarry]] | Large mine; produces Iron Ore and Copper Ore; 5 upgrade tiers |
+| [[buildings:mining:nmt30mcironquarrylvl2|Iron Quarry Lvl2]] | Iron Quarry chain tier 2 |
+| [[buildings:mining:nmt30mcironquarrylvl3|Iron Quarry Lvl3]] | Iron Quarry chain tier 3 |
+| [[buildings:mining:nmt30mcironquarrylvl4|Iron Quarry Lvl4]] | Iron Quarry chain tier 4 |
+| [[buildings:mining:nmt30mcironquarrylvl5|Iron Quarry Lvl5]] | Iron Quarry chain final tier |
+| [[buildings:mining:nmt30mcrockquarry|Rock Quarry]] | Large mine; produces Stone, Coal, and Salt; 5 upgrade tiers |
+| [[buildings:mining:nmt30mcrockquarrylvl2|Rock Quarry Lvl2]] | Rock Quarry chain tier 2 |
+| [[buildings:mining:nmt30mcrockquarrylvl3|Rock Quarry Lvl3]] | Rock Quarry chain tier 3 |
+| [[buildings:mining:nmt30mcrockquarrylvl4|Rock Quarry Lvl4]] | Rock Quarry chain tier 4 |
+| [[buildings:mining:nmt30mcrockquarrylvl5|Rock Quarry Lvl5]] | Rock Quarry chain final tier |
+| [[buildings:mining:nmt30mcrandomquarry|Random Quarry]] | Large mine; produces a random mineral each cycle; 5 upgrade tiers |
+| [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]] | Random Quarry chain tier 2 |
+| [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]] | Random Quarry chain tier 3 |
+| [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]] | Random Quarry chain tier 4 |
+| [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]] | Random Quarry chain final tier |
+
+===== Multi-Resource & Portable =====
+
+^ Building ^ Description ^
+| [[buildings:mining:allminingquarry|Multi-Quarry]] | Mines Iron, Coal, and Stone simultaneously |
+| [[buildings:mining:pminerkec|Portable RKEC Mine]] | Compact KID Toolbar mine; produces Coal, Iron Ore, and Copper Ore; no cap |
+| [[buildings:mining:allminingironmine|Multi-Mine]] | All-Mining large building; extracts Stone, Iron Ore, and Coal simultaneously |
+| [[buildings:mining:ootwcrystalworks|Crystal Works (OOTW)]] | Out Of This World crystal works; extracts glass crystals |
+| [[buildings:mining:ootwmudworks|Mud Works (OOTW)]] | Out Of This World mud works; extracts glass crystals using primitive methods |
+| [[buildings:mining:nmtwaterminedock|WaterMine Dock (NMT)]] | NMT Docks water mine; Miners dive to extract a random mix of ores, stone, and precious minerals |
+| [[buildings:mining:sbbarquewreck|Barque Wreck]] | KID Some Boats wrecked barque; salvages Tool, Firewood, Leather Coat, and Herb; free to place |
+| [[buildings:mining:sbmotorizedwreck|Cargo Wreck]] | KID Some Boats wrecked cargo boat; salvages Coal, Firewood, Stone, Wood, and Iron; free to place |
+
+----
+
+{{tag>Buildings Mining}}

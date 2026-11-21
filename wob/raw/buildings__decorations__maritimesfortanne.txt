@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fort Anne Earthworks ======
+----
+
+<WRAP right>
+^  Fort Anne Earthworks                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfortanneearthstraight1.png?nolink|Fort Anne Earthworks}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  varies  |
+^  Build Cost                                                                         ^^
+|  Cost  |  low (per piece)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes Fort Anne earthwork rampart pieces, used to build star-fort style earthen defences. Combine straight sections, diagonals, gates, orthogonal pieces, and inner/outer/left/right corners.
+
+----
+
+===== Variants =====
+
+^ Piece ^
+| Earth Straight (1–5) |
+| Earth Diagonal / Orthogonal |
+| Earth Gate |
+| Inner Corner (IC) / Outer Corner (OC) / Left End (LE) / Right End (RE) |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfortanneearthstraight1.png?nolink|Fort Anne Earthworks}}</wrap> **Fort Anne Earthworks**
+
+----
+
+{{tag>Building Decorations FortAnne}}

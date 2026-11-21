@@ -1,0 +1,214 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Terrain ======
+----
+
+Terrain determines the shape of the map: how flat or hilly the land is, how many rivers and lakes appear, and the visual look of the ground. It is chosen when starting a new game and cannot be changed afterward. Terrain has no effect on climate, crop growth, or tornado frequency — those are controlled by the [[climate:start|Climate]] selection.
+
+The MegaMod adds a large number of terrain types from Colonial Charter, Discrepancy, RK Editor Choice, CTP, and the Peaks Valley mod, in addition to the five vanilla types.
+
+----
+
+===== Vanilla Terrains =====
+
+^ Terrain ^ Notes ^
+| Valleys | Default starting terrain; gentle slopes, rivers, moderate lakes |
+| Mountains | Rugged terrain with fewer flat building areas |
+
+----
+
+===== MegaMod Bundled Terrains =====
+
+These terrains are added by the MegaMod and display in-game without a mod tag, alongside the vanilla options. Their source mod within MegaMod is not identified in the RSC files.
+
+^ Terrain ^ Notes ^
+| Prairie | Open flat grassland with rivers and some lakes |
+| Swamp | Wet lowland with many lakes and rivers |
+| Red Desert | Arid flat terrain; no rivers, no lakes |
+
+----
+
+===== Colonial Charter Terrains =====
+
+Added by the Colonial Charter mod (BL series).
+
+^ Terrain ^ Notes ^
+| [CC] Red Desert | Red desert landscape |
+| [CC] Desert | Arid desert |
+| [CC] Swamp Valleys | Swampy valley map |
+| [CC] Bleak Mountains | Rugged mountain terrain |
+| [CC] Lake Waters | Lake-heavy terrain |
+| [CC] Marsh | Marshy lowland |
+| [CC] Flat Plains | Wide flat plains |
+| [CC] Sand Lakes | Sandy terrain with lakes |
+| [CC] Verdant Plains | Fertile plains |
+| [CC] Swamp Lakes | Swampy terrain with many lakes |
+| [CC] Water World | Very water-heavy map |
+| [CC] Jungle Rivers | Dense jungle rivers |
+| [CC] Cold Valleys | Cold valley map |
+
+----
+
+===== Discrepancy Terrains =====
+
+Added by the Discrepancy mods. DS terrains come in standard and lush (green) variants.
+
+^ Terrain ^ Notes ^
+| Harsh Mountains | Steep and rugged mountain terrain |
+| Harsh Plateau | Elevated plateau with harsh landscape |
+| Mountain Lakes | Mountains with significant lake areas |
+| Open Green Valley | Wide open valley |
+| Plains with Lake | Flat plains including a lake |
+| Plains without Lake | Flat plains, no lakes |
+| Lakes | Lake-focused terrain |
+| Lush Plains with Lake | Green/lush flat plains with lake |
+| Lush Plains without Lake | Green/lush flat plains |
+| Lush Lakes | Green/lush lake terrain |
+| Red Desert | DS red desert variant |
+| Sand Desert | Sandy desert |
+
+----
+
+===== CTP Terrains =====
+
+Added by the CTP (Classic Terrain Pack) mod.
+
+^ Terrain ^ Notes ^
+| Big Lake | Terrain dominated by a large central lake |
+| Flat | Very flat terrain with minimal relief |
+| Flat With Water | Flat terrain with water features |
+| Many Lakes | Terrain with numerous lakes |
+| Valleys More Rivers | Valley terrain with extra river coverage |
+| Mountains More Rivers | Mountain terrain with extra rivers (note: in-game name has a typo: "Moutains More Rivers") |
+
+----
+
+===== Peaks Valley Terrains =====
+
+Added by the Peaks Valley mod. Two additional grid variants exist in the mod files but are not exposed in the new game menu.
+
+^ Terrain ^ Notes ^
+| Peak's Plain | Plains terrain with peaks |
+| Peak's Valley | Valley terrain with peaks |
+
+----
+
+===== RK Editor Choice Terrains =====
+
+Added by the RK Editor Choice mod. These are mostly visual reskins of the four base shapes (Valleys, Plains, Mountains, Lakes). All are [RKEC] tagged in-game except the "Original" variants.
+
+==== Base and No-Dirt Variants ====
+
+^ Terrain ^ Base Shape ^
+| Plain (Original) | Plains |
+| Lakes (Original) | Lakes |
+| Valley (No Dirt) [RKEC] | Valleys |
+| Plain (No Dirt) [RKEC] | Plains |
+| Mountains (No Dirt) [RKEC] | Mountains |
+| Lakes (No Dirt) [RKEC] | Lakes |
+
+==== Peaks Variants ====
+
+^ Terrain ^ Base Shape ^
+| Peaks Valley [RKEC] | Valleys |
+| Peaks Plain [RKEC] | Plains |
+| Peaks Mountains [RKEC] | Mountains |
+| Peaks Lakes [RKEC] | Lakes |
+
+==== Pine Wood ====
+
+^ Terrain ^ Base Shape ^
+| Pine Wood Valley [RKEC] | Valleys |
+| Pine Wood Plain [RKEC] | Plains |
+| Pine Wood Mountains [RKEC] | Mountains |
+| Pine Wood Lakes [RKEC] | Lakes |
+
+==== Fresh Spring ====
+
+^ Terrain ^ Base Shape ^
+| Fresh Spring Valley [RKEC] | Valleys |
+| Fresh Spring Plain [RKEC] | Plains |
+| Fresh Spring Mountains [RKEC] | Mountains |
+| Fresh Spring Lakes [RKEC] | Lakes |
+
+==== Lush Green ====
+
+^ Terrain ^ Base Shape ^
+| Lush Green Valley [RKEC] | Valleys |
+| Lush Green Plain [RKEC] | Plains |
+| Lush Green Mountains [RKEC] | Mountains |
+| Lush Green Lakes [RKEC] | Lakes |
+
+==== Entangled ====
+
+^ Terrain ^ Base Shape ^
+| Entangled Valley [RKEC] | Valleys |
+| Entangled Plain [RKEC] | Plains |
+| Entangled Mountains [RKEC] | Mountains |
+| Entangled Lakes [RKEC] | Lakes |
+
+==== Misty ====
+
+^ Terrain ^ Base Shape ^
+| Misty Valley [RKEC] | Valleys |
+| Misty Plain [RKEC] | Plains |
+| Misty Mountains [RKEC] | Mountains |
+| Misty Lakes [RKEC] | Lakes |
+
+==== Equinox ====
+
+^ Terrain ^ Base Shape ^
+| Equinox Valley [RKEC] | Valleys |
+| Equinox Plain [RKEC] | Plains |
+| Equinox Mountains [RKEC] | Mountains |
+| Equinox Lakes [RKEC] | Lakes |
+
+==== Sunny Autumn ====
+
+^ Terrain ^ Base Shape ^
+| Sunny Autumn Valley [RKEC] | Valleys |
+| Sunny Autumn Plain [RKEC] | Plains |
+| Sunny Autumn Mountains [RKEC] | Mountains |
+| Sunny Autumn Lakes [RKEC] | Lakes |
+
+==== Enchanted ====
+
+^ Terrain ^ Base Shape ^
+| Enchanted Valley [RKEC] | Valleys |
+| Enchanted Plain [RKEC] | Plains |
+| Enchanted Mountains [RKEC] | Mountains |
+| Enchanted Lakes [RKEC] | Lakes |
+
+==== Woodland Meadow ====
+
+^ Terrain ^ Base Shape ^
+| Woodland Meadow Valley [RKEC] | Valleys |
+| Woodland Meadow Plain [RKEC] | Plains |
+| Woodland Meadow Mountains [RKEC] | Mountains |
+| Woodland Meadow Lakes [RKEC] | Lakes |
+
+==== Efflorescence ====
+
+^ Terrain ^ Base Shape ^
+| Efflorescence Valley [RKEC] | Valleys |
+| Efflorescence Plain [RKEC] | Plains |
+| Efflorescence Mountains [RKEC] | Mountains |
+| Efflorescence Lakes [RKEC] | Lakes |
+
+==== Marsh ====
+
+^ Terrain ^ Notes ^
+| Marsh [RKEC] | Marshy terrain (displayed as "Marsh]" in-game — typo in mod string table) |
+
+----
+
+===== Notes =====
+
+  * **[CC]** = Colonial Charter terrain. **[RKEC]** = RK Editor Choice terrain. **DS** terrains have no prefix tag in-game.
+  * **Hidden terrains**: Four RKEC grid variants (Peaks Valley [Grid], Peaks Plain [Grid], Peaks Mountains [Grid], Peaks Lakes [Grid]) and two Peaks Valley grid variants (Peak's Plain (Grid), Peak's Valley (Grid)) exist in the mod files but have ''_exposed = false'' and do not appear in the new game menu.
+  * **RKEC visual themes**: RK Editor Choice terrains are primarily texture reskins of the four vanilla base shapes. Gameplay behavior (flatness, rivers, lakes) depends on the base shape, not the visual theme.
+  * **DS terrain naming**: The DS "Red Desert" and vanilla "Red Desert" are separate terrain generators. The DS version has a unique visual skin.
+
+----
+
+{{tag>Terrain}}

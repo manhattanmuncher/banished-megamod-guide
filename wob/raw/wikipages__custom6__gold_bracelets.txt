@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gold Bracelets ======
+----
+
+<WRAP right>
+^  Gold Bracelets                                 ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  1500  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rkgoldbracelets.png?nolink|Gold Bracelets}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Gold Bracelets are a precious item valued for their rarity or beauty in the Banished MegaMod. They are stored in a Barn and function primarily as luxury trade goods, attracting favourable prices from merchants. At a trade value of 1500, they are highly prized by traveling merchants.
+
+----
+
+===== Gold Bracelets Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:precious:nmt30jewelmaker|Jewelry Maker]] (from Gold Bar + Coal + Diamond)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

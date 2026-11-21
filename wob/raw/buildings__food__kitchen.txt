@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Kitchen ======
+----
+
+<WRAP right>
+^  Kitchen                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkitchen.png?nolink|Kitchen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/alewench.png?nolink|Ale Wench}}</wrap> Ale Wench  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max Workers (Default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Required tool">Tool</abbr>  |  None  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  55  |
+|  Wood  |  15  |
+|  Stone  |  40  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The Kitchen is a food production building in the Banished MegaMod. It employs an Ale Wench to prepare Pub Meals and fill canteens for the colony.
+
+----
+
+===== Toolbar =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined}}</wrap> **Refined** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxuries Production}}</wrap> **Luxuries Production** → Kitchen
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 30 [[WikiPages:food:water|Water]] + 3 [[WikiPages:custom1:canteens|Canteens]] | [[WikiPages:alcohol:filled_canteen|Filled Canteen]] |
+| 2 [[WikiPages:food:chicken|Chicken]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:venison|Venison]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:fish|Fish]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:cheval|Cheval]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 Swinemeat + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:charki|Charki]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:lettuce|Lettuce]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:bison_meat|Bison Meat]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:chilies|Chilies]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:pecan|Pecan]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+| 2 [[WikiPages:food:corn|Corn]] + 1 [[WikiPages:coalfuel:salt|Salt]] | [[WikiPages:alcohol:pub_meal|Pub Meal]] |
+
+===== Other Information =====
+
+{{tag>Food}}

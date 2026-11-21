@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Carrots ======
+----
+
+<WRAP right>
+^  Carrots                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/carrots.png?nolink|Carrots}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Carrots are a vegetable crop grown in fields in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Carrots Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:abpgreenhouse|ABP Greenhouse]]
+  * Produced at the [[buildings:greenhouse:aspgreenhousea|Soup House]]
+  * Produced at the [[buildings:gathering:fairygardenpatch03|Fairy Garden Fall (Fairy Garden)]]
+  * Produced at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Produced at the [[buildings:fields:hobbitproudfoot|Proudfoot's Carrots (Hobbit)]]
+  * Produced at the [[buildings:fields:kf06|Farmyard 06]]
+  * Produced at the [[buildings:fields:kf08|Farmyard 08]]
+  * Produced at the [[buildings:fields:kf12|Farmyard 12]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:fields:patchcarrots|Patch Carrots]] (Kid - Patchwork)
+  * Produced at the [[buildings:greenhouse:bgmini3x2|Mini 3x2]]
+  * Produced at the [[buildings:greenhouse:bgmini4x4|Mini 4x4]]
+  * Produced at the [[buildings:greenhouse:bgshed4x3|Shed 4x3]]
+  * Produced at the [[buildings:greenhouse:bgshed6x4|Shed 6x4]]
+  * Produced at the [[buildings:greenhouse:bgshed7x7|Shed 7x7]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketstew|Market Stew]] (for [[WikiPages:food:stew_stew|Stew]])
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Vegetable Stew)
+  * Used at the [[buildings:preserving:tinneryveg|Vegetable Tinnery]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable}}

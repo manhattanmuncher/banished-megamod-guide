@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Well (EB) ======
+----
+
+<WRAP right>
+^  Water Well (EB)                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebwaterwell.png?nolink|Water Well}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  14  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB-mod water well. A Worker draws fresh Water for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwater.png?nolink|Water}}</wrap> **Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebwaterwell.png?nolink|Water Well}}</wrap> **Water Well**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebfood.png?nolink|EB Food}}</wrap> **EB Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebwaterwell.png?nolink|Water Well}}</wrap> **Water Well**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:water|Water]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells EB}}

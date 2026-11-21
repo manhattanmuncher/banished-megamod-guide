@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Pine Guest House ======
+----
+
+<WRAP right>
+^  Small Pine Guest House                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineguesthouse.png?nolink|Small Pine Guest House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  3  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora Maritimes small pine guest house; temporarily houses up to 5 settlers across 3 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineguesthouse.png?nolink|Small Pine Guest House}}</wrap> **Small Pine Guest House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineguesthouse.png?nolink|Small Pine Guest House}}</wrap> **Small Pine Guest House**
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Houses Maritimes}}

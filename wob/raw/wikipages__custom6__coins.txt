@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coins ======
+----
+
+<WRAP right>
+^  Coins                                          ^  xRK  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  600/600  |  600/600  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/coins.png?nolink|Coins}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Coins are a precious item valued for their rarity or beauty in the Banished MegaMod. They are stored in a Barn and function primarily as luxury trade goods, attracting favourable prices from merchants. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Coins Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]]
+  * Produced at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]]
+  * Produced at the [[buildings:trading_post:garemerchant3|Station: Utility Export (Choo Choo)]]
+  * Produced at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

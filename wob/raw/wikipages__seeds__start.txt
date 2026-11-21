@@ -1,0 +1,104 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seeds ======
+----
+
+Seeds are purchased from merchants at [[buildings:trading_post:start|Trading Posts]] and used to plant crops in [[buildings:fields:start|Fields]] or trees in [[buildings:orchards:start|Orchards]].
+
+----
+
+===== Crop Seeds =====
+
+^ Seed ^ Crop ^ Growth ^ Value ^
+| [[WikiPages:seeds:tmagave|Agave Seeds]] | Agave | 2 months | 2,500 |
+| [[WikiPages:seeds:bamboo|Bamboo Seeds]] | Bamboo | 2 months | 3,000 |
+| [[WikiPages:seeds:barley|Barley Seeds]] | Barley | 3 months | 4,000 |
+| [[WikiPages:seeds:bean|Bean Seeds]] | Bean | 2.7 months | 2,500 |
+| [[WikiPages:seeds:beet|Beetroot Seeds]] | Beetroots | 2.5 months | 3,000 |
+| [[WikiPages:seeds:blackberry|Blackberry Seeds]] | Blackberry | 2 months | 2,500 |
+| [[WikiPages:seeds:blueberry|Blueberry Seeds]] | Blueberry | 2 months | 4,000 |
+| [[WikiPages:seeds:broccoli|Broccoli Seeds]] | Broccoli | 2.5 months | 2,500 |
+| [[WikiPages:seeds:brusselsprouts|Brussels Sprouts Seeds]] | Brussel Sprouts | 2 months | 2,500 |
+| [[WikiPages:seeds:cabbage|Cabbage Seeds]] | Cabbage | 2.9 months | 2,500 |
+| [[WikiPages:seeds:shanchahua|Camellia Seeds]] | Camellia | 2 months | 3,200 |
+| [[WikiPages:seeds:canola|Canola Seeds]] | Canola | 2.5 months | 4,000 |
+| [[WikiPages:seeds:carrot|Carrot Seeds]] | Carrots | 2.5 months | 2,500 |
+| [[WikiPages:seeds:chickpea|Chickpea Seeds]] | Chickpeas | 2 months | 2,500 |
+| [[WikiPages:seeds:chili1|Chili Seeds]] | Chilies | 2 months | 4,000 |
+| [[WikiPages:seeds:cotton|Cotton Seeds]] | Cotton | 3 months | 4,000 |
+| [[WikiPages:seeds:cucumber|Cucumber Seeds]] | Cucumber | 2.5 months | 3,000 |
+| [[WikiPages:seeds:eggplant|Eggplant Seeds]] | Eggplant | 2.5 months | 3,000 |
+| [[WikiPages:seeds:flax|Flax Seeds]] | Flax | 3 months | 4,000 |
+| [[WikiPages:seeds:haystack|Fodder-Thatch Seeds]] | Fodder-Thatch | 2 months | 500 |
+| [[WikiPages:seeds:ginger|Ginger Seeds]] | Ginger | 2 months | 2,500 |
+| [[WikiPages:seeds:hemp|Hemp Seeds]] | Hemp | 3 months | 4,000 |
+| [[WikiPages:seeds:herb|Herb Seeds]] | Herbs | 2 months | 4,000 |
+| [[WikiPages:seeds:hops|Hops Seeds]] | Hops | 2 months | 4,000 |
+| [[WikiPages:seeds:kale|Kale Seeds]] | Kale | 2 months | 2,500 |
+| [[WikiPages:seeds:leek1|Leek Seeds]] | Leeks | 2 months | 3,000 |
+| [[WikiPages:seeds:lentil|Lentil Seeds]] | Lentils | 3 months | 2,500 |
+| [[WikiPages:seeds:lettuce|Lettuce Seeds]] | Lettuce | 2 months | 2,500 |
+| [[WikiPages:seeds:mush1|Mushroom Seeds]] | Mushroom | 2 months | 3,500 |
+| [[WikiPages:seeds:oat|Oat Seeds]] | Oats | 3 months | 4,000 |
+| [[WikiPages:seeds:onion1|Onion Seeds]] | Onion | 2 months | 3,000 |
+| [[WikiPages:seeds:parsnip|Parsnip Seeds]] | Parsnips | 2 months | 2,500 |
+| [[WikiPages:seeds:pea|Pea Seeds]] | Pea | 2 months | 2,500 |
+| [[WikiPages:seeds:peanuts|Peanuts Seeds]] | Peanuts | 2.7 months | 2,500 |
+| [[WikiPages:seeds:shanhuying|Peregrina Seeds]] | Peregrina | 3 months | 3,500 |
+| [[WikiPages:seeds:radish|Radish Seeds]] | Radish | 2 months | 3,000 |
+| [[WikiPages:seeds:raspberry|Raspberry Seeds]] | Raspberries | 2 months | 4,000 |
+| [[WikiPages:seeds:rice|Rice Seeds]] | Rice | 2 months | 2,500 |
+| [[WikiPages:seeds:melon1|Rockmelon Seeds]] | Rockmelon | 2.5 months | 3,500 |
+| [[WikiPages:seeds:root|Root Seeds]] | Root | 2 months | 2,500 |
+| [[WikiPages:seeds:meigui|Rose Seeds]] | Rose | 2.5 months | 3,000 |
+| [[WikiPages:seeds:rye|Rye Seeds]] | Rye | 3 months | 4,000 |
+| [[WikiPages:seeds:sorghum|Sorghum Seeds]] | Sorghum | 3 months | 4,000 |
+| [[WikiPages:seeds:soybean|Soybean Seeds]] | Soybeans | 2 months | 2,500 |
+| [[WikiPages:seeds:spices|Spice Seeds]] | Spices | 2 months | 2,500 |
+| [[WikiPages:seeds:spinach|Spinach Seeds]] | Spinach | 2 months | 2,500 |
+| [[WikiPages:seeds:squash|Squash Seeds]] | Squash | 2.8 months | 2,500 |
+| [[WikiPages:seeds:strawberry|Strawberry Seeds]] | Strawberry | 2.5 months | 4,000 |
+| [[WikiPages:seeds:sugarbeet|Sugar Beet Seeds]] | Sugar Beets | 2.5 months | 3,000 |
+| [[WikiPages:seeds:sugar|Sugar Cane Seeds]] | Sugar | 3 months | 4,000 |
+| [[WikiPages:seeds:sunflower|Sunflower Seeds]] | Sunflower | 2.5 months | 4,000 |
+| [[WikiPages:seeds:sweetpotato|Sweet Potato Seeds]] | Sweet Potato | 3 months | 2,500 |
+| [[WikiPages:seeds:tobacco|Tobacco Leaf Seeds]] | Tobacco Leaf | 3 months | 3,000 |
+| [[WikiPages:seeds:tomato|Tomato Seeds]] | Tomato | 2 months | 2,500 |
+| [[WikiPages:seeds:tulip|Tulip Seeds]] | Tulip | 2.5 months | 2,500 |
+| [[WikiPages:seeds:turnip|Turnip Seeds]] | Turnip | 2 months | 2,500 |
+| [[WikiPages:seeds:vgseed|Vegetables Seeds]] | Vegetables | 2 months | 2,500 |
+| [[WikiPages:seeds:ziluolan|Violet Seeds]] | Violet | 2.5 months | 3,600 |
+| [[WikiPages:seeds:watermelon|Watermelon Seeds]] | Watermelons | 2.5 months | 3,500 |
+
+===== Orchard Seeds =====
+
+^ Seed ^ Tree ^ Fruit Cycle ^ Maturity ^ Value ^
+| [[WikiPages:seeds:acai|Acai Seeds]] | Acai | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:almondtree|Almond Seeds]] | Almond | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:apricot|Apricot Seeds]] | Apricot | 4 months | 24 months | 3,000 |
+| [[WikiPages:seeds:banana|Banana Seeds]] | Banana | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:coconut|Coconut Seeds]] | Coconut | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:coffee|Coffee Seeds]] | Coffee | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:cranberry|Cranberry Seeds]] | Cranberry | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:date|Date Seeds]] | Date | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:fig|Fig Seeds]] | Fig | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:grape|Grape Seeds]] | Grape | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:grapefruit|Grapefruit Seeds]] | Grapefruit | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:hazeltree|Hazelnut Seeds]] | Hazelnut | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:lemon|Lemon Seeds]] | Lemon | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:lime|Lime Seeds]] | Lime | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:mango|Mango Seeds]] | Mango | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:maple|Maple Seeds]] | Maple | 4 months | 24 months | 3,000 |
+| [[WikiPages:seeds:mulberry|Mulberry Seeds]] | Mulberry | 4 months | 24 months | 4,000 |
+| [[WikiPages:seeds:oaktree|Oak Tree Seeds]] | Oak | 5 months | 56 months | 1,500 |
+| [[WikiPages:seeds:olive|Olive Seeds]] | Olive | 4 months | 24 months | 4,000 |
+| [[WikiPages:seeds:orange|Orange Seeds]] | Orange | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:pineapple|Pineapple Seeds]] | Pineapple | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:pistachiotree|Pistachio Seeds]] | Pistachio | 4 months | 24 months | 2,500 |
+| [[WikiPages:seeds:quince|Quince Seeds]] | Quince | 4 months | 24 months | 3,000 |
+| [[WikiPages:seeds:tea|Tea Seeds]] | Tea Leaves | 4 months | 16 months | 2,500 |
+| [[WikiPages:seeds:mulberrywhite|White Mulberry Seeds]] | White Mulberry | 4 months | 24 months | 3,000 |
+
+----
+
+{{tag>Seeds}}

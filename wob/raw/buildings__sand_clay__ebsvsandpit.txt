@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Sand Pit ======
+----
+
+<WRAP right>
+^  Village Sand Pit                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsandpit.png?nolink|Village Sand Pit}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  46  |
+|  [[WikiPages:wood:log|Wood]]  |  38  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village sand pit. Workers dig Sand for the village's glassworks and brickyards.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsandclay.png?nolink|Sand & Clay}}</wrap> **Sand & Clay** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsandpit.png?nolink|Village Sand Pit}}</wrap> **Village Sand Pit**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resource Production}}</wrap> **Village Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubmining.png?nolink|Village Mines and Quarries}}</wrap> **Village Mines and Quarries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsandpit.png?nolink|Village Sand Pit}}</wrap> **Village Sand Pit**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom4:sand|Sand]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building SandClay EB}}

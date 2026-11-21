@@ -1,0 +1,51 @@
+~~NOTOC~~
+
+====== Items & Resources ======
+----
+
+Browse all items and resources by category. Each category corresponds to a storage type and flag in the game.
+
+----
+
+===== Food & Farming =====
+
+^ Category ^ Storage ^ Description ^
+| {{:sprites:meal.png?24 nolink|Food}} [[WikiPages:food:start|Food]] | Barn | All edible items — crops, foraged goods, and processed food |
+| {{:sprites:apple.png?24 nolink|Fruit}} [[WikiPages:fruit:start|Fruit]] | Barn | Fruit harvested from orchards |
+| {{:sprites:wheat.png?24 nolink|Grain}} [[WikiPages:grain:start|Grain]] | Barn | Grain crops and flour |
+| {{:sprites:vegetables.png?24 nolink|Vegetables}} [[WikiPages:vegetable:start|Vegetables]] | Barn | Vegetable crops |
+| {{:sprites:seedbarleysmall.png?24 nolink|Seeds}} [[WikiPages:seeds:start|Seeds]] | Barn | Crop and orchard seeds purchased from merchants |
+
+===== Basic Resources =====
+
+^ Category ^ Storage ^ Description ^
+| {{:sprites:firewood.png?24 nolink|Fuel}} [[WikiPages:fuel:start|Fuel]] | Stockpile | Firewood and fuels for heating |
+| {{:sprites:log.png?24 nolink|Wood}} [[WikiPages:wood:start|Wood & Logs]] | Stockpile | Raw timber and logs |
+| {{:vanilla:dialog:sprite:rawmaterial:stone.png?24 nolink|Stone}} [[WikiPages:stone:start|Stone]] | Stockpile | Quarried stone |
+| {{:sprites:iron.png?24 nolink|Iron}} [[WikiPages:iron:start|Iron]] | Stockpile | Refined iron and metals |
+| {{:sprites:herb.png?24 nolink|Herbs}} [[WikiPages:health:start|Herbs & Health]] | Barn | Herbs consumed at the Herbalist |
+| {{:sprites:tool.png?24 nolink|Tools}} [[WikiPages:tool:start|Tools]] | Barn | Tools used by workers |
+| {{:sprites:iron_ore.png?24 nolink|Minerals}} [[WikiPages:coalfuel:start|Minerals]] | Stockpile | Mined ores and minerals |
+
+===== Clothing & Textiles =====
+
+^ Category ^ Storage ^ Description ^
+| {{:sprites:wintercoat.png?24 nolink|Clothing}} [[WikiPages:clothing:start|Clothing]] | Barn | Outerwear worn by citizens |
+| {{:sprites:leather.png?24 nolink|Textiles}} [[WikiPages:textile:start|Textiles (Raw)]] | Barn | Raw textiles — Wool, Leather, Flax |
+| {{:sprites:silk.png?24 nolink|Fabrics}} [[WikiPages:custom2:start|Fabrics]] | Barn | Processed textiles — Cloth, Linen |
+| {{:sprites:ale.png?24 nolink|Luxuries}} [[WikiPages:alcohol:start|Luxuries & Alcohol]] | Barn | Beverages consumed at the Tavern for happiness |
+
+===== Modded Resources =====
+
+^ Category ^ Storage ^ Description ^
+| {{:sprites:furniture.png?24 nolink|Crafted}} [[WikiPages:custom0:start|Crafted Items]] | Barn | Workshop-crafted goods — Rope, Pottery |
+| {{:sprites:copper.png?24 nolink|Forged}} [[WikiPages:custom1:start|Forged Items]] | Barn | Metal-forged goods — Joists, Cannons |
+| {{:sprites:furnace_fuel.png?24 nolink|Industrial}} [[WikiPages:custom3:start|Industrial]] | Stockpile | Industrial fuels — Furnace Fuel |
+| {{:sprites:clay.png?24 nolink|Materials}} [[WikiPages:custom4:start|Materials]] | Stockpile | Natural resources — Clay, Sand, Hardwood |
+| {{:sprites:brick.png?24 nolink|Construction}} [[WikiPages:custom5:start|Construction]] | Stockpile | Building materials — Lumber, Bricks |
+| {{:sprites:coins.png?24 nolink|Precious}} [[WikiPages:custom6:start|Precious]] | Barn | Precious items — Coins, Gemstones |
+| {{:sprites:fertilizer.png?24 nolink|Miscellaneous}} [[WikiPages:custom7:start|Miscellaneous]] | Barn | Trade-only and other miscellaneous items |
+
+----
+
+{{tag>Navigation Resources}}

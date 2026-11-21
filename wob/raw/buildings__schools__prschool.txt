@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal School ======
+----
+
+<WRAP right>
+^  Port Royal School                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprschool.png?nolink|Port Royal School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  15  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Port Royal school staffed by a Teacher, educating up to 15 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolcivics.png?nolink|Necora's Maritimes Civics}}</wrap> **Necora's Maritimes Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/portroyal.png?nolink|Port Royal Civics}}</wrap> **Port Royal Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprschool.png?nolink|Port Royal School}}</wrap> **Port Royal School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprschool.png?nolink|Port Royal School}}</wrap> **Port Royal School**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Port Royal**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=367|WoB]]
+
+{{tag>Building School Maritimes}}

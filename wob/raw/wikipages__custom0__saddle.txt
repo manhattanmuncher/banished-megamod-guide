@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Saddle ======
+----
+
+<WRAP right>
+^  Saddle                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  17  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/ebsaddle.png?nolink|Saddle}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Saddle is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. It carries a trade value of 17, making it a worthwhile commodity for trade.
+
+----
+
+===== Saddle Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

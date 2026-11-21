@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Abandoned Shed ======
+----
+
+<WRAP right>
+^  Abandoned Shed                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedshed.png?nolink|Abandoned Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  36.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Abandoned Shed is an Abandoned Places building that requires no materials to restore, providing milk and wool from a small animal shed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedshed.png?nolink|Abandoned Shed}}</wrap> **Abandoned Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedshed.png?nolink|Abandoned Shed}}</wrap> **Abandoned Shed**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:milk|Milk]]
+  * [[WikiPages:textile:wool|Wool]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Animal AbandonedPlaces}}

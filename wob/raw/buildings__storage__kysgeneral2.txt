@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== General Storage 2 ======
+----
+
+<WRAP right>
+^  General Storage 2                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkysgeneral.png?nolink|General Storage 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Yard Cover medium general-purpose storage yard. Settlers store food, tools, clothing, and a variety of goods with a capacity of 1,200 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidyardstorage2.png?nolink|Yard Storage 2}}</wrap> **Yard Storage 2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkysgeneral.png?nolink|General Storage 2}}</wrap> **General Storage 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidyardstorage2.png?nolink|Yard Storage 2}}</wrap> **Yard Storage 2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkysgeneral.png?nolink|General Storage 2}}</wrap> **General Storage 2**
+
+----
+
+This building originally came from **Yard Cover v1.4**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=272|WoB]]
+
+{{tag>Building Storage}}

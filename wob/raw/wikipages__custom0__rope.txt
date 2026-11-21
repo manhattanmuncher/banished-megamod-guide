@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rope ======
+----
+
+<WRAP right>
+^  Rope                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  35  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rope.png?nolink|Rope}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Rope is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. At a trade value of 35, it is highly prized by traveling merchants.
+
+----
+
+===== Rope Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:crafting:dockshopcraft|Dock Workshop]]
+  * Produced at the [[buildings:crafting:farmyard|Farmyard]]
+  * Produced at the [[buildings:fishing:nsropemaker|Rope Maker (NS Inshore)]]
+  * Produced at the [[buildings:crafting:ropemaker|Rope Maker]]
+  * Produced at the [[buildings:crafting:ropery|Ropery]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:dorybuilder|Dory Builder]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

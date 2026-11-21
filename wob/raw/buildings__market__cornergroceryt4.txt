@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Grocery (Sand Bricks) ======
+----
+
+<WRAP right>
+^  Grocery (Sand Bricks)                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornergrocery.png?nolink|Grocery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default: 1)  |
+|  Happiness  |  Entertainment  |
+|  Radius  |  36  |
+|  Storage  |  10,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A corner grocery store that gathers and sells food to citizens. Provides Entertainment happiness when a worker is assigned and Consumables (Custom 9) are present in the settlement. Sand Bricks visual variant.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornergrocerytoolbar.png?nolink|Corner Grocery}}</wrap> **Corner Grocery** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornergrocery.png?nolink|Grocery}}</wrap> **Grocery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Buildings Toolbar}}</wrap> **NMT Corner Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusinesst4.png?nolink|NMT Corner Sand Bricks Toolbar}}</wrap> **NMT Corner Sand Bricks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornergrocery.png?nolink|Grocery}}</wrap> **Grocery**
+
+----
+
+===== Stocks =====
+
+  * Food (Grain, Fruit, Vegetables, Meat/Fish)
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Market}}

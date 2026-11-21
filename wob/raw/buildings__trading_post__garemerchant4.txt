@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Station: Material Export ======
+----
+
+<WRAP right>
+^  Station: Material Export                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant4.png?nolink|Station: Material Export}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/merchant.png?nolink|Merchant}}</wrap> Merchant  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Station: Material Export is a Choo Choo mod building that functions as a raw materials export depot. A Merchant packages bulk building materials with a single unit of Wood and sells the bundle for Coins.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant4.png?nolink|Station: Material Export}}</wrap> **Station: Material Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant4.png?nolink|Station: Material Export}}</wrap> **Station: Material Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant4.png?nolink|Station: Material Export}}</wrap> **Station: Material Export**
+
+----
+
+===== Recipes (Goods + 1 Wood → Coins) =====
+
+^ Ingredients                                                                            ^ Produces                              ^
+| 100 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:wood:log|Wood]]                  | [[WikiPages:custom6:coins|Coins]]     |
+| 120 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                      | [[WikiPages:custom6:coins|Coins]]     |
+| 100 [[WikiPages:stone:stone|Stone]] + 1 [[WikiPages:wood:log|Wood]]                   | [[WikiPages:custom6:coins|Coins]]     |
+| 300 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:wood:log|Wood]]                       | [[WikiPages:custom6:coins|Coins]]     |
+| 120 [[WikiPages:custom5:brick|Brick]] + 1 [[WikiPages:wood:log|Wood]]                 | [[WikiPages:custom6:coins|Coins]]     |
+| 150 [[WikiPages:custom4:clay|Clay]] + 1 [[WikiPages:wood:log|Wood]]                   | [[WikiPages:custom6:coins|Coins]]     |
+| 120 [[WikiPages:custom5:roof_tile|Roof Tile]] + 1 [[WikiPages:wood:log|Wood]]         | [[WikiPages:custom6:coins|Coins]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building ChooChoo}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== GBV Small House 2 ======
+----
+
+<WRAP right>
+^  GBV Small House 2                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvsmall02.png?nolink|GBV Small House 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gingerbread Village house; free to build, houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvsmall02.png?nolink|GBV Small House 2}}</wrap> **GBV Small House 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadvillage.png?nolink|Gingerbread Village}}</wrap> **Gingerbread Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgbvsmall02.png?nolink|GBV Small House 2}}</wrap> **GBV Small House 2**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gingerbread Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=685|WoB]]
+
+{{tag>Building Houses GingerbreadVillage KID}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apprentices (Hobbit Homes) ======
+----
+
+<WRAP right>
+^  Apprentices                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitapprentices.png?nolink|Apprentices}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hobbit Homes school staffed by a Teacher, accommodating up to 24 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitapprentices.png?nolink|Apprentices}}</wrap> **Apprentices**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitapprentices.png?nolink|Apprentices}}</wrap> **Apprentices**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitapprentices.png?nolink|Apprentices (Hobbit Homes)}}</wrap> **Apprentices (Hobbit Homes)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hobbits v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=608|WoB]]
+
+{{tag>Building School KidHobbits}}

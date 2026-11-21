@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunter's Lodge (Colonial Charter) ======
+----
+
+<WRAP right>
+^  Hunter's Lodge                                                                    ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhunterlodge.png?nolink|Hunter's Lodge}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 3)  ||
+|  <abbr "Working radius in tiles">Radius</abbr>  |  34  ||
+|  <abbr "On-site storage volume">Storage</abbr>  |  –  |  2,000  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  ||
+|  [[WikiPages:wood:log|Log]]  |  34  ||
+|  [[WikiPages:stone:stone|Stone]]  |  12  ||
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter hunter's lodge. Hunters track and harvest wild game within a 34-tile radius, providing food and materials for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrawfoodgathering.png?nolink|Raw Food Gathering}}</wrap> **Raw Food Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhunterlodge.png?nolink|Hunter's Lodge}}</wrap> **Hunter's Lodge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhunterlodge.png?nolink|Hunter's Lodge}}</wrap> **Hunter's Lodge**
+
+----
+
+===== Produces =====
+
+  * Wild game (meat and leather from hunting)
+
+----
+
+===== See Also =====
+
+  * [[buildings:hunting:echunterlodge|Hunter's Lodge (Editor's Choice)]]
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Hunting ColonialCharter}}

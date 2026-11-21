@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== CrystalMilk ======
+----
+
+<WRAP right>
+^  CrystalMilk                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/crystalmilk.png?nolink|CrystalMilk}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+CrystalMilk is a Crystal Cliffs / Maritimes Farming mod building. A Herdsman produces Milk from livestock. No input materials are needed; the building acts as the base milking component of the Crystal Barn.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolfarming.png?nolink|Necora's Maritimes Farming}}</wrap> **Necora's Maritimes Farming** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/crystalmilk.png?nolink|CrystalMilk}}</wrap> **CrystalMilk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animals Sheds and Pens}}</wrap> **Animals Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/crystalmilk.png?nolink|CrystalMilk}}</wrap> **CrystalMilk**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces  ^
+|   | [[WikiPages:food:milk|Milk]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Crystal Cliffs v102**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=232|WoB]]
+
+{{tag>Building Animal CrystalCliffs}}

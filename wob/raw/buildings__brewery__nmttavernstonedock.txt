@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tavern (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Tavern (NMT Stone Dock)                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmttavernstonedock.png?nolink|Tavern (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,000  |
+|  Storage Categories  |  Alcohol, Food, Health, Grain  |
+|  Happiness  |  Entertainment (radius 30, requires alcohol)  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:stone:stone|Stone]]  |  72  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks stone tavern where a Brewer ferments grain and fruit into ale, beer, or wine, providing Entertainment happiness to nearby residents.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmttavernstonedock.png?nolink|Tavern}}</wrap> **Tavern**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmttavernstonedock.png?nolink|Tavern}}</wrap> **Tavern**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Brewery RKEditorChoice}}

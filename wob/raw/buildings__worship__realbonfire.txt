@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Real Bonfire ======
+----
+
+<WRAP right>
+^  Real Bonfire                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/realbonfire.png?nolink|Real Bonfire}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fireworker.png?nolink|Fireworker}}</wrap> Fireworker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Happiness from this building">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit (r20)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  10  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:fuel:firewood|Firewood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A bonfire staffed by a Fireworker, providing spiritual support to up to 10 citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/iseefiretoolbar.png?nolink|I See Fire}}</wrap> **I See Fire** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/realbonfire.png?nolink|Real Bonfire}}</wrap> **Real Bonfire**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkdecorations.png?nolink|RK Decorations}}</wrap> **RK Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/iseefiretoolbar.png?nolink|I See Fire}}</wrap> **I See Fire** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/realbonfire.png?nolink|Real Bonfire}}</wrap> **Real Bonfire**
+
+----
+
+===== Other Information =====
+
+This building originally came from **I See Fire v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=191|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=844264844|Steam]]
+
+{{tag>Building Worship iSeeFire}}

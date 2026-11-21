@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fishing Tree (Fairy Tale) ======
+----
+
+<WRAP right>
+^  Fishing Tree                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftfishingtree.png?nolink|Fishing Tree}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Tale Cottage fishing spot built into an old tree. Must be placed at the water's edge. Fishermen fish in nearby water within a 14-tile radius, producing Fish.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftfishingtree.png?nolink|Fishing Tree}}</wrap> **Fishing Tree**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftfishingtree.png?nolink|Fishing Tree}}</wrap> **Fishing Tree**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Fishing KidFairyTaleCottage}}

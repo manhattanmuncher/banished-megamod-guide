@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Firewood Storage Piles ======
+----
+
+<WRAP right>
+^  Firewood Storage Piles                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsfirewoodstoragepiles.png?nolink|Firewood Storage Piles}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Storage Categories  |  Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods small storage pile for firewood and fuel. Settlers store fuel with a capacity of 300 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbspsmenu.png?nolink|Better Stock Pile Storage}}</wrap> **Better Stock Pile Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsfirewoodstoragepiles.png?nolink|Firewood Storage Piles}}</wrap> **Firewood Storage Piles**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbspsmenu.png?nolink|Better Stock Pile Storage}}</wrap> **Better Stock Pile Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsfirewoodstoragepiles.png?nolink|Firewood Storage Piles}}</wrap> **Firewood Storage Piles**
+
+----
+
+This building originally came from **Better Stock Pile Storage v1.2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=274|WoB]], [[https://banishedinfo.com/mods/view/544-Better-Stock-Piles|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231662219|Steam]]
+
+{{tag>Building Storage DS}}

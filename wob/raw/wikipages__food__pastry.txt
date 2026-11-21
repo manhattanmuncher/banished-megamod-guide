@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pastry ======
+----
+
+<WRAP right>
+^  Pastry                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  36/40  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pastry.png?nolink|Pastry}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pastry is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pastry Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:bakery:bbbakery|Rise and Shine]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain}}

@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hillside Cemetery ======
+----
+
+<WRAP right>
+^  Hillside Cemetery                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidecemetery.png?nolink|Hillside Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Hillside Village cemetery; build in a player-drawn area for your deceased.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidecemetery.png?nolink|Hillside Cemetery}}</wrap> **Hillside Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidecemetery.png?nolink|Hillside Cemetery}}</wrap> **Hillside Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidecemetery.png?nolink|Hillside Cemetery}}</wrap> **Hillside Cemetery**
+
+----
+
+This building originally came from **Hillside Village v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=639|WoB]]
+
+{{tag>Building Cemeteries KidHillsideVillage}}

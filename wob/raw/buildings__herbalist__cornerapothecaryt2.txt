@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apothecary ======
+----
+
+<WRAP right>
+^  Apothecary                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerapothecary.png?nolink|Apothecary}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/apothecary.png?nolink|Apothecary}}</wrap> Apothecary  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Entertainment (radius 30)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+|  Storage Categories  |  Consumables  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  14  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  Gold  |  4  |
+|  Glass  |  8  |
+|  [[WikiPages:custom0:glassware|Glassware]]  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Apothecary is an NMT Corner Buildings building where an apothecary brews healing potions, love potions, and fertility potions from flowers, herbs, and other ingredients. When a worker is present and Love Potions are stocked, the building provides an entertainment happiness bonus to nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarherbalist.png?nolink|Herbalists and Apothecaries}}</wrap> **Herbalists and Apothecaries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerapothecary.png?nolink|Corner Apothecary}}</wrap> **Corner Apothecary** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerapothecary.png?nolink|Apothecary}}</wrap> **Apothecary**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Buildings Toolbar}}</wrap> **NMT Corner Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusinesst2.png?nolink|NMT Corner Old Stones Toolbar}}</wrap> **NMT Corner Old Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerapothecary.png?nolink|Apothecary}}</wrap> **Apothecary**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                   ^ Produces                                                      ^
+| 8 [[WikiPages:custom7:flowers|Flowers]] + 1 Herb + 1 Water                                                   | [[WikiPages:custom7:healing_potion|Healing Potion]]           |
+| 6 [[WikiPages:custom7:flowers|Flowers]] + 1 Hops + 1 Water                                                   | [[WikiPages:custom7:love_potion|Love Potion]]                 |
+| 6 [[WikiPages:custom7:flowers|Flowers]] + 1 [[WikiPages:custom7:mountain_oyster|Mountain Oyster]] + 1 Water  | [[WikiPages:custom7:fertility_potion|Fertility Potion]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Herbalist NMTCornerBuildings}}

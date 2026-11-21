@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coaching Inn ======
+----
+
+<WRAP right>
+^  Coaching Inn                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoachinginn.png?nolink|Coaching Inn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 14  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  36  |
+|  Apartments  |  6  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  250  |
+|  [[WikiPages:stone:stone|Stone]]  |  25  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:custom5:furnishing_kit|Furnishing Kit]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter coaching inn; houses up to 36 settlers across 6 apartments.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:houses:hostel|Hostel]]
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

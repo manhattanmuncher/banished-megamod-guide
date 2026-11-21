@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage (Animal Shed Cheese) ======
+----
+
+<WRAP right>
+^  Storage                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvcstorage.png?nolink|Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  18  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×5, Stone ×8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Animal Shed Cheese mod small general storage building. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvcstorage.png?nolink|Storage}}</wrap> **Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvcstorage.png?nolink|Storage}}</wrap> **Storage**
+
+----
+
+{{tag>Building Storage KID}}

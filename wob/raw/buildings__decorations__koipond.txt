@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Koi Pond ======
+----
+
+<WRAP right>
+^  Koi Pond                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkoipond.png?nolink|Koi Pond}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 7  |
+|  Happiness  |  Spirit (radius 30)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A landscaped koi pond from the A8 Japanese mod. It provides Spirit happiness to nearby citizens within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpark.png?nolink|Parks and Rec}}</wrap> **Parks and Rec** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkoipond.png?nolink|Koi Pond}}</wrap> **Koi Pond**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

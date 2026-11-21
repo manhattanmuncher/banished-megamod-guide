@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Drift Wood Collector (UP, Tex2) ======
+----
+
+<WRAP right>
+^  Drift Wood Collector (UP, Tex2)                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettydriftwoodup.png?nolink|Drift Wood Collector (UP)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  3.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  21  |
+|  Placement  |  Water only  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  50  |
+^  Upgrade Cost                                                                      ^^
+|  <abbr "Labor required to upgrade">Work Required</abbr>  |  5  |
+|  [[WikiPages:tool:tool|Tools]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+Drift Wood Collector (UP, Tex2) is the Texture #2 variant of the [[buildings:gathering:dsjabjettydriftwoodup|Drift Wood Collector (UP)]]. It is the wind-down state of an exhausted Tex2-set Drift Wood Collector or Searcher: a single worker dismantles the workplace while gathering the last 50 units of driftwood (cycling between Wood and Firewood). Stats are identical to the UP variant; only the visual mesh differs.
+
+----
+
+===== Where to Find =====
+
+Not available from the toolbar. Accessed via the **Upgrade** button on an exhausted [[buildings:gathering:dsjabjettydriftwoodcollectort2|Drift Wood Collector (Tex2)]].
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:wood:log|Wood]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Gathering DS}}

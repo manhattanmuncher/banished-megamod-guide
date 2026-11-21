@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tin Ore Mine Shaft ======
+----
+
+<WRAP right>
+^  Tin Ore Mine Shaft                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinmine.png?nolink|Tin Ore Mine Shaft}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 5)  |
+|  Tool  |  PickAxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  45  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  350  |
+|  Upgrades To  |  [[buildings:mining:tinminedeep|Dark Tin Ore Mine Shaft]]  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  118  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter finite shaft mine for extracting Tin Ore. Miners can also directly smelt Tin by consuming Furnace Fuel. When depleted, the mine can be upgraded to the Dark Tin Ore Mine Shaft to continue extraction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroresandminerals.png?nolink|Ores and Minerals}}</wrap> **Ores and Minerals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinmine.png?nolink|Tin Ore Mine Shaft}}</wrap> **Tin Ore Mine Shaft**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarminesother.png?nolink|Other Mines}}</wrap> **Other Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinmine.png?nolink|Tin Mine}}</wrap> **Tin Mine**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                     ^ Produces                                  ^
+| —                                                               | [[WikiPages:coalfuel:tin_ore|Tin Ore]]    |
+| 1 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]               | [[WikiPages:custom1:tin|Tin]]             |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Mining ColonialCharter}}

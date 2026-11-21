@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Tobacco Leaf Seeds ======
+----
+
+<WRAP right>
+^  Tobacco Leaf Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedtobacco.png?nolink|Tobacco Leaf Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Tobacco Leaf Seeds are used to plant [[WikiPages:textile:tobacco_leaf|Tobacco Leaf]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

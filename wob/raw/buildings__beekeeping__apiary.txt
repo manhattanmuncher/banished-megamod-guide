@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apiary ======
+----
+
+<WRAP right>
+^  Apiary                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapiary.png?nolink|Apiary}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/beekeeper.png?nolink|Beekeeper}}</wrap> Beekeeper  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Apiary produces honey as a food item or beeswax which can be turned into candles at a Chandlery.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbeekeeping.png?nolink|Beekeeping}}</wrap> **Beekeeping** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapiary.png?nolink|Apiary}}</wrap> **Apiary**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/srtoolbar.png?nolink|Shining Rock Vanilla Toolbar}}</wrap> **Shining Rock Vanilla Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapiary.png?nolink|Apiary}}</wrap> **Apiary**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:honey|Honey]]
+  * [[WikiPages:custom7:beeswax|Beeswax]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food Beekeeping}}

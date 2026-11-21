@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Barge ======
+----
+
+<WRAP right>
+^  Storage Barge                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidstoragebarge.png?nolink|Storage Barge}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,800  |
+|  Storage Categories  |  Food, Tools, Fuel, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Mods water-based storage barge. Settlers store food, tools, clothing, and a wide variety of goods aboard the barge with a capacity of 6,800 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidstoragebarge.png?nolink|Storage Barge}}</wrap> **Storage Barge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidstoragebarge.png?nolink|Storage Barge}}</wrap> **Storage Barge**
+
+----
+
+This building originally came from **House Boat v1.42**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=308|WoB]]
+
+{{tag>Building Storage}}

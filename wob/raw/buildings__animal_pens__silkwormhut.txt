@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silkworm Hut ======
+----
+
+<WRAP right>
+^  Silkworm Hut                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsilkwormhut.png?nolink|Silkworm Hut}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:custom7:silkworm_eggs|Silkworm Eggs]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Silkworm Hut is a Colonial Charter building where a farmer feeds mulberry leaves to silkworms to produce silk cocoons, silkworms, and silkworm eggs. It requires silkworm eggs to construct.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsilkwormhut.png?nolink|Silkworm Hut}}</wrap> **Silkworm Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsilkwormhut.png?nolink|Silkworm Hut}}</wrap> **Silkworm Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsilkwormhut.png?nolink|Silkworm Hut}}</wrap> **Silkworm Hut**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                           ^ Produces                                                      ^
+| 30 [[WikiPages:custom7:mulberry_leaf|Mulberry Leaf]]                  | [[WikiPages:textile:silk_cocoons|Silk Cocoons]]                |
+| 30 [[WikiPages:custom7:mulberry_leaf|Mulberry Leaf]]                  | [[WikiPages:food:silkworms|Silkworms]]                         |
+| 30 [[WikiPages:custom7:mulberry_leaf|Mulberry Leaf]]                  | [[WikiPages:custom7:silkworm_eggs|Silkworm Eggs]]              |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building AnimalPens ColonialCharter}}

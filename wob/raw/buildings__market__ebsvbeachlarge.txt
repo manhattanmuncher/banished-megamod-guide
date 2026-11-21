@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Large Beach Resort ======
+----
+
+<WRAP right>
+^  Village Large Beach Resort                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachlarge.png?nolink|Village Large Beach Resort}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  22 × 15  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Happiness  |  Entertainment  |
+|  Radius  |  44  |
+|  Storage  |  4,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  56  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  Iron  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large EB Village beach resort providing Entertainment happiness and serving as a small food market for nearby settlers. Larger footprint and service radius than the standard Village Beach Resort.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachlarge.png?nolink|Village Large Beach Resort}}</wrap> **Village Large Beach Resort**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageservices.png?nolink|Village Town Services}}</wrap> **Village Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubentertainment.png?nolink|Village Town Services Entertainment}}</wrap> **Village Town Services Entertainment** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvbeachlarge.png?nolink|Village Large Beach Resort}}</wrap> **Village Large Beach Resort**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

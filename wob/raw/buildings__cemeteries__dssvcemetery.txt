@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Cemetery ======
+----
+
+<WRAP right>
+^  Village Cemetery                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvcemetery.png?nolink|Village Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village cemetery; build in a player-drawn area for village burials.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvcemeterymenu.png?nolink|Small Village Cemeteries}}</wrap> **Small Village Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvcemetery.png?nolink|Village Cemetery}}</wrap> **Village Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsservices.png?nolink|DS Services}}</wrap> **DS Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvcemeterymenu.png?nolink|Small Village Cemeteries}}</wrap> **Small Village Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvcemetery.png?nolink|Village Cemetery}}</wrap> **Village Cemetery**
+
+----
+
+This building originally came from **Small Village: Services v1.1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=236|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231726495|Steam]]
+
+{{tag>Building Cemeteries DSSV}}

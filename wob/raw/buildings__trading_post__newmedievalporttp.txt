@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Port Trading Post ======
+----
+
+<WRAP right>
+^  Medieval Port Trading Post                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalporttp.png?nolink|Medieval Port Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 12  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (6)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  82  |
+|  [[WikiPages:stone:stone|Stone]]  |  80  |
+|  [[WikiPages:iron:iron|Iron]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Castle mod port trading post. Merchants arrive by river boat offering all resource categories. Must be placed on water. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcastle.png?nolink|New Medieval Castle}}</wrap> **New Medieval Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmoats.png?nolink|New Medieval Moats}}</wrap> **New Medieval Moats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalporttp.png?nolink|Medieval Port Trading Post}}</wrap> **Medieval Port Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcastle.png?nolink|New Medieval Castle}}</wrap> **New Medieval Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmoats.png?nolink|New Medieval Moats}}</wrap> **New Medieval Moats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalporttp.png?nolink|Medieval Port Trading Post}}</wrap> **Medieval Port Trading Post**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, tools, health items, textiles, clothing, alcohol, crafted goods, forged goods, fabric, raw materials, building supplies, precious goods, and miscellaneous items |
+| General Merchant | All resource categories including seeds and livestock |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalporttp.png?nolink|Medieval Port Trading Post}}</wrap> **Medieval Port Trading Post**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building TradingPost RKEditorChoice}}

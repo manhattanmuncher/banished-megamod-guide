@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hillside Baker (Hillside Village) ======
+----
+
+<WRAP right>
+^  Bakery                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidebaker.png?nolink|Hillside Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hillside Village bakery where a baker produces Bread, Jelly Buns, and Spice Cake from flour and local ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidebaker.png?nolink|Hillside Baker}}</wrap> **Hillside Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidebaker.png?nolink|Hillside Baker}}</wrap> **Hillside Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidebaker.png?nolink|Hillside Baker (Hillside Village)}}</wrap> **Hillside Baker (Hillside Village)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                        ^ Produces                                          ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                                 | [[WikiPages:food:bread_bread|Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]]                                             | [[WikiPages:food:bread_bread|Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                                          | [[WikiPages:food:bread_bread|Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:pecan|Pecan]]                                            | [[WikiPages:food:bread_bread|Bread]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:blueberries|Blueberry]]                                  | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:plum|Plum]]                                              | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:peach|Peach]]                                            | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:apple|Apple]]                                            | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:cherry|Cherry]]                                          | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:pear|Pear]]                                              | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:strawberries|Strawberry]]                                | [[WikiPages:food:jelly_bun|Jelly Bun]]            |
+| 14 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:food:spices|Spices]]                                           | [[WikiPages:food:spice_cake|Spice Cake]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hillside Village v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=639|WoB]]
+
+{{tag>Building Food KidHillsideVillage}}

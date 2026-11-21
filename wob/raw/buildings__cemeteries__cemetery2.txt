@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fenceless Cemetery ======
+----
+
+<WRAP right>
+^  Fenceless Cemetery                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcemetery.png?nolink|Fenceless Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter fenceless cemetery; build in a player-drawn area where you can add your own walls or fencing, if desired.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcemetery.png?nolink|Fenceless Cemetery}}</wrap> **Fenceless Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/religiousitems.png?nolink|Worship and Remembrance}}</wrap> **Worship and Remembrance** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcemetery.png?nolink|Fenceless Cemetery}}</wrap> **Fenceless Cemetery**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Cemeteries ColonialCharter}}

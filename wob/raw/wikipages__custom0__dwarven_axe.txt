@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dwarven Axe ======
+----
+
+<WRAP right>
+^  Dwarven Axe                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  20  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/dwarvenaxe.png?nolink|Dwarven Axe}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Dwarven Axe is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. At a trade value of 20, it is highly prized by traveling merchants.
+
+----
+
+===== Dwarven Axe Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:metalworking:fodgrinder|Grinder (Forge Of Dwarves)]]
+  * Produced at the [[buildings:metalworking:fodwgrinder|Grinder (Forge Of Dwarves - Winter)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

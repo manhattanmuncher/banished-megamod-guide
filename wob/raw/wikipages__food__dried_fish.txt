@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dried Fish ======
+----
+
+<WRAP right>
+^  Dried Fish                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  18/24  |
+|  Edible  |  Yes  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/driedfish.png?nolink|Dried Fish}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Dried Fish is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Dried Fish Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:dsjabjettyfishdrying|Jetty Fish Drying]]
+  * Produced at the [[buildings:food:dsjabjettyfishdryingtex2|Jetty Fish Drying (Tex2)]]
+  * [[buildings:preserving:nmt30dryshack|Old Dry Shack]]
+  * [[buildings:preserving:newmedievaldryshack|Medieval Dry Shack (New Medieval)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

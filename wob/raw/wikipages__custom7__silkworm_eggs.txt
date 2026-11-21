@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silkworm Eggs ======
+----
+
+<WRAP right>
+^  Silkworm Eggs                                  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/silkwormegg.png?nolink|Silkworm Eggs}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silkworm Eggs are a miscellaneous trade good available in the Banished MegaMod. They are stored in a Barn and mainly useful for trading with passing merchant caravans. They carry a trade value of 8, making them a worthwhile commodity for trade.
+
+----
+
+===== Silkworm Eggs Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:animal_pens:silkwormhut|Silkworm Hut]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ice Castle ======
+----
+
+<WRAP right>
+^  Ice Castle                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Large  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  42  |
+|  [[WikiPages:iron:iron|Iron]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+The town hall of Kid's Ice Castle winter set — a frozen fairy-tale castle that displays settlement status and provides resource-limit controls. It does **not** attract nomads (that is the job of [[buildings:nomads:icecastletower|The Light]]).
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle**
+
+----
+
+This building originally came from **Ice Castle v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=588|WoB]]
+
+{{tag>Building TownHalls KidIceCastle}}

@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market (Medium) ======
+----
+
+<WRAP right>
+^  Market                                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketmed.png?nolink|Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 8 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  36  |
+|  Storage  |  12,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  32  |
+|  Stone  |  30  |
+|  Iron  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter medium market. Provides a localized area for citizens to collect food, fuel, tools, clothing, and health items. Provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketmed.png?nolink|Market}}</wrap> **Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmarkettoolbar.png?nolink|Markets Toolbar}}</wrap> **Markets Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketmed.png?nolink|Market (Medium)}}</wrap> **Market (Medium)**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Health items
+  * Clothing
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Market}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Celtic House ======
+----
+
+<WRAP right>
+^  Celtic House                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsceltichouse1.png?nolink|Celtic House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS round Celtic house. Houses up to 5 settlers. See also [[buildings:houses:dsceltichouse2|Celtic House (2)]] (6 settlers).
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsceltichousemenu.png?nolink|Celtic Homes}}</wrap> **Celtic Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsceltichouse1.png?nolink|Celtic House}}</wrap> **Celtic House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsceltichousemenu.png?nolink|Celtic Homes}}</wrap> **Celtic Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsceltichouse1.png?nolink|Celtic House}}</wrap> **Celtic House**
+
+----
+
+This building originally came from **Celtic House v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=244|WoB]], [[https://www.nexusmods.com/banished/mods/74|Nexus]]
+
+{{tag>Building Houses DS}}

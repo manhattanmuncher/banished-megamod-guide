@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brick ======
+----
+
+<WRAP right>
+^  Brick                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom5  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  6/10  |
+|  Edible  |  No  |
+|  Trade Value  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  12  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/brick.png?nolink|Brick}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Brick is a construction material used to erect buildings in the Banished MegaMod. It is produced or refined and held in a Stockpile, ready for builders to draw on when constructing new structures. It has a modest trade value of 5.
+
+----
+
+===== Brick Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:industrial:brickbuilding|Brickworks]]
+  * Produced at the [[buildings:industrial:brickbuildingupgrade|Brickworks (Upgrade)]]
+  * [[buildings:industrial:nmt30mckiln|Kiln (NMMK)]]
+  * [[buildings:sand_clay:newmedievalkiln|Medieval Kiln (New Medieval)]]
+  * Produced at the [[buildings:crafting:tinybrickworkshop|Tiny Brick Workshop]]
+
+==== Processing / what to do with ====
+  * Exported at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom5}}

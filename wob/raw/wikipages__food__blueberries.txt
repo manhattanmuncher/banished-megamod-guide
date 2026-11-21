@@ -1,0 +1,81 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blueberries ======
+----
+
+<WRAP right>
+^  Blueberries                                    ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  16/22  |  16/22  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/blueberry.png?nolink|Blueberries}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Blueberries are a fruit harvested from orchards or gathered in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Blueberries Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:abpgreenhouse|ABP Greenhouse]]
+  * Produced at the [[buildings:gathering:abandonedhedgerow|Hedgerow]]
+  * Produced at the [[buildings:worship:abbey|Abbey]]
+  * Produced at the [[buildings:greenhouse:fbgreenhouse01|Greenhouse (Friendly Blue)]]
+  * Produced at the [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fishshipsberrywaterhi|Jetty Berry High]]
+  * Produced at the [[buildings:gathering:fishshipsberrywaterlo|Jetty Berry Low]]
+  * Produced at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Produced at the [[buildings:hedgerow:hedgefall03|Fall 03 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgesummer02|Summer 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgewinter|Winter (Hedgerow)]] (random)
+  * Produced at the [[buildings:fields:kf02|Farmyard 02]]
+  * Produced at the [[buildings:fields:kf07|Farmyard 07]]
+  * Produced at the [[buildings:fields:kf11|Farmyard 11]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * Produced at the [[buildings:gathering:dwbrier|Brier]]
+  * [[buildings:gathering:nmtforestcenter|NMT Forest Center]]
+  * [[buildings:gathering:nvhuntingground|Hunting Ground (NV)]]
+  * Produced at the [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:fields:settlerspatchberry|Berry Patch (Settlers)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:tradercartfruitveg|Trader Cart (Fruit & Veg)]] (random)
+  * Produced at the [[buildings:greenhouse:bghothouse|Hothouse]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:brewery|Brewery]]
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Used at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]]
+  * Used at the [[buildings:brewery:distillery|Distillery]] (for Aqua Vitae)
+  * Used at the [[buildings:preserving:gfjamhouse|Jam House (Gothic Farm)]]
+  * Used at the [[buildings:brewery:gftavern1|Midnight Heart (Gothic Fantasy 1)]]
+  * Used at the [[buildings:brewery:gftavern2|Autumn Leaves (Gothic Fantasy 2)]]
+  * Used at the [[buildings:brewery:gntavern|Friendly Tavern (Granny Neighborhood)]]
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]] (for Fruit Pie)
+  * Used at the [[buildings:dairy:tinydairy|Tiny Dairy]] (for Yogurt)
+  * Used at the [[buildings:preserving:tinyjamshop|Tiny Jam Shop]] (for Preserves Fruit)
+  * Used at the [[buildings:brewery:tinytavern|Tiny Tavern]] (for Cider)
+  * Used at the [[buildings:brewery:wfbrewer|WF Brewer]] (for Ale)
+  * Used at the [[buildings:dairy:wpdairyman|WP Dairyman]] (for Yogurt)
+  * Used at the [[buildings:preserving:wppreservist|WP Preservist]] (for Fruit Preserves)
+  * Used at the [[buildings:brewery:yuletap|Yule Tap]] (for Cider)
+  * Used at the [[buildings:brewery:rhxp|Row House Pub]] (for Cider)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

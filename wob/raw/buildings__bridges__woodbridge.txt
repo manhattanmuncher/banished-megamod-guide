@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Bridge ======
+----
+
+<WRAP right>
+^  Wood Bridge                                                                        ^  xBAN  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbridge.png?nolink|Wood Bridge}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3 (default)  |
+^  Build Cost (per tile)                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  3  |
+|  [[WikiPages:wood:log|Log]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Wood Bridge is the vanilla Banished bridge, allowing citizens to cross water. Build cost scales with length.
+
+----
+
+===== Where to Find =====
+
+The Wood Bridge is found in the vanilla Banished **Roads** building category.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Bridges}}

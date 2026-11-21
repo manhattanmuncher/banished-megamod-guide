@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forester (Forest Haven) ======
+----
+
+<WRAP right>
+^  Forester                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhforester.png?nolink|Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Haven forester's lodge. Foresters plant and harvest trees within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhresources.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhforester.png?nolink|Forester}}</wrap> **Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhresources.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhforester.png?nolink|Forester}}</wrap> **Forester**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Haven v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=590|WoB]]
+
+{{tag>Building Forester ForestHaven}}

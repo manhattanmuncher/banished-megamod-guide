@@ -1,0 +1,30 @@
+~~NOTOC~~
+
+====== Livestock ======
+----
+
+This page lists all livestock types covered on the wiki. Livestock are raised at a Pasture and produce resources both periodically while alive and when slaughtered.
+
+----
+
+^ Livestock ^ Periodic Product ^ Slaughter Products ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockchicken.png?nolink|Chickens}}</wrap> [[livestock:livestockchicken|Chickens]] | Egg | Chicken, Feathers, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/whitechickens.png?nolink|Leghorns}}</wrap> [[livestock:livestockwhitechicken|Leghorns]] | Egg | Chicken, Feathers, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkduck.png?nolink|Ducks}}</wrap> [[livestock:livestockrkduck|Ducks]] | Egg | Duck Meat, Feathers, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestocksheep.png?nolink|Sheep}}</wrap> [[livestock:livestocksheep|Sheep]] | Wool | Mutton, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/llamas.png?nolink|Llamas}}</wrap> [[livestock:livestockllama|Llamas]] | Wool | Charki, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/goat.png?nolink|Goats}}</wrap> [[livestock:livestockgoat|Goats]] | Milk | Goat Meat, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockcow.png?nolink|Friesian Cows}}</wrap> [[livestock:livestockblrkcow|Friesian Cows]] | Milk | Beef, Leather, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/milkycow2.png?nolink|Red Friesian}}</wrap> [[livestock:livestockmilkycow|Red Friesian]] | Milk | Leather, Beef, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/longhorn.png?nolink|Longhorn Cows}}</wrap> [[livestock:livestocklonghorn|Longhorn Cows]] | Milk | Beef ×2, Leather ×2, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockcow.png?nolink|Beef Cows}}</wrap> [[livestock:livestockcow|Beef Cows]] | — | Beef ×2, Leather, Fertilizer, Mountain Oyster |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/deers.png?nolink|Deer}}</wrap> [[livestock:livestockdeer|Deer]] | — | Venison, Leather, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/brownhorses.png?nolink|Horses}}</wrap> [[livestock:livestockhorse|Horses]] | — | Cheval, Leather, Fertilizer |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/pig.png?nolink|Pigs}}</wrap> [[livestock:livestockpig|Pigs]] | — | Pork, Leather |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/bisons.png?nolink|Bison}}</wrap> [[livestock:livestockbison|Bison]] | — | Bison Meat, Leather ×2, Fertilizer, Mountain Oyster |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockbear.png?nolink|Bears}}</wrap> [[livestock:livestockbear|Bears]] | — | Bear, Fur |
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/avisaurum.png?nolink|Avis Aurum}}</wrap> [[livestock:livestockavisaurum|Avis Aurum]] | Egg | Avis Aurum Meat, Leather |
+
+----
+
+{{tag>Livestock}}

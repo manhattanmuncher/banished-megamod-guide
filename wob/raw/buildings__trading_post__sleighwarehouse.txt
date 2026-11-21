@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Warehouse Sleigh ======
+----
+
+<WRAP right>
+^  Warehouse Sleigh                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsleighwarehouse.png?nolink|Warehouse Sleigh}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/elf.png?nolink|Elf}}</wrap> Elf  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (default 2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  16  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Christmas Mod sleigh warehouse and trading post staffed by Elves; five merchant types may visit by river boat.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsleigh.png?nolink|Build a Sleigh}}</wrap> **Build a Sleigh** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsleighwarehouse.png?nolink|Warehouse Sleigh}}</wrap> **Warehouse Sleigh**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsleigh.png?nolink|Build a Sleigh}}</wrap> **Build a Sleigh** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsleighwarehouse.png?nolink|Warehouse Sleigh}}</wrap> **Warehouse Sleigh**
+
+----
+
+===== Merchants =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, tools, textiles, clothing, alcohol, crafted goods, and miscellaneous items |
+| General Merchant | Wood, stone, iron, fuel, tools, health items, food, textiles, clothing, and alcohol |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsleighwarehouse.png?nolink|Warehouse Sleigh}}</wrap> **Warehouse Sleigh**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building TradingPost ChristmasMod}}

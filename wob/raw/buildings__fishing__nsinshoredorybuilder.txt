@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dory Builder (NS Inshore) ======
+----
+
+<WRAP right>
+^  Dory Builder (NS Inshore)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsdorybuilder.png?nolink|Dory Builder}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/boatman.png?nolink|Boatman}}</wrap> Boatman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  30  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  10  |
+|  [[WikiPages:custom0:rope|Rope]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NS Inshore Dory Builder where a Boatman constructs Dories for the fishing fleet.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsdorybuilder.png?nolink|Dory Builder}}</wrap> **Dory Builder**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsdorybuilder.png?nolink|Dory Builder}}</wrap> **Dory Builder**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                              ^ Produces                          ^
+| 5 [[WikiPages:custom5:lumber|Lumber]] + 2 [[WikiPages:custom0:rope|Rope]] + 2 [[WikiPages:custom7:pine_pitch|Pine Pitch]]  | [[WikiPages:custom5:dory|Dory]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes NS Inshore Fisheries v103**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=223|WoB]]
+
+{{tag>Building Fishing}}

@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Grass Road ======
+----
+
+<WRAP right>
+^  Grass Road                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrassroad.png?nolink|Grass Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  50  |
+</WRAP>
+<WRAP right></WRAP>
+
+A grass road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargrassroad.png?nolink|Grass Roads}}</wrap> **Grass Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrassroad.png?nolink|Grass Road}}</wrap> **Grass Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grassy Roads**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=695|WoB]]
+
+{{tag>Road GrassyRoads}}

@@ -1,0 +1,19 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjomonfishweir.png?nolink|Jomon Fish Weir}}</wrap> **Jomon Fish Weir**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8food.png?nolink|A8 Food}}</wrap> **A8 Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjomonfishweir.png?nolink|Jomon Fish Weir}}</wrap> **Jomon Fish Weir**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+Must be placed in water tiles.
+
+{{tag>Building Fishing A8JapaneseAllInOne}}

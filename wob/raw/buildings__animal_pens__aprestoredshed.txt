@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Restored Shed ======
+----
+
+<WRAP right>
+^  Restored Shed                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaprestoredshed.png?nolink|Restored Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Restored Shed is an Abandoned Places building that houses livestock and produces both Milk and Wool from animals kept inside.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaprestoredshed.png?nolink|Restored Shed}}</wrap> **Restored Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaprestoredshed.png?nolink|Restored Shed}}</wrap> **Restored Shed**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:milk|Milk]]
+  * [[WikiPages:textile:wool|Wool]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Resources AbandonedPlaces}}

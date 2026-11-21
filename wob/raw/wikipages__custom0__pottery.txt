@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pottery ======
+----
+
+<WRAP right>
+^  Pottery                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  6  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pottery.png?nolink|Pottery}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pottery is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. It has a modest trade value of 6.
+
+----
+
+===== Pottery Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:mfpotter|Potter (Mexican Fantasy)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt1|Pottery Maker (Corner T1)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt2|Pottery Maker (Corner T2)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt3|Pottery Maker (Corner T3)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt4|Pottery Maker (Corner T4)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt5|Pottery Maker (Corner T5)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt6|Pottery Maker (Corner T6)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt7|Pottery Maker (Corner T7)]]
+  * Produced at the [[buildings:crafting:cornerpotteryt8|Pottery Maker (Corner T8)]]
+  * Produced at the [[buildings:more_civic:forwardpost|Forward Post]]
+  * Produced at the [[buildings:crafting:newmedievalpoteryshop|Medieval Pottery Shop (New Medieval)]]
+  * Produced at the [[buildings:crafting:newmedievalpoteryshopupg|Medieval Pottery Shop (Upgraded) (New Medieval)]]
+  * Produced at the [[buildings:crafting:potterybarn|Pottery Barn]]
+
+==== Processing / what to do with ====
+  * Exported at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

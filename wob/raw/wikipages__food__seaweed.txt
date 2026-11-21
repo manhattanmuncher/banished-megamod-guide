@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seaweed ======
+----
+
+<WRAP right>
+^  Seaweed                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  8/10  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/seaweed.png?nolink|Seaweed}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Seaweed is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Seaweed Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:docktidal|Water Scavenger]] (random)
+  * Produced at the [[buildings:fishing:peishorev1|PEI Shore V1]]
+  * Produced at the [[buildings:fishing:peishorev2|PEI Shore V2]]
+  * Produced at the [[buildings:fishing:peishorev3|PEI Shore V3]]
+  * Produced at the [[buildings:food:tidal|Tidal Pool]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

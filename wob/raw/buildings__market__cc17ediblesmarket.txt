@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Edibles Market (CC17) ======
+----
+
+<WRAP right>
+^  Edibles Market                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketedible.png?nolink|Edibles Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 10 (default: 2)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  58  |
+|  Storage  |  10,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  |
+|  [[WikiPages:wood:log|Wood]]  |  35  |
+|  Stone  |  55  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  25  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter 1.7 large food-only market. Distributes all edible food types to nearby settlers; very large radius; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketedible.png?nolink|Edibles Market}}</wrap> **Edibles Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketitems.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketedible.png?nolink|Edibles Market (CC17)}}</wrap> **Edibles Market (CC17)**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

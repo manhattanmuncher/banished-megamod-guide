@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mini School (Mini Buildings) ======
+----
+
+<WRAP right>
+^  Mini School                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschool.png?nolink|Mini School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  5  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Mini Buildings school staffed by a Teacher, accommodating up to 5 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|School}}</wrap> **School** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschool.png?nolink|Mini School}}</wrap> **Mini School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/minitoolbar.png?nolink|Mini Buildings}}</wrap> **Mini Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschool.png?nolink|Mini School}}</wrap> **Mini School**
+
+----
+
+===== Other Information =====
+
+{{tag>Building School Mini}}

@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Quarry ======
+----
+
+<WRAP right>
+^  Iron Quarry                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30mcironquarry.png?nolink|Iron Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+|  Upgrades To  |  [[buildings:mining:nmt30mcironquarrylvl2|Iron Quarry Lvl2]]  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Iron Quarry is a large mine from the RK Editor's Choice Edition that extracts Iron Ore and Copper Ore. It can be upgraded through five tiers for greater production capacity.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30mcironquarry.png?nolink|Iron Quarry}}</wrap> **Iron Quarry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30mcironquarry.png?nolink|Iron Quarry}}</wrap> **Iron Quarry**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:copper_ore|Copper Ore]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Mining NMT30MCironQuarry}}

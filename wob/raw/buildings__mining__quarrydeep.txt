@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deep Quarry ======
+----
+
+<WRAP right>
+^  Deep Quarry                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquarryupgrade.png?nolink|Deep Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  21 × 17  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 15)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+|  Upgraded From  |  [[buildings:mining:quarry|Quarry]]  |
+|  Upgrades To  |  [[buildings:mining:quarrydeeper|Deeper Quarry]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  100  |
+|  [[WikiPages:custom0:candles|Candles]]  |  80  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Deep Quarry is an upgraded Quarry that digs deeper for more Stone. When depleted it can be upgraded to the Deeper Quarry for unlimited production.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:quarry|Quarry]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining QuarryDeep}}

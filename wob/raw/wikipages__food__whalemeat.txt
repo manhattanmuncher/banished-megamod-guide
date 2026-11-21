@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Whalemeat ======
+----
+
+<WRAP right>
+^  Whalemeat                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  8/10  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/whalemeat.png?nolink|Whalemeat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+Whalemeat is an edible food item obtained by the [[buildings:fishing:wharfship|Wharfship]]. Citizens eat it as part of their diet, contributing to variety and overall happiness.
+
+----
+
+===== Whalemeat Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:fishing:wharfship|Wharfship]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal Loft Storage ======
+----
+
+<WRAP right>
+^  Port Royal Loft Storage                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprstorageloft.png?nolink|Port Royal Loft Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  9,000  |
+|  Storage Categories  |  Tools, Clothing, Textile, Crafted Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Port Royal elevated loft storage. Settlers store dry goods, tools, clothing, and textiles with a capacity of 9,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/portroyal.png?nolink|Port Royal Storage}}</wrap> **Port Royal Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprstorageloft.png?nolink|Port Royal Loft Storage}}</wrap> **Port Royal Loft Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage}}</wrap> **Necora's Maritimes Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/portroyal.png?nolink|Port Royal Storage}}</wrap> **Port Royal Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprstorageloft.png?nolink|Port Royal Loft Storage}}</wrap> **Port Royal Loft Storage**
+
+----
+
+This building originally came from **Maritimes Port Royal**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=367|WoB]]
+
+{{tag>Building Storage Maritimes}}

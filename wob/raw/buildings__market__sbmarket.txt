@@ -1,0 +1,65 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke Market ======
+----
+
+<WRAP right>
+^  Sherbrooke Market                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookemarket.png?nolink|Sherbrooke Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 20 (default: 5)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  18,500  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  58  |
+|  Stone  |  62  |
+|  Iron  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large Maritimes Sherbrooke Resources market. Distributes all goods categories to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookemarket.png?nolink|Sherbrooke Market}}</wrap> **Sherbrooke Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage, Trade, and Markets}}</wrap> **Necora's Maritimes Storage, Trade, and Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolmarket.png?nolink|Necora's Maritimes Markets}}</wrap> **Necora's Maritimes Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookemarket.png?nolink|Sherbrooke Market}}</wrap> **Sherbrooke Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Logs
+  * Stone
+  * Iron
+  * Health items
+  * Clothing
+  * Textile
+  * Alcohol
+  * Coal fuel
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * [[WikiPages:custom2:start|Fabrics]] (Custom 2)
+  * Industrial fuel (Custom 3)
+  * Raw materials (Custom 4)
+  * [[WikiPages:custom5:building_kit|Building supplies]] (Custom 5)
+  * Precious items (Custom 6)
+  * Misc items (Custom 7)
+  * Custom 8
+  * Consumables (Custom 9)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Sherbrooke Village v101**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=291|WoB]]
+
+{{tag>Market}}

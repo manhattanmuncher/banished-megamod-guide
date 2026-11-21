@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dirt Road 1 (EB Roads) ======
+----
+
+<WRAP right>
+^  Dirt Road 1                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddirtroad1.png?nolink|Dirt Road 1}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  441  |
+</WRAP>
+<WRAP right></WRAP>
+
+A dirt road texture variant that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardirtroad.png?nolink|Roads}}</wrap> **Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebroadsdirttoolbar.png?nolink|Dirt Roads Toolbar}}</wrap> **Dirt Roads Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddirtroad1.png?nolink|Dirt Road 1}}</wrap> **Dirt Road 1**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Roads v17005**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=345|WoB]], [[https://www.nexusmods.com/banished/mods/41|Nexus]]
+
+{{tag>Road EBRoads}}

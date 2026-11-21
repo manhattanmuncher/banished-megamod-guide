@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tunnel Mine Upgrade (Random) ======
+----
+
+<WRAP right>
+^  Tunnel Mine Upgrade                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstunnelmineccup.png?nolink|Tunnel Mine Upgrade}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 13 (default 3)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  50  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  40000  |
+|  Upgraded From  |  [[buildings:mining:dstunnelminecc|Tunnel Mine Random]]  |
+|  Upgrades To  |  [[buildings:mining:dstunnelmineccupmush|Old Mine Mushroom Farm]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:custom0:candles|Candles]]  |  89  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+Upgrade of the Tunnel Mine Random for significantly more resource production (40,000 limit) and up to 13 miners. Production remains random among Iron Ore, Stone, and Coal.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:dstunnelminecc|Tunnel Mine Random]].
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:stone:stone|Stone]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tunnel Mine v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=384|WoB]], [[https://www.nexusmods.com/banished/mods/49|Nexus]], [[https://banishedinfo.com/mods/view/897-DS-Tunnel-Mine|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=756252521|Steam]]
+
+{{tag>Building Mining DSTunnelMineCCUp}}

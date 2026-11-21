@@ -1,0 +1,58 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Station: Textile Export ======
+----
+
+<WRAP right>
+^  Station: Textile Export                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant2.png?nolink|Station: Textile Export}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/merchant.png?nolink|Merchant}}</wrap> Merchant  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Station: Textile Export is a Choo Choo mod building that functions as a textile export depot. A Merchant packages textiles, clothing, and related goods with a single unit of Wood and sells the bundle for Coins.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant2.png?nolink|Station: Textile Export}}</wrap> **Station: Textile Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant2.png?nolink|Station: Textile Export}}</wrap> **Station: Textile Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant2.png?nolink|Station: Textile Export}}</wrap> **Station: Textile Export**
+
+----
+
+===== Recipes (Goods + 1 Wood → Coins) =====
+
+^ Ingredients                                                                          ^ Produces                              ^
+| 60 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:wood:log|Wood]]            | [[WikiPages:custom6:coins|Coins]]     |
+| 120 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:wood:log|Wood]]                 | [[WikiPages:custom6:coins|Coins]]     |
+| 40 [[WikiPages:clothing:leathercoat|Leather Coat]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:custom6:coins|Coins]]     |
+| 40 [[WikiPages:clothing:woolcoat|Wool Coat]] + 1 [[WikiPages:wood:log|Wood]]        | [[WikiPages:custom6:coins|Coins]]     |
+| 30 [[WikiPages:clothing:wintercoat|Winter Coat]] + 1 [[WikiPages:wood:log|Wood]]    | [[WikiPages:custom6:coins|Coins]]     |
+| 300 [[WikiPages:textile:cotton|Cotton]] + 1 [[WikiPages:wood:log|Wood]]             | [[WikiPages:custom6:coins|Coins]]     |
+| 300 [[WikiPages:grain:hops|Hops]] + 1 [[WikiPages:wood:log|Wood]]                  | [[WikiPages:custom6:coins|Coins]]     |
+| 100 [[WikiPages:custom0:pottery|Pottery]] + 1 [[WikiPages:wood:log|Wood]]           | [[WikiPages:custom6:coins|Coins]]     |
+| 600 [[WikiPages:coalfuel:salt|Salt]] + 1 [[WikiPages:wood:log|Wood]]                | [[WikiPages:custom6:coins|Coins]]     |
+| 600 [[WikiPages:custom7:beeswax|Beeswax]] + 1 [[WikiPages:wood:log|Wood]]          | [[WikiPages:custom6:coins|Coins]]     |
+| 30 [[WikiPages:textile:fur|Fur]] + 1 [[WikiPages:wood:log|Wood]]                   | [[WikiPages:custom6:coins|Coins]]     |
+| 8 [[WikiPages:clothing:fur_coat|Fur Coat]] + 1 [[WikiPages:wood:log|Wood]]          | [[WikiPages:custom6:coins|Coins]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building ChooChoo}}

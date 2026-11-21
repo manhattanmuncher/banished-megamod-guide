@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Branch Cart ======
+----
+
+<WRAP right>
+^  Branch Cart                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapcartbranch.png?nolink|Branch Cart}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  62.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Branch Cart is a small abandoned resource from the Abandoned Places mod. It requires only labor to restore, and produces Branches for use as fuel.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapcartbranch.png?nolink|Branch Cart}}</wrap> **Branch Cart**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildabandonedresource.png?nolink|Abandoned Resource}}</wrap> **Abandoned Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapcartbranch.png?nolink|Branch Cart}}</wrap> **Branch Cart**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:fuel:branches|Branches]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building Resources AbandonedPlaces}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tally Tent (Mexican Fantasy) ======
+----
+
+<WRAP right>
+^  Tally Tent                                                                         ^  Mexican Fantasy  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmftallytent.png?nolink|Tally Tent}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Mexican Fantasy market tally tent providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfmarket.png?nolink|Market}}</wrap> **Market** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmftallytent.png?nolink|Tally Tent}}</wrap> **Tally Tent**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfmarket.png?nolink|Market}}</wrap> **Market** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmftallytent.png?nolink|Tally Tent}}</wrap> **Tally Tent**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmftallytent.png?nolink|Tally Tent (Mexican Fantasy)}}</wrap> **Tally Tent (Mexican Fantasy)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Mexican Fantasy v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=575|WoB]], [[https://banishedinfo.com/mods/view/837-Mexican-Fantasy|BI]]
+
+{{tag>Building TownHalls KidMexicanFantasy}}

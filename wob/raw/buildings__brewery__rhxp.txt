@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Row House Pub ======
+----
+
+<WRAP right>
+^  Row House Pub                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxp.png?nolink|Row House Pub}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Scythe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+|  Happiness  |  Entertainment (radius 30, requires alcohol)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Small Town Row Business pub where a Brewer ferments fruit or grain into Cider or Ale, providing Entertainment happiness to nearby residents.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxp.png?nolink|Row House Pub}}</wrap> **Row House Pub**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxp.png?nolink|Row House Pub}}</wrap> **Row House Pub**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                    ^
+| 30 [[WikiPages:food:apple|Apple]]                        | [[WikiPages:alcohol:cider|Cider]]           |
+| 60 [[WikiPages:food:blueberries|Blueberry]]              | [[WikiPages:alcohol:cider|Cider]]           |
+| 30 [[WikiPages:food:cherry|Cherry]]                      | [[WikiPages:alcohol:cider|Cider]]           |
+| 30 [[WikiPages:food:peach|Peach]]                        | [[WikiPages:alcohol:cider|Cider]]           |
+| 30 [[WikiPages:food:pear|Pear]]                          | [[WikiPages:alcohol:cider|Cider]]           |
+| 30 [[WikiPages:food:plum|Plum]]                          | [[WikiPages:alcohol:cider|Cider]]           |
+| 100 [[WikiPages:food:wheat|Wheat]]                       | [[WikiPages:alcohol:ale|Ale]]               |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxp.png?nolink|Row House Pub}}</wrap> **Row House Pub**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Brewery}}

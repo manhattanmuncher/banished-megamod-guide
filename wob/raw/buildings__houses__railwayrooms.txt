@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Station Rooms ======
+----
+
+<WRAP right>
+^  Station Rooms                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayrooms.png?nolink|Station Rooms}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  4  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A railway station boarding house; each of its 4 apartments can house up to 3 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayrooms.png?nolink|Station Rooms}}</wrap> **Station Rooms**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayrooms.png?nolink|Station Rooms}}</wrap> **Station Rooms**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayrooms.png?nolink|Station Rooms}}</wrap> **Station Rooms**
+
+----
+
+This building originally came from **Railway v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=581|WoB]]
+
+{{tag>Building Houses Railway}}

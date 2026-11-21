@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Wood Finder ======
+----
+
+<WRAP right>
+^  Dock Wood Finder                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstocklog.png?nolink|Dock Wood Finder}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Radius  |  45  |
+|  Storage  |  6,500  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  29  |
+|  [[WikiPages:wood:log|Wood]]  |  29  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Dock wood storage structure. A vendor collects logs and stockpiles them near dock buildings, making wood available for nearby dock construction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstocklog.png?nolink|Dock Wood Finder}}</wrap> **Dock Wood Finder**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstocklog.png?nolink|Dock Wood Finder}}</wrap> **Dock Wood Finder**
+
+----
+
+===== Stocks =====
+
+  * Logs
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

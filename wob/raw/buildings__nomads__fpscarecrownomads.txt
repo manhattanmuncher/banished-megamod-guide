@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nomads Scarecrow ======
+----
+
+<WRAP right>
+^  Nomads Scarecrow                                                                   ^  Friendly Pumpkin  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads.png?nolink|Nomads Scarecrow}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (default 1)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0 (Free)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Friendly Pumpkin scarecrow decorations that attract nomad immigrants. Each variant limits the maximum size of arriving nomad groups as a percentage of total population. Place near settlement borders to encourage nomads to arrive. Six variants are available with different caps.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Max Group Size ^
+| Nomads Scarecrow 2 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads2.png?nolink|Nomads Scarecrow 2}}</wrap> | 2% of population |
+| Nomads Scarecrow 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads5.png?nolink|Nomads Scarecrow 5}}</wrap> | 5% of population |
+| Nomads Scarecrow 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads10.png?nolink|Nomads Scarecrow 10}}</wrap> | 10% of population |
+| Nomads Scarecrow 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads20.png?nolink|Nomads Scarecrow 20}}</wrap> | 20% of population |
+| Nomads Scarecrow 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads50.png?nolink|Nomads Scarecrow 50}}</wrap> | 50% of population |
+| Nomads Scarecrow 100 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads100.png?nolink|Nomads Scarecrow 100}}</wrap> | 100% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpextra.png?nolink|Friendly Extra}}</wrap> **Friendly Extra** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads.png?nolink|Nomads Scarecrow}}</wrap> **Nomads Scarecrow** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfp.png?nolink|Friendly Pumpkin}}</wrap> **Friendly Pumpkin** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpextra.png?nolink|Friendly Extra}}</wrap> **Friendly Extra** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfpscarecrownomads.png?nolink|Nomads Scarecrow}}</wrap> **Nomads Scarecrow** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Pumpkin v1.12**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=578|WoB]]
+
+{{tag>Building Nomads FriendlyPumpkin}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Lumberer ======
+----
+
+<WRAP right>
+^  Tiny Lumberer                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinylumberer.png?nolink|Tiny Lumberer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact lumberyard from the KID Builders Toolbar where a Cutter processes Wood into Lumber or Firewood using an Axe.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtiny.png?nolink|Tiny Resource}}</wrap> **Tiny Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinylumberer.png?nolink|Tiny Lumberer}}</wrap> **Tiny Lumberer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsawmill.png?nolink|Sawmill}}</wrap> **Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinylumberer.png?nolink|Tiny Lumberer}}</wrap> **Tiny Lumberer**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                         ^ Produces                                       ^
+| 1 [[WikiPages:wood:log|Wood]]                       | [[WikiPages:custom5:lumber|Lumber]]            |
+| 2 [[WikiPages:wood:log|Wood]]                       | [[WikiPages:fuel:firewood|Firewood]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Crafting KID}}

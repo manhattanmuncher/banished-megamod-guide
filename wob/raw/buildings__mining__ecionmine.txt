@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mine (EC Edition) ======
+----
+
+<WRAP right>
+^  Mine (EC Edition)                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Mine (EC Edition)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 12  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  30  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  8000  |
+|  Upgrades To  |  [[buildings:mining:ironminerenew|Mine (Renew)]]  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  68  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Mine (EC Edition) is the RK Editor's Choice iron mine. Miners choose to produce Iron Ore or Coal. When the mine nears depletion it can be upgraded through a series of renewal tiers to extend its life.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Mine (EC Edition)}}</wrap> **Mine (EC Edition)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Mine (EC Edition)}}</wrap> **Mine (EC Edition)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining ECIronMine}}

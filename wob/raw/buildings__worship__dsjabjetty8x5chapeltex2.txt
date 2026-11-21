@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Chapel (Tex2) ======
+----
+
+<WRAP right>
+^  Jetty Chapel                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty8x5chapel.png?nolink|Jetty Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Placement  |  Water only  |
+|  Happiness  |  Spirit (radius 21)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  90  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  13  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Jetty & Bridge chapel in the blue-grey wooden jetty style, staffed by a Priest, providing Spirit happiness within a radius of 21 tiles to up to 90 attendees. Can be placed on water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2: Blue-Grey Wooden Jetty}}</wrap> **Texture #2: Blue-Grey Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyservicesmenu.png?nolink|Jetty Services}}</wrap> **Jetty Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty8x5chapel.png?nolink|Jetty Chapel}}</wrap> **Jetty Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2: Blue-Grey Wooden Jetty}}</wrap> **Texture #2: Blue-Grey Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyservicesmenu.png?nolink|Jetty Services}}</wrap> **Jetty Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty8x5chapel.png?nolink|Jetty Chapel}}</wrap> **Jetty Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty8x5chapel.png?nolink|Jetty Chapel (Tex2)}}</wrap> **Jetty Chapel (Tex2)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Worship DS}}

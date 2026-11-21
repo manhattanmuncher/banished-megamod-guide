@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tea Tree Deco ======
+----
+
+<WRAP right>
+^  Tea Tree Deco                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fruittea.png?nolink|Tea Tree Deco}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Free  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative tea tree from the A8 Moroccan Tea mod. Placed freely on land as a visual decoration. Can be removed via its dialog.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Decorative Trees and Plants}}</wrap> **Decorative Trees and Plants** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/fruittea.png?nolink|Tea Tree Deco}}</wrap> **Tea Tree Deco**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8deco.png?nolink|A8 deco}}</wrap> **A8 deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/fruittea.png?nolink|Tea Tree Deco}}</wrap> **Tea Tree Deco**
+
+----
+
+{{tag>Building Decorations A8}}

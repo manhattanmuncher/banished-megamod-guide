@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Water Tower ======
+----
+
+<WRAP right>
+^  Water Tower                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwatertower.png?nolink|Medieval Water Tower}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Medieval Water Tower that collects and distributes water for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwatertower.png?nolink|Medieval Water Tower}}</wrap> **Medieval Water Tower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwatertower.png?nolink|Medieval Water Tower}}</wrap> **Medieval Water Tower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwater.png?nolink|Water Production}}</wrap> **Water Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwatertower.png?nolink|Medieval Water Tower}}</wrap> **Medieval Water Tower**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:water|Water]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Food Water RKEditorChoice}}

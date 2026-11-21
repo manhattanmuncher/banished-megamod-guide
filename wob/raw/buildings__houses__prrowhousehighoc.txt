@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal 2 Level Row House Outer Corner ======
+----
+
+<WRAP right>
+^  Port Royal 2 Level Row House Outer Corner                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprrowhousehighoc.png?nolink|Port Royal 2 Level Row House Outer Corner}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A two-story outer corner piece of a Port Royal row house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarportroyal.png?nolink|Port Royal}}</wrap> **Port Royal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolprhousing.png?nolink|Port Royal Housing}}</wrap> **Port Royal Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprrowhousehighoc.png?nolink|Port Royal 2 Level Row House Outer Corner}}</wrap> **Port Royal 2 Level Row House Outer Corner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolprhousing.png?nolink|Port Royal Housing}}</wrap> **Port Royal Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprrowhousehighoc.png?nolink|Port Royal 2 Level Row House Outer Corner}}</wrap> **Port Royal 2 Level Row House Outer Corner**
+
+----
+
+This building originally came from **Maritimes Port Royal**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=367|WoB]]
+
+{{tag>Building Houses PortRoyal}}

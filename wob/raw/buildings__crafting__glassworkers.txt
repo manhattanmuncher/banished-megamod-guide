@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Glassworks ======
+----
+
+<WRAP right>
+^  Glassworks                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildglassworkers.png?nolink|Glassworks}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/glassmaker.png?nolink|Glassmaker}}</wrap> Glassmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:custom4:sand|Sand]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Glassworks is a Colonial Resources mod crafting building. A Glassmaker melts Sand using Coal, Charcoal, or Furnace Fuel as a heat source to produce Glass or Glassware. See also the [[buildings:crafting:ebglassworks|Glass Works (EB)]] for a similar building from a different mod.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialresource.png?nolink|Colonial Resources}}</wrap> **Colonial Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildglassworkers.png?nolink|Glassworks}}</wrap> **Glassworks**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarglass.png?nolink|Glass Makers}}</wrap> **Glass Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildglassworkers.png?nolink|Glassworks}}</wrap> **Glassworks**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                       ^ Produces                                          ^
+| 23 [[WikiPages:custom4:sand|Sand]] + 3 [[WikiPages:coalfuel:coal|Coal]]                          | [[WikiPages:custom5:glass|Glass]]                 |
+| 23 [[WikiPages:custom4:sand|Sand]] + 4 [[WikiPages:fuel:charcoal|Charcoal]]                      | [[WikiPages:custom5:glass|Glass]]                 |
+| 23 [[WikiPages:custom4:sand|Sand]] + 4 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]           | [[WikiPages:custom5:glass|Glass]]                 |
+| 23 [[WikiPages:custom4:sand|Sand]] + 3 [[WikiPages:coalfuel:coal|Coal]]                          | [[WikiPages:custom0:glassware|Glassware]]         |
+| 23 [[WikiPages:custom4:sand|Sand]] + 4 [[WikiPages:fuel:charcoal|Charcoal]]                      | [[WikiPages:custom0:glassware|Glassware]]         |
+| 23 [[WikiPages:custom4:sand|Sand]] + 4 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]           | [[WikiPages:custom0:glassware|Glassware]]         |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Resources ColonialResources}}

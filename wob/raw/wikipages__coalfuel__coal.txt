@@ -1,0 +1,92 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coal ======
+----
+
+<WRAP right>
+^  Coal                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fuel  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |  3/4  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  6  |  6  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  15  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/coal.png?nolink|Coal}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Coal is a mineral resource extracted through mining in Banished. It is stockpiled and used as a raw material or industrial input in production buildings. It has a modest trade value of 6.
+
+----
+
+===== Coal Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:gathering:coalshack|Coal Shack]]
+  * Mined at the [[buildings:mining:pminerkec|Portable RKEC Mine]]
+  * Mined at the [[buildings:mining:allminingquarry|Multi-Quarry]]
+  * Mined at the [[buildings:mining:blmquarry2|Iron Ore & Coal Mine]]
+  * Mined at the [[buildings:mining:dstunnelminecc|Tunnel Mine Random]]
+  * Mined at the [[buildings:mining:dstunnelmineccselect|Tunnel Mine Select]]
+  * Mined at the [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]]
+  * Mined at the [[buildings:mining:dstunnelmineccselectup|Tunnel Mine Upgrade (Select)]]
+  * Mined at the [[buildings:mining:ironmine|Iron Mine]]
+  * Mined at the [[buildings:mining:ecionmine|Mine (EC Edition)]]
+  * Mined at the [[buildings:mining:ironminedeep|Dark Mine]]
+  * Mined at the [[buildings:mining:ironminedeeper|Deep Mine]]
+  * Mined at the [[buildings:mining:ironmineimproved|Mine (Improved)]]
+  * Mined at the [[buildings:mining:ironminerenew|Mine (Renew)]]
+  * Mined at the [[buildings:mining:ironminerenew2|Mine (Renew 2)]]
+  * Mined at the [[buildings:mining:ironminerenew3|Mine (Renew 3)]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarry|Rock Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl2|Rock Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl3|Rock Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl4|Rock Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl5|Rock Quarry Lvl5]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarry|Random Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]]
+  * Mined at the [[buildings:mining:apnewmine|New Mine]]
+  * Mined at the [[buildings:mining:allminingironmine|Multi-Mine]]
+  * Mined at the [[buildings:mining:dscoalbellpit1|Coal Bell Pit]]
+  * Mined at the [[buildings:mining:dscoalbellpit1upgrade|Coal Bell Pit Mine]]
+  * Mined at the [[buildings:mining:dsthaddsurrelmine|Industry Mine]]
+  * Mined at the [[buildings:mining:ebsvironmine|Village Mine]]
+  * Mined at the [[buildings:mining:ecironmine|Mine (EC Edition)]]
+  * Mined at the [[buildings:mining:fodlargemine|Large Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodsmallmine|Small Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodwlargemine|Large Mine (Forge Of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:fodwsmallmine|Small Mine (Forge Of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:jinxiebittymine|Bitty Mine Shaft]]
+  * Mined at the [[buildings:mining:minimine|Mini Mine]]
+  * Mined at the [[buildings:mining:oldhovelmine|Old Mine (Old Hovels)]]
+  * Mined at the [[buildings:mining:pmine|Portable Mine]]
+  * Mined at the [[buildings:mining:temine|Mine (Tool Emporium)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Mined at the [[buildings:mining:tinymine|Tiny Mine]]
+  * Produced at the [[buildings:trading_post:tradercartmine|Trader Cart (Mine)]] (random)
+  * Mined at the [[buildings:trading_post:tradermine|Trader Mine]]
+  * Produced at the [[buildings:frontier:workcamp|Workcamp]]
+  * Produced at the [[buildings:mining:coalfurnace|Coal Furnace]]
+  * Mined at the [[buildings:gathering:mcmine|Mine Cave]] (More Caves)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]]
+  * Exported at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]] (for Coins)
+  * Used at the [[buildings:trading_post:trainfoodcar|Train Food Car]] (for food items)
+  * Used at the [[buildings:trading_post:traingeneralcar|Train General Car]] (for various items)
+  * Used at the [[buildings:trading_post:trainmaterialcar|Train Material Car]] (for materials)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel Vanilla}}

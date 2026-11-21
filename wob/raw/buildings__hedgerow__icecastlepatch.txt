@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ice Castle Hedgerow ======
+----
+
+<WRAP right>
+^  Ice Castle Hedgerow                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastlepatch.png?nolink|Ice Castle Hedgerow}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Gatherer  |
+|  <abbr "Working radius">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A gathering hedgerow from Kid's Ice Castle winter set. A gatherer works the surrounding area to collect wild food and firewood.
+
+----
+
+===== Produces =====
+
+  * Blueberry, [[WikiPages:health:herb|Herb]], [[WikiPages:fuel:firewood|Firewood]]
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastlepatch.png?nolink|Ice Castle Hedgerow}}</wrap> **Ice Castle Hedgerow**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastlepatch.png?nolink|Ice Castle Hedgerow}}</wrap> **Ice Castle Hedgerow**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastlepatch.png?nolink|Ice Castle Hedgerow}}</wrap> **Ice Castle Hedgerow**
+
+----
+
+This building originally came from **Ice Castle v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=588|WoB]]
+
+{{tag>Building Hedgerow KidIceCastle}}

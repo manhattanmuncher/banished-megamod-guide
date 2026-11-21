@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herbalist (Friendly Blue) ======
+----
+
+<WRAP right>
+^  Herbalist                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbherbalist01.png?nolink|Herbalist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  32.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  Function  |  Produces Herbs; heals citizens  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Friendly Blue Herbalist grows Herbs and also heals sick citizens who visit the building. A Worker tends the garden using a Hoe.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbextra.png?nolink|Extra Resources}}</wrap> **Extra Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbherbalist01.png?nolink|Herbalist}}</wrap> **Herbalist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbextra.png?nolink|Extra Resources}}</wrap> **Extra Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbherbalist01.png?nolink|Herbalist}}</wrap> **Herbalist**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Blue (Ice) v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=587|WoB]]
+
+{{tag>Building Herbalist FrontierBuildings}}

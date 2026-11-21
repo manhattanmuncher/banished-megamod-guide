@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market (EC) ======
+----
+
+<WRAP right>
+^  Market (EC)                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Market (EC)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 14  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 25 (default: 1)  |
+|  Happiness  |  Goods  |
+|  Radius  |  48  |
+|  Storage  |  15,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  48  |
+|  Stone  |  52  |
+|  Iron  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large Editor's Choice market distributing essential goods to nearby settlers. Supports up to 25 vendors and covers a very large service radius. Provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Market (EC)}}</wrap> **Market (EC)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice Toolbar}}</wrap> **Editor's Choice Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Market (EC)}}</wrap> **Market (EC)**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Health items
+  * Clothing
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

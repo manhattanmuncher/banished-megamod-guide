@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sugar (Refined) ======
+----
+
+<WRAP right>
+^  Sugar (Refined)                                ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  11/14  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/sugarrefined.png?nolink|Sugar (Refined)}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Sugar (Refined) is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Sugar (Refined) Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:trading_post:otplootship|Loot Ship (Old Town Ports)]]
+  * Produced at the [[buildings:industrial:otpsugarmill|Sugar Mill (Old Town Ports)]]
+  * Produced at the [[buildings:more_food:refinery|Refinery]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]]
+  * Used at the [[buildings:preserving:tinyjamshop|Tiny Jam Shop]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Vegetable}}

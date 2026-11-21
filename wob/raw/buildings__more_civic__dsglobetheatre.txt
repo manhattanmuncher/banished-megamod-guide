@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Globe Theatre ======
+----
+
+<WRAP right>
+^  Globe Theatre                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsglobetheatre.png?nolink|Globe Theatre}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionperformer.png?nolink|Performer}}</wrap> Performer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  18 × 16  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2 – 8 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  55.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  55  |
+|  Happiness  |  Entertainment (radius 89)  |
+|  Max Instances  |  1  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  200  |
+|  Storage Categories  |  Misc  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  610  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  144  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  144  |
+|  [[WikiPages:custom5:glass|Glass]]  |  21  |
+|  [[WikiPages:clothing:wintercoat|Winter Coat]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+Globe Theatre is a DS Mods entertainment building. Performers entertain citizens across a large radius, boosting happiness throughout the settlement. Performers must be present for the happiness effect to apply. Only one Globe Theatre can be built per settlement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsglobetheatre.png?nolink|Globe Theatre}}</wrap> **Globe Theatre**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsglobetheatre.png?nolink|Globe Theatre}}</wrap> **Globe Theatre**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Globe Theatre**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=419|WoB]], [[https://www.nexusmods.com/banished/mods/83|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1358295308|Steam]]
+
+{{tag>Building Civic DS}}

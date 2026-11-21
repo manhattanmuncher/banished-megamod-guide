@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sandbrick Road ======
+----
+
+<WRAP right>
+^  Sandbrick Road                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkbrickroad2.png?nolink|Sandbrick Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  65  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:custom5:brick|Brick]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A sandbrick road that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrickroad.png?nolink|Brick Roads}}</wrap> **Brick Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkbrickroad2.png?nolink|Sandbrick Road}}</wrap> **Sandbrick Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Road RKEditorChoice}}

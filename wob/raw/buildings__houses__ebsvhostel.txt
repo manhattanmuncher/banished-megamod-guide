@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Boarding House ======
+----
+
+<WRAP right>
+^  Village Boarding House                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvhostel.png?nolink|Village Boarding House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  5  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  126  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village boarding house. Houses up to 5 settlers temporarily.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB mods}}</wrap> **EB mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|Village}}</wrap> **Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagehousing.png?nolink|Village Housing}}</wrap> **Village Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvhostel.png?nolink|Village Boarding House}}</wrap> **Village Boarding House**
+
+----
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Houses EB}}

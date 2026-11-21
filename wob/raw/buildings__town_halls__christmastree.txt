@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Christmas Tree ======
+----
+
+<WRAP right>
+^  Christmas Tree                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmastree.png?nolink|Christmas Tree}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Happiness  |  Spirit (radius 30)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Christmas Mod decorated tree providing Spirit happiness within a radius of 30 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmastree.png?nolink|Christmas Tree}}</wrap> **Christmas Tree**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmastree.png?nolink|Christmas Tree}}</wrap> **Christmas Tree**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building TownHalls ChristmasMod}}

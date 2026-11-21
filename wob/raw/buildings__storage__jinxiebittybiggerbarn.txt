@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Bigger Barn ======
+----
+
+<WRAP right>
+^  Bitty Bigger Barn                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittybiggerbarn.png?nolink|Bitty Bigger Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  7,500  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie's Bitty Village Set large general-purpose storage barn. Settlers store food, tools, clothing, and a wide variety of goods with a capacity of 7,500 units.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:storage:jinxiebittybarn|Bitty Barn]]
+
+----
+
+{{tag>Building Storage}}

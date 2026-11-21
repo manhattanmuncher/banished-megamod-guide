@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Plant Debris ======
+----
+
+<WRAP right>
+^  Plant Debris                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom4  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/6  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/plantdebris.png?nolink|Plant Debris}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Plant Debris are a raw material harvested directly from the environment in the Banished MegaMod. They are stockpiled and used as a base ingredient for crafting and construction. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Plant Debris Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:animal_pens:abpcleaningshed|ABP Cleaning Shed]]
+  * Produced at the [[buildings:resources:abandonedcleaning|Abandoned Cleaning]]
+  * Produced at the [[buildings:resources:fbcleaningshed|Cleaning Shed (Friendly Blue)]]
+  * Produced at the [[buildings:gathering:ghfcleaningshed|Cleaning Shed (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:hgcleaningshed|Cleaning Shed (Home Grown)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:animal_pens:abpanimalbarn|ABP Animal Barn]] (for Milk, Egg, or Wool)
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom4}}

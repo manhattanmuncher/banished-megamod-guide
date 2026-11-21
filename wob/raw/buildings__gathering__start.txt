@@ -1,0 +1,189 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gathering Buildings ======
+----
+
+Buildings where settlers gather wild food and resources from the surrounding environment.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:gathering:atgatherer|AT Gatherer]] | Among Trees gatherer; collects wild food from the forest |
+| [[buildings:gathering:atherbalist|AT Herbalist]] | Among Trees herbalist; collects wild Herbs from the forest |
+| [[buildings:gathering:dwappletree|Apple Tree]] | Deadwood wild apple tree; Worker forages Apples with no input materials; free to build |
+| [[buildings:gathering:bananashed|Banana Shed]] | Kid Goes Bananas building; workers harvest bananas |
+| [[buildings:gathering:bggatherer|BG Gatherer]] | Bakery & Garden Alt gathering post; Herbalist collects Herb within a 24-tile radius |
+| [[buildings:gathering:bghealer|BG Healer]] | Bakery & Garden Alt herbalist/healer; Herbalist collects Herb within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:ghfbarn|Barn (Grow Hunt Fish)]] | Grow Hunt Fish storage barn; Laborers haul food, tools, and other goods to this barn; capacity 4800 |
+| [[buildings:gathering:mcbear|Bear Cave]] | KID More Caves bear cave; free to build; produces fur and bear meat; Gray/Brown cosmetic variants |
+| [[buildings:gathering:fotbeaverdam|Beaver Dam]] | Free-to-build trapper building; produces furs |
+| [[buildings:gathering:jinxiebittygatherer|Bitty Gatherer]] | Jinxie's Bitty Village Set gatherer; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:fhbranchgatherer|Branch Gatherer]] | Forest Haven fuel-gathering shelter; workers collect fallen deadwood branches within a 24-tile radius |
+| [[buildings:gathering:dwbrier|Brier]] | Deadwood wild briar patch; Worker forages Blueberries with no input materials; free to build |
+| [[buildings:gathering:dstownhousesbstore3x4herbalist|Bryggen Herbalist]] | DS Town Houses Bryggen-style herbalist; Herbalists collect wild herbs within a 21-tile radius; also heals citizens |
+| [[buildings:gathering:dwcache|Cache]] | Deadwood forager's cache; Worker gathers Mushrooms or Herbs with no input materials; free to build |
+| [[buildings:gathering:ghfcleaningshed|Cleaning Shed (Grow Hunt Fish)]] | Grow Hunt Fish shed; gathers Plant Debris and Fertilizer from the surrounding area |
+| [[buildings:gathering:coalshack|Coal Shack]] | Renewable Resources miner shack; Miner plants and harvests coal deposits to produce Coal |
+| [[buildings:gathering:covengatherer|Gatherer (Coven)]] | Coven gatherer; collects wild food from the surrounding area |
+| [[buildings:gathering:ftgatherer|Gatherer (Fairy Tale Cottage)]] | Fairy Tale Cottage gatherer; Gatherer collects wild food within a 24-tile radius |
+| [[buildings:gathering:fhgatherer|Gatherer (Forest Haven)]] | Forest Haven gatherer; workers collect wild food within a 24-tile radius |
+| [[buildings:gathering:fogatherer|Gatherer (Forest Outpost)]] | Forest Outpost gatherer; Gatherers collect various wild food within a 24-tile radius |
+| [[buildings:gathering:mhgatherer|Gatherer (More Houses)]] | More Houses gatherer; Gatherer collects wild food within a 30-tile radius |
+| [[buildings:gathering:mhdgatherer|Gatherer (More Houses Dark)]] | More Houses Dark gatherer; Gatherer collects wild food within a 30-tile radius |
+| [[buildings:gathering:mhsgatherer|Gatherer (More Houses Stone)]] | More Houses Stone gatherer; Gatherer collects wild food within a 30-tile radius |
+| [[buildings:gathering:mhwgatherer|Gatherer (More Houses Wood)]] | More Houses Wood gatherer; Gatherer collects wild food within a 30-tile radius |
+| [[buildings:gathering:gatherershelter|Gatherer's Hut (Colonial Charter)]] | Colonial Charter gatherer's hut; Gatherers collect wild food within a 35-tile radius; storage 1600 |
+| [[buildings:gathering:ecgatherershelter|Gatherer's Hut (Editor's Choice)]] | Editor's Choice gatherer; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:herbalist|Herbalist (Colonial Charter)]] | Colonial Charter herbalist; Herbalists collect wild Herb within a 40-tile radius; also heals citizens |
+| [[buildings:gathering:covenherbalist|Herbalist (Coven)]] | Coven herbalist; collects wild Herbs from the surrounding area |
+| [[buildings:gathering:ftcrystalgarden|Crystal Garden (Fairy Tale Cottage)]] | Fairy Tale Cottage magical garden; workers grow and harvest Magic Crystals |
+| [[buildings:gathering:ghfdecocart|Deco Cart (Grow Hunt Fish)]] | Grow Hunt Fish decorative small cart; no footprint; no production |
+| [[buildings:gathering:decocartbranch|Deco Branch Cart]] | Traveling Trader decorative branch cart; serves as a trader workplace; no production |
+| [[buildings:gathering:decocartfruitveg|Deco Fruit-Veg Cart]] | Traveling Trader decorative fruit and vegetable cart; serves as a trader workplace; no production |
+| [[buildings:gathering:decocarthunter|Deco Cart (Hunter)]] | Traveling Trader decorative hunter cart; serves as a trader workplace; no production |
+| [[buildings:gathering:decocartmine|Deco Mine Cart]] | Traveling Trader decorative mine cart; serves as a trader workplace; no production |
+| [[buildings:gathering:decocartpeddler|Deco Peddler Cart]] | Traveling Trader decorative peddler cart; serves as a trader workplace; no production |
+| [[buildings:gathering:decocartwood|Deco Wood Cart]] | Traveling Trader decorative wood cart; serves as a trader workplace; no production |
+| [[buildings:gathering:ghfdecodebris|Deco Debris (Grow Hunt Fish)]] | Grow Hunt Fish decorative debris scatter; no footprint; no production |
+| [[buildings:gathering:decoforester|Deco Forester]] | Traveling Trader decorative forester area; serves as a trader workplace; no production |
+| [[buildings:gathering:decogatherer|Deco Gatherer]] | Traveling Trader decorative gatherer building; serves as a trader workplace; no production |
+| [[buildings:gathering:decohouse|Deco House]] | Traveling Trader decorative house building; serves as a trader workplace; no production |
+| [[buildings:gathering:decohunter|Deco Hunter]] | Traveling Trader decorative hunter camp; serves as a trader workplace; no production |
+| [[buildings:gathering:decomarket|Deco Market]] | Traveling Trader decorative market building; serves as a trader workplace; no production |
+| [[buildings:gathering:decomine|Deco Mine]] | Traveling Trader decorative mine building; serves as a trader workplace; no production |
+| [[buildings:gathering:decoopenmarket|Deco Open Market]] | Traveling Trader decorative open market building; serves as a trader workplace; no production |
+| [[buildings:gathering:decotrader1span|Deco 1-Span]] | Traveling Trader decorative 1-span connector piece; connects to a trader cart; no production |
+| [[buildings:gathering:decotrader2span|Deco 2-Span]] | Traveling Trader decorative 2-span connector piece; connects to a heavy cart; no production |
+| [[buildings:gathering:desertorchard|Desert Orchard]] | Colonial Charter orchard; Farmer tends and harvests fruit from a drag-placed area |
+| [[buildings:gathering:dockhealer2|Dock Healer]] | Colonial Charter Dock healer; Apothecary gathers Herbs and tends to settler health |
+| [[buildings:gathering:druidherbalist|Druid Herbalist]] | Druids herbalist; collects wild Herbs from the surrounding area |
+| [[buildings:gathering:dsjabjettydriftwoodcollector|Drift Wood Collector]] | DS Jetty & Bridge water-placed gathering building; workers collect Wood and Firewood from the water |
+| [[buildings:gathering:dsjabjettydriftwoodcollectort2|Drift Wood Collector (Tex2)]] | DS Jetty & Bridge driftwood collector, alternate style; same as Drift Wood Collector |
+| [[buildings:gathering:dsjabjettydriftwoodup|Drift Wood Collector (UP)]] | DS Jetty & Bridge exhausted collector wind-down state; gathers last 50 units of driftwood |
+| [[buildings:gathering:dsjabjettydriftwoodupt2|Drift Wood Collector (UP, Tex2)]] | DS Jetty & Bridge exhausted collector wind-down, alternate style; same as Drift Wood Collector (UP) |
+| [[buildings:gathering:dsjabjettydriftwoodcollectorslct|Drift Wood Searcher]] | DS Jetty & Bridge water-placed gathering building; selectively searches for Wood or Firewood |
+| [[buildings:gathering:dsjabjettydriftwoodcollectorslctt2|Drift Wood Searcher (Tex2)]] | DS Jetty & Bridge driftwood searcher, alternate style; same as Drift Wood Searcher |
+| [[buildings:gathering:driftwoodscavenger|Driftwood Scavenger]] | Colonial Charter Dock building; Wetworkers comb the shoreline for Wood and Firewood |
+| [[buildings:gathering:jwelderbush|Elder Bush]] | Jam & Wine mod field; workers harvest elderberries from elder bushes |
+| [[buildings:gathering:fairygardendustpatch|Fairy Dust Plot (Fairy Garden)]] | Fairy Garden seasonal dust plot; Fairies gather Fairy Dust that powers Fairy Garden patches |
+| [[buildings:gathering:fairygardendustpatchleaves|Fairy Dust Plot (Fairy Garden - Leaves)]] | Fairy Garden dust plot, leaves roof style; Fairies gather Fairy Dust |
+| [[buildings:gathering:fairygardendustpatchpines|Fairy Dust Plot (Fairy Garden - Pines)]] | Fairy Garden dust plot, pines roof style; Fairies gather Fairy Dust |
+| [[buildings:gathering:fairygardendustworkplace|Fairy Dust Workplace (Fairy Garden)]] | Fairy Garden free-to-place fairy post; fairy produces Fairy Dust |
+| [[buildings:gathering:fairygardenpatch03|Fairy Garden Fall (Fairy Garden)]] | Fairy Garden fall patch; workers use Fairy Dust to grow vegetables, grain, and firewood |
+| [[buildings:gathering:fairygardenplumpatch|Fairy Garden Plum Patch (Fairy Garden)]] | Fairy Garden plum patch; workers use Fairy Dust to grow plums, honey, flax, and herbs |
+| [[buildings:gathering:fairygardenpatch02|Fairy Garden Spring (Fairy Garden)]] | Fairy Garden spring patch; workers use Fairy Dust to grow vegetables, grain, and fruit |
+| [[buildings:gathering:fairygardenpatch01|Fairy Garden Summer (Fairy Garden)]] | Fairy Garden summer patch; workers use Fairy Dust to grow vegetables, grains, fruit, and herbs |
+| [[buildings:gathering:feshammam|Fes Hammam]] | A8 Moroccan Misc bathhouse; Bath Attendants provide healing and a Health happiness bonus within a 30-tile radius |
+| [[buildings:gathering:flaxgatherer|Flax Gatherer]] | New Flora flax gatherer; Gatherer collects wild Flax within a 30-tile radius |
+| [[buildings:gathering:rkgardenwallsflorist|Florist (RK Garden Walls)]] | RedKetchup Editor's Choice Garden Walls florist; Gatherer collects Flowers and Seedlings within a 32-tile radius |
+| [[buildings:gathering:dssvgatherer|Forest Food Gatherer]] | DS Small Village forest food gathering shelter; Gatherers collect wild foods from within a 27-tile radius |
+| [[buildings:gathering:fruitnut01|Fruit and Nut 01]] | Free-to-build fruit and nut patch; produces Plum or Hazelnut |
+| [[buildings:gathering:fruitnut02|Fruit and Nut 02]] | Free-to-build fruit and nut patch; produces Peach or Pecan |
+| [[buildings:gathering:fruitnut03|Fruit and Nut 03]] | Free-to-build fruit and nut patch; produces Apple or Walnut |
+| [[buildings:gathering:fruitnut04|Fruit and Nut 04]] | Free-to-build fruit and nut patch; produces Cherry or Strawberries |
+| [[buildings:gathering:ghffruitgatherer|Fruit Gatherer (Grow Hunt Fish)]] | Grow Hunt Fish gathering building; Gatherer collects wild fruit from natural resources within a 24-tile radius |
+| [[buildings:gathering:fottrapper|Fur Trapper]] | Trapper building; produces furs |
+| [[buildings:gathering:dssvgatheracornssingle|Gather Acorns with Basket]] | DS Small Village single-tile gathering point; Gatherer collects Acorns within radius using a Basket |
+| [[buildings:gathering:dssvherbgathersingle|Gather Herbs with Basket]] | DS Small Village single-tile gathering point; Gatherer collects wild herbs within a 13-tile radius |
+| [[buildings:gathering:aspgatherer|Gatherer (Animal Shed Plus)]] | Animal Shed Plus gatherer; collects wild food from forest resources |
+| [[buildings:gathering:nmt30fcgatherer|Gatherer District]] | NMT Forest Center gatherer district; Gatherers collect wild food within a 40-tile radius |
+| [[buildings:gathering:nmt30sagatherer|Gatherer Hut]] | NMT Forest Center standalone gatherer hut; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:nvgatherer|Gatherer (Native Village)]] | Native Village gatherer hut; Gatherers collect wild food within a 24-tile radius |
+| [[buildings:gathering:ootwgatherer|Gatherer (Out of This World)]] | Out of This World gathering hut; Gatherers collect wild food within a 24-tile radius |
+| [[buildings:gathering:settlersgatherer|Gatherer (Settlers)]] | Kid Settlers gatherer; Gatherers collect wild food within a 24-tile radius |
+| [[buildings:gathering:shwgatherer|Gatherer (Summer Haven)]] | Kid Summer Haven compact gatherer workplace; Gatherers collect wild food within a 24-tile radius |
+| [[buildings:gathering:ttgatherer|Gatherer (Tree Topper)]] | Tree Topper gatherer shelter; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:grannypark2|Granny Park II]] | Granny Park mod gathering building; Farmer gathers Walnuts; provides Goods happiness bonus |
+| [[buildings:gathering:abandonedhedgerow|Hedgerow]] | Abandoned Places building; harvests wild fruit, flax, and firewood from a long hedge planting |
+| [[buildings:gathering:ebherbalist|Herbalist (EB)]] | EB mod herbalist; Herbalists collect wild herbs within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:echerbalist|Herbalist (Editor's Choice)]] | Editor's Choice herbalist; Herbalists collect Herb, Flax, and Cotton within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:ftherbalist|Herbalist (Fairy Tale Cottage)]] | Fairy Tale Cottage herbalist; Herbalists collect Herb within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:fhherbalist|Herbalist (Forest Haven)]] | Forest Haven herbalist; Herbalists collect Herb within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:foherbalist|Herbalist (Forest Outpost)]] | Forest Outpost herbalist; Herbalists collect Herb within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:hillsidehealer|Hillside Healer]] | Hillside Village herbalist and healer; Herbalist collects Herb within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:hobbitmushrooms|Hobbit Mushrooms]] | Hobbit Homes mushroom farm; workers cultivate and harvest Mushrooms |
+| [[buildings:gathering:honeyseeker|Honey Seeker]] | Wild Bees mod gatherer; Gatherer harvests Honey from wild beehives within a 30-tile radius |
+| [[buildings:gathering:nvhuntingground|Hunting Ground]] | Native Village gathering area; workers collect a random wild resource each cycle |
+| [[buildings:gathering:ironfinder|Iron Gatherer]] | Colonial Charter gatherer; Gatherers collect Iron Ore from ore deposits within a 60-tile radius |
+| [[buildings:gathering:ironoreshack|Iron Ore Shack]] | Renewable Resources miner shack; Miner plants and harvests dense iron ore deposits to produce Iron Ore |
+| [[buildings:gathering:ironshack|Iron Shack]] | Renewable Resources miner shack; Miner plants and harvests dense ore deposits to produce Iron |
+| [[buildings:gathering:fishshipsberrywaterhi|Jetty Berry High]] | Fish n Ships water jetty; gathers berries; free to build |
+| [[buildings:gathering:fishshipsberrywaterlo|Jetty Berry Low]] | Fish n Ships water jetty; gathers berries; free to build |
+| [[buildings:gathering:fishshipscrabwater|Jetty Crab Low]] | Fish n Ships water jetty; catches crabs; free to build |
+| [[buildings:gathering:fishshipsplantswaterhi|Jetty Plants High]] | Fish n Ships water jetty; gathers herbs or flax; free to build |
+| [[buildings:gathering:fishshipsplantswaterlo|Jetty Plants Low]] | Fish n Ships water jetty; gathers herbs or flax; free to build |
+| [[buildings:gathering:jomongatherer|Jomon Gatherer]] | A8 Japanese All-In-One gatherer; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:kampoherbalist|Kampo Herbalist]] | A8 Japanese All-In-One herbalist; Herbalists collect Herb within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:dssvgathererlarge|Large Forest Food Gatherer]] | DS Small Village large forest food gathering shelter; Gatherers collect wild foods from within a 39-tile radius |
+| [[buildings:gathering:otplemongroove|Lemon Groove (Old Town Ports)]] | Old Town Ports lemon grove; grovetender tends trees and harvests lemons |
+| [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]] | Fairy Tale Cottage magical garden; Magician uses Magic Crystals to conjure food items |
+| [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]] | Forest Deep magical garden; Magician conjures food, herbs, and firewood from the forest |
+| [[buildings:gathering:pineforager|Maple Forager's Cache]] | Maritimes Pine Set forager; Gatherers collect wild Apples, Maple Sap, Blueberries, and Cranberries within a 25-tile radius |
+| [[buildings:gathering:bbmaplegrove|Maple Grove]] | Bed and Breakfast building; grovetender tends maple trees and harvests maple sap |
+| [[buildings:gathering:newmedievalapothecary|Medieval Apothecary]] | NMT herbalist; Herbalists collect Herb within a 20-tile radius and provide basic healing for citizens |
+| [[buildings:gathering:newmedievalapothecaryA|Medieval Apothecary (A)]] | NMT herbalist, style A; Herbalists collect Herb within a 40-tile radius and provide basic healing for citizens |
+| [[buildings:gathering:newmedievalapothecaryB|Medieval Apothecary (B)]] | NMT herbalist, style B; Herbalists collect Herb within a 40-tile radius and provide basic healing for citizens |
+| [[buildings:gathering:newmedievalapothecaryC|Medieval Apothecary (C)]] | NMT herbalist, style C; Herbalists collect Herb within a 40-tile radius and provide basic healing for citizens |
+| [[buildings:gathering:newmedievalapothecaryD|Medieval Apothecary (D)]] | NMT herbalist, style D; Herbalists collect Herb within a 40-tile radius and provide basic healing for citizens |
+| [[buildings:gathering:newmedievalapothecaryE|Medieval Apothecary (E)]] | NMT herbalist, style E; Herbalists collect Herb within a 40-tile radius and provide basic healing for citizens |
+| [[buildings:gathering:mgherbhealer|MG Herb Healer]] | Kid Medieval Grace herbalist; Herbalists collect Herb within a 40-tile radius; also heals citizens |
+| [[buildings:gathering:minigather|Mini Gatherer]] | Mini Buildings compact gatherer; single Gatherer collects wild food within a 15-tile radius |
+| [[buildings:gathering:miniherb|Mini Herbalist]] | Mini Buildings compact herbalist; single Herbalist collects Herb within a 15-tile radius; also heals citizens |
+| [[buildings:gathering:mcmine|Mine Cave]] | KID More Caves mine; free to build; produces iron, coal, and stone; Gray/Brown cosmetic variants |
+| [[buildings:gathering:mfmissionclinic|Mission Clinic]] | Kid Mexican Fantasy herbalist clinic; Herbalists collect Herb within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:ebmodgathererhouse|Modular Gatherer House]] | EB Modular Gatherer residence; houses up to 5 settlers; pairs with Modular Gatherer Shed |
+| [[buildings:gathering:ebmodgatherershed|Modular Gatherer Shed]] | EB Modular Gatherer working shed; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:ebmodherbalisthouse|Modular Herbalist House]] | EB Modular Herbalist residence; houses up to 5 settlers; pairs with Modular Herbalist Lodge |
+| [[buildings:gathering:ebmodherbalistlodge|Modular Herbalist Lodge]] | EB Modular Herbalist working lodge; Herbalists collect wild herbs within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:mushroomshelter|Mushroom (Forest Deep)]] | Forest Deep gatherer; Gatherers collect wild food from the surrounding area within a 30-tile radius |
+| [[buildings:gathering:mcmushroom|Mushroom Cave]] | KID More Caves mushroom cave; free to build; produces mushrooms; Gray/Brown cosmetic variants |
+| [[buildings:gathering:rosehipsgatherer|New Foods Gatherer]] | New Flora gatherer; Gatherer collects wild Rose Hips and Wild Oats within a 30-tile radius |
+| [[buildings:gathering:gtnewgarden|New Garden (Ghost Town)]] | Ghost Town garden; workers grow flax and process it into linseed oil |
+| [[buildings:gathering:nmtforestcenter|NMT Forest Center]] | NMT large gathering hub; produces a variety of forest resources within its radius |
+| [[buildings:gathering:fpnutgrove|Nut Grove (Friendly Pumpkin)]] | Friendly Pumpkin nut grove; workers harvest nuts, type chosen at construction |
+| [[buildings:gathering:fhplatformnuts|Nut Haven (Forest Haven)]] | Forest Haven nut-gathering platform; workers harvest Walnuts |
+| [[buildings:gathering:oldhovelgatherer|Old Gatherer]] | Old Hovels gatherer shed; Gatherer forages wild food within a 24-tile radius |
+| [[buildings:gathering:ebsvorchard|Orchard (EB Small Village)]] | EB Small Village drag-to-place orchard zone; Farmer tends and harvests fruit trees |
+| [[buildings:gathering:orchardgatherer|Orchard Gatherer]] | Colonial Charter orchard gatherer; Gatherers harvest fruit from Orchard Lodge trees within a 30-tile radius |
+| [[buildings:gathering:pineharvester|Pine Harvester's Cache]] | Maritimes Pine Set harvester; Gatherers collect Pine Resin, Pine Bough, Bough, and Flax within a 25-tile radius |
+| [[buildings:gathering:bbplaza|Plaza]] | Bed and Breakfast orchard-style building; Farmer tends apple trees in a town square |
+| [[buildings:gathering:fairygardenpotofgold|Pot Of Gold (Fairy Garden)]] | Fairy Garden free-to-place building; leprechaun produces Gold |
+| [[buildings:gathering:dockreedc|Reed Farm]] | Colonial Charter Dock building; Wetworker harvests Reeds from surrounding marsh water |
+| [[buildings:gathering:removeghfdeco|Remove Deco (Grow Hunt Fish)]] | Grow Hunt Fish upgrade option to remove a Deco Cart or Deco Debris decoration |
+| [[buildings:gathering:removetraderdeco|Remove Deco (Traveling Trader)]] | Traveling Trader upgrade option to remove any Traveling Trader decoration building |
+| [[buildings:gathering:ghfseedcollector|Seed Collector (Grow Hunt Fish)]] | Grow Hunt Fish seed collecting station; workers gather seeds |
+| [[buildings:gathering:shapiary|SH Apiary]] | Summer Haven apiary; gathers Honey and Peaches with no input materials |
+| [[buildings:gathering:shwbeekeeper|SHW BeeKeeper]] | Summer Haven compact beekeeping station; gathers honey with no input materials |
+| [[buildings:gathering:dssvgatherersmall|Small Forest Food Gatherer]] | DS Small Village small forest food gathering shelter; Gatherers collect wild foods from within a 21-tile radius |
+| [[buildings:gathering:jwspicegarden|Spice Garden]] | Jam & Wine mod garden; workers harvest spices |
+| [[buildings:gathering:spicehouse|Spice House]] | Christmas Mod gathering building; Elf harvests herbs and spices year-round |
+| [[buildings:gathering:stonefinder|Stone Gatherer]] | Colonial Charter stone gatherer; Gatherers collect Stone from rock deposits within a 60-tile radius |
+| [[buildings:gathering:stoneshack|Stone Shack]] | Renewable Resources stone shack; Stonecutters plant and harvest dense rock deposits to produce Stone within a 15-tile radius |
+| [[buildings:gathering:sbsupply|Supply Boat]] | KID Some Boats supply boat; unloads a variety of food supplies; free to place, needs a trader or jetty to dock |
+| [[buildings:gathering:fishshipsjettyemergency|Supply Jetty]] | Fish n Ships emergency supply jetty; player selects what to produce |
+| [[buildings:gathering:swamppond|Swamp Pond]] | Swamp Houses gathering building; worker harvests frog legs from the swamp |
+| [[buildings:gathering:theglade|The Glade]] | Kid - The Glade wild gathering ground; free to build; Worker forages Fur, Duck Meat, Down, Rabbit Meat, or Wild Oats at random; 6×4 footprint |
+| [[buildings:gathering:tinygatherer|Tiny Gatherer]] | Kid Tiny Set compact gatherer with storage; Gatherers collect wild food within a 30-tile radius |
+| [[buildings:gathering:dwthicket|Thicket]] | Deadwood overgrown thicket; Worker clears deadfall with no input materials, yielding Log, Firewood, or Branches; free to build |
+| [[buildings:gathering:tradergatherer|Trader Gatherer]] | Traveling Trader gatherer camp; Gatherers collect wild food within a 24-tile radius |
+| [[buildings:gathering:otptreasurehunt|Treasure Hunt (Old Town Ports)]] | Old Town Ports treasure hunt site; requires a Treasure Map; workers dig up treasure |
+| [[buildings:gathering:treestump|Tree Stump]] | Forest Deep herbalist shelter; Herbalists gather Herb within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:twilightherbs|Twilight Herbs]] | Twilight Herbs herbalist shelter; Herbalists gather wild Herbs within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:pinegatherer|Vanilla Gatherer's Cache]] | Maritimes Pine Set gatherer; Gatherers collect vanilla wild foods within a 25-tile radius |
+| [[buildings:gathering:ebsvgathererslodge|Village Gatherers Hut]] | EB Small Village gatherers hut; Gatherers collect wild food from within a 30-tile radius |
+| [[buildings:gathering:dssvherbalist|Village Herbalist (DS Small Village)]] | DS Small Village herbalist shelter; Herbalists collect wild herbs from within a 30-tile radius |
+| [[buildings:gathering:ebsvherbalist|Village Herbalist (EB Small Village)]] | EB Small Village herbalist; Herbalists collect Herb within a 30-tile radius; also heals citizens |
+| [[buildings:gathering:dssvorchard|Village Orchard]] | DS Small Village drag-to-place orchard; Farmer tends and harvests fruit trees |
+| [[buildings:gathering:dssvorchardlarge|Village Orchard, large]] | DS Small Village large drag-to-place orchard with 3×4 spacing; better yield and less disease |
+| [[buildings:gathering:dssvorchardtight|Village Orchard, tight]] | DS Small Village tight drag-to-place orchard with 2×2 spacing |
+| [[buildings:gathering:dwwalnuttree|Walnut Tree]] | Deadwood wild walnut tree; Worker forages Walnuts with no input materials; free to build |
+| [[buildings:gathering:apweedpatch|Weed Patch]] | Abandoned Places restoration; Worker randomly gathers Down, Fur, Eggs, Rabbit Meat, or Game from an overgrown patch |
+| [[buildings:gathering:whherbalist|WH Herbalist]] | Westward Ho herbalist shelter; Herbalists gather wild Herbs within a 24-tile radius; also heals citizens |
+| [[buildings:gathering:cc17wsgatherer|Wild Gatherer]] | Colonial Charter upgrade gatherer; collects wild food from the surrounding area |
+| [[buildings:gathering:cc17ws|Wild Shepherd]] | Colonial Charter gatherer; collects miscellaneous trade goods from the surrounding area |
+| [[buildings:gathering:wpgatherer|WP Gatherer]] | Work Place compact gatherer hut; Gatherers collect wild food within a 24-tile radius |
+| [[buildings:gathering:wpherbalist|WP Herbalist]] | Work Place compact herbalist shelter; Herbalists gather wild Herbs within a 24-tile radius; also heals citizens |
+
+----
+
+{{tag>Buildings Gathering}}

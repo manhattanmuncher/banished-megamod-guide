@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NMT 3.0 Lighthouse ======
+----
+
+<WRAP right>
+^  NMT 3.0 Lighthouse                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnmt30lighthouse.png?nolink|NMT 3.0 Lighthouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Large coastal landmark  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  160  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  58  |
+|  [[WikiPages:stone:stone|Stone]]  |  98  |
+|  [[WikiPages:iron:iron|Iron]]  |  14  |
+|  [[WikiPages:copper:copper|Copper]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A monumental stone lighthouse from the New Medieval Town (NMT) set, part of the RK Editor's Choice Edition. It is a large decorative landmark for coastlines and harbours, built from a substantial mix of lumber, stone, iron and copper. (Distinct from the separate [[buildings:nomads:newmedievallighthouse|Medieval Lighthouse]].)
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnmt30lighthouse.png?nolink|NMT 3.0 Lighthouse}}</wrap> **NMT 3.0 Lighthouse**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building TownHalls RKEditorChoice}}

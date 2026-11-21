@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Stone Wall Gate 2×3 (Impassable) ======
+----
+
+<WRAP right>
+^  Country Stone Wall Gate 2×3 (Impassable)                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallgate2x3.png?nolink|Country Stone Wall Gate 2×3 (Impassable)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+|  Storage Categories  |  All  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods impassable gate upgrade for the Country Stone Wall set. Settlers store any goods with a capacity of 1,000 units. Built by upgrading the [[buildings:storage:dscountrystonewallgate2x3|Country Stone Wall Gate 2×3]].
+
+----
+
+===== Where to Find =====
+
+Upgrade from: [[buildings:storage:dscountrystonewallgate2x3|Country Stone Wall Gate 2×3]]
+
+----
+
+This building originally came from **Fences v17004**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=357|WoB]]
+
+{{tag>Building Storage DS}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Topaz ======
+----
+
+<WRAP right>
+^  Topaz                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  80  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/gemtopaze.png?nolink|Topaz}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Topaz is a precious item valued for Its rarity or beauty in the Banished MegaMod. It is stored in a Barn and functions primarily as luxury trade goods, attracting favourable prices from merchants. At a trade value of 80, it is highly prized by traveling merchants.
+
+----
+
+===== Topaz Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:precious:nmt30gemcutter|Gem Cutter]] (random from Gemstone (Rough))
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

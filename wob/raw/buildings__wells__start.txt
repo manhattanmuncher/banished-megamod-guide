@@ -1,0 +1,65 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Well Buildings ======
+----
+
+Buildings that provide fresh water through wells and other water sources.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:wells:jinxiebittywell|Bitty Well]] | Jinxie Bitty Village Set compact well; Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:dscelticwaterwell|Celtic Water Well]] | DS Mods Celtic well; Worker draws Water for use in cooking and other production |
+| [[buildings:wells:dscelticwell|Celtic Well (DS Celtic House)]] | DS Celtic House themed well; Safety happiness and fire suppression, radius 34; 1 × 1 footprint |
+| [[buildings:wells:chefchaouenwell|Chefchaouen Well]] | A8 Moroccan Misc well; Safety happiness and fire suppression, radius 20; 4 × 4 footprint with walkable hollow center |
+| [[buildings:wells:cc17watertank|City Water Tank]] | Colonial Charter city water tank; Vendor draws and distributes Water for the colony |
+| [[buildings:wells:cleaningfountain|Cleaning Fountain (Colonial Charter)]] | Colonial Charter decorative fountain functioning as a well; Safety happiness and fire suppression, radius 20; 2 × 2 footprint |
+| [[buildings:wells:ghostcleaningfountain|Cleaning Fountain Ghost (Colonial Charter)]] | Colonial Charter ghost version of the Cleaning Fountain; Safety happiness and fire suppression, radius 20; 0 × 0 ghost footprint |
+| [[buildings:wells:ebfountain|EB Fountain]] | EB (embx61) decorative fountain functioning as a well; Safety happiness and fire suppression; three sizes (3×3/4×4/6×6, radius 20/24/28) plus ghosted versions |
+| [[buildings:wells:ebnaturalirrigation|EB Natural Irrigation]] | EB (embx61) modular water-distribution network; Water Lift pumps raise water through channels to a Water Reservoir |
+| [[buildings:wells:necemptysquare|Empty Square (Necora)]] | Necora invisible fire-suppression square; Safety happiness, no visible building; square/passable/field variants; free |
+| [[buildings:wells:emptysquare|Empty Square (Settlers)]] | Settlers mod decorative empty square; Safety happiness and fire suppression; 1 × 1 footprint; free to place |
+| [[buildings:wells:fairygardencliff|Fairy Garden Cliff]] | Fairy Garden themed decorative cliff piece functioning as a well; Safety happiness and fire suppression, radius 20; 3 × 3 footprint |
+| [[buildings:wells:fesuniversityfountain|Fes University Fountain]] | A8 Moroccan Misc decorative tiled fountain functioning as a well; Safety happiness and fire suppression, radius 20; 4 × 4 footprint with walkable hollow center |
+| [[buildings:wells:fortwell|Fort Well (CCFrontier)]] | CCFrontier fort well; Safety happiness and fire suppression, radius 20; 1 × 1 footprint; 80 work, 40 Wood, 4 Stone |
+| [[buildings:wells:ccfountain|Fountain (Colonial Charter)]] | Colonial Charter decorative fountain functioning as a well; Safety happiness and fire suppression, radius 20; 3 × 3 footprint |
+| [[buildings:wells:ghostccfountain|Fountain Ghost (Colonial Charter)]] | Colonial Charter ghost version of the Fountain; Safety happiness and fire suppression, radius 20; 0 × 0 ghost footprint |
+| [[buildings:wells:gbvwell|GBV Well]] | Gingerbread Village well; free to build; Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:dsjabjettywell|Jetty Well (DS Jetty & Bridge)]] | DS Jetty & Bridge well; Safety happiness and fire suppression, radius 20; 1 × 1 footprint; two texture variants |
+| [[buildings:wells:dsjabjettywaterstore|Jetty Water Store]] | DS Jetty & Bridge water pump on a jetty; Worker draws fresh Water; can be placed on water |
+| [[buildings:wells:dsjabjettywaterstoretex2|Jetty Water Store (Tex2)]] | DS Jetty & Bridge water store, Texture 2 variant; identical stats to standard Jetty Water Store |
+| [[buildings:wells:mgwell|MG Well (Medieval Grace)]] | Medieval Grace themed well; Safety happiness and fire suppression, radius 40; 1 × 1 footprint |
+| [[buildings:wells:bodiamwell|Nomad Well (Bodiam Castle)]] | Bodiam Castle wells; five variants (plain well plus 5/10/20/50% nomad group size); Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:nomadwell|Nomad Well (Tiny Buildings)]] | Tiny Buildings wells; five variants (plain well plus 5/10/20/50% nomad group size); Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:oldtownpump|Old Town Pump]] | A8 South African Misc hand-pump well; Safety happiness and fire suppression, radius 20; 4 × 4 footprint with walkable hollow center |
+| [[buildings:wells:peilighthouse|PEI Shore Lighthouse]] | Necora Maritimes PEI Shore coastal lighthouse; Safety happiness and fire suppression, radius 10; 2 × 2 |
+| [[buildings:wells:phwell|Plantation Well (Plimoth Harmonized)]] | Plimoth Plantation Harmonized themed well; Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:ppwell|Plantation Well (Plimoth Plantation)]] | Plimoth Plantation themed well; Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:ccpond|Pond (Colonial Charter)]] | Colonial Charter decorative ponds; Safety happiness and fire suppression, radius 20; two variants (Pond 3×3, Large Pond 6×6) |
+| [[buildings:wells:ghostccpond|Pond Ghosts (Colonial Charter)]] | Colonial Charter ghost ponds; Safety happiness and fire suppression, radius 20; two variants (Pond and Large Pond); 0 × 0 ghost footprint |
+| [[buildings:wells:sbvquietgarden|Quiet Garden (The Mission)]] | The Mission themed decorative garden; Safety happiness and fire suppression, radius 20; 9 × 9 footprint |
+| [[buildings:wells:smallwell|Roadless Well (Colonial Charter)]] | Colonial Charter well placeable without road access; Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:tokyowell|Tokyo Well]] | A8 Japanese well; Safety happiness and fire suppression, radius 20; 3 × 3 footprint |
+| [[buildings:wells:mfwaterbarrel|Water Barrel (Mexican Fantasy)]] | Mexican Fantasy water barrel; Worker collects Water; must be placed partially on water |
+| [[buildings:wells:whwaterbarrel|Water Barrel (Westward Ho)]] | Westward Ho water barrel; Workers gather Water for use as a cooking ingredient |
+| [[buildings:wells:newpond|Water Pond (Kid)]] | Kid New Well decorative 4x4 garden pond; also gives fire protection; WR 80 + Stone 24 |
+| [[buildings:wells:mfwaterpump|Water Pump]] | Mexican Fantasy water pump; Worker pumps Water to supply crop production |
+| [[buildings:wells:newpump|Water Pump (Kid)]] | Kid New Well 1x1 pump; buildable on roads; WR 40 + Iron 2 |
+| [[buildings:wells:ebirrigationendwelln|Water Reservoir]] | EB Natural Irrigation end-piece; Worker draws Water from the irrigation network into a stockpile |
+| [[buildings:wells:watertower|Water Tower]] | Colonial Charter water tower; Vendor collects and distributes Water for the colony |
+| [[buildings:wells:ebwaterwell|Water Well (EB)]] | EB mod water well; Worker draws fresh Water for the colony |
+| [[buildings:wells:rkgardenwalls2well|Water Well (Garden Walls)]] | RK Garden Walls compact 1×1 well; Worker draws Water for the colony |
+| [[buildings:wells:newwell|Water Well (Kid)]] | Kid New Well 2x2 well; fire protection; WR 80 + Stone 24; Wells menu + KID Toolbar Services |
+| [[buildings:wells:rkgardenwallswell|Water Well (RK Editor Choice)]] | RK Editor Choice 3×3 well; Worker draws Water for the colony |
+| [[buildings:wells:dssvwaterpump|Village Water Pump]] | DS Small Village shore-built water pump; Worker draws Water from an adjacent water tile |
+| [[buildings:wells:ebsvwaterwell|Village Water Well]] | EB Small Village water well; Worker draws fresh Water for the colony |
+| [[buildings:wells:ebsvwell|Village Well]] | EB Simple Village well; provides Safety happiness and fire suppression within a radius of 20 tiles; 1 × 1 footprint |
+| [[buildings:wells:dssvwell|Village Well (DS Small Village)]] | DS Small Village well; Safety happiness and fire suppression, radius 20; 1 × 1 (also a 2 × 2 Large version) |
+| [[buildings:wells:settlerswell|Well (Settlers)]] | Settlers mod wells; seven variants (plain well plus 2/5/10/20/50/100% nomad group size); Safety happiness and fire suppression, radius 20; 1 × 1 footprint |
+| [[buildings:wells:windmillpump|Windmill Pump]] | Colonial Charter windmill pump; Vendor draws and distributes Water for the colony |
+| [[buildings:wells:wooddock|Wood Dock Pieces (Colonial Charter)]] | Colonial Charter dock platform pieces; Safety happiness and fire suppression, radius 20; three variants (1×1, 2×1, 3×1 footprints); can be placed on water |
+| [[buildings:wells:well|Well]] | Vanilla Banished well; Worker provides Safety happiness and fire suppression within a 20-tile radius; 3 × 3 footprint |
+
+----
+
+{{tag>Buildings Wells}}

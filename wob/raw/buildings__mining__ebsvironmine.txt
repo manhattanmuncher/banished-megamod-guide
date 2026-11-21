@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Mine ======
+----
+
+<WRAP right>
+^  Village Mine                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvironmine.png?nolink|Village Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–8 (2)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  60  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  82  |
+|  [[WikiPages:wood:log|Wood]]  |  54  |
+|  [[WikiPages:stone:stone|Stone]]  |  26  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village mine. Miners extract Iron Ore by default but the player can switch the operation between Iron Ore and Coal. The pit imposes a Detraction happiness penalty in a 30-tile radius and depletes after 2,000 units of total production.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines}}</wrap> **Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvironmine.png?nolink|Village Mine}}</wrap> **Village Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resource Production}}</wrap> **Village Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubmining.png?nolink|Village Mines and Quarries}}</wrap> **Village Mines and Quarries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvironmine.png?nolink|Village Mine}}</wrap> **Village Mine**
+
+----
+
+===== Produces =====
+
+The player selects which material to produce:
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Mining EB}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Moroccan Arch ======
+----
+
+<WRAP right>
+^  Moroccan Arch                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccanarch.png?nolink|Moroccan Arch}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative Moroccan archway from the A8 Moroccan Housing mod, used to dress up walls and walkways between buildings. Comes in a standard 1×1 piece and a wider Large Arch.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Build Cost ^
+| Moroccan Arch | 1 × 1 | 20 work, 1 [[WikiPages:stone:stone|Stone]] |
+| Moroccan Large Arch | 2 × 1 | 25 work, 1 [[WikiPages:stone:stone|Stone]] |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccanarch.png?nolink|Moroccan Arch}}</wrap> **Moroccan Arch**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Housing v3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=572|WoB]], [[https://www.nexusmods.com/banished/mods/107|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913000838|Steam]]
+
+{{tag>Building Decorations A8}}

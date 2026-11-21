@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seedling ======
+----
+
+<WRAP right>
+^  Seedling                                       ^  xRK  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |  Custom4  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |  6/8  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  2  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/seedling.png?nolink|Seedling}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Seedling is a raw material harvested directly from the environment in the Banished MegaMod. It is stockpiled and used as a base ingredient for crafting and construction. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Seedling Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:resources:fhpottingshed|Potting Shed (Forest Haven)]]
+  * Produced at the [[buildings:greenhouse:ghfpottingshed|Potting Shed (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:greenhouse|Greenhouse]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom4}}

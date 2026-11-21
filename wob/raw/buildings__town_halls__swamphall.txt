@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hall (Swamp Houses / Swamp Thing) ======
+----
+
+<WRAP right>
+^  Hall                                                                               ^  Swamp Houses / Swamp Thing  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphall.png?nolink|Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+</WRAP>
+<WRAP right></WRAP>
+
+A swamp hall providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony. Shared by the Swamp Houses and Swamp Thing themed sets.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphall.png?nolink|Hall}}</wrap> **Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampthing.png?nolink|Swamp Thing}}</wrap> **Swamp Thing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphall.png?nolink|Hall}}</wrap> **Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphall.png?nolink|Hall}}</wrap> **Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampthing.png?nolink|Swamp Thing}}</wrap> **Swamp Thing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphall.png?nolink|Hall}}</wrap> **Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphall.png?nolink|Hall (Swamp Houses / Swamp Thing)}}</wrap> **Hall (Swamp Houses / Swamp Thing)**
+
+----
+
+===== Other Information =====
+
+{{tag>Building TownHalls KidSwampHouses KidSwampThing}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Wood Storage ======
+----
+
+<WRAP right>
+^  Dock Wood Storage                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstockpilel.png?nolink|Dock Wood Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,500  |
+|  Storage Categories  |  Wood  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  29  |
+|  [[WikiPages:wood:log|Wood]]  |  29  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter dock stockpile for raw wood. Settlers store logs with a capacity of 6,500 units. Must be placed over water as part of a dock.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstockpilel.png?nolink|Dock Wood Storage}}</wrap> **Dock Wood Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstockpilel.png?nolink|Dock Wood Storage}}</wrap> **Dock Wood Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstockpilel.png?nolink|Dock Wood Storage}}</wrap> **Dock Wood Storage**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

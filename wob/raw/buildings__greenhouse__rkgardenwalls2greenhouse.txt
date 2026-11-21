@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Garden Walls Greenhouse ======
+----
+
+<WRAP right>
+^  Garden Walls Greenhouse                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwalls2greenhouse.png?nolink|Garden Walls Greenhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/botanist.png?nolink|Botanist}}</wrap> Botanist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Garden Walls Greenhouse is an RK Garden Walls building where a Botanist uses Water and Fertilizer to grow a variety of crops year-round. It supports 14 different crop types in a single compact building.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwalls2greenhouse.png?nolink|Garden Walls Greenhouse}}</wrap> **Garden Walls Greenhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwalls2greenhouse.png?nolink|Garden Walls Greenhouse}}</wrap> **Garden Walls Greenhouse**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                     ^ Produces                                          ^
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:bean|Bean]]                      |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:blueberries|Blueberry]]           |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:cabbage|Cabbage]]                 |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:corn|Corn]]                       |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:health:herb|Herb]]                     |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:mushroom|Mushroom]]               |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:onion|Onion]]                     |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:pepper|Pepper]]                   |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:potato|Potato]]                   |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:pumpkin|Pumpkin]]                 |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:raspberries|Raspberry]]           |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:squash|Squash]]                   |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:strawberries|Strawberry]]         |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:watermelons|Watermelon]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Garden Walls: Utility v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=240|WoB]]
+
+{{tag>Building Greenhouse RKGardenWalls}}

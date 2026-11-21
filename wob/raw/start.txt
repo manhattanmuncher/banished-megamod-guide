@@ -1,0 +1,137 @@
+~~NOTOC~~
+
+<WRAP half column>
+===== What is Banished? =====
+
+Banished is a city-building strategy game by Shining Rock Software where you guide a group of exiled travelers building a new life in the wilderness. There are no enemies — just weather, starvation, and an ageing population. Every decision about where you build, what you grow, and how you balance resources matters.
+</WRAP>
+<WRAP half column>
+===== What is MegaMod? =====
+
+MegaMod is a large compilation mod that bundles hundreds of community-created buildings, resources, and systems into a single compatible package. It greatly expands what Bannies can produce, trade, and consume — adding new food types, industries, themed building sets, and much more.
+</WRAP>
+<WRAP clear></WRAP>
+
+----
+
+<WRAP third column navtile>
+**[[buildings:start|🏗️ Buildings]]**\\
+Build costs, production rates, toolbar locations
+</WRAP>
+<WRAP third column navtile>
+**[[livestock:start|🐄 Livestock]]**\\
+Pasture animals and what they produce
+</WRAP>
+<WRAP third column navtile>
+**[[WikiPages:start|🌾 Items & Resources]]**\\
+Food, materials, fuel, clothing, tools
+</WRAP>
+<WRAP clear></WRAP>
+
+<WRAP third column navtile>
+**[[professions:start|👷 Professions]]**\\
+Jobs, workforce balance, output rates
+</WRAP>
+<WRAP third column navtile>
+**[[mechanics:start|⚙️ Game Mechanics]]**\\
+Happiness, health, food variety, education
+</WRAP>
+<WRAP third column navtile>
+**[[trading:start|⚖️ Trading]]**\\
+Merchants, trade posts, buy & sell values
+</WRAP>
+<WRAP clear></WRAP>
+
+<WRAP third column navtile>
+**[[climate:start|❄️ Climate]]**\\
+Seasons, growing windows, fuel needs
+</WRAP>
+<WRAP third column navtile>
+**[[terrain:start|🗺️ Terrain]]**\\
+Map types and landscape shapes
+</WRAP>
+<WRAP third column navtile>
+**[[disasters:start|🔥 Disasters]]**\\
+Fire, disease, tornadoes — preparation & recovery
+</WRAP>
+<WRAP clear></WRAP>
+
+<WRAP third column navtile>
+**[[startconditions:start|🏕️ Starting Conditions]]**\\
+Families, resources, pre-built structures, seeds
+</WRAP>
+<WRAP third column navtile>
+**[[mods:start|📦 Mods]]**\\
+Mods
+</WRAP>
+<WRAP third column navtile>
+**[[achievements:start|🏆 Achievements]]**\\
+Vanilla-only milestones and goals
+</WRAP>
+
+----
+
+<WRAP navband>**🛤️ Transport**</WRAP>
+<WRAP navcontent>
+| [[buildings:roads:start|🛣️ Roads]] | [[buildings:bridges:start|🌉 Bridges]] | [[buildings:tunnels:start|🕳️ Tunnels]] | |
+</WRAP>
+
+<WRAP navband>**🏠 Housing**</WRAP>
+<WRAP navcontent>
+| [[buildings:houses:start|🏠 Houses]] | [[buildings:boarding_houses:start|🏘️ Boarding Houses]] | | |
+</WRAP>
+
+<WRAP navband>**📦 Storage**</WRAP>
+<WRAP navcontent>
+| [[buildings:storage:start|🏚️ Storage Barns]] | [[buildings:stockpiles:start|📦 Stockpiles]] | [[buildings:market:start|🛒 Market]] | [[buildings:trading_post:start|⚖️ Trading Post]] |
+</WRAP>
+
+<WRAP navband>**🏛️ Civics**</WRAP>
+<WRAP navcontent>
+| [[buildings:town_halls:start|🏛️ Town Halls]] | [[buildings:nomads:start|🚶 Nomads]] | [[buildings:wells:start|💧 Wells]] | [[buildings:schools:start|🎓 Schools]] |
+| [[buildings:worship:start|⛪ Worship]] | [[buildings:cemeteries:start|🪦 Cemetery]] | [[buildings:hospital:start|🏥 Hospital]] | [[buildings:herbalist:start|🌿 Herbalist]] |
+| [[buildings:more_civic:start|🏗️ More Civic]] | | | |
+</WRAP>
+
+<WRAP navband>**🌾 Food Production**</WRAP>
+<WRAP navcontent>
+| [[buildings:fields:start|🌱 Fields]] | [[buildings:pastures:start|🐄 Pastures]] | [[buildings:fishing:start|🎣 Fishing]] | [[buildings:gathering:start|🌿 Gathering]] |
+| [[buildings:hunting:start|🏹 Hunting]] | [[buildings:beekeeping:start|🐝 Beekeeping]] | [[buildings:water:start|💧 Water]] | [[buildings:greenhouse:start|🪴 Greenhouse]] |
+| [[buildings:animal_pens:start|🐖 Animal Pens]] | | | |
+</WRAP>
+
+<WRAP navband>**🍳 Food Processing**</WRAP>
+<WRAP navcontent>
+| [[buildings:butcher:start|🥩 Butcher]] | [[buildings:bakery:start|🥐 Baker]] | [[buildings:dairy:start|🧈 Dairy]] | [[buildings:milling:start|🌾 Milling]] |
+| [[buildings:oil_press:start|🫙 Oil Press]] | [[buildings:preserving:start|🥫 Preserving]] | [[buildings:preparing:start|🔪 Preparing]] | [[buildings:more_food:start|🍲 More Food]] |
+</WRAP>
+
+<WRAP navband>**⛏️ Resource Production**</WRAP>
+<WRAP navcontent>
+| [[buildings:forester:start|🌲 Forester]] | [[buildings:mining:start|⛏️ Mining]] | [[buildings:sand_clay:start|🏺 Sand & Clay]] | [[buildings:resources:start|🪨 Resources]] |
+</WRAP>
+
+<WRAP navband>**⚙️ Refined Resources**</WRAP>
+<WRAP navcontent>
+| [[buildings:clothing:start|🧥 Clothing]] | [[buildings:crafting:start|🏺 Crafting]] | [[buildings:industrial:start|🏭 Industrial]] | [[buildings:fuel:start|🪵 Fuel]] |
+| [[buildings:precious:start|💎 Precious]] | [[buildings:construction:start|🧱 Construction]] | [[buildings:metalworking:start|⚙️ Metalworking]] | [[buildings:workshop:start|🔧 Workshop]] |
+| [[buildings:luxuries:start|✨ Luxuries]] | | | |
+</WRAP>
+
+<WRAP navband>**🌾 Items & Resources**</WRAP>
+<WRAP navcontent>
+| [[WikiPages:food:start|🥩 Food]] | [[WikiPages:fruit:start|🍎 Fruit]] | [[WikiPages:grain:start|🌾 Grain]] | [[WikiPages:vegetable:start|🥦 Vegetables]] |
+| [[WikiPages:fuel:start|🪵 Fuel]] | [[WikiPages:wood:start|🪓 Logs]] | [[WikiPages:stone:start|🪨 Stone]] | [[WikiPages:iron:start|⚙️ Iron]] |
+| [[WikiPages:health:start|🌿 Herbs & Health]] | [[WikiPages:tool:start|🔧 Tools]] | [[WikiPages:coalfuel:start|⛏️ Minerals]] | [[WikiPages:clothing:start|🧥 Clothing]] |
+| [[WikiPages:textile:start|🧶 Textiles (Raw)]] | [[WikiPages:custom2:start|🪡 Fabrics]] | [[WikiPages:alcohol:start|🍺 Luxuries & Alcohol]] | [[WikiPages:custom0:start|🏺 Crafted Items]] |
+| [[WikiPages:custom1:start|🔨 Forged Items]] | [[WikiPages:custom3:start|🏭 Industrial]] | [[WikiPages:custom4:start|🪵 Materials]] | [[WikiPages:custom5:start|🧱 Construction]] |
+| [[WikiPages:custom6:start|💎 Precious]] | [[WikiPages:custom7:start|📦 Miscellaneous]] | | |
+</WRAP>
+
+----
+
+===== External Links =====
+
+  * [[http://worldofbanished.com|World of Banished — Community Forums]]
+  * [[http://worldofbanished.com/index.php?action=downloads|WoB Downloads]]
+                                                                                                                                                                                                                                

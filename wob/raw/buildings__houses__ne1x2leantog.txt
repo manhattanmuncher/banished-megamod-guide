@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Lean-To (Georgian) ======
+----
+
+<WRAP right>
+^  Small Lean-To (Georgian)                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne1x2leanto.png?nolink|Small Lean-To (Georgian)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 1  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  5  |
+|  [[WikiPages:stone:stone|Stone]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New England Georgian-style lean-to; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarne.png?nolink|New England Colonial Set}}</wrap> **New England Colonial Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnegeorgian.png?nolink|New England Georgian Houses}}</wrap> **New England Georgian Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne1x2leanto.png?nolink|Small Lean-To (Georgian)}}</wrap> **Small Lean-To (Georgian)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarne.png?nolink|New England Colonial Set}}</wrap> **New England Colonial Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnegeorgian.png?nolink|New England Georgian Houses}}</wrap> **New England Georgian Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne1x2leanto.png?nolink|Small Lean-To (Georgian)}}</wrap> **Small Lean-To (Georgian)**
+
+----
+
+{{tag>Building Houses NewEngland}}

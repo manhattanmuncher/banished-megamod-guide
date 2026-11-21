@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fuel Buildings ======
+----
+
+Buildings that produce fuel such as firewood, charcoal, and coal.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:fuel:abpwoodcutter|ABP Wood Cutter]] | Animal Barn Plus wood cutting station; Cutter splits logs into firewood |
+| [[buildings:fuel:jinxiebittywoodcutter|Bitty WoodCutter]] | Jinxie's Bitty Village fuel building; processes logs into firewood or lumber |
+| [[buildings:fuel:firebundler|Bundling Shed]] | Gathers and cuts organics into fuel bundles |
+| [[buildings:fuel:dscelticwoodchopper|Celtic Chopper]] | DS Mods fuel building; Cutter splits Wood into Firewood |
+| [[buildings:fuel:ebsvcharcoalpile|Charburner]] | EB charcoal pile; burns Firewood into Charcoal; emits happiness detraction nearby |
+| [[buildings:fuel:maritimeshumblecharcoalburner|Charcoal Burner (Maritimes Humble)]] | Maritimes Humble charcoal burner; converts Pine Boughs or Wood into Charcoal |
+| [[buildings:fuel:nmt30charcoalkiln|Charcoal Kiln]] | NMT charcoal kiln; burns firewood into charcoal |
+| [[buildings:fuel:chopchop|Chop-Chop]] | Small building; Cutter processes logs into lumber or firewood |
+| [[buildings:fuel:chopper|Chopper]] | Colonial Charter compact firewood building; Cutter chops logs into firewood |
+| [[buildings:fuel:shwchopper|Chopper (SHW)]] | SHW chopper; Woodcutter workplace producing firewood |
+| [[buildings:fuel:ootwchopper|Chopper (OOTW)]] | Out Of This World chopper; Cutter splits wood into firewood |
+| [[buildings:fuel:cutteryard|Cutter Yard]] | RK Editor's Choice building; Cutter converts logs, lumber, or thatch into Firewood |
+| [[buildings:fuel:eccutteryard|Cutter Yard (EC)]] | RK Editor's Choice alternate cutter yard; chops Logs, Lumber, or Haystack into Firewood |
+| [[buildings:fuel:maritimeshumblefirewoodchopper|Firewood Chopper (Maritimes Humble)]] | Maritimes Humble firewood chopper; Cutter splits Wood into Firewood |
+| [[buildings:fuel:fuelrefinery|Fuel Refinery]] | Colonial Charter refinery; processes raw fuel materials into Furnace Fuel |
+| [[buildings:fuel:ishikawacharcoalkiln|Ishikawa Charcoal Kiln]] | A8 Japanese mod kiln; charcoal burner converts wood logs into charcoal |
+| [[buildings:fuel:dsjabjettyfirewood2x2|Jetty Firewood Splitter]] | DS Jetty & Bridge firewood splitter; Cutter chops logs into firewood; can be placed on water |
+| [[buildings:fuel:dsjabjettyfirewood2x2tex2|Jetty Firewood Splitter (Tex2)]] | DS Jetty & Bridge firewood splitter, alternate style; same as Jetty Firewood Splitter |
+| [[buildings:fuel:minichop|Mini Wood Cutter]] | Compact Mini building; Cutter chops a single log into Firewood |
+| [[buildings:fuel:ebmodwoodcutteryard|Modular Wood Cutter Yard]] | EB modular wood cutter yard; Cutters chop Logs into Firewood |
+| [[buildings:fuel:oldhovelwoodcutter|Old Hovel Wood Cutter (Old Hovels)]] | Old Hovels wood cutting station; Cutter splits logs into firewood |
+| [[buildings:fuel:pinechopper|Pine Chopper]] | Necora Pine Set firewood chopper; splits wood into firewood |
+| [[buildings:fuel:pinelumbercutter|Pine Lumber Cutter]] | Necora Pine Set lumber cutter; saws wood into lumber |
+| [[buildings:fuel:prcutter|Port Royal Wood Cutter]] | Maritimes Port Royal wood cutter; makes lumber from wood |
+| [[buildings:fuel:nmt30sawoodcutter|SA Woodcutter]] | NMT standalone woodcutter; converts logs into firewood |
+| [[buildings:fuel:kilnbuilding|Stacks Burner]] | Colonial Charter fuel building; burns wood into charcoal or coal into coke |
+| [[buildings:fuel:tinychopper|Tiny Chopper]] | KID minimal wood processing station; Cutter converts Logs into Firewood |
+| [[buildings:fuel:tieredchopper|Urban Wood Cutter]] | Colonial Charter modular stacked urban wood cutter; chops Logs into Firewood |
+| [[buildings:fuel:dssvfirewoodsplitter|Village Firewood Yard]] | DS Small Village firewood yard; Cutters split Logs into Firewood |
+| [[buildings:fuel:ebsvwoodcutter|Village Wood Cutter]] | EB Small Village wood cutter; Cutters split Logs into Firewood |
+| [[buildings:fuel:fochopper|Wood Chopper (Forest Outpost)]] | Forest Outpost chopping station; converts Logs into Firewood |
+| [[buildings:fuel:fishshipswoodcutter|Wood Cutter (Fish n Ships)]] | Fish n Ships wood cutter; splits logs into firewood |
+| [[buildings:fuel:japanesewoodcutter|Woodcutter]] | A8 Japanese All-In-One mod building; Cutter chops wood logs into firewood |
+| [[buildings:fuel:fhwoodcutter|Woodcutter (Forest Haven)]] | Forest Haven woodcutter; converts Logs into Firewood |
+| [[buildings:fuel:nmtwoodcutterdock|Woodcutter (NMT Dock)]] | NMT Docks woodcutter; Woodcutter chops logs, lumber, or thatch into Firewood |
+| [[buildings:fuel:nmtwoodcutterstonedock|Woodcutter (NMT Stone Dock)]] | NMT Docks stone-construction woodcutter; upgraded from wood version; chops logs, lumber, or thatch into Firewood |
+
+----
+
+{{tag>Buildings Fuel}}

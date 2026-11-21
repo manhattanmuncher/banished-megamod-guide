@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Down ======
+----
+
+<WRAP right>
+^  Down                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/down.png?nolink|Down}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Down is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. It has a modest trade value of 5.
+
+----
+
+===== Down Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:patchweed|Weed Patch (Coats & Cloth)]]
+  * Produced at the [[buildings:gathering:apweedpatch|Weed Patch]]
+  * Produced at the [[buildings:hunting:fthunter|Elven Hunter (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:hunting:ghfhuntingcabin|Hunting Cabin (Grow Hunt Fish)]]
+  * Produced at the [[buildings:fields:kf16|Farmyard 16]]
+  * Produced at the [[buildings:gathering:theglade|The Glade]] (random)
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

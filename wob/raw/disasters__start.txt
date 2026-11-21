@@ -1,0 +1,71 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Disasters ======
+----
+
+Disasters are random events that threaten your settlement. The game includes three types: disease outbreaks, fires, and tornadoes. Disease is the most common threat; fires and tornadoes are rarer but can destroy buildings and kill citizens instantly.
+
+----
+
+===== Disease =====
+
+Disease outbreaks occur randomly. When an outbreak starts, infected citizens spread the disease to nearby healthy citizens within a radius every quarter year. The [[buildings:hospital:doctorhouse|Doctor's House]] reduces disease spread and death rates; [[buildings:gathering:herbalist|Herbalist]] provides a passive health boost that helps citizens recover. The [[professions:start|Doctor]] profession is immune to disease and will not die from it.
+
+**Infection %** — chance a healthy citizen within range catches the disease each transmission cycle. **Fatality** — once infected, 1 in N citizens will die. **Radius** — tile range for person-to-person spread.
+
+^ Disease ^ Infection % ^ Radius ^ Fatality (1 in N) ^ Notes ^
+| Influenza | 100% | 8 | 1 in 50 | Spreads to almost everyone but rarely kills |
+| Mumps | 90% | 8 | 1 in 35 | Very contagious; low death rate |
+| Diphtheria | 80% | 8 | 1 in 80 | Very contagious; lowest death rate of all diseases |
+| Dysentery | 80% | 8 | 1 in 25 | Very contagious; moderate death rate |
+| Yellow Fever | 60% | 8 | 1 in 20 | Moderately contagious; notable fatality |
+| Scarlet Fever | 50% | 8 | 1 in 15 | Even spread and death chance |
+| Typhus | 40% | 8 | 1 in 12 | Moderately contagious; significant death rate |
+| Measles | 30% | 8 | 1 in 10 | Less common; 10% fatality |
+| Tuberculosis | 20% | 8 | 1 in 8 | Uncommon; ~12.5% fatality |
+| Small Pox | 10% | 8 | 1 in 5 | Rare outbreak; 20% fatality |
+| Cholera | 5% | 12 | 1 in 4 | Rare but very lethal; wider spread radius |
+| Plague | 1% | 12 | 1 in 3 | Very rare; highest death rate; wider spread radius |
+
+----
+
+===== Fire =====
+
+Buildings can spontaneously catch fire or ignite from a neighboring burning structure. Once a fire starts, it spreads to adjacent buildings approximately once per in-game day. Citizens automatically fight fires by carrying water; up to 50 workers can respond at once. A fire requires 100 units of water to extinguish and burns for approximately one month if not put out.
+
+Each building is assigned one of five fire types, which determine its spontaneous ignition risk and how readily it spreads fire to neighbors. Buildings with **ignition years = 0** never start fires on their own — they can only catch fire from a burning neighbor.
+
+**Ignition** — average years between spontaneous fires at a population of 100 (fires become more frequent as population grows). **Spread** — chance per spread interval that the fire jumps to an adjacent building.
+
+^ Fire Type ^ Typical Buildings ^ Ignition (yrs @ pop 100) ^ Spread Chance ^ Notes ^
+| Wood House | Wood residential buildings | 20 years | 50% | Standard ignition risk |
+| Wood Building | Wood non-residential buildings | Never | 50% | Can only catch fire from neighbors |
+| Stone House | Stone residential buildings | 30 years | 33% | Harder to ignite; spreads less |
+| Stone Building | Stone non-residential buildings | Never | 33% | Can only catch fire; spreads less |
+| Production | Workshops and production buildings | 40 years | 50% | Least likely to self-ignite |
+| Dock House | Dock buildings | 11 years | 80% | High ignition risk; spreads aggressively |
+| Lumber Mill (DS) | DS Lumber Mill | 5 years | 80% | Highest ignition risk in the game |
+
+Stone buildings are meaningfully safer — they ignite less often and spread fire at 33% versus 50% for wood. Dock buildings and the DS Lumber Mill are the greatest fire hazards and should not be placed adjacent to dense housing.
+
+----
+
+===== Tornadoes =====
+
+A tornado touches down near the town, carving a path through buildings and killing any citizens caught in its way. There is no warning and no counter-measure — buildings in the tornado's path are destroyed instantly. The only mitigation is climate selection at the start of a new game.
+
+**Path and destruction:** The tornado travels at 3 meters per second and covers a minimum of 64 tiles. It destroys everything within 8 tiles of its center line, with additional random destruction reaching up to 20 tiles from that line. A single tornado can cut a wide, unpredictable swath through a densely built settlement.
+
+**Frequency:** Tornado risk is controlled entirely by the chosen climate. Each climate defines an average years-between-events at low population; larger towns attract tornadoes more frequently as the population component of the formula grows. See the [[climate:start|Climate]] page for per-climate tornado frequencies.
+
+Climates with notably different tornado risk:
+
+  * **Never**: Very Mild (99,999 years — effectively impossible)
+  * **Extremely rare**: Marine (~1,000 years), DS Temperate (~889 years)
+  * **Very rare**: Tropical, Warm Arid, Harsh Arid (~600 years each)
+  * **Occasional**: Most climates (~100 years at low population)
+  * **Frequent**: DS Harsh Cold (~55 years), Very Harsh (~33 years)
+
+----
+
+{{tag>Disasters}}

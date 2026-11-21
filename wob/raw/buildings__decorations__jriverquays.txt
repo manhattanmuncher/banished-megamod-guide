@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== River Quay Wall ======
+----
+
+<WRAP right>
+^  River Quay Wall                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjriverquaysbig.png?nolink|River Quay Wall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3 (Large)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative stone river-quay wall pieces from the A8 Japanese mod, used to build embankments along waterways. Available in large, small, and diagonal pieces.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^ Build Cost ^
+| Large River Quay Wall | 3 × 3 | 35 work, 5 [[WikiPages:stone:stone|Stone]] |
+| Small River Quay Wall | 1 × 3 | 35 work, 2 [[WikiPages:stone:stone|Stone]] |
+| Diagonal River Quay Wall | 1 × 3 | 35 work, 2 [[WikiPages:stone:stone|Stone]] |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8deco.png?nolink|A8 deco}}</wrap> **A8 deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjriverquaysbig.png?nolink|River Quay Wall}}</wrap> **River Quay Wall**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

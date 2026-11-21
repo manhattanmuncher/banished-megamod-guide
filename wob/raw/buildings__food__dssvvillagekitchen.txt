@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Kitchen ======
+----
+
+<WRAP right>
+^  Village Kitchen                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvvillagekitchen.png?nolink|Village Kitchen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  13  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Small Village kitchen. Chefs prepare a varied menu of cooked dishes — Mushroom Soup, Vegetable Stew, Hunter's Stew, Fisherman's Catch, and Hardtack — each consuming firewood and a small set of ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvvillagekitchen.png?nolink|Village Kitchen}}</wrap> **Village Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvvillagekitchen.png?nolink|Village Kitchen}}</wrap> **Village Kitchen**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                                ^ Produces                                              ^
+| 8 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:health:herb|Herb]] + 1 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                       | [[WikiPages:food:mushroom_soup|Mushroom Soup]]        |
+| 3 [[WikiPages:food:mushroom|Mushroom]] + 3 [[WikiPages:food:root|Root]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                         | [[WikiPages:food:vegetable_stew|Vegetable Stew]]      |
+| 4 [[WikiPages:food:carrots|Carrot]] + 2 [[WikiPages:food:cabbage|Cabbage]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                      | [[WikiPages:food:vegetable_stew|Vegetable Stew]]      |
+| 2 [[WikiPages:food:pumpkin|Pumpkin]] + 4 [[WikiPages:food:bean|Bean]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                           | [[WikiPages:food:vegetable_stew|Vegetable Stew]]      |
+| 2 [[WikiPages:food:venison|Venison]] + 2 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:health:herb|Herb]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                         | [[WikiPages:food:hunters_stew|Hunter's Stew]]         |
+| 3 [[WikiPages:food:fish|Fish]] + 2 [[WikiPages:food:mollusc|Mollusc]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                                              | [[WikiPages:food:fishermans_catch|Fisherman's Catch]] |
+| 17 [[WikiPages:grain:flour|Flour]] + 1 [[WikiPages:food:water|Water]]                                                                                                                       | [[WikiPages:food:hardtack|Hardtack]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Food DS}}

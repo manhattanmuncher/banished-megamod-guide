@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pot Of Gold (Fairy Garden) ======
+----
+
+<WRAP right>
+^  Pot Of Gold                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpotofgold.png?nolink|Pot Of Gold}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionleprechaun.png?nolink|Leprechaun}}</wrap> Leprechaun  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  36.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Garden pot of gold. A leprechaun works the pot at the rainbow's end to produce Gold. Free to place.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpotofgold.png?nolink|Pot Of Gold}}</wrap> **Pot Of Gold**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpotofgold.png?nolink|Pot Of Gold}}</wrap> **Pot Of Gold**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpotofgold.png?nolink|Pot Of Gold (Fairy Garden)}}</wrap> **Pot Of Gold (Fairy Garden)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                                           ^
+| (none)       | [[WikiPages:custom1:gold|Gold]]                    |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building KidFairyGarden}}

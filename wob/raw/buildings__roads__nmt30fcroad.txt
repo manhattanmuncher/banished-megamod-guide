@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forest Center Path ======
+----
+
+<WRAP right>
+^  Forest Center Path                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30fcroad.png?nolink|Forest Center Path}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Tunnel  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  868  |
+</WRAP>
+<WRAP right></WRAP>
+
+A special path required to designate districts in the NMT Forest Center.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcentertoolbar.png?nolink|NMT Forest Center Toolbar}}</wrap> **NMT Forest Center Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30fcroad.png?nolink|Forest Center Path}}</wrap> **Forest Center Path**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Center v3.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=358|WoB]]
+
+{{tag>Road NMTForestCenter}}

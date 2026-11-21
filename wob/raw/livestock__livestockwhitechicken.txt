@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Leghorns ======
+----
+
+<WRAP right>
+^  Leghorns                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/whitechicken.png?nolink|Leghorns}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  400  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  6 tiles  |
+|  <abbr "Product produced periodically while alive">Periodic Product</abbr>  |  Egg (every 1.0 months)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Leghorns are white chickens raised at a Pasture. Like standard Chickens, they lay Eggs periodically and yield Chicken meat, Feathers, and Fertilizer when slaughtered.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Periodic Products =====
+
+  * [[WikiPages:food:egg|Egg]] — produced every 1.0 months
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:chicken|Chicken]]
+  * [[WikiPages:textile:feathers_feather|Feathers]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockWhiteChicken}}

@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apothecary ======
+----
+
+<WRAP right>
+^  Apothecary                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapothecary.png?nolink|Apothecary}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/apothecary.png?nolink|Apothecary}}</wrap> Apothecary  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  31  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Apothecary is a Colonial Charter building that crafts healing concoctions from herbs, oils, and other ingredients for use at a Herbalist.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchealth.png?nolink|Health and Healing}}</wrap> **Health and Healing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapothecary.png?nolink|Apothecary}}</wrap> **Apothecary**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarherbalist.png?nolink|Herbalists and Apothecaries}}</wrap> **Herbalists and Apothecaries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildapothecary.png?nolink|Apothecary}}</wrap> **Apothecary**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                   ^ Produces                                                   ^
+| 1 [[WikiPages:alcohol:wine|Wine]] + 1 [[WikiPages:food:root|Root]] + 1 [[WikiPages:custom0:glassware|Glassware]]                                             | [[WikiPages:health:healing_broth|Healing Broth]]           |
+| 1 [[WikiPages:food:honey|Honey]] + 1 [[WikiPages:custom7:flowers|Flowers]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                             | [[WikiPages:health:healing_poultice|Healing Poultice]]     |
+| 1 [[WikiPages:food:seed_oil|Seed Oil]] + 1 [[WikiPages:food:ginger|Ginger]] + 1 [[WikiPages:custom0:glassware|Glassware]]                                    | [[WikiPages:health:healing_oil|Healing Oil]]               |
+| 1 [[WikiPages:food:vegetable_oil|Vegetable Oil]] + 1 [[WikiPages:food:ginger|Ginger]] + 1 [[WikiPages:custom0:glassware|Glassware]]                          | [[WikiPages:health:healing_oil|Healing Oil]]               |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Health ColonialCharter}}

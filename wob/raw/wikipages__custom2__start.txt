@@ -1,0 +1,24 @@
+~~NOTOC~~
+
+====== Fabrics ======
+----
+
+Processed textile goods produced from raw textiles, such as Cloth and Linen.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/bedding.png?nolink|Bedding}} [[WikiPages:custom2:bedding|Bedding]]
+  * {{https://sprites.worldofbanished.com/canvas.png?nolink|Canvas}} [[WikiPages:custom2:canvas|Canvas]]
+  * {{https://sprites.worldofbanished.com/cloth.png?nolink|Cloth}} [[WikiPages:custom2:cloth|Cloth]]
+  * {{https://sprites.worldofbanished.com/leathercured.png?nolink|Cured Leather}} [[WikiPages:custom2:cured_leather|Cured Leather]]
+  * {{https://sprites.worldofbanished.com/linen.png?nolink|Linen}} [[WikiPages:custom2:linen|Linen]]
+  * {{https://sprites.worldofbanished.com/rug.png?nolink|Rug}} [[WikiPages:custom2:rug|Rug]]
+  * {{https://sprites.worldofbanished.com/silk.png?nolink|Silk}} [[WikiPages:custom2:silk|Silk]]
+
+----
+
+{{tag>Custom2}}

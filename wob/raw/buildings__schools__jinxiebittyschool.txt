@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Schoolhouse (Jinxie's Bitty Village Set) ======
+----
+
+<WRAP right>
+^  Bitty Schoolhouse                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyschool.png?nolink|Bitty Schoolhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie's Bitty Village Set school staffed by a Teacher, accommodating up to 20 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxieservices.png?nolink|Jinxie's Town Services}}</wrap> **Jinxie's Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyschool.png?nolink|Bitty Schoolhouse}}</wrap> **Bitty Schoolhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyschool.png?nolink|Bitty Schoolhouse}}</wrap> **Bitty Schoolhouse**
+
+----
+
+===== Other Information =====
+
+{{tag>Building School JinxieBittyVillageSet}}

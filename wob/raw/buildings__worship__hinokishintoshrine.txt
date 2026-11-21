@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ise Shinto Shrine (Japanese All-In-One) ======
+----
+
+<WRAP right>
+^  Ise Shinto Shrine                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhinokishintoshrine.png?nolink|Ise Shinto Shrine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 30)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  60  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  65  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Japanese shrine staffed by a Priest, providing Spirit happiness within a radius of 30 tiles to up to 60 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhinokishintoshrine.png?nolink|Ise Shinto Shrine}}</wrap> **Ise Shinto Shrine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhinokishintoshrine.png?nolink|Ise Shinto Shrine}}</wrap> **Ise Shinto Shrine**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship A8JapaneseAllInOne}}

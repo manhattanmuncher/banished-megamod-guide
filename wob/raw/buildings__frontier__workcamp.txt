@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Workcamp ======
+----
+
+<WRAP right>
+^  Workcamp                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkcamp.png?nolink|Workcamp}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/soldier.png?nolink|Soldier}}</wrap> Soldier  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  30  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:custom5:military_supply|Military Supply]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Frontier workcamp where a Soldier uses Silver Coins and other materials to procure raw resources for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkcamp.png?nolink|Workcamp}}</wrap> **Workcamp**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkcamp.png?nolink|Workcamp}}</wrap> **Workcamp**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkcamp.png?nolink|Workcamp}}</wrap> **Workcamp**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                   ^ Produces                                   ^
+| 4 Silver Coin + 1 [[WikiPages:tool:tool|Tool]]                                | [[WikiPages:fuel:firewood|Firewood]]       |
+| 4 Silver Coin + 1 [[WikiPages:tool:tool|Tool]]                                | [[WikiPages:stone:stone|Stone]]            |
+| 4 Silver Coin + 1 [[WikiPages:stone:stone|Stone]]                             | [[WikiPages:iron:iron|Iron]]               |
+| 10 Silver Coin + 1 [[WikiPages:tool:tool|Tool]]                               | [[WikiPages:coalfuel:coal|Coal]]           |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Frontier}}

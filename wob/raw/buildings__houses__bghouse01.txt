@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small House (BG) ======
+----
+
+<WRAP right>
+^  Small House                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghouse01.png?nolink|Small House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Botanical Garden house. Houses up to 5 settlers. See also [[buildings:houses:bghouse01s|Small House (BG S)]] for a compact version with the same stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghouse.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghouse01.png?nolink|Small House}}</wrap> **Small House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghouse.png?nolink|Houses}}</wrap> **Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghouse01.png?nolink|Small House}}</wrap> **Small House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgabode.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghouse01.png?nolink|Small House (BG)}}</wrap> **Small House (BG)**
+
+----
+
+{{tag>Building Houses BotanicalGarden}}

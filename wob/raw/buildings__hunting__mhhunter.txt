@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunter (More Houses) ======
+----
+
+<WRAP right>
+^  Hunter                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhunter.png?nolink|Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Houses hunter's cabin. Hunters track and harvest wild game within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehouses.png?nolink|More Houses}}</wrap> **More Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhunter.png?nolink|Hunter}}</wrap> **Hunter**
+
+----
+
+===== Produces =====
+
+  * Wild game (meat and leather from hunting)
+
+----
+
+===== See Also =====
+
+  * [[buildings:gathering:mhgatherer|Gatherer (More Houses)]]
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhhunter.png?nolink|Hunter (More Houses)}}</wrap> **Hunter (More Houses)**
+
+----
+
+This building originally came from **More Houses v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=343|WoB]]
+
+{{tag>Building Hunting MoreHouses}}

@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Broccoli Seeds ======
+----
+
+<WRAP right>
+^  Broccoli Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedbroccoli.png?nolink|Broccoli Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Broccoli Seeds are used to plant [[WikiPages:food:broccoli|Broccoli]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2.5-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

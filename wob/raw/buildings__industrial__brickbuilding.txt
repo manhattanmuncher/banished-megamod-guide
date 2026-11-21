@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brickworks ======
+----
+
+<WRAP right>
+^  Brickworks                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrickbuilding.png?nolink|Brickworks}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/kilnman.png?nolink|Kilnman}}</wrap> Kilnman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Happiness  |  Detraction (radius 15)  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  85  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  15  |
+|  [[WikiPages:custom4:clay|Clay]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Brickworks is a Colonial Charter industrial building where a kilnman fires bricks, produces charcoal, and converts coal to coke.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined}}</wrap> **Refined** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrick.png?nolink|Brick}}</wrap> **Brick** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrickbuilding.png?nolink|Brickworks}}</wrap> **Brickworks**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrickbuilding.png?nolink|Brickworks}}</wrap> **Brickworks**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrickbuilding.png?nolink|Brickworks}}</wrap> **Brickworks**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                               ^ Produces                               ^
+| 3 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]] + 13 [[WikiPages:custom4:clay|Clay]]   | [[WikiPages:custom5:brick|Brick]]      |
+| 5 [[WikiPages:wood:log|Wood]]                                                             | [[WikiPages:fuel:charcoal|Charcoal]]   |
+| 5 [[WikiPages:coalfuel:coal|Coal]]                                                        | [[WikiPages:fuel:coke|Coke]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Industrial ColonialCharter}}

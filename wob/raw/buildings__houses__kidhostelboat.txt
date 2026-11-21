@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hostel Boat ======
+----
+
+<WRAP right>
+^  Hostel Boat                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidhostelboat.png?nolink|Hostel Boat}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  4  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID House Boat hostel; temporarily houses up to 3 settlers across 4 apartments. Must be placed on water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidhostelboat.png?nolink|Hostel Boat}}</wrap> **Hostel Boat**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidhostelboat.png?nolink|Hostel Boat}}</wrap> **Hostel Boat**
+
+----
+
+This building originally came from **House Boat v1.42**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=308|WoB]]
+
+{{tag>Building Houses KidHouseBoat}}

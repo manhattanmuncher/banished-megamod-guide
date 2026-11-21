@@ -1,0 +1,61 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunting Buildings ======
+----
+
+Buildings where settlers hunt wild animals for food and other resources.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:hunting:athunter|AT Hunter]] | Among Trees hunter; hunters harvest wild game food and Leather from the forest |
+| [[buildings:hunting:jinxiebittyhunter|Bitty Hunter]] | Jinxie's Bitty Village Set hunting cabin; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:slcrochunter|Croc Hunter]] | Hunter building; harvests crocodile resources |
+| [[buildings:hunting:slcrocjetty|Croc Jetty]] | Jetty hunting post; produces croc meat |
+| [[buildings:hunting:druidhunter|Druid Hunter]] | Druids hunter; hunters harvest wild game food and Leather from the surrounding area |
+| [[buildings:hunting:fthunter|Elven Hunter (Fairy Tale Cottage)]] | Fairy Tale Cottage elven hunter post; hunters consume Elven Bows to harvest game |
+| [[buildings:hunting:hideout|Hideout (Forest Deep)]] | Forest Deep hunting building; Hunters hunt wild animals within a 34-tile radius |
+| [[buildings:hunting:dssvhuntersingle|Hunt with Hunting Gear]] | DS Small Village single-tile hunting point; Hunter hunts wild game within a 15-tile radius |
+| [[buildings:hunting:bghunter|BG Hunter]] | Bakery & Garden Alt hunter's post; Hunter hunts wild game within a 24-tile radius |
+| [[buildings:hunting:blindshore|Hunting Blind]] | Colonial Charter building; Hunter harvests waterfowl and fish from a shoreside hide |
+| [[buildings:hunting:ghfhuntingcabin|Hunting Cabin (Grow Hunt Fish)]] | Grow Hunt Fish hunting cabin; hunters gather game, meat, and furs |
+| [[buildings:hunting:japanesehuntingtower|Hunting Tower]] | A8 Japanese All-In-One hunting tower; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:dwhuntingtree|Hunting Tree]] | Deadwood hunting tree stand; Hunter roams within a 34-tile radius for wild game; free to build |
+| [[buildings:hunting:fhhunter|Hunter (Forest Haven)]] | Forest Haven hunter's lodge; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:fohunter|Hunter (Forest Outpost)]] | Forest Outpost hunting cabin; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:mhhunter|Hunter (More Houses)]] | More Houses hunting cabin; Hunters hunt wild game within a 30-tile radius |
+| [[buildings:hunting:mhdhunter|Hunter (More Houses Dark)]] | More Houses Dark hunting cabin; Hunters hunt wild game within a 30-tile radius |
+| [[buildings:hunting:mhshunter|Hunter (More Houses Stone)]] | More Houses Stone hunting cabin; Hunters hunt wild game within a 30-tile radius |
+| [[buildings:hunting:mhwhunter|Hunter (More Houses Wood)]] | More Houses Wood hunting cabin; Hunters hunt wild game within a 30-tile radius |
+| [[buildings:hunting:nvhunter|Hunter (Native Village)]] | Native Village hunter teepee; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:ootwhunter|Hunter (Out of This World)]] | Out of This World hunter building; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:settlershunter|Hunter (Settlers)]] | Kid Settlers hunting cabin; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:shwhunter|Hunter (Summer Haven)]] | Kid Summer Haven compact hunter workplace; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:tthunter|Hunter (Tree Topper)]] | Tree Topper hunting cabin; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:fothunterblind|Hunter Blind (Forest Trader)]] | Forest Trader hunting blind; Hunter hunts wild game within a 24-tile radius |
+| [[buildings:hunting:nmt30sahunter|Hunter Cabin]] | NMT Forest Center standalone hunter cabin; Hunters hunt wild game within a 30-tile radius |
+| [[buildings:hunting:fothuntercabin|Hunter Cabin (Forest Trader)]] | Forest Trader hunter cabin; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:nmt30fchunter|Hunter District]] | NMT Forest Center hunter district; Hunters roam within a 40-tile radius to harvest wild game food and Leather |
+| [[buildings:hunting:hunterlodge|Hunter's Lodge (Colonial Charter)]] | Colonial Charter hunter's lodge; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:echunterlodge|Hunter's Lodge (Editor's Choice)]] | Editor's Choice hunter's lodge; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:minihunt|Mini Hunter]] | Mini Buildings compact hunting cabin; single Hunter hunts wild game within a 15-tile radius |
+| [[buildings:hunting:ebmodhunterhouse|Modular Hunter House]] | EB Modular Hunter residence; houses up to 5 settlers; pairs with Modular Hunter Shed |
+| [[buildings:hunting:ebmodhuntershed|Modular Hunter Shed]] | EB Modular Hunter working shed; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:rknewhumterhuthunter|New Hunter Cabin]] | RedKetchup Editor's Choice new hunter cabin; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:oldhovelhunter|Old Hunter]] | Old Hovels hunting shed; Hunter tracks wild game within a 24-tile radius |
+| [[buildings:hunting:rkoldhunterhuthunter|Old Hunter Cabin]] | RedKetchup Editor's Choice old hunter cabin; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:pinehunter|Pine Hunter]] | Maritimes Pine Set hunter; Hunters hunt wild game within a 25-tile radius |
+| [[buildings:hunting:pinetrapper|Pine Trapper]] | Maritimes Pine Set trapper; Trappers harvest fur and game meat from wildlife dens and traps within a 20-tile radius |
+| [[buildings:hunting:tinyhunter|Tiny Hunter]] | Kid Tiny Set compact hunter with storage; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:traderhunter|Trader Hunter]] | Traveling Trader hunting cabin; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:dssvhuntingcabin|Village Hunting Cabin (DS Small Village)]] | DS Small Village hunting cabin; Hunters hunt wild game from within a 34-tile radius |
+| [[buildings:hunting:ebsvhunterslodge|Village Hunting Cabin (EB Small Village)]] | EB Small Village hunting cabin; Hunters hunt wild game within a 34-tile radius |
+| [[buildings:hunting:rkmctower|Watch Tower (RK Training Camp)]] | RK Training Camp watch tower; Hunter gathers game, hides, and furs with no inputs |
+| [[buildings:hunting:rkmctower2|Watch Tower 2 (RK Training Camp)]] | RK Training Camp second watch tower; Hunter gathers game, hides, and furs with no inputs |
+| [[buildings:hunting:wfhunter|WF Hunter]] | Wooden Fort hunter's lodge; Hunters gather wild game meats, fur, and leather |
+| [[buildings:hunting:whhunter|WH Hunter]] | Westward Ho hunting post; Hunters hunt wild game within a 24-tile radius |
+| [[buildings:hunting:wphunter|WP Hunter]] | Work Place compact hunting post; Hunters hunt wild game within a 24-tile radius |
+
+----
+
+{{tag>Buildings Hunting}}

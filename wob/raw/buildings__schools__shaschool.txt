@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small School ======
+----
+
+<WRAP right>
+^  Small School                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshaschool.png?nolink|Small School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small school staffed by a Teacher, educating up to 24 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshaschool.png?nolink|Small School}}</wrap> **Small School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshaschool.png?nolink|Small School}}</wrap> **Small School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshaschool.png?nolink|Small School}}</wrap> **Small School**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone House Addon v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=279|WoB]]
+
+{{tag>Building School StoneHouseAddon}}

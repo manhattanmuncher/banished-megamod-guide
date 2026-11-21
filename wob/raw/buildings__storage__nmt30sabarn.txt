@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forest Barn ======
+----
+
+<WRAP right>
+^  Forest Barn                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30sabarn.png?nolink|Forest Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+|  Storage Categories  |  Food, Tools, Health, Fuel, Wood, Textile, Grain, Vegetable, Fruit, Protein  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town settlement area forest barn. Settlers store food, tools, and a variety of provisions with a capacity of 12,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30sabarn.png?nolink|Forest Barn}}</wrap> **Forest Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstoragebarntoolbar.png?nolink|StorageBarns Toolbar}}</wrap> **StorageBarns Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30sabarn.png?nolink|Forest Barn}}</wrap> **Forest Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30sabarn.png?nolink|Forest Barn}}</wrap> **Forest Barn**
+
+----
+
+This building originally came from **Forest Center v3.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=358|WoB]]
+
+{{tag>Building Storage NewMedievalTown}}

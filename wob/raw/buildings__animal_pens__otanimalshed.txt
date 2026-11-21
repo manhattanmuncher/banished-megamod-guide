@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Animal Shed ======
+----
+
+<WRAP right>
+^  Animal Shed                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotanimalshed.png?nolink|Animal Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Animal Shed (Old Town) is a wood-construction animal shed from the Old Town mod. It produces either Eggs or Milk from housed livestock; the player selects which product to collect.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town}}</wrap> **Old Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotanimalshed.png?nolink|Animal Shed}}</wrap> **Animal Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotanimalshed.png?nolink|Animal Shed}}</wrap> **Animal Shed**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:egg|Egg]]
+  * [[WikiPages:food:milk|Milk]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Building Animal OldTown}}

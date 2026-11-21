@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Firewood Chopper's Shack ======
+----
+
+<WRAP right>
+^  Firewood Chopper's Shack                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodchoppersshack.png?nolink|Firewood Chopper's Shack}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+|  Storage Categories  |  Fuel  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS mods small firewood storage shack. Settlers store fuel with a capacity of 1,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodchoppersshack.png?nolink|Firewood Chopper's Shack}}</wrap> **Firewood Chopper's Shack**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodchoppersshack.png?nolink|Firewood Chopper's Shack}}</wrap> **Firewood Chopper's Shack**
+
+----
+
+{{tag>Building Storage DS}}

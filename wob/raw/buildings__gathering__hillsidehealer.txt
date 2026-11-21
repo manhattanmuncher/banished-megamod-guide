@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hillside Healer ======
+----
+
+<WRAP right>
+^  Hillside Healer                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehealer.png?nolink|Hillside Healer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  Stone  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hillside Village herbalist and healer. A single Herbalist collects wild Herbs within a 24-tile radius and provides basic healing for nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehealer.png?nolink|Hillside Healer}}</wrap> **Hillside Healer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehealer.png?nolink|Hillside Healer}}</wrap> **Hillside Healer**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:health:herb|Herb]]
+
+----
+
+===== Other Information =====
+
+Also heals nearby citizens.
+
+This building originally came from **Hillside Village v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=639|WoB]]
+
+{{tag>Building Gathering KidHillsideVillage}}

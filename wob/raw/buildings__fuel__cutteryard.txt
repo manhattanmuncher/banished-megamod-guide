@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cutter Yard ======
+----
+
+<WRAP right>
+^  Cutter Yard                                                                      ^  xBAN  ^  xMOD  ^
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |  1 – 3 (default 1)  |
+|  Tool  |  Axe  ||
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  –  |  5  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |  2,000  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  ||
+|  [[WikiPages:wood:log|Log]]  |  24  ||
+|  [[WikiPages:stone:stone|Stone]]  |  8  ||
+</WRAP>
+<WRAP right></WRAP>
+
+The Cutter Yard (Wood Cutter) is a vanilla Banished building. A Cutter converts logs, lumber, or thatch-fodder into Firewood using an Axe.
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces  ^
+| 2 [[WikiPages:wood:log|Wood]]  | [[WikiPages:fuel:firewood|Firewood]]  |
+| 5 [[WikiPages:custom5:lumber|Lumber]]  | [[WikiPages:fuel:firewood|Firewood]]  |
+| 5 [[WikiPages:custom7:fodder-thatch_haystack|Haystack]]  | [[WikiPages:fuel:firewood|Firewood]]  |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcutteryard.png?nolink|Wood Cutter}}</wrap> **Wood Cutter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/srtoolbar.png?nolink|Shining Rock Vanilla Toolbar}}</wrap> **Shining Rock Vanilla Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcutteryard.png?nolink|Wood Cutter}}</wrap> **Wood Cutter**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fuel}}

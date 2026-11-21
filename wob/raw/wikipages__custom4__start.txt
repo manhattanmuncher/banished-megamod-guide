@@ -1,0 +1,24 @@
+~~NOTOC~~
+
+====== Materials ======
+----
+
+Harvested natural resources (non-mining) used in production and construction, such as Clay, Sand, and Hardwood.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/clay.png?nolink|Clay}} [[WikiPages:custom4:clay|Clay]]
+  * {{https://sprites.worldofbanished.com/hardwood.png?nolink|Hardwood}} [[WikiPages:custom4:hardwood|Hardwood]]
+  * {{https://sprites.worldofbanished.com/pinebough.png?nolink|Pine Bough}} [[WikiPages:custom4:pine_bough|Pine Bough]]
+  * {{https://sprites.worldofbanished.com/rmpineresin.png?nolink|Pine Resin}} [[WikiPages:custom4:pine_resin|Pine Resin]]
+  * {{https://sprites.worldofbanished.com/plantdebris.png?nolink|Plant Debris}} [[WikiPages:custom4:plant_debris|Plant Debris]]
+  * {{https://sprites.worldofbanished.com/sand.png?nolink|Sand}} [[WikiPages:custom4:sand|Sand]]
+  * {{https://sprites.worldofbanished.com/seedling.png?nolink|Seedling}} [[WikiPages:custom4:seedling|Seedling]]
+
+----
+
+{{tag>Custom4}}

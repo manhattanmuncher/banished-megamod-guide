@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Inshore ======
+----
+
+<WRAP right>
+^  Inshore                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/lobster.png?nolink|Inshore}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:dory|Dory]]  |  2  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+|  [[WikiPages:custom0:rope|Rope]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NS Inshore fishing harbour where fishermen catch seafood. The player selects which type of fish to catch.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/lobster.png?nolink|Inshore}}</wrap> **Inshore**
+
+----
+
+===== Produces =====
+
+Production is selected by the player:
+
+  * [[WikiPages:food:lobster|Lobster]]
+  * [[WikiPages:food:shrimp|Shrimp]]
+  * [[WikiPages:food:herring|Herring]]
+  * [[WikiPages:food:mackerel|Mackerel]]
+  * [[WikiPages:food:tuna|Tuna]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing}}

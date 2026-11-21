@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Apiary ======
+----
+
+<WRAP right>
+^  Village Apiary                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvapiary.png?nolink|Village Apiary}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/beekeeper.png?nolink|Beekeeper}}</wrap> Beekeeper  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  46  |
+|  [[WikiPages:wood:log|Wood]]  |  38  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village apiary. A Beekeeper produces Honey for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbeekeeping.png?nolink|Beekeeping}}</wrap> **Beekeeping** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvapiary.png?nolink|Village Apiary}}</wrap> **Village Apiary**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme}}</wrap> **EB Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Small Village}}</wrap> **EB Small Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagefood.png?nolink|EB Village Food}}</wrap> **EB Village Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvapiary.png?nolink|Village Apiary}}</wrap> **Village Apiary**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:honey|Honey]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Beekeeping EB}}

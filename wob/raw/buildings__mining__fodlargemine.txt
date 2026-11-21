@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Mine (Forge Of Dwarves) ======
+----
+
+<WRAP right>
+^  Large Mine                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodlargemine.png?nolink|Large Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 2)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  24.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  56  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge Of Dwarves large mine where Miners extract Iron Ore, Coal, Stone, and Magic Crystals. Production is unlimited.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge Of Dwarves}}</wrap> **Forge Of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodlargemine.png?nolink|Large Mine}}</wrap> **Large Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge Of Dwarves}}</wrap> **Forge Of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodlargemine.png?nolink|Large Mine}}</wrap> **Large Mine**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+  * [[WikiPages:stone:stone|Stone]]
+  * [[WikiPages:custom7:crystal|Magic Crystal]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=620|WoB]]
+
+{{tag>Building Mining KidForgeOfDwarves}}

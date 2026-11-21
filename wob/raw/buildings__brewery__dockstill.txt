@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ricewine Still ======
+----
+
+<WRAP right>
+^  Ricewine Still                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstill.png?nolink|Ricewine Still}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Placement  |  On Dock platforms  |
+|  <abbr "Gathering radius in tiles">Radius</abbr>  |  30  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  700  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  35  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Dock distillery. A Brewer ferments Rice into Wine, doubling as a stockpile for Alcohol within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstill.png?nolink|Ricewine Still}}</wrap> **Ricewine Still**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstill.png?nolink|Ricewine Still}}</wrap> **Ricewine Still**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockstill.png?nolink|Ricewine Still}}</wrap> **Ricewine Still**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                                              ^
+| 60 [[WikiPages:food:rice|Rice]]                      | [[WikiPages:alcohol:wine|Wine]]                       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Brewery ColonialCharter}}

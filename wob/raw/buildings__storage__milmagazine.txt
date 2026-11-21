@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mil Magazine ======
+----
+
+<WRAP right>
+^  Mil Magazine                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmilmagazine.png?nolink|Mil Magazine}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  11 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  160  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Frontier large fortified magazine. Settlers store food, fuel, tools, clothing, and a wide variety of goods with a capacity of 60,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|CC Themed}}</wrap> **CC Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmilmagazine.png?nolink|Mil Magazine}}</wrap> **Mil Magazine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Buildings}}</wrap> **Themed Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmilmagazine.png?nolink|Mil Magazine}}</wrap> **Mil Magazine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmilmagazine.png?nolink|Mil Magazine}}</wrap> **Mil Magazine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmilmagazine.png?nolink|Mil Magazine}}</wrap> **Mil Magazine**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

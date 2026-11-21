@@ -1,0 +1,15 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Oil Press Buildings ======
+----
+
+Buildings that press seeds and other crops into oils.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:oil_press:bgoilpress|Oilpress]] | Botanical Garden workshop; Presser extracts cooking oils from nuts and seeds |
+
+----
+
+{{tag>Buildings OilPress}}

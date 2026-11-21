@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Animal Shelter ======
+----
+
+<WRAP right>
+^  Village Animal Shelter                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvanimalshelter.png?nolink|Village Animal Shelter}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative animal shelter from the EB Simple Village (embx61) mod — a model-only farmyard ornament with no working function. Available with or without surrounding fencing (the "No Fence" variant).
+
+----
+
+===== Variants =====
+
+^ Variant ^ Size ^
+| Village Animal Shelter | 5 × 3 |
+| Village Animal Shelter (No Fence) | 5 × 3 |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvanimalshelter.png?nolink|Village Animal Shelter}}</wrap> **Village Animal Shelter**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Decorations EB}}

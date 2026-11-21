@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Canteens ======
+----
+
+<WRAP right>
+^  Canteens                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  6/7  |
+|  Edible  |  No  |
+|  Trade Value  |  7  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/canteen.png?nolink|Canteens}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Canteens are a forged item crafted from metal in the Banished MegaMod. They are produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. They have a modest trade value of 7.
+
+----
+
+===== Canteens Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:metalworking:metalsmith|Metalsmith]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:distillery|Distillery]] (for Aqua Vitae)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

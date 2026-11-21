@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tree Stump ======
+----
+
+<WRAP right>
+^  Tree Stump                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreestump.png?nolink|Tree Stump}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Deep herbalist shelter built into a great tree stump. Herbalists gather Herb from the surrounding area within a 24-tile radius, providing healing to nearby citizens.
+
+----
+
+^ Toolbar ^ ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreestump.png?nolink|Tree Stump}}</wrap> **Tree Stump** |
+
+----
+
+This building originally came from **Forest Deep v5.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=212|WoB]], [[https://banishedinfo.com/mods/view/819-Forest-Deep-V3|BI]]
+
+{{tag>Building Gathering KidForestDeep}}

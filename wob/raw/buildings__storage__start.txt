@@ -1,0 +1,571 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Buildings ======
+----
+
+Buildings that store and distribute goods across the settlement.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:storage:abandonedbarn|Abandoned Barn]] | Abandoned Places ruined barn; used as temporary general storage with 7,000-unit capacity |
+| [[buildings:storage:atlasmountainstorage|Atlas Mountain Storage]] | A8 Moroccan mountain storage barn; settlers store food, tools, clothing, and textiles with 4,000-unit capacity |
+| [[buildings:storage:bankbarn|Bank Barn]] | Colonial Charter extra-large storage barn; holds food, fuel, tools, and all custom goods with 30,000-unit capacity |
+| [[buildings:storage:bgstoragelarge|BG Storage Large]] | Bakery & Garden Alt large general-purpose storage building; 8,000-unit capacity |
+| [[buildings:storage:bgstorageshed|BG Storage Shed]] | Bakery & Garden Alt compact storage shed; 1,200-unit capacity |
+| [[buildings:storage:bodiambarn|Barn (Bodiam Castle)]] | Bodiam Castle storage barn; settlers store food, tools, health items, clothing, and textiles with 9,000-unit capacity |
+| [[buildings:storage:crystalbarn|Barn (Crystal Cliffs)]] | Crystal Cliffs mod storage barn; settlers store food, alcohol, tools, clothing, and a variety of goods with 15,000-unit capacity |
+| [[buildings:storage:fishshipsbarn|Barn (Fish Ships)]] | Fish Ships large storage barn; settlers store food, tools, clothing, and a variety of goods with 9,000-unit capacity |
+| [[buildings:storage:cornerbarnt1|Barn (NMT Corner T1)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt2|Barn (NMT Corner T2)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt3|Barn (NMT Corner T3)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt4|Barn (NMT Corner T4)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt5|Barn (NMT Corner T5)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt6|Barn (NMT Corner T6)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt7|Barn (NMT Corner T7)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:cornerbarnt8|Barn (NMT Corner T8)]] | NMT Corner Buildings storage barn; settlers store food, alcohol, tools, clothing, and other goods with 12,000-unit capacity |
+| [[buildings:storage:nmtbarndock|Barn (NMT Dock)]] | NMT Docks wood barn; settlers store food, tools, clothing, and a wide variety of goods with 8,000-unit capacity |
+| [[buildings:storage:nmtbarnstonedock|Barn (NMT Stone Dock)]] | NMT Docks stone barn; settlers store food, tools, clothing, and a wide variety of goods with 8,800-unit capacity |
+| [[buildings:storage:settlersbarn|Barn (Settlers)]] | Settlers mod large barn for general goods storage; settlers store food, tools, and a variety of goods with 9,000-unit capacity |
+| [[buildings:storage:rkmcbarn|Barn (Training Camp)]] | RK Training Camp storage barn; settlers store food, tools, health items, clothing, textiles, coal fuel, and alcohol with 6,000-unit capacity |
+| [[buildings:storage:wwbarn|Barn (Wild West Cattle Drive)]] | Wild West Cattle Drive storage barn; settlers store food, tools, health items, clothing, and textiles with 16,000-unit capacity |
+| [[buildings:storage:nmt30fcbarn|Barn District]] | New Medieval Town Forest Center barn district; settlers store food, tools, and a variety of provisions with 12,000-unit capacity |
+| [[buildings:storage:barnstorage|Barn Storage]] | BarnStorage mod general storage barn; settlers store food, fuel, tools, and other supplies with 6,000-unit capacity |
+| [[buildings:storage:clbarn|Barn Storage (Colonial Resources)]] | Colonial Resources storage barn; settlers store food, fuel, tools, and other supplies with 6,000-unit capacity |
+| [[buildings:storage:rkmcbarrels2gh|Barrels 'Ghosted' Storage (1×1 B)]] | RK Training Camp small ghosted barrels pile — alternate visual (no terrain footprint); settlers store alcohol and grain with 200-unit capacity |
+| [[buildings:storage:rkmcbarrels1gh|Barrels 'Ghosted' Storage (1×1)]] | RK Training Camp small ghosted barrels pile (no terrain footprint); settlers store alcohol and grain with 200-unit capacity |
+| [[buildings:storage:rkmcbarrels3gh|Barrels 'Ghosted' Storage (1×2)]] | RK Training Camp medium ghosted barrels row (no terrain footprint); settlers store alcohol and grain with 400-unit capacity |
+| [[buildings:storage:rkmcbarrels4gh|Barrels 'Ghosted' Storage (2×2)]] | RK Training Camp large ghosted barrels cluster (no terrain footprint); settlers store alcohol and grain with 600-unit capacity |
+| [[buildings:storage:rkmcbarrels2|Barrels Storage (1×1 B)]] | RK Training Camp small barrels pile (alternate visual); settlers store alcohol and grain with 400-unit capacity |
+| [[buildings:storage:rkmcbarrels1|Barrels Storage (1×1)]] | RK Training Camp small barrels pile; settlers store alcohol and grain with 400-unit capacity |
+| [[buildings:storage:rkmcbarrels3|Barrels Storage (1×2)]] | RK Training Camp medium barrels row; settlers store alcohol and grain with 800-unit capacity |
+| [[buildings:storage:rkmcbarrels4|Barrels Storage (2×2)]] | RK Training Camp large barrels cluster; settlers store alcohol and grain with 1,200-unit capacity |
+| [[buildings:storage:bcbasic|Basic Cart (Bodiam Castle)]] | Bodiam Castle small storage cart; settlers store tools, clothing, and textiles with 2,000-unit capacity |
+| [[buildings:storage:lcbasic|Basic Large Cart]] | KID Mods large storage cart for basic goods; settlers store tools, clothing, and textiles with 6,000-unit capacity |
+| [[buildings:storage:scbasic|Basic Small Cart]] | Storage Carts mod small cart for tools and clothing; 2,000-unit capacity |
+| [[buildings:storage:shbigbarn|Big Barn]] | Summer Haven mod large barn for general goods; 8,000-unit capacity |
+| [[buildings:storage:fhbigbarn|Big Barn]] | Forest Haven large storage barn; settlers store food, tools, clothing, and a variety of goods with 8,000-unit capacity |
+| [[buildings:storage:jinxiebittybarn|Bitty Barn]] | Jinxie's Bitty Village Set general-purpose storage barn; settlers store food, tools, clothing, and a variety of goods with 5,000-unit capacity; upgrades to Bitty Bigger Barn |
+| [[buildings:storage:jinxiebittybiggerbarn|Bitty Bigger Barn]] | Jinxie's Bitty Village Set large general-purpose storage barn; upgraded from Bitty Barn; stores food, tools, clothing, and a wide variety of goods with 7,500-unit capacity |
+| [[buildings:storage:jinxiebittyshed|Bitty Shed]] | Jinxie's Bitty Village Set compact storage shed; settlers store food, tools, clothing, and a variety of goods with 1,000-unit capacity |
+| [[buildings:storage:ebsvstorageyardblacksmith|Blacksmith Materials Stock Pile]] | Extra Building Set draggable stock pile for blacksmith materials; settlers store fuel, logs, iron, and industrial fuel at 250 units per tile |
+| [[buildings:storage:swampstorageblacksmith|Blacksmith Storage]] | Swamp Houses mod storage for blacksmith goods; settlers store tools, wood, iron, and coal with 2,000-unit capacity |
+| [[buildings:storage:kysblacksmith1|Blacksmith Storage 1]] | Kid Yard Cover small blacksmith materials storage yard; settlers store logs, iron, coal, and tools with 600-unit capacity |
+| [[buildings:storage:kysblacksmith2|Blacksmith Storage 2]] | Kid Yard Cover medium blacksmith materials storage yard; settlers store logs, iron, coal, and tools with 1,200-unit capacity |
+| [[buildings:storage:kysblacksmith3|Blacksmith Storage 3]] | Kid Yard Cover large blacksmith materials storage yard; settlers store logs, iron, coal, and tools with 1,800-unit capacity |
+| [[buildings:storage:dsbrushwoodfence|Brushwood Fence]] | DS Fences woven brushwood fence; straight, multi and arch pieces; 2 Wood each |
+| [[buildings:storage:dstownhousesbstore3x4storage|Bryggen Town Storage]] | DS Mods Bryggen-style storehouse; settlers store food, clothing, tools, and health items with 4,000-unit capacity |
+| [[buildings:storage:dspickandhencellar|Cellar (Pick & Hen)]] | Pick & Hen Tavern mod alcohol cellar; settlers store alcohol with 500-unit capacity |
+| [[buildings:storage:cellarentrance|Cellar Entrance]] | DS Storage compact cellar entrance; settlers store food, tools, health items, and clothing with 800-unit capacity |
+| [[buildings:storage:choowagon1|Choo Choo: Food Wagon]] | Choo Choo mod food wagon; settlers store food and produce in transit with 2,000-unit capacity |
+| [[buildings:storage:choowagon2|Choo Choo: Goods Wagon]] | Choo Choo mod goods wagon; settlers store tools, clothing, alcohol, and health items in transit with 2,000-unit capacity |
+| [[buildings:storage:choowagon3|Choo Choo: Material Wagon]] | Choo Choo mod material wagon; settlers store wood, stone, iron, and fuel in transit with 5,000-unit capacity |
+| [[buildings:storage:colonialcitywall3x5dsstorage|City Wall Storage]] | Colonial Charter city wall section with integrated storage; settlers store food, tools, and goods with 3,000-unit capacity |
+| [[buildings:storage:cellarclothingshort|Clothing Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store clothing with 500-unit capacity |
+| [[buildings:storage:dscoalstoragecrates|Coal Storage Crates]] | DS Mods small storage pile; settlers store coal fuel with 300-unit capacity |
+| [[buildings:storage:coaltransit|Coal Transit]] | In Transit small yard; settlers store coal fuel for quick distribution with 400-unit capacity |
+| [[buildings:storage:cellarconstructionshort|Construction Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store construction materials with 500-unit capacity |
+| [[buildings:storage:basicstorageyardcustom5|Construction Goods Storage Yard]] | DS Storage drag-to-size yard for building supplies; settlers store building supplies at 250 units per tile |
+| [[buildings:storage:storageyardconstruction|Construction Stock Pile]] | Colonial Charter mod stock pile dedicated to building supplies; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardconstructiontransparent|Construction Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to building supplies; 250 units per tile, drag to size |
+| [[buildings:storage:constructiontransit|Construction Transit]] | In Transit small yard; settlers store construction materials for quick distribution with 400-unit capacity |
+| [[buildings:storage:matwarehouseconstruction|Construction Warehouse]] | Colonial Charter construction materials warehouse; settlers store building supplies with 10,600-unit capacity |
+| [[buildings:storage:countrylittlefood|Country Little Pantry]] | Country Little House food pantry; settlers store food with 1,600-unit capacity |
+| [[buildings:storage:countrylittlefood2b|Country Little Pantry (2B)]] | Country Little House 2 food pantry (B variant); settlers store food with 1,600-unit capacity |
+| [[buildings:storage:countrylittlefoodb|Country Little Pantry (B)]] | Country Little House food pantry (B variant); settlers store food with 1,600-unit capacity |
+| [[buildings:storage:countrylittlefood2|Country Little Pantry 2]] | Country Little House 2 food pantry; settlers store food with 1,600-unit capacity |
+| [[buildings:storage:countrylittlestock|Country Little Stockage]] | Country Little House stockage; settlers store fuel, tools, clothing, and other goods with 2,000-unit capacity |
+| [[buildings:storage:countrylittlestock2b|Country Little Stockage (2B)]] | Country Little House 2 stockage (B variant); settlers store fuel, tools, clothing, and other goods with 2,000-unit capacity |
+| [[buildings:storage:countrylittlestockb|Country Little Stockage (B)]] | Country Little House stockage (B variant); settlers store fuel, tools, clothing, and other goods with 2,000-unit capacity |
+| [[buildings:storage:countrylittlestock2|Country Little Stockage 2]] | Country Little House 2 stockage; settlers store fuel, tools, clothing, and other goods with 2,000-unit capacity |
+| [[buildings:storage:dscountrystonewall|Country Stone Wall]] | DS Fences dry-stone country wall; straight (1/2/5 wide), corner, T/X-junction, angled and gate pieces |
+| [[buildings:storage:dscountrystonewallcurvedcnr|Country Stone Wall Curved Corner]] | DS Mods decorative curved wall corner with storage; settlers store food with 300-unit capacity |
+| [[buildings:storage:dscountrystonewallgate2x3|Country Stone Wall Gate 2×3]] | DS Mods double-gate wall piece with storage; settlers store any goods with 1,000-unit capacity |
+| [[buildings:storage:dscountrystonewallgate2x3impassable|Country Stone Wall Gate 2×3 (Impassable)]] | DS Mods impassable gate upgrade; settlers store any goods with 1,000-unit capacity |
+| [[buildings:storage:cellarcraftedshort|Crafted Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store crafted goods with 500-unit capacity |
+| [[buildings:storage:ootwconnectdepot|Depot]] | Out of This World storage depot; settlers store food, tools, clothing, and a variety of goods with 9,000-unit capacity |
+| [[buildings:storage:distributionbarn|Distribution Barn]] | Colonial Charter specialty storage; Vendors stock it with finished goods for centralized colony supply |
+| [[buildings:storage:dockstorage|Dock Large Storage]] | Colonial Charter large storage barn built over water; settlers store food, tools, clothing, and a variety of goods with 10,000-unit capacity |
+| [[buildings:storage:dockstoragesmall|Dock Small Storage]] | Colonial Charter small storage barn built over water; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:dsfencedecorations|DS Fence Decorations]] | DS Fences yard decorations — barrels, crates, ladders, lanterns, wagons, signs, posts; free |
+| [[buildings:storage:cc17barnedibleslean|Edibles Lean-To]] | Colonial Charter mod small lean-to dedicated to food storage; settlers store food with 2,000-unit capacity |
+| [[buildings:storage:cellarfabricsshort|Fabrics Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store fabrics with 500-unit capacity |
+| [[buildings:storage:farmstorage|Farm Storage]] | Fish Farm food storage building; settlers store food with 4,800-unit capacity |
+| [[buildings:storage:gffarmstorage|Farm Storage (Gothic Farm)]] | Gothic Farm general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:rkfirewoodstorage1x1gh|Firewood 'Ghosted' Storage (1×1)]] | RK Firewood Storage small ghosted firewood pile (no terrain footprint); settlers store fuel with 250-unit capacity |
+| [[buildings:storage:rkfirewoodstorage1x2gh|Firewood 'Ghosted' Storage (1×2)]] | RK Firewood Storage medium ghosted firewood pile (no terrain footprint); settlers store fuel with 500-unit capacity |
+| [[buildings:storage:rkfirewoodstorage1x3gh|Firewood 'Ghosted' Storage (1×3)]] | RK Firewood Storage large ghosted firewood pile (no terrain footprint); settlers store fuel with 750-unit capacity |
+| [[buildings:storage:woodchoppersshack|Firewood Chopper's Shack]] | DS mods small firewood storage shack; settlers store fuel with 1,000-unit capacity |
+| [[buildings:storage:swampstoragefirewood|Firewood Storage]] | Swamp Houses mod storage dedicated to firewood and fuel; 2,000-unit capacity |
+| [[buildings:storage:fhfirewoodstorage|Firewood Storage]] | Forest Haven firewood storage building; settlers store fuel with 3,200-unit capacity |
+| [[buildings:storage:rkfirewoodstorage1x1|Firewood Storage (1×1)]] | RK Firewood Storage small firewood pile; settlers store fuel with 500-unit capacity |
+| [[buildings:storage:rkfirewoodstorage1x2|Firewood Storage (1×2)]] | RK Firewood Storage medium firewood pile; settlers store fuel with 1,000-unit capacity |
+| [[buildings:storage:rkfirewoodstorage1x3|Firewood Storage (1×3)]] | RK Firewood Storage large firewood pile; settlers store fuel with 1,500-unit capacity |
+| [[buildings:storage:fishshipsfirewood|Firewood Storage (Fish Ships)]] | Fish Ships compact firewood storage pile; settlers store fuel with 400-unit capacity |
+| [[buildings:storage:kysfirewood1|Firewood Storage 1]] | Kid Yard Cover small firewood storage yard; settlers store fuel with 600-unit capacity |
+| [[buildings:storage:kysfirewood2|Firewood Storage 2]] | Kid Yard Cover medium firewood storage yard; settlers store fuel with 1,200-unit capacity |
+| [[buildings:storage:kysfirewood3|Firewood Storage 3]] | Kid Yard Cover large firewood storage yard; settlers store fuel with 1,800-unit capacity |
+| [[buildings:storage:dsfirewoodstoragepiles|Firewood Storage Piles]] | DS Mods small storage pile; settlers store fuel with 300-unit capacity |
+| [[buildings:storage:rkgardenwallscustom5barn|Fodder Barn]] | RK Garden Walls barn for fodder and miscellaneous goods; settlers store misc items with 6,000-unit capacity |
+| [[buildings:storage:bcfood|Food Cart (Bodiam Castle)]] | Bodiam Castle food-only storage cart; settlers store edible goods with 2,000-unit capacity |
+| [[buildings:storage:cellarfoodshort|Food Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store food with 500-unit capacity |
+| [[buildings:storage:pinefoodcellar|Food Cellar (Pine Set)]] | Maritimes Pine Set food cellar; settlers store food, grain, fruit, vegetables, and protein with 5,000-unit capacity |
+| [[buildings:storage:lcfood|Food Large Cart]] | KID Mods large storage cart for food; settlers store all edible goods with 6,000-unit capacity |
+| [[buildings:storage:scfood|Food Small Cart]] | Storage Carts mod small cart for food; 2,000-unit capacity |
+| [[buildings:storage:swampstoragefood|Food Storage]] | Swamp Houses mod storage dedicated to food; settlers store food, fruits, vegetables, grains, and proteins with 2,000-unit capacity |
+| [[buildings:storage:kysfood1|Food Storage 1]] | Kid Yard Cover small food storage yard; settlers store food, grain, fruit, vegetables, and protein with 600-unit capacity |
+| [[buildings:storage:kysfood2|Food Storage 2]] | Kid Yard Cover medium food storage yard; settlers store food, grain, fruit, vegetables, and protein with 1,200-unit capacity |
+| [[buildings:storage:kysfood3|Food Storage 3]] | Kid Yard Cover large food storage yard; settlers store food, grain, fruit, vegetables, and protein with 1,800-unit capacity |
+| [[buildings:storage:ebcellar|Food Storage Cellar]] | Extra Building Set underground food cellar; settlers store food, vegetables, fruit, and protein with 5,000-unit capacity |
+| [[buildings:storage:rkfcforestbarn|Forest Barn]] | RK Editor's Choice general-purpose forest barn; settlers store food, tools, health items, fuel, wood, textile, and produce with 12,000-unit capacity |
+| [[buildings:storage:nmt30sabarn|Forest Barn]] | New Medieval Town settlement area forest barn; settlers store food, tools, and a variety of provisions with 12,000-unit capacity |
+| [[buildings:storage:cellarforgedshort|Forged Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store forged goods with 500-unit capacity |
+| [[buildings:storage:fortannemagazine|Fort Anne Magazine]] | Fort Anne large general storage magazine; settlers store food, raw materials, tools, clothing, and every category of goods with 20,000-unit capacity |
+| [[buildings:storage:wfdepot|Fort Depot]] | KID Wooden Fort mod general-purpose storage depot; settlers store a wide variety of goods with 5,000-unit capacity |
+| [[buildings:storage:fbshed|Friendly Shed]] | Friendly Blue compact storage shed; settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:fpshed|Friendly Shed (Friendly Pumpkin)]] | Friendly Pumpkin compact storage shed; settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:gnshed|Friendly Shed (Granny Neighborhood)]] | Granny Neighborhood compact storage shed; settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:fbtshed|Friendly Shed (Too)]] | Friendly Blue Too compact storage shed; settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:fbstorage|Friendly Storage]] | Friendly Blue general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:fnstorage|Friendly Storage (Friendly Neighborhood)]] | Friendly Neighborhood general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:fpstorage|Friendly Storage (Friendly Pumpkin)]] | Friendly Pumpkin general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:gnstorage|Friendly Storage (Granny Neighborhood)]] | Granny Neighborhood general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:fbtstorage|Friendly Storage (Too)]] | Friendly Blue Too general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:dsfruitvegbarn|Fruit and Vegetable Barn]] | DS Mods large produce barn; settlers store vegetables and fruit with 9,000-unit capacity |
+| [[buildings:storage:cc17barnfruitlean|Fruit Lean-To]] | Colonial Charter mod small lean-to dedicated to fruit storage; settlers store fruit with 2,000-unit capacity |
+| [[buildings:storage:cellarfuelshort|Fuel Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store fuel with 500-unit capacity |
+| [[buildings:storage:ebsvstorageyardfuel|Fuel Stock Pile]] | Extra Building Set draggable fuel stock pile; settlers store firewood, charcoal, and industrial fuel at 250 units per tile |
+| [[buildings:storage:storageyardfirewood|Fuel Stock Pile]] | Colonial Charter mod stock pile dedicated to fuel; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardfirewoodtransparent|Fuel Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to fuel; 250 units per tile, drag to size |
+| [[buildings:storage:basicstorageyardfuel|Fuel Storage Yard]] | DS Storage drag-to-size yard for fuel; settlers store fuel, wood fuel, and industrial fuel at 250 units per tile |
+| [[buildings:storage:fueltransit|Fuel Transit]] | In Transit fuel distribution yard; settlers store fuel with 400-unit capacity |
+| [[buildings:storage:matwarehousefuel|Fuel Warehouse]] | Colonial Charter fuel warehouse; settlers store fuel with 9,800-unit capacity |
+| [[buildings:storage:vgstorage|Garden Storage]] | KID Vegetable Garden mod storage building dedicated to food and vegetables; settlers store food and vegetable goods with 1,200-unit capacity |
+| [[buildings:storage:gasshokura|Gassho Kura]] | A8 Japanese Housing storehouse; settlers store food, tools, clothing, and a variety of goods with 4,000-unit capacity |
+| [[buildings:storage:gbvbarn|GBV Barn]] | Gingerbread Village barn; free to build; settlers store food, tools, clothing, and textiles with 6,800-unit capacity |
+| [[buildings:storage:gbvstorage|GBV Storage]] | Gingerbread Village storage barn; free to build; settlers store food, tools, clothing, and textiles with 12,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralalcohol|General Alcohol/Luxuries Warehouse]] | DS Small Village mod general warehouse; settlers store alcohol with 6,000-unit capacity |
+| [[buildings:storage:bcgeneral|General Cart (Bodiam Castle)]] | Bodiam Castle general-purpose storage cart; settlers store food, tools, and other supplies with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralclothing|General Clothing Warehouse]] | DS Small Village mod general warehouse; settlers store clothing with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom5|General Construction Warehouse]] | DS Small Village mod general warehouse; settlers store building supplies with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom9|General Consumables Warehouse]] | DS Small Village mod general warehouse; settlers store consumables with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom0|General Crafted Goods Warehouse]] | DS Small Village mod general warehouse; settlers store crafted goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom2|General Fabrics Warehouse]] | DS Small Village mod general warehouse; settlers store fabrics with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralfood|General Food Warehouse]] | DS Small Village mod general warehouse; settlers store food with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneraledbl|General Food/Health Warehouse]] | DS Small Village mod general warehouse; settlers store food and health goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom1|General Forged Items Warehouse]] | DS Small Village mod general warehouse; settlers store forged goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralfruit|General Fruit Warehouse]] | DS Small Village mod general warehouse; settlers store fruit with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralfuel|General Fuel Warehouse]] | DS Small Village mod general warehouse; settlers store fuel and industrial fuel with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralgoods|General Goods Warehouse]] | DS Small Village mod general warehouse; settlers store tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralgrain|General Grain Warehouse]] | DS Small Village mod general warehouse; settlers store grain with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralhealth|General Health Warehouse]] | DS Small Village mod general warehouse; settlers store health items with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom3|General Industrial Fuel Warehouse]] | DS Small Village mod general warehouse; settlers store industrial fuel with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneraliron|General Iron Warehouse]] | DS Small Village mod general warehouse; settlers store iron with 6,000-unit capacity |
+| [[buildings:storage:lcgeneral|General Large Cart]] | KID Mods large general-purpose storage cart; settlers store food, tools, clothing, and a wide variety of goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralwood|General Log Warehouse]] | DS Small Village mod general warehouse; settlers store raw wood with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom4|General Materials Warehouse]] | DS Small Village mod general warehouse; settlers store raw materials with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcoal|General Minerals/Coal Warehouse]] | DS Small Village mod general warehouse; settlers store coal fuel with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom7|General Misc Warehouse]] | DS Small Village mod general warehouse; settlers store miscellaneous goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom6|General Precious Warehouse]] | DS Small Village mod general warehouse; settlers store precious goods with 5,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralprotein|General Protein Warehouse]] | DS Small Village mod general warehouse; settlers store protein goods with 6,000-unit capacity |
+| [[buildings:storage:scgeneral|General Small Cart]] | Storage Carts mod small general cart for most goods; 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralstone|General Stone Warehouse]] | DS Small Village mod general warehouse; settlers store stone with 6,000-unit capacity |
+| [[buildings:storage:swampstoragegeneral|General Storage]] | Swamp Houses mod general-purpose storage; settlers store a wide variety of goods with 2,000-unit capacity |
+| [[buildings:storage:kysgeneral1|General Storage 1]] | Kid Yard Cover small general-purpose storage yard; settlers store food, tools, clothing, and a variety of goods with 600-unit capacity |
+| [[buildings:storage:kysgeneral2|General Storage 2]] | Kid Yard Cover medium general-purpose storage yard; settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:kysgeneral3|General Storage 3]] | Kid Yard Cover large general-purpose storage yard; settlers store food, tools, clothing, and a variety of goods with 1,800-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneraltextiles|General Textile Warehouse]] | DS Small Village mod general warehouse; settlers store textiles with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneraltools|General Tools Warehouse]] | DS Small Village mod general warehouse; settlers store tools with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralveg|General Vegetable Warehouse]] | DS Small Village mod general warehouse; settlers store vegetables with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneral|General Warehouse]] | DS Small Village mod general warehouse; settlers store food, tools, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:dssvstoragetowngeneralcustom8|General Warehouse (Custom 8)]] | DS Small Village mod general warehouse; settlers store Custom 8 goods with 6,000-unit capacity |
+| [[buildings:storage:nmtdock1x1ghstorage|Ghost Storage]] | NMT Docks ghost storage overlay; provides shared storage on existing dock tiles with 300-unit capacity |
+| [[buildings:storage:ghostedcrates|Ghosted Crates]] | Ghost-style storage crates with no footprint and no construction cost; settlers store food, tools, clothing, and a variety of goods with 400-unit capacity |
+| [[buildings:storage:ghostedcratestoo|Ghosted Crates (Too)]] | Ghost-style storage crates (alternate variant) with no footprint and no construction cost; settlers store food, tools, clothing, and a variety of goods with 400-unit capacity |
+| [[buildings:storage:cc17barngrainlean|Grain Lean-To]] | Colonial Charter mod small lean-to dedicated to grain storage; settlers store grain with 2,000-unit capacity |
+| [[buildings:storage:grainsilo|Grain Silo]] | Colonial Charter large grain storage silo; settlers store grain with 24,000-unit capacity |
+| [[buildings:storage:nmt30granary|Granary (NMT 3.0)]] | New Medieval Town 3.0 granary; settlers store grain and edible goods with 12,000-unit capacity |
+| [[buildings:storage:dshorsefence|Horse Fence]] | DS Fences post-and-rail horse fence; straight, corner, angled and gate pieces |
+| [[buildings:storage:icecavestorage|Ice Cave Storage]] | Kid Ice Castle storehouse; 10000 storage; free |
+| [[buildings:storage:cellarindustrialfuelshort|Industrial Fuel Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store industrial fuel with 500-unit capacity |
+| [[buildings:storage:storageyardindustrial|Industrial Fuel Stock Pile]] | Colonial Charter mod stock pile dedicated to industrial fuel; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardindustrialtransparent|Industrial Fuel Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to industrial fuel; 250 units per tile, drag to size |
+| [[buildings:storage:basicstorageyardcustom3|Industrial Fuel Storage Yard]] | DS Storage drag-to-size yard for industrial fuel; settlers store industrial fuel at 250 units per tile |
+| [[buildings:storage:industrialtransit|Industrial Transit]] | In Transit industrial fuel distribution yard; settlers store industrial fuel for quick distribution with 400-unit capacity |
+| [[buildings:storage:matwarehouseindustrial|Industrial Warehouse]] | Colonial Charter industrial fuel warehouse; settlers store industrial fuel with 12,200-unit capacity |
+| [[buildings:storage:dsthaddsurrelstorage|Industry Storage]] | DS Mods large industry warehouse; settlers store tools, coal fuel, iron, clothing, and industrial supplies with 8,000-unit capacity |
+| [[buildings:storage:storageyardiron|Iron Stock Pile]] | Colonial Charter mod stock pile dedicated to iron; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardirontransparent|Iron Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to iron; 250 units per tile, drag to size |
+| [[buildings:storage:dsironstoragepiles|Iron Storage Piles]] | DS Mods small storage pile; settlers store iron with 300-unit capacity |
+| [[buildings:storage:basicstorageyardiron|Iron Storage Yard]] | DS Storage drag-to-size iron yard; settlers store iron at 250 units per tile |
+| [[buildings:storage:irontransit|Iron Transit]] | In Transit iron distribution yard; settlers store iron for quick distribution with 400-unit capacity |
+| [[buildings:storage:matwarehouseiron|Iron Warehouse]] | Colonial Charter iron warehouse; settlers store iron with 12,200-unit capacity |
+| [[buildings:storage:dsjabjettylowstorage1x1|Jetty Low Storage 1×1]] | DS Jetty and Bridge low dock storage shed; settlers store food, tools, clothing, and goods with 250-unit capacity |
+| [[buildings:storage:dsjabjettylowstorage1x1tex2|Jetty Low Storage 1×1 (Tex 2)]] | DS Jetty and Bridge low dock storage shed (Texture 2); settlers store food, tools, clothing, and goods with 250-unit capacity |
+| [[buildings:storage:dsjabjettylowstoragewalk1x1|Jetty Low Storage Walk 1×1]] | DS Jetty and Bridge walkway storage; settlers store food, tools, clothing, and goods with 100-unit capacity |
+| [[buildings:storage:dsjabjettylowstoragewalk1x1tex2|Jetty Low Storage Walk 1×1 (Tex 2)]] | DS Jetty and Bridge walkway storage (Texture 2); settlers store food, tools, clothing, and goods with 100-unit capacity |
+| [[buildings:storage:dsjabjettystorage1x1|Jetty Storage 1×1]] | DS Jetty and Bridge dock storage shed; settlers store food, tools, clothing, and goods with 250-unit capacity |
+| [[buildings:storage:dsjabjettystorage1x1tex2|Jetty Storage 1×1 (Tex 2)]] | DS Jetty and Bridge dock storage shed (Texture 2); settlers store food, tools, clothing, and goods with 250-unit capacity |
+| [[buildings:storage:dsjabjettystorage2x2|Jetty Storage 2×2]] | DS Jetty and Bridge larger dock storage shed; settlers store food, tools, clothing, and goods with 1,000-unit capacity |
+| [[buildings:storage:dsjabjettystorage2x2tex2|Jetty Storage 2×2 (Tex 2)]] | DS Jetty and Bridge dock storage shed (Texture 2); settlers store food, tools, clothing, and goods with 1,000-unit capacity |
+| [[buildings:storage:dsjabjettystorage2x3|Jetty Storage 2×3]] | DS Jetty and Bridge larger dock storage building; settlers store food, tools, clothing, and goods with 1,600-unit capacity |
+| [[buildings:storage:dsjabjettystorage2x3tex2|Jetty Storage 2×3 (Tex 2)]] | DS Jetty and Bridge dock storage building (Texture 2); settlers store food, tools, clothing, and goods with 1,600-unit capacity |
+| [[buildings:storage:dsjabjettystoragebarnlarge|Jetty Storage Barn Large]] | DS Jetty and Bridge large dock storage barn; settlers store food, tools, clothing, and goods with 10,000-unit capacity |
+| [[buildings:storage:dsjabjettystoragebarnlarget2|Jetty Storage Barn Large (T2)]] | DS Jetty and Bridge large dock storage barn (Texture 2); settlers store food, tools, clothing, and goods with 10,000-unit capacity |
+| [[buildings:storage:dsjabjettystoragefuel2x2|Jetty Storage Fuel 2×2]] | DS Jetty and Bridge dock fuel storage; settlers store fuel with 1,000-unit capacity |
+| [[buildings:storage:dsjabjettystoragefuel2x2tex2|Jetty Storage Fuel 2×2 (Tex 2)]] | DS Jetty and Bridge dock fuel storage (Texture 2); settlers store fuel with 1,000-unit capacity |
+| [[buildings:storage:fishshipsstoragewaterhi|Jetty Storage Hi (Fish Ships)]] | Fish Ships general-purpose jetty storage (high platform variant); settlers store food, tools, clothing, and a variety of goods with 4,800-unit capacity |
+| [[buildings:storage:dsjabjettystoragelogs2x2|Jetty Storage Logs 2×2]] | DS Jetty and Bridge dock log storage; settlers store raw wood with 1,000-unit capacity |
+| [[buildings:storage:dsjabjettystoragelogs2x2tex2|Jetty Storage Logs 2×2 (Tex 2)]] | DS Jetty and Bridge dock log storage (Texture 2); settlers store raw wood with 1,000-unit capacity |
+| [[buildings:storage:fishshipsstoragewater|Jetty Storage Low (Fish Ships)]] | Fish Ships general-purpose jetty storage (low variant); settlers store food, tools, clothing, and a variety of goods with 4,800-unit capacity |
+| [[buildings:storage:dsjabjettystoragewalk1x1|Jetty Storage Walk 1×1]] | DS Jetty and Bridge walkway storage; settlers store food, tools, clothing, and goods with 100-unit capacity |
+| [[buildings:storage:dsjabjettystoragewalk1x1tex2|Jetty Storage Walk 1×1 (Tex 2)]] | DS Jetty and Bridge walkway storage (Texture 2); settlers store food, tools, clothing, and goods with 100-unit capacity |
+| [[buildings:storage:kura|Kura]] | A8 Japanese Housing storehouse with thick clay walls; settlers store food, tools, clothing, and a variety of goods with 4,000-unit capacity |
+| [[buildings:storage:hobbitlargebarn|Large Barn (Hobbit)]] | Hobbit large general-purpose barn; settlers store food, tools, clothing, and a wide variety of goods with 8,200-unit capacity |
+| [[buildings:storage:cxbarne|Large Barn Expansion]] | Colonial Resources expansion barn; settlers store food, fuel, tools, and other supplies with 8,000-unit capacity |
+| [[buildings:storage:ootwlargedepot|Large Depot]] | Out of This World large storage depot; settlers store food, tools, clothing, and a variety of goods with 13,000-unit capacity |
+| [[buildings:storage:hillsidelargestorage|Large Storage (Hillside Village)]] | Hillside Village large general-purpose storage building; settlers store food, tools, clothing, and a wide variety of goods with 18,000-unit capacity |
+| [[buildings:storage:rhxsl|Large Storage (Row Business)]] | KID Rowhouses mod large general storage building; settlers store a wide variety of goods with 8,000-unit capacity |
+| [[buildings:storage:cxbarn|Large Storage Barn]] | Colonial Resources large storage barn; settlers store food, fuel, tools, and other supplies with 10,000-unit capacity |
+| [[buildings:storage:cc17barnlean|Lean-To]] | Colonial Charter mod small general lean-to storage; settlers store a wide variety of goods with 2,000-unit capacity |
+| [[buildings:storage:dslogfencegatelargeimpassable|Log Fence Gate Large (Impassable)]] | DS Mods impassable log gate upgrade; settlers store tools with 100-unit capacity |
+| [[buildings:storage:dslogfences|Log Fences]] | DS Fences timber fencing in cut-log, rough-log and log-fence styles; straight, corner, edge, gate and junction pieces |
+| [[buildings:storage:logkura|Log Kura]] | A8 Japanese Housing elevated log storehouse; settlers store food, tools, clothing, and a variety of goods with 4,000-unit capacity |
+| [[buildings:storage:storageyardwood|Log Stock Pile]] | Colonial Charter mod stock pile dedicated to logs; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardwoodtransparent|Log Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to logs; 250 units per tile, drag to size |
+| [[buildings:storage:dslogstoragepiles|Log Storage Piles]] | DS Mods small storage pile; settlers store raw wood with 300-unit capacity |
+| [[buildings:storage:basicstorageyardwood|Log Storage Yard]] | DS Storage drag-to-size log yard; settlers store logs at 250 units per tile |
+| [[buildings:storage:logtransit|Log Transit]] | In Transit log distribution yard; settlers store raw wood for quick distribution with 400-unit capacity |
+| [[buildings:storage:dslumberstoragepiles|Lumber Storage Piles]] | DS Mods small storage pile; settlers store construction materials with 300-unit capacity |
+| [[buildings:storage:cellaralcoholshort|Luxuries Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store alcohol and luxury goods with 500-unit capacity |
+| [[buildings:storage:maritimesdrystorage|Maritimes Dry Storage]] | Necora's Maritimes dry goods storage building; settlers store clothing, textiles, crafted goods, fabrics, precious items, and miscellaneous goods with 8,000-unit capacity |
+| [[buildings:storage:maritimesfoodcellar|Maritimes Food Cellar]] | Necora's Maritimes underground food cellar; settlers store food, grain, fruit, vegetables, and protein with 5,000-unit capacity |
+| [[buildings:storage:maritimesstoragebarn|Maritimes Storage Barn]] | Necora's Maritimes large storage barn; settlers store health items, tools, clothing, textiles, alcohol, crafted goods, forged goods, and a variety of goods with 8,000-unit capacity |
+| [[buildings:storage:maritimestoolshed|Maritimes Tool Shed]] | Necora's Maritimes small tool storage shed; settlers store tools with 200-unit capacity |
+| [[buildings:storage:basicstorageyardcustom4|Materials Storage Yard]] | DS Storage drag-to-size yard for raw materials; settlers store raw materials at 250 units per tile |
+| [[buildings:storage:materialstransit|Materials Transit]] | In Transit raw materials distribution yard; settlers store raw materials for quick distribution with 400-unit capacity |
+| [[buildings:storage:matwarehouse|Materials Warehouse]] | Colonial Charter large materials warehouse; settlers store wood, stone, iron, coal fuel, fuel, industrial fuel, raw materials, and building supplies with 20,000-unit capacity |
+| [[buildings:storage:rkmeatlocker|Meat Locker]] | RK Editor's Choice half-underground storage; settlers store proteins with 3,600-unit capacity |
+| [[buildings:storage:meatlocker|Meat Locker]] | Colonial Charter large meat locker; settlers store protein goods with 6,000-unit capacity |
+| [[buildings:storage:cellarhealthshort|Medicine Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store medicine and health items with 500-unit capacity |
+| [[buildings:storage:newmedievalcanal4xdock1|Medieval Canal : Dock (4x)]] | New Medieval Town canal dock (4-wide); settlers store food, grain, tools, clothing, and materials with 1,200-unit capacity |
+| [[buildings:storage:newmedievalcanal6xdock1|Medieval Canal : Dock (6x)]] | New Medieval Town canal dock (6-wide); settlers store food, grain, tools, clothing, and materials with 1,200-unit capacity |
+| [[buildings:storage:newmedievalcanal8xdock1|Medieval Canal : Dock (8x)]] | New Medieval Town canal dock (8-wide); settlers store food, grain, tools, clothing, and materials with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc1|Medieval Canal : Dock (Classic)]] | New Medieval Town 3.1 canal dock storage section (Classic colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc1r|Medieval Canal : Dock (Classic, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Classic colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc7|Medieval Canal : Dock (Dark Stones)]] | New Medieval Town 3.1 canal dock storage section (Dark Stones colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc7r|Medieval Canal : Dock (Dark Stones, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Dark Stones colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc5|Medieval Canal : Dock (Fire Bricks)]] | New Medieval Town 3.1 canal dock storage section (Fire Bricks colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc5r|Medieval Canal : Dock (Fire Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Fire Bricks colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc6|Medieval Canal : Dock (Old Church)]] | New Medieval Town 3.1 canal dock storage section (Old Church colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc6r|Medieval Canal : Dock (Old Church, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Church colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc2|Medieval Canal : Dock (Old Stones)]] | New Medieval Town 3.1 canal dock storage section (Old Stones colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc2r|Medieval Canal : Dock (Old Stones, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Stones colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc8|Medieval Canal : Dock (Old Wood)]] | New Medieval Town 3.1 canal dock storage section (Old Wood colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc8r|Medieval Canal : Dock (Old Wood, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Wood colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc3|Medieval Canal : Dock (Red Bricks)]] | New Medieval Town 3.1 canal dock storage section (Red Bricks colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc3r|Medieval Canal : Dock (Red Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Red Bricks colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc4|Medieval Canal : Dock (Sand Bricks)]] | New Medieval Town 3.1 canal dock storage section (Sand Bricks colorway); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal4xdockc4r|Medieval Canal : Dock (Sand Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Sand Bricks colorway, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc1|Medieval Canal : Dock 6x (Classic)]] | New Medieval Town 3.1 canal dock storage section (Classic colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc1r|Medieval Canal : Dock 6x (Classic, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Classic colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc7|Medieval Canal : Dock 6x (Dark Stones)]] | New Medieval Town 3.1 canal dock storage section (Dark Stones colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc7r|Medieval Canal : Dock 6x (Dark Stones, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Dark Stones colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc5|Medieval Canal : Dock 6x (Fire Bricks)]] | New Medieval Town 3.1 canal dock storage section (Fire Bricks colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc5r|Medieval Canal : Dock 6x (Fire Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Fire Bricks colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc6|Medieval Canal : Dock 6x (Old Church)]] | New Medieval Town 3.1 canal dock storage section (Old Church colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc6r|Medieval Canal : Dock 6x (Old Church, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Church colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc2|Medieval Canal : Dock 6x (Old Stones)]] | New Medieval Town 3.1 canal dock storage section (Old Stones colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc2r|Medieval Canal : Dock 6x (Old Stones, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Stones colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc8|Medieval Canal : Dock 6x (Old Wood)]] | New Medieval Town 3.1 canal dock storage section (Old Wood colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc8r|Medieval Canal : Dock 6x (Old Wood, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Wood colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc3|Medieval Canal : Dock 6x (Red Bricks)]] | New Medieval Town 3.1 canal dock storage section (Red Bricks colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc3r|Medieval Canal : Dock 6x (Red Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Red Bricks colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc4|Medieval Canal : Dock 6x (Sand Bricks)]] | New Medieval Town 3.1 canal dock storage section (Sand Bricks colorway, 6-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal6xdockc4r|Medieval Canal : Dock 6x (Sand Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Sand Bricks colorway, 6-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc1|Medieval Canal : Dock 8x (Classic)]] | New Medieval Town 3.1 canal dock storage section (Classic colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc1r|Medieval Canal : Dock 8x (Classic, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Classic colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc7|Medieval Canal : Dock 8x (Dark Stones)]] | New Medieval Town 3.1 canal dock storage section (Dark Stones colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc7r|Medieval Canal : Dock 8x (Dark Stones, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Dark Stones colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc5|Medieval Canal : Dock 8x (Fire Bricks)]] | New Medieval Town 3.1 canal dock storage section (Fire Bricks colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc5r|Medieval Canal : Dock 8x (Fire Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Fire Bricks colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc6|Medieval Canal : Dock 8x (Old Church)]] | New Medieval Town 3.1 canal dock storage section (Old Church colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc6r|Medieval Canal : Dock 8x (Old Church, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Church colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc2|Medieval Canal : Dock 8x (Old Stones)]] | New Medieval Town 3.1 canal dock storage section (Old Stones colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc2r|Medieval Canal : Dock 8x (Old Stones, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Stones colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc8|Medieval Canal : Dock 8x (Old Wood)]] | New Medieval Town 3.1 canal dock storage section (Old Wood colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc8r|Medieval Canal : Dock 8x (Old Wood, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Old Wood colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc3|Medieval Canal : Dock 8x (Red Bricks)]] | New Medieval Town 3.1 canal dock storage section (Red Bricks colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc3r|Medieval Canal : Dock 8x (Red Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Red Bricks colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc4|Medieval Canal : Dock 8x (Sand Bricks)]] | New Medieval Town 3.1 canal dock storage section (Sand Bricks colorway, 8-wide); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmt30canal8xdockc4r|Medieval Canal : Dock 8x (Sand Bricks, Reversed)]] | New Medieval Town 3.1 canal dock storage section (Sand Bricks colorway, 8-wide, mirrored); settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:nmcoalsilo|Medieval Coal Silo]] | New Medieval Town large coal storage silo; settlers store coal fuel with 30,000-unit capacity |
+| [[buildings:storage:nmgrainsilo|Medieval Grain Silo]] | New Medieval Town large grain storage silo; settlers store grain with 20,000-unit capacity |
+| [[buildings:storage:newmedievalgranary|Medieval Granary]] | New Medieval Town granary; settlers store grain, food, fruit, vegetables, and protein with 8,000-unit capacity |
+| [[buildings:storage:normalbarn|Medieval Normal Barn]] | New Medieval Town general-purpose storage barn; settlers store food, fuel, tools, clothing, and a variety of goods with 8,000-unit capacity |
+| [[buildings:storage:newmedievalrootcellar|Medieval Root Cellar]] | New Medieval Town underground root cellar; settlers store fruit and vegetables with 20,000-unit capacity |
+| [[buildings:storage:nmsmallbarn|Medieval Small Barn]] | New Medieval Town small general storage barn; settlers store food, fuel, tools, clothing, and a wide variety of goods with 5,000-unit capacity |
+| [[buildings:storage:tinybarn|Medieval Tiny Barn]] | New Medieval Town mod small storage barn; settlers store a wide variety of goods with 4,000-unit capacity |
+| [[buildings:storage:newmedievalwall3x3wt|Medieval Wall - Walltower]] | New Medieval Castle wall tower with storage; settlers store food, fuel, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:mediumbarn|Medium Barn]] | New Medieval Town medium-sized general storage barn; settlers store food, fuel, tools, clothing, and a wide variety of goods with 6,000-unit capacity |
+| [[buildings:storage:nmt30storagebarnmed|Medium Barn (NMT 3.0)]] | New Medieval Town 3.0 medium storage barn; settlers store food, alcohol, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:wpbarn|Medium Barn (WorkPlace)]] | KID WorkPlace mod medium storage barn; settlers store a wide variety of goods with 8,000-unit capacity |
+| [[buildings:storage:ftmstorage|Medium Storage (Fairy Tale)]] | Fairy Tale medium-sized storage building; settlers store food, fuel, tools, clothing, and a variety of goods with 9,000-unit capacity |
+| [[buildings:storage:mggardencorner|MG Garden Corner]] | KID Mods Medieval Grace garden corner storage; settlers store alcohol with 300-unit capacity |
+| [[buildings:storage:mgstorage01|MG Monastery Storage]] | KID Mods Medieval Grace monastery storage building; settlers store food, tools, health items, clothing, textiles, and alcohol with 5,200-unit capacity |
+| [[buildings:storage:mgshed|MG Shed]] | KID Mods Medieval Grace 1×1 storage shed; settlers store food, tools, health items, clothing, textiles, and alcohol with 2,400-unit capacity |
+| [[buildings:storage:milmagazine|Mil Magazine]] | Colonial Charter Frontier large fortified magazine; settlers store food, fuel, tools, clothing, and a wide variety of goods with 60,000-unit capacity |
+| [[buildings:storage:gfmillstorage|Mill Storage (Gothic Farm)]] | Gothic Farm grain storage building; settlers store grain with 8,000-unit capacity |
+| [[buildings:storage:railwayminecart|Mine Cart]] | Railway mod mine cart; settlers store coal fuel and iron with 1,000-unit capacity |
+| [[buildings:storage:basicstorageyardcoal|Minerals & Coal Storage Yard]] | DS Storage drag-to-size yard for coal and coal fuel; settlers store minerals and coal at 250 units per tile |
+| [[buildings:storage:ebsvstorageyardminmat|Minerals and Materials Stock Pile]] | Extra Building Set draggable stock pile; settlers store coal and raw materials at 250 units per tile |
+| [[buildings:storage:cellarmaterialsshort|Minerals Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store coal fuel and minerals with 500-unit capacity |
+| [[buildings:storage:storageyardminerals|Minerals Stock Pile]] | Colonial Charter mod stock pile dedicated to minerals and ores; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardmineralstransparent|Minerals Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to minerals and ores; 250 units per tile, drag to size |
+| [[buildings:storage:matwarehouseminerals|Minerals Warehouse]] | Colonial Charter minerals warehouse; settlers store coal fuel with 9,800-unit capacity |
+| [[buildings:storage:ministore|Mini Store]] | Mini mod compact general-purpose storage building; settlers store food, fuel, tools, clothing, and a wide variety of goods with 1,000-unit capacity |
+| [[buildings:storage:cellarmiscshort|Misc Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store miscellaneous goods with 500-unit capacity |
+| [[buildings:storage:rkgardenwallscustom7barn|Miscellaneous Barn]] | RK Garden Walls barn for miscellaneous goods; settlers store misc items with 6,000-unit capacity |
+| [[buildings:storage:sbvstorage|Mission Storage]] | SBV Mission mod general storage for food, tools, clothing, and food goods; 1,200-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowalcohol|Narrow Alcohol/Luxuries Warehouse]] | DS Small Village mod narrow warehouse; settlers store alcohol with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowclothing|Narrow Clothing Warehouse]] | DS Small Village mod narrow warehouse; settlers store clothing with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom5|Narrow Construction Warehouse]] | DS Small Village mod narrow warehouse; settlers store building supplies with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom9|Narrow Consumables Warehouse]] | DS Small Village mod narrow warehouse; settlers store consumables with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom0|Narrow Crafted Goods Warehouse]] | DS Small Village mod narrow warehouse; settlers store crafted goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom2|Narrow Fabrics Warehouse]] | DS Small Village mod narrow warehouse; settlers store fabrics with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowfood|Narrow Food Warehouse]] | DS Small Village mod narrow warehouse; settlers store food with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowedbl|Narrow Food/Health Warehouse]] | DS Small Village mod narrow warehouse; settlers store food and health goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom1|Narrow Forged Items Warehouse]] | DS Small Village mod narrow warehouse; settlers store forged goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowfruit|Narrow Fruit Warehouse]] | DS Small Village mod narrow warehouse; settlers store fruit with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowfuel|Narrow Fuel Warehouse]] | DS Small Village mod narrow warehouse; settlers store fuel with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowgoods|Narrow Goods Warehouse]] | DS Small Village mod narrow warehouse; settlers store tools, clothing, and a variety of goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowgrain|Narrow Grain Warehouse]] | DS Small Village mod narrow warehouse; settlers store grain with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowhealth|Narrow Health Warehouse]] | DS Small Village mod narrow warehouse; settlers store health items with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom3|Narrow Industrial Fuel Warehouse]] | DS Small Village mod narrow warehouse; settlers store industrial fuel with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowiron|Narrow Iron Warehouse]] | DS Small Village mod narrow warehouse; settlers store iron with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowwood|Narrow Log Warehouse]] | DS Small Village mod narrow warehouse; settlers store raw logs with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom4|Narrow Materials Warehouse]] | DS Small Village mod narrow warehouse; settlers store raw materials with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcoal|Narrow Minerals/Coal Warehouse]] | DS Small Village mod narrow warehouse; settlers store coal fuel with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom7|Narrow Misc Warehouse]] | DS Small Village mod narrow warehouse; settlers store miscellaneous goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom6|Narrow Precious Warehouse]] | DS Small Village mod narrow warehouse; settlers store precious goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowprotein|Narrow Protein Warehouse]] | DS Small Village mod narrow warehouse; settlers store protein goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowstone|Narrow Stone Warehouse]] | DS Small Village mod narrow warehouse; settlers store stone with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowtextiles|Narrow Textile Warehouse]] | DS Small Village mod narrow warehouse; settlers store textiles with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowtools|Narrow Tools Warehouse]] | DS Small Village mod narrow warehouse; settlers store tools with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowveg|Narrow Vegetable Warehouse]] | DS Small Village mod narrow warehouse; settlers store vegetables with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrow|Narrow Warehouse]] | DS Small Village mod narrow warehouse; settlers store food, tools, and a variety of goods with 2,000-unit capacity |
+| [[buildings:storage:dssvstoragetownnarrowcustom8|Narrow Warehouse (Custom 8)]] | DS Small Village mod narrow warehouse; settlers store Custom 8 goods with 2,000-unit capacity |
+| [[buildings:storage:longhousestorage|Native Longhouse Storage]] | Colonial Charter Frontier large native longhouse; settlers store food, fuel, tools, clothing, and a wide variety of goods with 4,000-unit capacity |
+| [[buildings:storage:teepeestorage|Native Teepee Storage]] | CCFrontier native teepee converted to storage; settlers store a wide variety of goods with 400-unit capacity |
+| [[buildings:storage:wigwamstorage|Native WigWam Storage]] | CCFrontier native wigwam converted to storage; settlers store a wide variety of goods with 1,000-unit capacity |
+| [[buildings:storage:gtnewlargebarn|New Large Barn (Ghost Town)]] | Ghost Town upgraded large barn; settlers store food, fuel, tools, clothing, and a variety of goods with 16,000-unit capacity |
+| [[buildings:storage:gtnewsmallbarn|New Small Barn (Ghost Town)]] | Ghost Town upgraded small barn; settlers store food, fuel, tools, clothing, and a variety of goods with 4,200-unit capacity |
+| [[buildings:storage:nmt30storagebarnnorm|Normal Barn]] | New Medieval Town 3.0 large storage barn; settlers store food, alcohol, tools, clothing, and a variety of goods with 10,000-unit capacity |
+| [[buildings:storage:nsinshorestorage|NS Inshore Storage]] | Maritimes inshore storage building; settlers store food, grain, fruit, vegetables, protein, tools, health items, clothing, and textiles with 9,000-unit capacity |
+| [[buildings:storage:cc17barnbroken|Old Barn]] | Colonial Charter mod old general storage barn; settlers store a wide variety of goods with 9,000-unit capacity |
+| [[buildings:storage:oldhovelbarn|Old Barn (Old Hovels)]] | Old Hovels general-purpose storage barn; settlers store food, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:otsmallbarn|Old Barn (Old Town)]] | Old Town wood-frame storage barn; settlers store food, fuel, tools, clothing, and a variety of goods with 5,000-unit capacity |
+| [[buildings:storage:owcastle|Old Castle]] | Colonial Charter massive castle storage; settlers store virtually all goods with 85,000-unit capacity |
+| [[buildings:storage:gtslargebarn|Old Large Barn (Ghost Town Houses)]] | Ghost Town Houses large barn; settlers store food, fuel, tools, clothing, and a variety of goods with 16,000-unit capacity |
+| [[buildings:storage:gtoldlargebarn|Old Large Barn (Ghost Town)]] | Ghost Town large barn upgradeable to New Large Barn; settlers store food, fuel, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:gtalargebarn|Old Large Barn (Ghost Town, Old Versions)]] | Ghost Town old large barn (Old Versions) requiring minimal construction cost; settlers store food, fuel, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:oldmedievalcanal4xdock1|Old Medieval Canal : Dock (4x)]] | New Medieval Town older-style canal dock (4-wide); settlers store food, fuel, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:oldmedievalcanal6xdock1|Old Medieval Canal : Dock (6x)]] | New Medieval Town older-style canal dock (6-wide); settlers store food, fuel, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:oldmedievalcanal8xdock1|Old Medieval Canal : Dock (8x)]] | New Medieval Town older-style canal dock (8-wide); settlers store food, fuel, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:dstunnelmineccupstore|Old Mine Food Cellar]] | DS Mods large underground food cellar upgraded from a Tunnel Mine; settlers store food with 20,000-unit capacity |
+| [[buildings:storage:otshed|Old Shed]] | Old Town wood-frame storage shed; settlers store food, fuel, tools, clothing, and a variety of goods with 1,800-unit capacity |
+| [[buildings:storage:oldhovelshed|Old Shed (Old Hovels)]] | Old Hovels small storage shed with a capacity of 3,200 units |
+| [[buildings:storage:gtoldsmallbarn|Old Small Barn (Ghost Town)]] | Ghost Town small barn upgradeable to New Small Barn; settlers store food, fuel, tools, clothing, and a variety of goods with 3,000-unit capacity |
+| [[buildings:storage:gtasmallbarn|Old Small Barn (Ghost Town, Old Versions)]] | Ghost Town old small barn (Old Versions) requiring minimal construction cost; settlers store food, fuel, tools, clothing, and a variety of goods with 3,000-unit capacity |
+| [[buildings:storage:otsmallbarns|Old Stone Barn]] | Old Town stone storage barn; settlers store food, fuel, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:otsheds|Old Stone Shed]] | Old Town stone storage shed; settlers store food, fuel, tools, clothing, and a variety of goods with 2,200-unit capacity |
+| [[buildings:storage:peiedibles|PEI Shore Edibles]] | PEI Shore dock-based edibles storage; settlers store food, grain, fruit, vegetables, and protein with 5,000-unit capacity |
+| [[buildings:storage:peistorage|PEI Shore Storage]] | PEI Shore dock-based general storage; settlers store tools, health items, clothing, textiles, and a variety of goods with 5,000-unit capacity |
+| [[buildings:storage:pinematerialstorage|Pine Material Storage]] | Maritimes Pine Set material storage; settlers store fuel, raw materials, and construction supplies with 15,000-unit capacity |
+| [[buildings:storage:pinestorage|Pine Storage]] | Maritimes Pine Set storage building; settlers store fuel, tools, textiles, and clothing with 9,000-unit capacity |
+| [[buildings:storage:phstorage|Plantation Storage (Plimoth Harmonized)]] | Plimoth Harmonized large storage building; settlers store food, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:ppstorage|Plantation Storage (Plimoth Plantation)]] | Plimoth Plantation large storage building; settlers store food, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:prediblestorage|Port Royal Edible Storage (Maritimes)]] | Maritimes Port Royal food cellar; settlers store food, grain, fruit, vegetables, and protein with 5,000-unit capacity |
+| [[buildings:storage:predibles|Port Royal Edible Storage (Port Royal)]] | Port Royal food storage cellar; settlers store food and health items with 5,000-unit capacity |
+| [[buildings:storage:prloftstorage|Port Royal High House Loft Storage]] | Maritimes Port Royal elevated dry goods storage; settlers store tools, health items, clothing, and textiles with 5,000-unit capacity |
+| [[buildings:storage:prstorageloft|Port Royal Loft Storage]] | Port Royal elevated loft storage; settlers store dry goods, tools, clothing, and textiles with 9,000-unit capacity |
+| [[buildings:storage:prwarehouse|Port Royal Warehouse]] | Port Royal warehouse; settlers store fuel, building materials, and raw resources with 5,000-unit capacity |
+| [[buildings:storage:cellarpreciousshort|Precious Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store precious goods with 500-unit capacity |
+| [[buildings:storage:cc17barnproteinlean|Protein Lean-To]] | Colonial Charter mod small lean-to dedicated to protein storage; settlers store protein goods with 2,000-unit capacity |
+| [[buildings:storage:swstorage|Quay Barn]] | Colonial Charter mod quayside barn for general goods storage; must be built on a shoreline; settlers store a wide variety of items with 10,000-unit capacity |
+| [[buildings:storage:swmeatlocker|Quay Locker]] | Colonial Charter mod quayside storage; must be built on a shoreline; settlers store proteins with 10,000-unit capacity |
+| [[buildings:storage:swdry|Quay Textile Storage]] | Colonial Charter mod quayside textile storage; must be built on a shoreline; settlers store textiles and fabrics with 10,000-unit capacity |
+| [[buildings:storage:dsrailcartssmallcoalfuel|Rail Carts Small (Coal Fuel)]] | DS Mods decorative small rail cart; settlers store coal fuel with 300-unit capacity |
+| [[buildings:storage:dsrailcartssmallcustom3|Rail Carts Small (Industrial Fuel)]] | DS Mods decorative small rail cart; settlers store industrial fuel with 300-unit capacity |
+| [[buildings:storage:railwaystorages|Railway Storage]] | Railway mod general storage for most goods; 3,600-unit capacity |
+| [[buildings:storage:cellarrawmaterialsshort|Raw Materials Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store raw materials with 500-unit capacity |
+| [[buildings:storage:storageyardmaterials|Raw Materials Stock Pile]] | Colonial Charter mod stock pile dedicated to raw materials; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardmaterialstransparent|Raw Materials Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to raw materials; 250 units per tile, drag to size |
+| [[buildings:storage:matwarehouserawmaterials|Raw Materials Warehouse]] | Colonial Charter raw materials warehouse; settlers store raw materials with 11,400-unit capacity |
+| [[buildings:storage:aprestoredbarn|Restored Barn (Abandoned Places)]] | Abandoned Places storage barn; settlers store food, tools, health items, clothing, and textiles in a 10,000-unit capacity barn |
+| [[buildings:storage:rootcache|Root Cache]] | Colonial mod upgraded root cellar (upgrade of Root Cellar); settlers store vegetables and fruit with 12,000-unit capacity |
+| [[buildings:storage:rootcellar|Root Cellar]] | Colonial mod underground storage for fruit and vegetables; 6,000-unit capacity |
+| [[buildings:storage:hobbitrootcellar|Root Cellar (Hobbit)]] | Hobbit underground root cellar for food storage; settlers store food, grain, fruit, vegetables, and protein with 3,000-unit capacity |
+| [[buildings:storage:nmt30rootcellar|Root Cellar (NMT 3.0)]] | New Medieval Town 3.0 root cellar; settlers store vegetables and fruit underground with 8,000-unit capacity |
+| [[buildings:storage:covenshed|Shed (Coven)]] | Coven mod storage shed; settlers store food, fuel, tools, clothing, and a variety of goods with 4,000-unit capacity |
+| [[buildings:storage:fairygardenshedleaves|Shed (Fairy Garden Leaves)]] | Fairy Garden compact storage shed (leaves variant); settlers store food, fuel, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:fairygardenshedpines|Shed (Fairy Garden Pines)]] | Fairy Garden compact storage shed (pines variant); settlers store food, fuel, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:fairygardenshed|Shed (Fairy Garden)]] | Fairy Garden compact storage shed (seasonal variant); settlers store food, fuel, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:settlersshed|Shed (Settlers)]] | Settlers mod small shed for general goods storage; settlers store food, tools, and a variety of goods with 800-unit capacity |
+| [[buildings:storage:shshed|Shed (Summer Haven)]] | Summer Haven mod small shed for general goods storage; settlers store a wide variety of items with 1,200-unit capacity |
+| [[buildings:storage:smallcellar01|Small angled Cellar]] | DS Storage small angled cellar; settlers store food, tools, clothing, and fabrics with 2,000-unit capacity |
+| [[buildings:storage:smallbarn|Small Barn (Colonial)]] | Colonial Charter general-purpose small storage barn; settlers store food, fuel, tools, clothing, and a variety of goods with 4,500-unit capacity |
+| [[buildings:storage:fishshipssmallbarn|Small Barn (Fish Ships)]] | Fish Ships general-purpose storage barn; settlers store food, tools, clothing, and a variety of goods with 4,000-unit capacity |
+| [[buildings:storage:fhsmallbarn|Small Barn (Forest Haven)]] | Forest Haven general-purpose storage barn; settlers store food, tools, clothing, and a variety of goods with 3,200-unit capacity |
+| [[buildings:storage:fobarn|Small Barn (Forest Outpost)]] | Forest Outpost general-purpose storage barn; settlers store food, tools, clothing, and a variety of goods with 5,000-unit capacity |
+| [[buildings:storage:gtssmallbarn|Small Barn (Ghost Town Houses)]] | Ghost Town Houses small barn; settlers store food, fuel, tools, clothing, and a variety of goods with 4,200-unit capacity |
+| [[buildings:storage:hobbitsmallbarn|Small Barn (Hobbit)]] | Hobbit small general-purpose barn; settlers store food, tools, clothing, and a variety of goods with 3,600-unit capacity |
+| [[buildings:storage:nmt30storagebarnsmall|Small Barn (NMT 3.0)]] | New Medieval Town 3.0 small storage barn; settlers store food, alcohol, tools, clothing, and a variety of goods with 3,800-unit capacity |
+| [[buildings:storage:settlerssmallbarn|Small Barn (Settlers)]] | Settlers mod small storage barn for general goods; settlers store food, tools, and a variety of goods with 3,200-unit capacity |
+| [[buildings:storage:shsmallbarn|Small Barn (Summer Haven)]] | Summer Haven mod storage barn for general goods; settlers store a wide variety of items with 3,200-unit capacity |
+| [[buildings:storage:wwsmallbarn|Small Barn (Wild West Cattle Drive)]] | Wild West Cattle Drive small storage barn; settlers store food, tools, health items, clothing, and textiles with 9,000-unit capacity |
+| [[buildings:storage:fishshipssmallbarnclothes|Small Clothes Barn (Fish Ships)]] | Fish Ships clothing-only storage barn; settlers store clothing and textiles with 4,000-unit capacity |
+| [[buildings:storage:smallbarncrafted|Small Crafted Barn]] | Colonial Charter storage barn dedicated to crafted goods; 4,500-unit capacity |
+| [[buildings:storage:ootwsmalldepot|Small Depot]] | Out of This World small storage depot; settlers store food, tools, clothing, and a variety of goods with 6,000-unit capacity |
+| [[buildings:storage:smallbarnfabrics|Small Fabrics Barn]] | Colonial Charter storage barn dedicated to fabrics; 4,500-unit capacity |
+| [[buildings:storage:fishshipssmallbarnfood|Small Food Barn (Fish Ships)]] | Fish Ships food-only storage barn; settlers store food with 4,000-unit capacity |
+| [[buildings:storage:smallbarnforged|Small Forged Barn]] | Colonial Charter storage barn dedicated to forged goods; 4,500-unit capacity |
+| [[buildings:storage:fishshipssmallbarnherb|Small Herb Barn (Fish Ships)]] | Fish Ships health-only storage barn; settlers store health items and herbs with 4,000-unit capacity |
+| [[buildings:storage:smallbarnmisc|Small Misc Barn]] | Colonial Charter storage barn dedicated to miscellaneous goods; 4,500-unit capacity |
+| [[buildings:storage:phbarn|Small Plantation Barn (Plimoth Harmonized)]] | Plimoth Harmonized small storage barn; settlers store food, tools, clothing, and a variety of goods with 6,800-unit capacity |
+| [[buildings:storage:ppbarn|Small Plantation Barn (Plimoth Plantation)]] | Plimoth Plantation small storage barn; settlers store food, tools, clothing, and a variety of goods with 6,800-unit capacity |
+| [[buildings:storage:smallbarnprecious|Small Precious Barn]] | Colonial Charter storage barn dedicated to precious goods; 4,500-unit capacity |
+| [[buildings:storage:smallpro|Small Proteins Barn]] | Storage barn dedicated to protein goods; 4,000-unit capacity |
+| [[buildings:storage:ftsstorage|Small Storage (Fairy Tale)]] | Fairy Tale small storage building; settlers store food, fuel, tools, clothing, and a variety of goods with 3,200-unit capacity |
+| [[buildings:storage:hillsidesmallstorage|Small Storage (Hillside Village)]] | Hillside Village small general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 4,200-unit capacity |
+| [[buildings:storage:rhxss|Small Storage (Row Business)]] | KID Rowhouses mod small general storage building; settlers store a wide variety of goods with 5,000-unit capacity |
+| [[buildings:storage:wpstorage|Small Storage (WorkPlace)]] | KID WorkPlace mod small general storage building; settlers store a wide variety of goods with 1,200-unit capacity |
+| [[buildings:storage:ebbarn|Small Storage Barn]] | Extra Building Set general storage barn; settlers store food, tools, clothing, and a variety of goods with 3,000-unit capacity |
+| [[buildings:storage:fishshipssmallbarnsupply|Small Supply Barn (Fish Ships)]] | Fish Ships supply storage barn; settlers store tools and clothing with 4,000-unit capacity |
+| [[buildings:storage:fishshipssmallbarntool|Small Tool Barn (Fish Ships)]] | Fish Ships tool-only storage barn; settlers store tools with 4,000-unit capacity |
+| [[buildings:storage:smallveg|Small Veg-Fruits Barn]] | Storage barn dedicated to fruits and vegetables; 4,000-unit capacity |
+| [[buildings:storage:dssvstoragebarn3x3angle|Small Village Barn (3×3 Angle)]] | DS Small Village mod angled storage barn; settlers store food, tools, clothing, and goods with 1,500-unit capacity |
+| [[buildings:storage:dssvstoragebarn3x3|Small Village Barn (3×3)]] | DS Small Village mod general storage barn; settlers store food, tools, clothing, and goods with 1,500-unit capacity |
+| [[buildings:storage:dssvstonefence|Small Village Stone Fence]] | DS Fences small-village stone fence; straight, corner, 3/4-way, overhang and gate pieces |
+| [[buildings:storage:ebsvstorageyard|Stock Pile]] | Extra Building Set draggable stock pile; settlers store logs, stone, iron, fuel, and industrial materials at 250 units per tile |
+| [[buildings:storage:storageyard|Stock Pile]] | Colonial Charter mod general stock pile for fuel, wood, stone, iron, and industrial materials; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardtransparent|Stock Pile (Transparent)]] | Colonial Charter mod transparent general stock pile for raw materials and industrial goods; 250 units per tile, drag to size |
+| [[buildings:storage:ebsvstorageyardstonecon|Stone and Construction Stock Pile]] | Extra Building Set draggable stock pile; settlers store stone and building supplies at 250 units per tile |
+| [[buildings:storage:dsstonebridgestorage5x3|Stone Bridge Storage Shed]] | DS Stone Bridge mod bridge storage shed; settlers store food, tools, clothing, and a variety of goods with 5,500-unit capacity |
+| [[buildings:storage:dsstonebridgestorage2x3|Stone Bridge Storage Walk]] | DS Stone Bridge mod bridge storage section; settlers store food, tools, clothing, and a variety of goods with 1,000-unit capacity |
+| [[buildings:storage:dsstonebridgestoragesq1|Stone Bridge Tiny UnderStorage]] | DS Stone Bridge mod compact under-bridge storage unit; settlers store food, tools, clothing, and a variety of goods with 1,500-unit capacity |
+| [[buildings:storage:storageyardstone|Stone Stock Pile]] | Colonial Charter mod stock pile dedicated to stone; 250 units per tile, drag to size |
+| [[buildings:storage:storageyardstonetransparent|Stone Stock Pile (Transparent)]] | Colonial Charter mod transparent stock pile dedicated to stone; 250 units per tile, drag to size |
+| [[buildings:storage:dsstonestoragepiles|Stone Storage Pile]] | DS Mods small stone storage pile; settlers stack stone with 300-unit capacity |
+| [[buildings:storage:basicstorageyardstone|Stone Storage Yard]] | DS Storage drag-to-size stone yard; settlers store stone at 250 units per tile |
+| [[buildings:storage:stonetransit|Stone Transit]] | Colonial Charter mod in-transit storage yard for stone; 400-unit capacity |
+| [[buildings:storage:matwarehousestone|Stone Warehouse]] | Colonial Charter stone warehouse; settlers store stone with 11,400-unit capacity |
+| [[buildings:storage:rkmcstonepile1gh|Stonepile 'Ghosted' Storage (1×1)]] | RK Training Camp small ghosted stone pile (no terrain footprint); settlers store stone and iron with 250-unit capacity |
+| [[buildings:storage:rkmcstonepile2gh|Stonepile 'Ghosted' Storage (1×2)]] | RK Training Camp medium ghosted stone pile (no terrain footprint); settlers store stone and iron with 450-unit capacity |
+| [[buildings:storage:rkmcstonepile3gh|Stonepile 'Ghosted' Storage (1×3)]] | RK Training Camp large ghosted stone pile (no terrain footprint); settlers store stone and iron with 600-unit capacity |
+| [[buildings:storage:rkmcstonepile1|Stonepile Storage (1×1)]] | RK Training Camp small stone pile; settlers store stone and iron with 500-unit capacity |
+| [[buildings:storage:rkmcstonepile2|Stonepile Storage (1×2)]] | RK Training Camp medium stone pile; settlers store stone and iron with 900-unit capacity |
+| [[buildings:storage:rkmcstonepile3|Stonepile Storage (1×3)]] | RK Training Camp large stone pile; settlers store stone and iron with 1,200-unit capacity |
+| [[buildings:storage:vcstorage|Storage (Animal Shed Cheese)]] | KID Animal Shed Cheese mod small general storage building; settlers store a wide variety of goods with 2,000-unit capacity |
+| [[buildings:storage:bbstorage|Storage (Bed and Breakfast)]] | Bed and Breakfast general storage; settlers store food, tools, and other supplies with 10,000-unit capacity |
+| [[buildings:storage:bgstorage|Storage (Botanical Garden)]] | Botanical Garden storage building; settlers store vegetables, fruit, grain, and health items with 6,200-unit capacity |
+| [[buildings:storage:covenstorage|Storage (Coven)]] | Coven mod storage building; settlers store food, fuel, tools, clothing, and a variety of goods with 11,000-unit capacity |
+| [[buildings:storage:cozycabinstorage|Storage (Cozy Cabin)]] | Cozy Cabin mod storage building; settlers store food, fuel, tools, clothing, and a variety of goods with 2,000-unit capacity |
+| [[buildings:storage:d20housestorage|Storage (D20 House)]] | D20 House mod storage building; settlers store food, tools, clothing, and a variety of goods with 500-unit capacity |
+| [[buildings:storage:fairygardenstorageleaves|Storage (Fairy Garden Leaves)]] | Fairy Garden general-purpose storage building (leaves variant); settlers store food, fuel, tools, clothing, and a variety of goods with 7,200-unit capacity |
+| [[buildings:storage:fairygardenstoragepines|Storage (Fairy Garden Pines)]] | Fairy Garden general-purpose storage building (pines variant); settlers store food, fuel, tools, clothing, and a variety of goods with 7,200-unit capacity |
+| [[buildings:storage:fairygardenstorage|Storage (Fairy Garden)]] | Fairy Garden general-purpose storage building (seasonal variant); settlers store food, fuel, tools, clothing, and a variety of goods with 7,200-unit capacity |
+| [[buildings:storage:ftstorage|Storage (Fairy Tale)]] | Fairy Tale general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 8,000-unit capacity |
+| [[buildings:storage:fotstorage|Storage (Forest Trader)]] | Forest Trader general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 8,000-unit capacity |
+| [[buildings:storage:fodwstorage|Storage (Forge Of Dwarves Winter)]] | Forge Of Dwarves Winter large storage warehouse; settlers store food, tools, clothing, and a variety of goods with 20,000-unit capacity |
+| [[buildings:storage:fodstorage|Storage (Forge Of Dwarves)]] | Forge Of Dwarves large storage warehouse; settlers store food, tools, clothing, and a variety of goods with 20,000-unit capacity |
+| [[buildings:storage:gfstorage1|Storage (Gothic Fantasy 1)]] | Gothic Fantasy 1 general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:gfstorage2|Storage (Gothic Fantasy 2)]] | Gothic Fantasy 2 general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 12,000-unit capacity |
+| [[buildings:storage:mfstorage|Storage (Mexican Fantasy)]] | KID Mods Mexican Fantasy storage building; settlers store food, fuel, tools, clothing, and a wide variety of goods with 8,000-unit capacity |
+| [[buildings:storage:mhdstorage|Storage (More Houses Dark)]] | KID Mods More Houses Dark storage building; settlers store food, tools, health items, clothing, and a variety of goods with 11,000-unit capacity |
+| [[buildings:storage:mhsstorage|Storage (More Houses Stone)]] | KID Mods More Houses Stone storage building; settlers store food, tools, health items, clothing, and a variety of goods with 11,000-unit capacity |
+| [[buildings:storage:mhwstorage|Storage (More Houses Wood)]] | KID Mods More Houses Wood storage building; settlers store food, tools, health items, clothing, and a variety of goods with 11,000-unit capacity |
+| [[buildings:storage:mhstorage|Storage (More Houses)]] | KID Mods More Houses storage building; settlers store food, tools, health items, clothing, and a variety of goods with 11,000-unit capacity |
+| [[buildings:storage:nvstorage|Storage (Native Village)]] | Native Village general-purpose storage building; settlers store food, tools, clothing, and a variety of goods with 18,000-unit capacity |
+| [[buildings:storage:dscelticstorage2x2|Storage 2×2 (DS Celtic)]] | DS Celtic mod small storage building; settlers store food and health items with 700-unit capacity |
+| [[buildings:storage:dscelticstorage2x3|Storage 2×3 (DS Celtic)]] | DS Celtic mod storage building; settlers store food, tools, health items, clothing, and other goods with 1,200-unit capacity |
+| [[buildings:storage:dscelticstorage2x5|Storage 2×5 (DS Celtic)]] | DS Celtic mod storage building; settlers store food, tools, health items, clothing, and other goods with 2,000-unit capacity |
+| [[buildings:storage:kidstoragebarge|Storage Barge]] | KID Mods water-based storage barge; settlers store food, tools, clothing, and a wide variety of goods with 6,800-unit capacity |
+| [[buildings:storage:storagebarn|Storage Barn]] | Vanilla Banished storage barn; stores Food, Tools, Health, Clothing, and Textile items with 6,000-unit capacity; 8 × 5 footprint |
+| [[buildings:storage:ecstoragebarn|Storage Barn (EC)]] | RK Editor's Choice large storage barn; settlers store food, tools, clothing, and a variety of goods with 7,500-unit capacity |
+| [[buildings:storage:dsthaddsurrelstoragebarrels|Storage Barrels]] | DS Mods small barrel cluster; settlers store tools, clothing, crafted goods, and misc items with 200-unit capacity |
+| [[buildings:storage:dsthaddsurrelstorageboxes|Storage Boxes]] | DS Mods small box cluster; settlers store tools, clothing, crafted goods, and misc items with 200-unit capacity |
+| [[buildings:storage:storagecart|Storage Cart]] | Colonial Charter general-purpose storage cart for most goods; 2,500-unit capacity |
+| [[buildings:storage:mcstorage|Storage Cave]] | KID More Caves storage cave; settlers store food, tools, health items, clothing, and textiles with 10,000-unit capacity; Gray/Brown cosmetic variants |
+| [[buildings:storage:dsthaddsurrelstoragecrates|Storage Crates]] | DS Mods small crate cluster; settlers store tools, clothing, crafted goods, and misc items with 200-unit capacity |
+| [[buildings:storage:storagecrates|Storage Crates]] | Crates, barrels, and sacks for storage of most goods; 400-unit capacity |
+| [[buildings:storage:storagecratestoo|Storage Crates (Too)]] | Additional crates, barrels, and sacks for storage of most goods; 400-unit capacity |
+| [[buildings:storage:fodgatestorage|Storage Gate]] | Forge Of Dwarves large storage gate; settlers store food, raw materials, tools, clothing, and goods with 32,000-unit capacity |
+| [[buildings:storage:fodwgatestorage|Storage Gate (Forge Of Dwarves Winter)]] | Forge Of Dwarves Winter large storage gate; settlers store food, raw materials, tools, clothing, and goods with 32,000-unit capacity |
+| [[buildings:storage:d20housestoragebig|Storage Large (D20 House)]] | D20 House mod large storage building; settlers store food, tools, clothing, and a variety of goods with 1,500-unit capacity |
+| [[buildings:storage:aspstorage|Storage Shed (Animal Shed Plus)]] | Animal Shed Plus general storage shed; settlers store food, tools, and supplies with 2,800-unit capacity |
+| [[buildings:storage:fhstorageshed|Storage Shed (Forest Haven)]] | Forest Haven compact storage shed; settlers store food, tools, clothing, and a variety of goods with 1,200-unit capacity |
+| [[buildings:storage:sleighstorage|Storage Sleigh]] | Christmas Mod general-purpose storage sleigh; settlers store a wide variety of items with 2,000-unit capacity |
+| [[buildings:storage:whstorage|Storage Wagon]] | KID Westward Ho mod storage wagon; settlers store a wide variety of goods with 5,200-unit capacity |
+| [[buildings:storage:storagebarnstone|Storage Warehouse]] | Colonial Charter storage warehouse; settlers store a wide variety of goods with 11,000-unit capacity |
+| [[buildings:storage:basicstorageyard|Storage Yard]] | DS Storage drag-to-size general yard; settlers store logs, stone, iron, fuel, coal, industrial materials, raw materials, and building supplies at 250 units per tile |
+| [[buildings:storage:nmtlittlestoragedock|StorageDock 1×1]] | NMT Docks small 1×1 storage dock; settlers store food, tools, clothing, and a variety of goods with 300-unit capacity |
+| [[buildings:storage:nmtlittle2storagedock|StorageDock 1×2]] | NMT Docks 1×2 storage dock; settlers store food, tools, clothing, and a variety of goods with 800-unit capacity |
+| [[buildings:storage:tdstorehouse|Storehouse]] | Tiny Downtown mod large general-purpose storehouse; settlers store a wide variety of goods with 18,000-unit capacity |
+| [[buildings:storage:dsstrongalestoragepiles|Strong Ale Storage Pile]] | DS Mods small alcohol storage pile; settlers stack ale and mead with 300-unit capacity |
+| [[buildings:storage:swampbarn|Swamp Barn]] | Swamp Houses mod large storage barn for general goods; settlers store a wide variety of items with 12,000-unit capacity |
+| [[buildings:storage:swampstoragetailor|Tailor Storage]] | Swamp Houses mod storage dedicated to clothing and textiles; 2,000-unit capacity |
+| [[buildings:storage:kystailor1|Tailor Storage 1]] | Kid Yard Cover small tailor materials storage yard; settlers store clothing and textile goods with 600-unit capacity |
+| [[buildings:storage:kystailor2|Tailor Storage 2]] | Kid Yard Cover medium tailor materials storage yard; settlers store clothing and textile goods with 1,200-unit capacity |
+| [[buildings:storage:kystailor3|Tailor Storage 3]] | Kid Yard Cover large tailor materials storage yard; settlers store clothing and textile goods with 1,800-unit capacity |
+| [[buildings:storage:takakura|Takakura]] | A8 Japanese Housing mod storage barn; settlers store a wide variety of goods with 4,000-unit capacity |
+| [[buildings:storage:templekura|Temple Kura]] | A8 Japanese Housing mod large storage barn; settlers store a wide variety of goods with 6,000-unit capacity |
+| [[buildings:storage:cellardrygoodsshort|Textile Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store textiles with 500-unit capacity |
+| [[buildings:storage:twarehouse|Textile Storage]] | Colonial Charter large storage warehouse dedicated to textiles; 12,000-unit capacity |
+| [[buildings:storage:nmt30storagebarntiny|Tiny Barn]] | New Medieval Town 3.0 tiny storage barn; settlers store food, alcohol, tools, clothing, and a variety of goods with 1,800-unit capacity |
+| [[buildings:storage:nmtbarntinydock|Tiny Barn (NMT Dock)]] | NMT Docks small wood barn; settlers store food, tools, clothing, and a wide variety of goods with 2,000-unit capacity |
+| [[buildings:storage:nmtbarntinystonedock|Tiny Barn (NMT Stone Dock)]] | NMT Docks small stone barn; settlers store food, tools, clothing, and a wide variety of goods with 2,000-unit capacity |
+| [[buildings:storage:tinypro|Tiny Proteins Barn]] | Small storage barn dedicated to protein goods; 2,500-unit capacity |
+| [[buildings:storage:tinyshed|Tiny Shed]] | KID Tiny mod compact storage shed; settlers store a wide variety of goods with 2,000-unit capacity |
+| [[buildings:storage:tinyveg|Tiny Veg-Fruits Barn]] | Small storage barn dedicated to fruits and vegetables; 2,500-unit capacity |
+| [[buildings:storage:cellartoolsshort|Tool Cellar]] | Colonial Charter compact wall-mounted cellar; settlers store tools with 500-unit capacity |
+| [[buildings:storage:teshed|Tool Shed]] | Tool Emporium mod storage shed dedicated to tools; 6,000-unit capacity |
+| [[buildings:storage:dsstonewall|Town Stone Wall]] | DS Fences dressed town wall (styles 001/002); 1×1/2×1/2×2/3×1 sections, small gate, wall ends |
+| [[buildings:storage:towntithebarn|Town Tithe Barn]] | DS Storage large tithe barn; settlers store food, fuel, alcohol, and a comprehensive range of goods with 55,000-unit capacity |
+| [[buildings:storage:railwaytickets|Train Tickets]] | Railway mod tickets and luggage depot; settlers store clothing and textile with 4,200-unit capacity |
+| [[buildings:storage:townbarn01|Tudor Town Barn]] | DS Storage Tudor-style town barn; settlers store food, fuel, clothing, and a wide variety of goods with 6,000-unit capacity |
+| [[buildings:storage:twilightshed|Twilight Shed]] | KID Twilight Herbs mod storage shed dedicated to health items; 5,000-unit capacity |
+| [[buildings:storage:tieredstorage|Urban Storage Barn]] | Colonial Charter mod urban storage barn; settlers store a wide variety of goods with 4,000-unit capacity |
+| [[buildings:storage:tmbarn|Vegetable Barn]] | Tequila Mod storage barn dedicated to vegetables; 8,000-unit capacity |
+| [[buildings:storage:vegfieldcellar|Vegetable Field Cellar]] | DS Storage vegetable field cellar dedicated to vegetable storage; settlers store vegetables with 3,000-unit capacity |
+| [[buildings:storage:cc17barnveglean|Vegetable Lean-To]] | Colonial Charter mod small lean-to dedicated to vegetable storage; settlers store vegetables with 2,000-unit capacity |
+| [[buildings:storage:vikingturfroofstockvault|Viking Stock Vault]] | DS Storage Viking-style turf-roofed stock vault; settlers store food, clothing, and a wide variety of goods with 12,000-unit capacity |
+| [[buildings:storage:dssvstoragebarn4x6angle|Village Barn (4×6 Angle)]] | DS Small Village mod angled storage barn; settlers store food, tools, clothing, and a variety of goods with 5,000-unit capacity |
+| [[buildings:storage:dssvstoragebarn4x6|Village Barn (4×6)]] | DS Small Village mod general storage barn; settlers store food, tools, clothing, and a variety of goods with 5,000-unit capacity |
+| [[buildings:storage:dssvstoragecellar1|Village Cellar]] | DS Small Village mod village cellar; settlers store food, tools, health items, clothing, and textiles with 800-unit capacity |
+| [[buildings:storage:dssvstoragecellar1firewood|Village Firewood Cellar]] | DS Small Village mod village cellar; settlers store fuel with 800-unit capacity |
+| [[buildings:storage:dssvstoragecellar1food|Village Food Cellar]] | DS Small Village mod village cellar; settlers store food with 800-unit capacity |
+| [[buildings:storage:ebsvbarn|Village Storage Barn]] | Extra Building Set village storage barn; settlers store food, tools, clothing, and a variety of goods with 5,000-unit capacity |
+| [[buildings:storage:dssvstoragewagonsmall1|Village Storage Wagon]] | DS Small Village mod small storage wagon; settlers store food, tools, clothing, crafted goods, and fabrics with 800-unit capacity |
+| [[buildings:storage:rkmcweaponrack1gh|Weaponrack 'Ghosted' Storage (1×1)]] | RK Training Camp small ghosted weapon rack (no terrain footprint); settlers store tools with 200-unit capacity |
+| [[buildings:storage:rkmcweaponrack2gh|Weaponrack 'Ghosted' Storage (1×1, 45°)]] | RK Training Camp small ghosted weapon rack at 45° angle (no terrain footprint); settlers store tools with 200-unit capacity |
+| [[buildings:storage:rkmcweaponrack1|Weaponrack Storage (1×1)]] | RK Training Camp small weapon rack; settlers store tools with 500-unit capacity |
+| [[buildings:storage:rkmcweaponrack2|Weaponrack Storage (1×1, 45°)]] | RK Training Camp small weapon rack at 45° angle; settlers store tools with 500-unit capacity |
+| [[buildings:storage:ebsvstorageyardwoodiron|Wood and Iron Stock Pile]] | Extra Building Set draggable stock pile; settlers store logs and iron at 250 units per tile |
+| [[buildings:storage:matwarehousewood|Wood Warehouse]] | Colonial Charter wood warehouse; settlers store raw wood with 10,600-unit capacity |
+| [[buildings:storage:basicstorageyardwoodfuel|WoodFuel Storage Yard]] | DS Storage drag-to-size wood fuel yard; settlers store wood fuel at 250 units per tile |
+| [[buildings:storage:rkmcwoodpile1gh|Woodpile 'Ghosted' Storage (1×1)]] | RK Training Camp small ghosted woodpile (no terrain footprint); settlers store wood with 200-unit capacity |
+| [[buildings:storage:rkmcwoodpile2gh|Woodpile 'Ghosted' Storage (1×2)]] | RK Training Camp medium ghosted woodpile (no terrain footprint); settlers store wood with 400-unit capacity |
+| [[buildings:storage:rkmcwoodpile3gh|Woodpile 'Ghosted' Storage (1×3)]] | RK Training Camp large ghosted woodpile (no terrain footprint); settlers store wood with 600-unit capacity |
+| [[buildings:storage:apwoodpile|Woodpile (Abandoned Places)]] | Abandoned Places fuel storage; settlers stack firewood in the woodpile with 2,000-unit capacity |
+| [[buildings:storage:rkmcwoodpile1|Woodpile Storage (1×1)]] | RK Training Camp small woodpile; settlers store wood with 400-unit capacity |
+| [[buildings:storage:rkmcwoodpile2|Woodpile Storage (1×2)]] | RK Training Camp medium woodpile; settlers store wood with 800-unit capacity |
+| [[buildings:storage:rkmcwoodpile3|Woodpile Storage (1×3)]] | RK Training Camp large woodpile; settlers store wood with 1,200-unit capacity |
+| [[buildings:storage:bcworkplace|Workplace Cart (Bodiam Castle)]] | Bodiam Castle workplace materials cart; settlers store logs, stone, iron, coal, tools, and fuel with 2,000-unit capacity |
+| [[buildings:storage:lcworkplace|Workplace Large Cart]] | KID Mods large storage cart for workplace materials; settlers store wood, stone, iron, coal, fuel, and tools with 6,000-unit capacity |
+| [[buildings:storage:scworkplace|Workplace Small Cart]] | Storage Carts mod small cart for workplace and crafting supplies; 2,000-unit capacity |
+| [[buildings:storage:yayoigranary|Yayoi Granary]] | A8 Japanese Housing mod elevated food storage granary; settlers store food with 3,000-unit capacity |
+
+----
+
+{{tag>Buildings Storage}}

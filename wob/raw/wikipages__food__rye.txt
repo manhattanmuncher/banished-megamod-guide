@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rye ======
+----
+
+<WRAP right>
+^  Rye                                            ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rye.png?nolink|Rye}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Rye is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Rye Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:patchrye|Rye Patch]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:milling:windmill|Large Windmill]]
+  * Used at the [[buildings:milling:watermill|Watermill]]
+  * Used at the [[buildings:brewery:distillery|Distillery]] (for Spirits)
+  * Used at the [[buildings:preserving:tinnerysoup|Soup Tinnery]]
+  * Used at the [[buildings:animal_pens:cc17stable|City Stable]] (for Domesticated Animal)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain}}

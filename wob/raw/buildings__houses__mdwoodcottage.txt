@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Cottage ======
+----
+
+<WRAP right>
+^  Wood Cottage                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmdwoodcottage.png?nolink|Wood Cottage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An MD wood cottage; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mdhousing.png?nolink|MD Housing}}</wrap> **MD Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmdwoodcottage.png?nolink|Wood Cottage}}</wrap> **Wood Cottage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/mdtoolbar.png?nolink|MD Toolbar}}</wrap> **MD Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mdhousing.png?nolink|MD Housing}}</wrap> **MD Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmdwoodcottage.png?nolink|Wood Cottage}}</wrap> **Wood Cottage**
+
+----
+
+{{tag>Building Houses MDHousing}}

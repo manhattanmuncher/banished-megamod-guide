@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Village Fence ======
+----
+
+<WRAP right>
+^  EB Village Fence                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvendrailing.png?nolink|EB Village Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free / low Wood  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative wooden fencing from the EB Simple Village (embx61) mod. Combine the straight, corner, end, and gate pieces to fence off areas. Comes in a standard **Wood Fence** set and a **Fence-Less** (ghosted, overlapping-placement) set, plus a matching **End Railing** edge piece.
+
+----
+
+===== Variants =====
+
+^ Set ^ Pieces ^
+| Wood Fence | Corner, End, Gate, Straight, Straight Long |
+| Fence-Less (ghosted) | Corner, End, Gate, Straight, Straight Long |
+| End Railing | edge railing piece |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → select EB Village fence piece
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

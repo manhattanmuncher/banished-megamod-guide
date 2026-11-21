@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Narrow Industrial Fuel Warehouse ======
+----
+
+<WRAP right>
+^  Narrow Industrial Fuel Warehouse                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstorageindustrialfuel.png?nolink|Narrow Industrial Fuel Warehouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Industrial Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+|  [[WikiPages:iron:iron|Iron]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village mod narrow warehouse for industrial fuel. Settlers store industrial fuel with a capacity of 2,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvstoragenarrow.png?nolink|Narrow Warehouses}}</wrap> **Narrow Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstorageindustrialfuel.png?nolink|Narrow Industrial Fuel Warehouse}}</wrap> **Narrow Industrial Fuel Warehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dssvstoragenarrow.png?nolink|Narrow Warehouses}}</wrap> **Narrow Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstorageindustrialfuel.png?nolink|Narrow Industrial Fuel Warehouse}}</wrap> **Narrow Industrial Fuel Warehouse**
+
+----
+
+This building originally came from **Small Village: Storage v1.2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=215|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231746080|Steam]]
+
+{{tag>Building Storage DSSV}}

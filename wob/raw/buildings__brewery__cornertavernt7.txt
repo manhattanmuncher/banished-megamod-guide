@@ -1,0 +1,69 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tavern ======
+----
+
+<WRAP right>
+^  Tavern                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertavern.png?nolink|Tavern}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2  |
+|  Tool  |  Scythe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Happiness  |  Entertainment (radius 30)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:custom5:copper|Copper]]  |  7  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:custom0:glassware|Glassware]]  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Tavern is an NMT Corner Buildings building where a brewer ferments various fruits, grains, and honey into ales, beers, wines, and mead. A worker must be present and alcohol must be stocked for the entertainment happiness effect to apply to nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxuries Production}}</wrap> **Luxuries Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertavern.png?nolink|Corner Tavern}}</wrap> **Corner Tavern** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertavern.png?nolink|Tavern}}</wrap> **Tavern**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Buildings Toolbar}}</wrap> **NMT Corner Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusinesst7.png?nolink|NMT Corner Old Chapel Stones Toolbar}}</wrap> **NMT Corner Old Chapel Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornertavernt7.png?nolink|Tavern}}</wrap> **Tavern**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                              ^ Produces                                              ^
+| 10 [[WikiPages:grain:malt|Malt]]                                                                         | [[WikiPages:alcohol:beer|Beer]]                       |
+| 10 [[WikiPages:grain:malt|Malt]] + 2 [[WikiPages:grain:hops|Hops]]                                       | [[WikiPages:alcohol:strong_beer|Strong Beer]]         |
+| 30 [[WikiPages:food:apple|Apple]]                                                                         | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:apricots|Apricot]]                                                                    | [[WikiPages:alcohol:ale|Ale]]                         |
+| 60 [[WikiPages:food:blueberries|Blueberry]]                                                               | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:cherry|Cherry]]                                                                       | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:peach|Peach]]                                                                         | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:pear|Pear]]                                                                           | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:pumpkin|Pumpkin]]                                                                     | [[WikiPages:alcohol:ale|Ale]]                         |
+| 30 [[WikiPages:food:blackberries|Blackberry]]                                                             | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:grapes|Grape]]                                                                        | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:plum|Plum]]                                                                           | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:raspberries|Raspberry]]                                                               | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:red_mulberries|Mulberry]]                                                             | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:strawberries|Strawberry]]                                                             | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:watermelons|Watermelon]]                                                              | [[WikiPages:alcohol:wine|Wine]]                       |
+| 30 [[WikiPages:food:mango|Mango]]                                                                         | [[WikiPages:alcohol:wine|Wine]]                       |
+| 45 [[WikiPages:food:honey|Honey]]                                                                         | [[WikiPages:alcohol:mead|Mead]]                       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Luxury NMTCornerBuildings}}

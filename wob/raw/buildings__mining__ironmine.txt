@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Mine ======
+----
+
+<WRAP right>
+^  Iron Mine                                                                        ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Iron Mine}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 12  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 15)  ||
+|  Tool  |  Pickaxe  ||
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  ||
+|  <abbr "Work units per cycle">Work Required</abbr>  |  60  ||
+|  Happiness  |  Detraction (radius 30)  ||
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  ||
+|  Upgrades To  |  [[buildings:mining:ironminedeep|Dark Mine]]  ||
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  ||
+|  [[WikiPages:wood:log|Log]]  |  48  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  68  ||
+|  [[WikiPages:custom5:lumber|Lumber]]  |  –  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Iron Mine is the Colonial Charter version of the vanilla mine. Miners can choose to produce Iron Ore, Coal, or smelt Iron directly using Furnace Fuel. When depleted, it can be upgraded to a Dark Mine to continue extraction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Iron Mine}}</wrap> **Iron Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroresandminerals.png?nolink|Ores and Minerals}}</wrap> **Ores and Minerals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Iron Mine}}</wrap> **Iron Mine**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                ^ Produces                                          ^
+| —                                                          | [[WikiPages:coalfuel:iron_ore|Iron Ore]]          |
+| —                                                          | [[WikiPages:coalfuel:coal|Coal]]                  |
+| 1 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]          | [[WikiPages:iron:iron|Iron]]                      |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Iron Mine}}</wrap> **Iron Mine**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining IronMine}}

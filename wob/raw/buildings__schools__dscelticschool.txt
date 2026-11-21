@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== DS Celtic School ======
+----
+
+<WRAP right>
+^  DS Celtic School                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticschool.png?nolink|DS Celtic School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Celtic school staffed by a Teacher, providing education to up to 20 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticschool.png?nolink|DS Celtic School}}</wrap> **DS Celtic School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticschool.png?nolink|DS Celtic School}}</wrap> **DS Celtic School**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Celtic House v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=244|WoB]], [[https://www.nexusmods.com/banished/mods/74|Nexus]]
+
+{{tag>Building School DS}}

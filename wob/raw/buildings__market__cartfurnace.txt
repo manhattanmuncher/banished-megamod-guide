@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Industrial Fuel Market Cart ======
+----
+
+<WRAP right>
+^  Industrial Fuel Market Cart                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcartfurnace.png?nolink|Industrial Fuel Market Cart}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Radius  |  25  |
+|  Storage  |  1,200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small market cart that specializes in Industrial Fuel. Services a small local area.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketstall.png?nolink|Market Stalls, Carts, and Wagons}}</wrap> **Market Stalls, Carts, and Wagons** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcartfurnace.png?nolink|Industrial Fuel Market Cart}}</wrap> **Industrial Fuel Market Cart**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarkets.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketcart.png?nolink|Market Carts}}</wrap> **Market Carts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcartfurnace.png?nolink|Industrial Fuel Market Cart}}</wrap> **Industrial Fuel Market Cart**
+
+----
+
+===== Stocks =====
+
+  * Industrial (Custom 3)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer (More Houses) ======
+----
+
+<WRAP right>
+^  Gatherer                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhgatherer.png?nolink|Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Houses gatherer. A Gatherer collects wild food from the surrounding area within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehouses.png?nolink|More Houses}}</wrap> **More Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhgatherer.png?nolink|Gatherer}}</wrap> **Gatherer**
+
+----
+
+===== Produces =====
+
+  * Various wild food (depends on available map resources)
+
+----
+
+===== See Also =====
+
+  * [[buildings:hunting:mhhunter|Hunter (More Houses)]]
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhgatherer.png?nolink|Gatherer (More Houses)}}</wrap> **Gatherer (More Houses)**
+
+----
+
+This building originally came from **More Houses v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=343|WoB]]
+
+{{tag>Building Gathering MoreHouses}}

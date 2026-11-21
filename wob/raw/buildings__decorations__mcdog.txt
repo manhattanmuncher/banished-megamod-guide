@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dog Cave ======
+----
+
+<WRAP right>
+^  Dog Cave                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdogcave.png?nolink|Dog Cave}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  No footprint  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Caves decoration — a dog resting outside a cave den. Purely decorative, free to place, with a dedicated remove tool. Available in two rock finishes, Gray and Brown, which are purely cosmetic.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcgraycaves.png?nolink|More Caves Gray}}</wrap> **More Caves Gray** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdogcave.png?nolink|Dog Cave}}</wrap> **Dog Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcbrowncaves.png?nolink|More Caves Brown}}</wrap> **More Caves Brown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdogcave.png?nolink|Dog Cave}}</wrap> **Dog Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcgraycaves.png?nolink|More Caves Gray}}</wrap> **More Caves Gray** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdogcave.png?nolink|Dog Cave}}</wrap> **Dog Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcbrowncaves.png?nolink|More Caves Brown}}</wrap> **More Caves Brown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdogcave.png?nolink|Dog Cave}}</wrap> **Dog Cave**
+
+----
+
+{{tag>Building Decorations MoreCaves KID}}

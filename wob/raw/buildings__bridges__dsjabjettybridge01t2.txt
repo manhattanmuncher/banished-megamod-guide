@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Truss Bridge (Tex2) ======
+----
+
+<WRAP right>
+^  Village Truss Bridge (Tex2)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettybridge.png?nolink|Village Truss Bridge (Tex2)}}</wrap>  |
+|  <abbr "Placement surface">Placement</abbr>  |  Water  |
+^  Build Cost (per tile)                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  2  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Jetty & Bridge wooden truss bridge in blue-grey (Tex2) style. Identical stats to the [[buildings:bridges:dsjabjettybridge|Village Truss Bridge (Tex1)]]; drag to place over water from shore to shore.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2: Blue-Grey Wooden Jetty}}</wrap> **Texture #2: Blue-Grey Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabbridges.png?nolink|Jetty Bridges}}</wrap> **Jetty Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettybridge.png?nolink|Village Truss Bridge}}</wrap> **Village Truss Bridge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2: Blue-Grey Wooden Jetty}}</wrap> **Texture #2: Blue-Grey Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabbridges.png?nolink|Jetty Bridges}}</wrap> **Jetty Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettybridge.png?nolink|Village Truss Bridge}}</wrap> **Village Truss Bridge**
+
+----
+
+{{tag>Bridge DSJettyAndBridge}}

@@ -1,0 +1,21 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwfishpod.png?nolink|Fish Pod}}</wrap> **Fish Pod**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwfishpod.png?nolink|Fish Pod}}</wrap> **Fish Pod**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwfishpod.png?nolink|Fish Pod}}</wrap> **Fish Pod**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Out of This World Houses v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=641|WoB]]
+
+{{tag>Building Fishing KidOutOfThisWorld}}

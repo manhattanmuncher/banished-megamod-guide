@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blacksmith Storage 3 ======
+----
+
+<WRAP right>
+^  Blacksmith Storage 3                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkysblacksmith.png?nolink|Blacksmith Storage 3}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,800  |
+|  Storage Categories  |  Tools, Wood, Iron, Coal Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Yard Cover large blacksmith materials storage yard. Settlers store logs, iron, coal, and tools with a capacity of 1,800 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidyardstorage3.png?nolink|Yard Storage 3}}</wrap> **Yard Storage 3** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkysblacksmith.png?nolink|Blacksmith Storage 3}}</wrap> **Blacksmith Storage 3**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidyardstorage3.png?nolink|Yard Storage 3}}</wrap> **Yard Storage 3** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkysblacksmith.png?nolink|Blacksmith Storage 3}}</wrap> **Blacksmith Storage 3**
+
+----
+
+This building originally came from **Yard Cover v1.4**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=272|WoB]]
+
+{{tag>Building Storage}}

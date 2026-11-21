@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Gruel Kitchen ======
+----
+
+<WRAP right>
+^  Village Gruel Kitchen                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvgruelkitchen.png?nolink|Village Gruel Kitchen}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  13  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  750  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:iron:iron|Iron]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Small Village gruel kitchen. A Chef boils any of several grains, hemp leaves, or acorns with Water and Firewood to produce Gruel.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvgruelkitchen.png?nolink|Village Gruel Kitchen}}</wrap> **Village Gruel Kitchen**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvgruelkitchen.png?nolink|Village Gruel Kitchen}}</wrap> **Village Gruel Kitchen**
+
+----
+
+===== Recipes =====
+
+All recipes also consume **2 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]** and produce [[WikiPages:food:gruel|Gruel]].
+
+^ Main Ingredient                                              ^
+| 8 [[WikiPages:food:wheat|Wheat]]                             |
+| 8 [[WikiPages:food:corn|Corn]]                               |
+| 8 [[WikiPages:food:barley|Barley]]                           |
+| 8 [[WikiPages:food:oats_oat|Oat]]                            |
+| 10 [[WikiPages:textile:hemp_hempleaf|Hemp Leaf]]             |
+| 12 [[WikiPages:food:acorns|Acorns]]                          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Food DS}}

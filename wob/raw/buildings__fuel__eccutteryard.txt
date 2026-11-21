@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cutter Yard (EC) ======
+----
+
+<WRAP right>
+^  Cutter Yard (EC)                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcutteryard.png?nolink|Cutter Yard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+The RK Editor's Choice Cutter Yard. Cutters chop Logs, Lumber, or Haystack into Firewood for the colony's heat supply.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcutteryard.png?nolink|Cutter Yard}}</wrap> **Cutter Yard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcutteryard.png?nolink|Cutter Yard}}</wrap> **Cutter Yard**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                                              ^
+| 2 [[WikiPages:wood:log|Wood]]                        | [[WikiPages:fuel:firewood|Firewood]]                  |
+| 5 [[WikiPages:custom5:lumber|Lumber]]                | [[WikiPages:fuel:firewood|Firewood]]                  |
+| 5 Haystack                                           | [[WikiPages:fuel:firewood|Firewood]]                  |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fuel EditorChoice}}

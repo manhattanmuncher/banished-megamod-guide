@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pirates Stash ======
+----
+
+<WRAP right>
+^  Pirates Stash                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpstash.png?nolink|Pirates Stash}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  8,400  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  Stone  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports pirate stash market. Distributes a wide variety of goods to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Port}}</wrap> **Old Town Port** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpstash.png?nolink|Pirates Stash}}</wrap> **Pirates Stash**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Port}}</wrap> **Old Town Port** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpstash.png?nolink|Pirates Stash}}</wrap> **Pirates Stash**
+
+----
+
+===== Stocks =====
+
+  * Fruit
+  * Vegetables
+  * Protein
+  * Grain
+  * Fuel (firewood)
+  * Coal fuel
+  * Tools
+  * Health items
+  * Clothing
+  * Iron
+  * Logs
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

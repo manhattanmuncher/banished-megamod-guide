@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nice House (01) ======
+----
+
+<WRAP right>
+^  Nice House                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardennicehouse01.png?nolink|Nice House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  75  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Fairy Garden house; houses up to 4 settlers. See also [[buildings:houses:fairygardennicehouse02|Nice House (02)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardennicehouse01.png?nolink|Nice House}}</wrap> **Nice House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardennicehouse01.png?nolink|Nice House}}</wrap> **Nice House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenhouse.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardennicehouse01.png?nolink|Nice House (01)}}</wrap> **Nice House (01)**
+
+----
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building Houses FairyGarden}}

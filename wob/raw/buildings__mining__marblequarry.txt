@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Marble Quarry ======
+----
+
+<WRAP right>
+^  Marble Quarry                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarblequarry.png?nolink|Marble Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+|  Happiness  |  Detraction (radius 15)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  1000  |
+|  Upgrades To  |  [[buildings:mining:marblequarry2|Marble Quarry 2]]  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:iron:iron|Iron]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Marble Quarry excavates Marble from the ground. Marble is a valuable trade commodity. When depleted, the quarry can be upgraded to continue extraction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|CC Toolbar}}</wrap> **CC Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroresandminerals.png?nolink|Ores and Minerals}}</wrap> **Ores and Minerals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarblequarry.png?nolink|Marble Quarry}}</wrap> **Marble Quarry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarminesother.png?nolink|Other Mines}}</wrap> **Other Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarblequarry.png?nolink|Marble Quarry}}</wrap> **Marble Quarry**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:marble|Marble]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining MarbleQuarry}}

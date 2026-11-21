@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gemcutters ======
+----
+
+<WRAP right>
+^  Gemcutters                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgemsmith.png?nolink|Gemcutters}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gemsmith.png?nolink|Gemsmith}}</wrap> Gemsmith  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (default 1)  |
+|  Tool  |  Hammer  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  26  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Gemcutters is a Colonial Resources mod crafting building. A Gemsmith uses a hammer to cut and polish Rough Gemstones into Polished Gemstones, which are highly valuable for trade.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialresource.png?nolink|Colonial Resources}}</wrap> **Colonial Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgemsmith.png?nolink|Gemcutters}}</wrap> **Gemcutters**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarprecious.png?nolink|Precious Items Production}}</wrap> **Precious Items Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgemsmith.png?nolink|Gemcutters}}</wrap> **Gemcutters**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                           ^ Produces                                                    ^
+| 1 [[WikiPages:coalfuel:gemstone_rough|Rough Gemstone]]               | [[WikiPages:custom6:gemstone_polished|Polished Gemstone]]   |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgemsmith.png?nolink|Gemcutters}}</wrap> **Gemcutters**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Resources ColonialResources}}

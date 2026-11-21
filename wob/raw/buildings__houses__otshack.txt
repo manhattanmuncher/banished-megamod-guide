@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Shack ======
+----
+
+<WRAP right>
+^  Old Shack                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotshack.png?nolink|Old Shack}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town shack; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town Houses}}</wrap> **Old Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotshack.png?nolink|Old Shack}}</wrap> **Old Shack**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town Houses}}</wrap> **Old Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotshack.png?nolink|Old Shack}}</wrap> **Old Shack**
+
+----
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Building Houses KidOldTown}}

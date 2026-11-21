@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Farm Supplier ======
+----
+
+<WRAP right>
+^  Farm Supplier                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingsmall.png?nolink|Farm Supplier}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–5 (5)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  30,000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  100  |
+|  [[WikiPages:stone:stone|Stone]]  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter small farm supplier trading post. Must be placed on water. Merchants arrive by river boat offering seeds and livestock. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartradebuildings.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingsmall.png?nolink|Farm Supplier}}</wrap> **Farm Supplier**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingsmall.png?nolink|Farm Supplier}}</wrap> **Farm Supplier**
+
+----
+
+===== Merchant =====
+
+Two merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Seeds Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building TradingPost ColonialCharter}}

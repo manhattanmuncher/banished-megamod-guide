@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fenceless Cemetery (Old Town) ======
+----
+
+<WRAP right>
+^  Fenceless Cemetery (Old Town)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotnocemetery.png?nolink|Fenceless Cemetery (Old Town)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Old Town fenceless cemetery; build in a player-drawn area where the deceased may be buried. Free to place — no labor or materials required per tile.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotnocemetery.png?nolink|Fenceless Cemetery (Old Town)}}</wrap> **Fenceless Cemetery (Old Town)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarservice.png?nolink|KID Services}}</wrap> **KID Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town}}</wrap> **Old Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotnocemetery.png?nolink|Fenceless Cemetery (Old Town)}}</wrap> **Fenceless Cemetery (Old Town)**
+
+----
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Building Cemeteries KidOldTown}}

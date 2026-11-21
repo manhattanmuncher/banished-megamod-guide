@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Red Brick Road ======
+----
+
+<WRAP right>
+^  Red Brick Road                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brickroad2.png?nolink|Red Brick Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  4  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:custom5:brick|Brick]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A red brick-paved road that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrickroad.png?nolink|Brick Roads}}</wrap> **Brick Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/brickroad2.png?nolink|Red Brick Road}}</wrap> **Red Brick Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road BrickRoads}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bank Barn ======
+----
+
+<WRAP right>
+^  Bank Barn                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbankbarn.png?nolink|Bank Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  30,000  |
+|  Storage Categories  |  Food, Fuel, Coal, Tools, Health, Clothing, Textile, Custom 0–9  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  295  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter extra-large storage barn. Settlers store food, fuel, tools, health items, clothing, textiles, and all custom-category goods with a capacity of 30,000 units. Must be built on a slope.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbankbarn.png?nolink|Bank Barn}}</wrap> **Bank Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbankbarn.png?nolink|Bank Barn}}</wrap> **Bank Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbankbarn.png?nolink|Bank Barn}}</wrap> **Bank Barn**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building StorageBarns ColonialCharter}}

@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Peanuts Seeds ======
+----
+
+<WRAP right>
+^  Peanuts Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedpeanuts.png?nolink|Peanuts Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Peanuts Seeds are used to plant [[WikiPages:food:peanuts|Peanuts]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2.7-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

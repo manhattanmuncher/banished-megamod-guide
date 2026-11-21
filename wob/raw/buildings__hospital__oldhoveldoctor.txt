@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Doctor ======
+----
+
+<WRAP right>
+^  Old Doctor                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveldoctor.png?nolink|Old Doctor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Hovels doctor for 12 villagers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveldoctor.png?nolink|Old Doctor}}</wrap> **Old Doctor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveldoctor.png?nolink|Old Doctor}}</wrap> **Old Doctor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveldoctor.png?nolink|Old Doctor}}</wrap> **Old Doctor**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Hovels v1.17**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=597|WoB]]
+
+{{tag>Building KidOldHovels}}

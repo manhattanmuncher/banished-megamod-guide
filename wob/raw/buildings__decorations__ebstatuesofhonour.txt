@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Statues of Honour ======
+----
+
+<WRAP right>
+^  EB Statues of Honour                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjukov.png?nolink|EB Statues of Honour}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+Monumental memorial statues from the EB (embx61) Statues of Honour mod. Each comes as a standard built statue, a free "Ghosted" no-footprint version, and a "Nomad" version that attracts wandering nomads to the colony.
+
+----
+
+===== Variants =====
+
+^ Statue ^ Size ^ Build Cost ^
+| Jukov | 2 × 4 | 24 work, 6 Wood, 10 Stone, 4 Iron |
+| Pojarski | 3 × 2 | 24 work, 6 Wood, 10 Stone, 4 Iron |
+
+Each is also available as a free Ghosted version and a Nomad-attracting version.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstatues.png?nolink|Statues}}</wrap> **Statues** → select statue
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

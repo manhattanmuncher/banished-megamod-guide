@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ice Cave ======
+----
+
+<WRAP right>
+^  Ice Cave                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecave.png?nolink|Ice Cave}}</wrap>  |
+|  <abbr "Household capacity">Occupancy</abbr>  |  4 persons  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A dwelling hollowed into the ice from Kid's Ice Castle winter set, housing up to 4 people with a little private storage.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecave.png?nolink|Ice Cave}}</wrap> **Ice Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecave.png?nolink|Ice Cave}}</wrap> **Ice Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecave.png?nolink|Ice Cave}}</wrap> **Ice Cave**
+
+----
+
+This building originally came from **Ice Castle v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=588|WoB]]
+
+{{tag>Building Houses KidIceCastle}}

@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Native Teepee Storage ======
+----
+
+<WRAP right>
+^  Native Teepee Storage                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildteepeestorage.png?nolink|Native Teepee Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  400  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  22  |
+|  [[WikiPages:custom6:arrowhead|Arrowhead]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Frontier native teepee converted to a storage building with a capacity of 400 units. Obtained by bartering peacefully with the natives.
+
+----
+
+===== Where to Find =====
+
+Upgrade from a pre-placed [[buildings:houses:teepeehouse|Tepee]] on certain Colonial Charter Frontier map types; obtained by bartering peacefully with the natives.
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

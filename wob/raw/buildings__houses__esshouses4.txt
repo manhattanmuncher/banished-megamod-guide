@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Colonial Townhouse ======
+----
+
+<WRAP right>
+^  Colonial Townhouse                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses4.png?nolink|Colonial Townhouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  105  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:stone:stone|Stone]]  |  65  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter colonial townhouse; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaresshouses.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses4.png?nolink|Colonial Townhouse}}</wrap> **Colonial Townhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaresshouses.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses4.png?nolink|Colonial Townhouse}}</wrap> **Colonial Townhouse**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

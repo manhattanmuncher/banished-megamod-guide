@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Linen Weaver ======
+----
+
+<WRAP right>
+^  Linen Weaver                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlinenweaver.png?nolink|Linen Weaver}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default: 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Flora linen weaver where a Tailor crafts linen clothing from flax.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarweaving.png?nolink|Weaving}}</wrap> **Weaving** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlinenweaver.png?nolink|Linen Weaver}}</wrap> **Linen Weaver**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlinenproduction.png?nolink|Linen Production}}</wrap> **Linen Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlinenweaver.png?nolink|Linen Weaver}}</wrap> **Linen Weaver**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                  ^ Produces                                                           ^
+| 4 [[WikiPages:textile:flax|Flax]]            | [[WikiPages:clothing:linen_clothing|Linen Clothing]]               |
+
+----
+
+This building originally came from **New Flora**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=106|WoB]]
+
+{{tag>Building Textile NewFlora}}

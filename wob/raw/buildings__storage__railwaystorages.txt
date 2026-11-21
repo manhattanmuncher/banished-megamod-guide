@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Railway Storage ======
+----
+
+<WRAP right>
+^  Railway Storage                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwaystorages.png?nolink|Railway Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,600  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Railway mod general storage building for most goods. Settlers store a wide variety of items.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwaystorages.png?nolink|Railway Storage}}</wrap> **Railway Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwaystorages.png?nolink|Railway Storage}}</wrap> **Railway Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwaystorages.png?nolink|Railway Storage}}</wrap> **Railway Storage**
+
+----
+
+This building originally came from **Railway v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=581|WoB]]
+
+{{tag>Building Storage Railway}}

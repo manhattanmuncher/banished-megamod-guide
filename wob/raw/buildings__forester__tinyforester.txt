@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Forester ======
+----
+
+<WRAP right>
+^  Tiny Forester                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyforester.png?nolink|Tiny Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Tiny Set forester with integrated storage. Foresters plant and maintain trees to produce Wood within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyforester.png?nolink|Tiny Forester}}</wrap> **Tiny Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtiny.png?nolink|Tiny Buildings}}</wrap> **Tiny Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyforester.png?nolink|Tiny Forester}}</wrap> **Tiny Forester**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Wood]]
+
+----
+
+{{tag>Building Forester KidTiny}}

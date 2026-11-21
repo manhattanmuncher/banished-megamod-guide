@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Kid Workshop ======
+----
+
+<WRAP right>
+^  Kid Workshop                                                                     ^  KidWorkshop  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidworkshop.png?nolink|Kid Workshop}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1 / varies (most have no footprint)  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large set of decorative farmyard, garden, playground and street pieces from **Kid's Workshop** mod. Almost everything is purely cosmetic and free to place; the **Happy Square** pieces additionally emit a small happiness boost within a 16-tile radius. Pieces are grouped into several pop-out toolbars. Two pieces in the Farmyard group — [[buildings:fields:kwfarmyard01|Farmyard 01]] and [[buildings:fields:kwfarmyard02|Farmyard 02]] — are actual food-producing buildings (not decorative) and have their own dedicated pages; see those for stats and recipes.
+
+----
+
+===== Variants =====
+
+  * **Deco Objects** — Rocking Chair, Flower Pot, Flower, Doorstep
+  * **Bush** — decorative bush
+  * **Paths** — Block Path, Gravel Path
+  * **5×5 Cover** and **Awning Covers** — six awning variants (01A–03A, 01B–03B) plus a 5×5 ground cover
+  * **Playground** — Deco People, Bench, Sandbox, Slide, Swing
+  * **Farmyard** — Dung Pile, Hay Pile, Groundcover (decorative); [[buildings:fields:kwfarmyard01|Farmyard 01]] and [[buildings:fields:kwfarmyard02|Farmyard 02]] (food-producing, see their own pages)
+  * **Happy Squares** (happiness, 16-tile radius) — Entertainment, Goods, Health, Safety, Spirit
+
+----
+
+===== Where to Find =====
+
+**Main Toolbar (MT)** — the pieces are sorted into the standard Decorations categories:
+
+  * <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → Deco Objects, Dung Pile, Hay Pile, Groundcover, Happy Squares
+  * <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → [[buildings:fields:kwfarmyard01|Farmyard 01]], [[buildings:fields:kwfarmyard02|Farmyard 02]]
+  * <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** → Bush
+  * <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcovers.png?nolink|Covers}}</wrap> **Covers** → 5×5 Cover, Awning Covers
+  * <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarroaddeco.png?nolink|Road Deco}}</wrap> **Road Deco** → Block Path, Gravel Path
+  * <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpark.png?nolink|Park}}</wrap> **Park** → Playground
+
+**Community Toolbar (CT)** — the modder's original location:
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarmisc.png?nolink|KID Misc}}</wrap> **KID Toolbar → Misc** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidworkshop.png?nolink|Kid Workshop}}</wrap> **Kid Workshop** → the piece (or its pop-out group)
+
+----
+
+{{tag>Building Decorations KidWorkshop}}

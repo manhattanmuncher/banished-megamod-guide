@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Dairy ======
+----
+
+<WRAP right>
+^  Old Dairy                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Old Dairy}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dairyman.png?nolink|Dairyman}}</wrap> Dairyman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  14  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial dairy where a dairyman processes milk into cheese, cream, or butter.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardairy.png?nolink|Dairies}}</wrap> **Dairies** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Old Dairy}}</wrap> **Old Dairy**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/olditems.png?nolink|Old Buildings}}</wrap> **Old Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Old Dairy}}</wrap> **Old Dairy**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcreamery.png?nolink|Old Dairy}}</wrap> **Old Dairy**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                       ^ Produces                                  ^
+| 15 [[WikiPages:food:milk|Milk]]                   | [[WikiPages:food:cheese|Cheese]]          |
+| 15 [[WikiPages:food:milk|Milk]]                   | [[WikiPages:food:cream|Cream]]            |
+| 15 [[WikiPages:food:milk|Milk]]                   | [[WikiPages:food:butter|Butter]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Dairy ColonialCharter}}

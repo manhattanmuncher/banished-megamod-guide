@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Washing Mod ======
+----
+
+<WRAP right>
+^  Washing Mod                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwashingmod.png?nolink|Washing Mod}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1 (Long Washing Line 4×1)  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free / 1 Wood per piece  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Washing Mod — a set of laundry-day decorations to add life to homes and yards: wash tubs, water tubs and washing lines hung with clothes.
+
+----
+
+===== Variants =====
+
+  * **Wash Tub** and **Water Tub**
+  * **Washing Lines** — including a 4×1 Long Washing Line
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwashingmod.png?nolink|Washing Mod}}</wrap> **Washing Mod** → the piece
+
+----
+
+This building originally came from **Washing Mod v3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=340|WoB]], [[https://banishedinfo.com/mods/view/874-Washing-Mod|BI]]
+
+{{tag>Building Decorations KidWashingMod}}

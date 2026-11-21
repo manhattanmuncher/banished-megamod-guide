@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Log Cabin ======
+----
+
+<WRAP right>
+^  Log Cabin                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeslogcabin.png?nolink|Log Cabin}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  50  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora Maritimes log cabin; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimeslogcabins.png?nolink|Maritimes Log Cabins}}</wrap> **Maritimes Log Cabins** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeslogcabin.png?nolink|Log Cabin}}</wrap> **Log Cabin**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimeslogcabins.png?nolink|Maritimes Log Cabins}}</wrap> **Maritimes Log Cabins** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeslogcabin.png?nolink|Log Cabin}}</wrap> **Log Cabin**
+
+----
+
+{{tag>Building Houses Maritimes}}

@@ -1,0 +1,65 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fish ======
+----
+
+<WRAP right>
+^  Fish                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/7  |  5/7  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/fish.png?nolink|Fish}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fish is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Fish Mods =====
+
+==== Procuring / where to get ====
+  * Caught at the [[buildings:fishing:alotoffishes|Alotoffishes]]
+  * Caught at the [[buildings:fishing:dockfish|Dock Fish]]
+  * Caught at the [[buildings:fishing:dsbridgestone2x2fish|DS Stone Bridge Fishing (2×2)]]
+  * Caught at the [[buildings:fishing:dsbridgestoneendfish|DS Stone Bridge End Fishing]]
+  * Caught at the [[buildings:fishing:apfishingjetty|Fishing Jetty (Abandoned Places)]]
+  * Caught at the [[buildings:mining:ebsvrockquarryfish|Village Fish Hatchery]]
+  * Produced at the [[buildings:fishing:kfp01|Forest Pond (KFP01)]]
+  * Produced at the [[buildings:fishing:kfp02|Forest Pond (KFP02)]]
+  * Produced at the [[buildings:fishing:kidfishfarm|Fish Farm]]
+  * Produced at the [[buildings:hunting:blindshore|Hunting Blind]]
+  * Produced at the [[buildings:market:fodgatelarge|Large Gate (Forge Of Dwarves)]] (random)
+  * Produced at the [[buildings:market:fodwgatelarge|Large Gate (Forge Of Dwarves - Winter)]] (random)
+  * Produced at the [[buildings:fishing:fishshipsjettyboat|Boat Jetty]]
+  * Produced at the [[buildings:fishing:frozenpondfishing|Fishing Pond]]
+  * Produced at the [[buildings:fishing:frozenpondlarge|Large Pond]]
+  * [[buildings:fishing:nmt30pond|Pond (NMT30)]]
+  * [[buildings:fishing:nvfisherman|Native Fisherman (NV)]]
+  * [[buildings:fishing:newmedievalpond|Medieval Pond (New Medieval)]]
+  * Produced at the [[buildings:fishing:ootwfishpod|Fish Pod (OOTW)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:dsjabjettyfishdrying|Jetty Fish Drying]]
+  * Used at the [[buildings:food:dsjabjettyfishdryingtex2|Jetty Fish Drying (Tex2)]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Fisherman's Catch)
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+  * Used at the [[buildings:preserving:tinnerymeat|Meat Tinnery]]
+  * Used at the [[buildings:preserving:tinysmoker|Tiny Smoker]] (for Smoked Fish)
+  * Used at the [[buildings:preserving:wpsmoker|WP Smoker]] (for Smoked Fish)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

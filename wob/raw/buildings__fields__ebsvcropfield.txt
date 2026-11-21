@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Crop Field (EB Simple Village) ======
+----
+
+<WRAP right>
+^  Crop Field (EB Simple Village)                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvcropfield.png?nolink|Crop Field (EB Simple Village)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free (designation only)  |
+</WRAP>
+<WRAP right></WRAP>
+
+The EB Simple Village (embx61) crop field. Farmers plant and harvest the selected crop within the designated area. Designation is free; output depends on the chosen crop type.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvcropfield.png?nolink|Crop Field (EB Simple Village)}}</wrap> **Crop Field**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Fields EB}}

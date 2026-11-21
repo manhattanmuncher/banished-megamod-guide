@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cellar (Pick & Hen) ======
+----
+
+<WRAP right>
+^  Cellar (Pick & Hen)                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddspickandhencellar.png?nolink|Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Pick & Hen Tavern mod alcohol storage cellar. Settlers store alcohol with a capacity of 500 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarketstaverns.png?nolink|Markets Taverns}}</wrap> **Markets Taverns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dspickandhenmenu.png?nolink|Pick & Hen Tavern}}</wrap> **Pick & Hen Tavern** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddspickandhencellar.png?nolink|Cellar}}</wrap> **Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxuries Production}}</wrap> **Luxuries Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dspickandhenmenu.png?nolink|Pick & Hen Tavern}}</wrap> **Pick & Hen Tavern** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddspickandhencellar.png?nolink|Cellar}}</wrap> **Cellar**
+
+----
+
+{{tag>Building Storage DS}}

@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brickworks (Upgrade) ======
+----
+
+<WRAP right>
+^  Brickworks (Upgrade)                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrickbuildingupgrade.png?nolink|Brickworks (Upgrade)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/kilnman.png?nolink|Kilnman}}</wrap> Kilnman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Happiness  |  Detraction (radius 15)  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  85  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  15  |
+|  [[WikiPages:custom4:clay|Clay]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Brickworks (Upgrade) is a Colonial Charter industrial building that replaces the Kiln Building with expanded brick production capability. It functions identically to the [[buildings:industrial:brickbuilding|Brickworks]] but is accessed by upgrading an existing Kiln Building rather than being placed from the toolbar.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the Kiln Building.
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                               ^ Produces                               ^
+| 3 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]] + 13 [[WikiPages:custom4:clay|Clay]]   | [[WikiPages:custom5:brick|Brick]]      |
+| 5 [[WikiPages:wood:log|Wood]]                                                             | [[WikiPages:fuel:charcoal|Charcoal]]   |
+| 5 [[WikiPages:coalfuel:coal|Coal]]                                                        | [[WikiPages:fuel:coke|Coke]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Industrial ColonialCharter}}

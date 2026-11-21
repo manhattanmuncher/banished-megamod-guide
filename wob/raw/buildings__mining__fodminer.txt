@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Miner (Forge Of Dwarves) ======
+----
+
+<WRAP right>
+^  Miner                                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodminer.png?nolink|Miner}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3 (default)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge Of Dwarves decorative mine entrance. Workers are assigned but no resources are extracted; for aesthetic use only.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge Of Dwarves}}</wrap> **Forge Of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfoddeco.png?nolink|Deco}}</wrap> **Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodminer.png?nolink|Miner}}</wrap> **Miner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge Of Dwarves}}</wrap> **Forge Of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfoddeco.png?nolink|Deco}}</wrap> **Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodminer.png?nolink|Miner}}</wrap> **Miner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines}}</wrap> **Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodminer.png?nolink|Miner (Forge Of Dwarves)}}</wrap> **Miner (Forge Of Dwarves)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=620|WoB]]
+
+{{tag>Building Mining KidForgeOfDwarves}}

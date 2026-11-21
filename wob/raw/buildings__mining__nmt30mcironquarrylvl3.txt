@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Quarry Lvl3 ======
+----
+
+<WRAP right>
+^  Iron Quarry Lvl3                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30mcironquarrylvl3.png?nolink|Iron Quarry Lvl3}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  28  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  4000  |
+|  Upgraded From  |  [[buildings:mining:nmt30mcironquarrylvl2|Iron Quarry Lvl2]]  |
+|  Upgrades To  |  [[buildings:mining:nmt30mcironquarrylvl4|Iron Quarry Lvl4]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  72  |
+|  [[WikiPages:custom0:candles|Candles]]  |  96  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Iron Quarry Lvl3 is an upgraded Iron Quarry with further increased production capacity. It can be upgraded to continue expanding output.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:nmt30mcironquarrylvl2|Iron Quarry Lvl2]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:copper_ore|Copper Ore]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Mining NMT30MCironQuarryLvl3}}

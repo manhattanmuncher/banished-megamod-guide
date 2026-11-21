@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Normal Barn ======
+----
+
+<WRAP right>
+^  Medieval Normal Barn                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/normalbarn.png?nolink|Medieval Normal Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town general-purpose storage barn. Settlers store food, fuel, tools, clothing, and a variety of goods with a capacity of 8,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Medieval Barns and Storage}}</wrap> **Medieval Barns and Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/normalbarn.png?nolink|Medieval Normal Barn}}</wrap> **Medieval Normal Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Medieval Barns and Storage}}</wrap> **Medieval Barns and Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/normalbarn.png?nolink|Medieval Normal Barn}}</wrap> **Medieval Normal Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/normalbarn.png?nolink|Medieval Normal Barn}}</wrap> **Medieval Normal Barn**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Storage NewMedievalTown}}

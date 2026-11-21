@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Granny School (Granny Park) ======
+----
+
+<WRAP right>
+^  Granny School                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrannyschool.png?nolink|Granny School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  15  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Granny Park school staffed by a Teacher, accommodating up to 15 students.
+
+----
+
+===== Where to Find =====
+
+This building is not available in the toolbar.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrannyschool.png?nolink|Granny School (Granny Park)}}</wrap> **Granny School (Granny Park)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Granny Park v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=375|WoB]]
+
+{{tag>Building School KidGrannyPark}}

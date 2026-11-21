@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Butcher ======
+----
+
+<WRAP right>
+^  Wood Butcher                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/woodbutcher.png?nolink|Wood Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  38  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+|  [[WikiPages:custom1:copper|Copper]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor Choice butcher shop where a Butcher processes a wide variety of raw meats into roasts, chops, and ribs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/woodbutcher.png?nolink|Wood Butcher}}</wrap> **Wood Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/woodbutcher.png?nolink|Wood Butcher}}</wrap> **Wood Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                                   ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                               | [[WikiPages:food:beef_steak|Beef Steak]]                   |
+| 12 [[WikiPages:food:mutton|Mutton]]                                | [[WikiPages:food:lamb_chop|Lamb Chop]]                     |
+| 12 [[WikiPages:food:venison|Venison]]                              | [[WikiPages:food:venison_roast|Venison Roast]]              |
+| 12 Swine Meat                                                      | [[WikiPages:food:pork_chop|Pork Chop]]                     |
+| 12 [[WikiPages:food:goat_meat|Goat Meat]]                          | [[WikiPages:food:goat_meat_cuts|Goat Meat Cuts]]            |
+| 12 [[WikiPages:food:bear|Bear]]                                    | [[WikiPages:food:bear_steak|Bear Steak]]                   |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                        | [[WikiPages:food:bison_steak|Bison Steak]]                  |
+| 12 [[WikiPages:food:boar|Boar]]                                    | [[WikiPages:food:boar_ribs|Boar Ribs]]                     |
+| 12 [[WikiPages:food:duck_meat|Duck Meat]]                          | [[WikiPages:food:roast_duck|Roast Duck]]                   |
+| 12 Goose Meat                                                      | [[WikiPages:food:roast_goose|Roast Goose]]                  |
+| 12 Pheasant Meat                                                   | [[WikiPages:food:roast_pheasant|Roast Pheasant]]            |
+| 12 [[WikiPages:food:chicken|Chicken]]                              | [[WikiPages:food:roast_chicken|Roast Chicken]]              |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Butcher RKEditorChoice}}

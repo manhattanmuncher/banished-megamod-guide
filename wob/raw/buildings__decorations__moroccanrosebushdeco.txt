@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rosebush ======
+----
+
+<WRAP right>
+^  Rosebush                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccanrosebushdeco.png?nolink|Rosebush}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative rosebush from the A8 Moroccan Housing mod. Has no footprint, so it can be placed freely and overlapping other objects to dress up Moroccan-style settlements.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccanrosebushdeco.png?nolink|Rosebush}}</wrap> **Rosebush**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Housing v3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=572|WoB]], [[https://www.nexusmods.com/banished/mods/107|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913000838|Steam]]
+
+{{tag>Building Decorations A8}}

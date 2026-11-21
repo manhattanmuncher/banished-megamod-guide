@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Chip Road 01 ======
+----
+
+<WRAP right>
+^  Wood Chip Road 01                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodchiproad01.png?nolink|Wood Chip Road 01}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  160  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A wood chip road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menuwoodchiproads.png?nolink|Wood Chip Roads}}</wrap> **Wood Chip Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodchiproad01.png?nolink|Wood Chip Road 01}}</wrap> **Wood Chip Road 01**
+
+----
+
+===== Other Information =====
+
+{{tag>Road DSRoads}}

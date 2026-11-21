@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Prairie Dirt Road ======
+----
+
+<WRAP right>
+^  Prairie Dirt Road                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhdirtroad.png?nolink|Prairie Dirt Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  619  |
+^  Build Cost (per tile)                                                             ^^
+|  colspan=2  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A prairie dirt road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhdirtroad.png?nolink|Prairie Dirt Road}}</wrap> **Prairie Dirt Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Westward Ho v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=451|WoB]]
+
+{{tag>Road WestwardHo}}

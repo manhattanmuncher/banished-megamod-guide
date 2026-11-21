@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mulled Wine ======
+----
+
+<WRAP right>
+^  Mulled Wine                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  15  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mulledwine.png?nolink|Mulled Wine}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Mulled Wine is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 15, making it a worthwhile commodity for trade.
+
+----
+
+===== Mulled Wine Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Produced at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Produced at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Produced at the [[buildings:luxuries:jwphwinemaker|Wine Maker (Plimoth Harmonized)]]
+  * Produced at the [[buildings:luxuries:jwpwinemaker|Wine Maker (Plimoth Plantation)]]
+  * Produced at the [[buildings:luxuries:jwswinemaker|Wine Maker (Settlers)]]
+  * Produced at the [[buildings:luxuries:jwvwinemaker|Wine Maker (Vanilla Wood)]]
+  * Produced at the [[buildings:luxuries:jwvswinemaker|Wine Maker (Vanilla Stone)]]
+  * Produced at the [[buildings:brewery:yuletap|Yule Tap]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

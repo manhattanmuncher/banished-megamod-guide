@@ -1,0 +1,67 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Bakery ======
+----
+
+<WRAP right>
+^  Bakery                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbakery.png?nolink|Medieval Bakery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+|  [[WikiPages:iron:iron|Iron]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+Medieval bakery makes bread, cakes and pies.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbakery.png?nolink|Medieval Bakery}}</wrap> **Medieval Bakery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbakery.png?nolink|Medieval Bakery}}</wrap> **Medieval Bakery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbakery.png?nolink|Medieval Bakery}}</wrap> **Medieval Bakery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                 ^ Produces                                                              ^
+| 15 [[WikiPages:grain:flour|Flour]]                                                                                                                                          | [[WikiPages:food:hardtack|Hardtack]]                                  |
+| 15 [[WikiPages:grain:flour|Flour]]                                                                                                                                          | [[WikiPages:food:bread_bread|Bread]]                                  |
+| 15 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:cheese|Cheese]]                                                                                                    | [[WikiPages:food:cheese_bread_breadcheese|Cheese Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:food:walnut|Walnut]]                                                                                                    | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]                       |
+| 15 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:food:apricots|Apricot]]                                                                                                 | [[WikiPages:food:breadfruit|Fruitcake]]                                |
+| 15 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:vegetable:sugar_refined|Refined Sugar]]                                                                                 | [[WikiPages:food:sugar_cookies|Sugar Cookies]]                        |
+| 15 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:butter|Butter]]                                                                                                    | [[WikiPages:food:croissant|Croissant]]                                |
+| 15 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:vegetable_oil|Vegetable Oil]]                                                                                      | [[WikiPages:food:donut|Donut]]                                        |
+| 15 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:coalfuel:salt|Salt]]                                                                                                    | [[WikiPages:food:flatbread|Flatbread]]                                |
+| 15 [[WikiPages:grain:flour|Flour]] + 9 [[WikiPages:health:herb|Herbs]]                                                                                                      | [[WikiPages:food:garlic_bread|Garlic Bread]]                          |
+| 15 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:egg|Egg]]                                                                                                          | [[WikiPages:food:bagel|Bagel]]                                        |
+| 15 [[WikiPages:grain:flour|Flour]] + 15 [[WikiPages:food:blueberries|Blueberry]]                                                                                            | [[WikiPages:food:muffin|Muffin]]                                      |
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:honey|Honey]]                                                                                                        | [[WikiPages:food:cake_nmcake|Cake]]                                   |
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:honey|Honey]] + 6 [[WikiPages:food:apple|Apple]]                                                                     | [[WikiPages:food:pie_nmpie|Pie]] *                                    |
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:honey|Honey]] + 6 [[WikiPages:food:cherry|Cherry]]                                                                   | [[WikiPages:food:pie_nmpie|Pie]] *                                    |
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:honey|Honey]] + 6 [[WikiPages:food:pecan|Pecan]]                                                                     | [[WikiPages:food:pie_nmpie|Pie]] *                                    |
+| 10 [[WikiPages:food:egg|Egg]] + 2 [[WikiPages:food:onion|Onion]] + 6 [[WikiPages:food:mushroom|Mushroom]]                                                                   | [[WikiPages:food:omelette|Omelette]]                                  |
+| 8 [[WikiPages:food:egg|Egg]] + 4 [[WikiPages:grain:flour|Flour]] + 2 [[WikiPages:food:cheese|Cheese]]                                                                       | [[WikiPages:food:quiche|Quiche]]                                      |
+
+//* Apple, Cherry, and Pecan pie recipes all produce the same "Pie" item.//
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Food RKEditorChoice}}

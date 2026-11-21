@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cotton Coat ======
+----
+
+<WRAP right>
+^  Cotton Coat                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Clothing  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  12  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/cottoncoat.png?nolink|Cotton Coat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Cotton Coat helps keep Banished citizens warm through cold seasons. It is stored in a Barn and distributed automatically to citizens when temperatures drop. It carries a trade value of 12, making it a worthwhile commodity for trade.
+
+----
+
+===== Cotton Coat Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Clothing}}

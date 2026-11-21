@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stacks Burner ======
+----
+
+<WRAP right>
+^  Stacks Burner                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkilnbuilding.png?nolink|Stacks Burner}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/kilnman.png?nolink|Kilnman}}</wrap> Kilnman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 15)  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:stone:stone|Stone]]  |  35  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+Stacks Burner is a Colonial Charter fuel production building where a kilnman burns wood into charcoal or coal into coke.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkilnbuilding.png?nolink|Stacks Burner}}</wrap> **Stacks Burner**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined}}</wrap> **Refined** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkilnbuilding.png?nolink|Stacks Burner}}</wrap> **Stacks Burner**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                         ^ Produces                                      ^
+| 5 [[WikiPages:wood:log|Wood]]                                       | [[WikiPages:fuel:charcoal|Charcoal]]          |
+| 5 [[WikiPages:coalfuel:coal|Coal]]                                  | [[WikiPages:fuel:coke|Coke]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Fuel ColonialCharter}}

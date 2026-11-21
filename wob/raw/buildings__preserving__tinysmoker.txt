@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Smoker ======
+----
+
+<WRAP right>
+^  Tiny Smoker                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysmoker.png?nolink|Tiny Smoker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionworker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact smoker from the KID Toolbar where a Worker smokes Pork and Fish with Firewood in a 4×4 footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysmoker.png?nolink|Tiny Smoker}}</wrap> **Tiny Smoker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysmoker.png?nolink|Tiny Smoker}}</wrap> **Tiny Smoker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysmoker.png?nolink|Tiny Smoker}}</wrap> **Tiny Smoker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                        ^ Produces                                              ^
+| 5 [[WikiPages:food:pork|Pork]] + 1 [[WikiPages:fuel:firewood|Firewood]]            | [[WikiPages:food:bacon|Bacon]]                        |
+| 14 [[WikiPages:food:fish|Fish]] + 1 [[WikiPages:fuel:firewood|Firewood]]            | [[WikiPages:food:smoked_fish_smokedfish|Smoked Fish]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Preserving KID}}

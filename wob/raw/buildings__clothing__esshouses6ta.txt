@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seamstress ======
+----
+
+<WRAP right>
+^  Tailor                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildesshouses6.png?nolink|Seamstress}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  25  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial-style seamstress shop that produces clothing from a variety of materials.
+
+----
+
+===== Where to Find =====
+
+This building is not built directly from the toolbar. It is created by upgrading an existing [[buildings:houses:esshouses6|Colonial Corner House]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                 ^ Produces                                                              ^
+| 2 [[WikiPages:textile:leather|Leather]]                                                                                                                                     | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                               | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:custom2:linen|Linen]]                                                                                               | [[WikiPages:clothing:leathercoat|Hide Coat]]                          |
+| 2 [[WikiPages:textile:wool|Wool]]                                                                                                                                           | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 1 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                                     | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 1 [[WikiPages:textile:wool|Wool]] + 1 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:woolcoat|Wool Coat]]                             |
+| 6 [[WikiPages:custom7:reeds|Reeds]] + 3 [[WikiPages:textile:feathers_feather|Feathers]]                                                                                   | [[WikiPages:clothing:survival_coat|Survival Coat]]                    |
+| 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                                                                         | [[WikiPages:clothing:cloth_coat|Cloth Coat]]                          |
+| 2 [[WikiPages:custom2:linen|Linen]]                                                                                                                                         | [[WikiPages:clothing:linen_clothing|Linen Clothing]]                  |
+| 3 [[WikiPages:custom2:cured_leather|Cured Leather]]                                                                                                                         | [[WikiPages:clothing:buff_coat|Buff Coat]]                            |
+| 10 [[WikiPages:textile:feathers_feather|Feathers]] + 1 [[WikiPages:custom2:cloth|Cloth]]                                                                                  | [[WikiPages:clothing:cloth_down_coat|Cloth Down Coat]]                |
+| 2 [[WikiPages:custom2:canvas|Canvas]]                                                                                                                                       | [[WikiPages:clothing:canvas_coat|Canvas Coat]]                        |
+| 4 [[WikiPages:textile:pelt|Pelt]]                                                                                                                                           | [[WikiPages:clothing:pelt_clothing|Pelt Clothing]]                    |
+| 4 [[WikiPages:textile:fur|Fur]]                                                                                                                                             | [[WikiPages:clothing:fur_coat|Fur Coat]]                              |
+| 10 [[WikiPages:custom2:silk|Silk]]                                                                                                                                          | [[WikiPages:clothing:kimono|Kimono]]                                  |
+| 2 [[WikiPages:custom2:silk|Silk]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:uniform|Uniform]]                                |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:textile:leather|Leather]]                                                                                                 | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                               | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                               | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:cloth|Cloth]]                                                                                                     | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:linen|Linen]]                                                                                                     | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:wool|Wool]] + 2 [[WikiPages:custom2:canvas|Canvas]]                                                                                                   | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:down|Down]]                                                                                                 | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+| 2 [[WikiPages:textile:leather|Leather]] + 2 [[WikiPages:textile:fur|Fur]]                                                                                                   | [[WikiPages:clothing:wintercoat|Warm Coat]]                           |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Clothing}}

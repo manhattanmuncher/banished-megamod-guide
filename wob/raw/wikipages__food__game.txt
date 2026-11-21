@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Game ======
+----
+
+<WRAP right>
+^  Game                                           ^  xKid  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  80/100  |  80/100  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  3  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/game.png?nolink|Game}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Game is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Game Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:patchweed|Weed Patch (Coats & Cloth)]]
+  * Produced at the [[buildings:hunting:fthunter|Elven Hunter (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:hunting:ghfhuntingcabin|Hunting Cabin (Grow Hunt Fish)]]
+  * Produced at the [[buildings:gathering:nvhuntingground|Hunting Ground (NV)]]
+  * Produced at the [[buildings:gathering:apweedpatch|Weed Patch]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketroastsmall|Market Roast Small]] (for Market Roast)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mini 4x4 ======
+----
+
+<WRAP right>
+^  Mini 4x4                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgmini4x4.png?nolink|Mini 4x4}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  32.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Mini 4x4 is a Botanical Garden building where a farmer tends a medium plot to grow staple crops.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgmini4x4.png?nolink|Mini 4x4}}</wrap> **Mini 4x4**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgmini4x4.png?nolink|Mini 4x4}}</wrap> **Mini 4x4**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgmini4x4.png?nolink|Mini 4x4}}</wrap> **Mini 4x4**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:potato|Potato]]
+  * [[WikiPages:food:wheat|Wheat]]
+  * [[WikiPages:food:oats_oat|Oats]]
+  * [[WikiPages:food:corn|Corn]]
+  * [[WikiPages:food:barley|Barley]]
+  * [[WikiPages:food:rye|Rye]]
+  * [[WikiPages:food:carrots|Carrots]]
+  * [[WikiPages:food:cabbage|Cabbage]]
+  * [[WikiPages:food:bean|Bean]]
+  * [[WikiPages:food:pepper|Pepper]]
+  * [[WikiPages:food:tomatoes|Tomato]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Food BotanicalGarden}}

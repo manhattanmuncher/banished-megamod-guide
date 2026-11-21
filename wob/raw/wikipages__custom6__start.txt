@@ -1,0 +1,45 @@
+~~NOTOC~~
+
+====== Precious Items ======
+----
+
+Precious and valuable items including Coins and Gemstones, typically used in trade or crafting.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/gemamethyst.png?nolink|Amethyst}} [[WikiPages:custom6:amethyst|Amethyst]]
+  * {{https://sprites.worldofbanished.com/newmedievalarcheology.png?nolink|Archeology Artefact}} [[WikiPages:custom6:archeology_artefact|Archeology Artefact]]
+  * {{https://sprites.worldofbanished.com/arrowhead.png?nolink|Arrowhead}} [[WikiPages:custom6:arrowhead|Arrowhead]]
+  * {{https://sprites.worldofbanished.com/coins.png?nolink|Coins}} [[WikiPages:custom6:coins|Coins]]
+  * {{https://sprites.worldofbanished.com/gemdiamond.png?nolink|Diamond}} [[WikiPages:custom6:diamond|Diamond]]
+  * {{https://sprites.worldofbanished.com/gememerald.png?nolink|Emerald}} [[WikiPages:custom6:emerald|Emerald]]
+  * {{https://sprites.worldofbanished.com/gemstonepolished.png?nolink|Gemstone (Polished)}} [[WikiPages:custom6:gemstone_polished|Gemstone (Polished)]]
+  * {{https://sprites.worldofbanished.com/rkgoldbracelets.png?nolink|Gold Bracelets}} [[WikiPages:custom6:gold_bracelets|Gold Bracelets]]
+  * {{https://sprites.worldofbanished.com/rkgoldbrooch.png?nolink|Gold Brooch}} [[WikiPages:custom6:gold_brooch|Gold Brooch]]
+  * {{https://sprites.worldofbanished.com/rkgoldcirclet.png?nolink|Gold Circlet}} [[WikiPages:custom6:gold_circlet|Gold Circlet]]
+  * {{https://sprites.worldofbanished.com/goldcoin.png?nolink|Gold Guilder}} [[WikiPages:custom6:gold_guilder|Gold Guilder]]
+  * {{https://sprites.worldofbanished.com/rkgoldnecklace.png?nolink|Gold Necklace}} [[WikiPages:custom6:gold_necklace|Gold Necklace]]
+  * {{https://sprites.worldofbanished.com/rkgoldpendant.png?nolink|Gold Pendant}} [[WikiPages:custom6:gold_pendant|Gold Pendant]]
+  * {{https://sprites.worldofbanished.com/rkgoldring.png?nolink|Gold Ring}} [[WikiPages:custom6:gold_ring|Gold Ring]]
+  * {{https://sprites.worldofbanished.com/nmartefact.png?nolink|Native Artefact}} [[WikiPages:custom6:native_artefact|Native Artefact]]
+  * {{https://sprites.worldofbanished.com/pearl.png?nolink|Pearl}} [[WikiPages:custom6:pearl|Pearl]]
+  * {{https://sprites.worldofbanished.com/pearlnecklace.png?nolink|Pearl Necklace}} [[WikiPages:custom6:pearl_necklace|Pearl Necklace]]
+  * {{https://sprites.worldofbanished.com/gtttaxreceipt.png?nolink|Receipt}} [[WikiPages:custom6:receipt|Receipt]]
+  * {{https://sprites.worldofbanished.com/gemruby.png?nolink|Ruby}} [[WikiPages:custom6:ruby|Ruby]]
+  * {{https://sprites.worldofbanished.com/gemsapphire.png?nolink|Sapphire}} [[WikiPages:custom6:sapphire|Sapphire]]
+  * {{https://sprites.worldofbanished.com/rksilverbracelets.png?nolink|Silver Bracelets}} [[WikiPages:custom6:silver_bracelets|Silver Bracelets]]
+  * {{https://sprites.worldofbanished.com/rksilverbrooch.png?nolink|Silver Brooch}} [[WikiPages:custom6:silver_brooch|Silver Brooch]]
+  * {{https://sprites.worldofbanished.com/rksilvercirclet.png?nolink|Silver Circlet}} [[WikiPages:custom6:silver_circlet|Silver Circlet]]
+  * {{https://sprites.worldofbanished.com/rksilvernecklace.png?nolink|Silver Necklace}} [[WikiPages:custom6:silver_necklace|Silver Necklace]]
+  * {{https://sprites.worldofbanished.com/rksilverpendant.png?nolink|Silver Pendant}} [[WikiPages:custom6:silver_pendant|Silver Pendant]]
+  * {{https://sprites.worldofbanished.com/silvercoin.png?nolink|Silver Pfennig}} [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]
+  * {{https://sprites.worldofbanished.com/rksilverring.png?nolink|Silver Ring}} [[WikiPages:custom6:silver_ring|Silver Ring]]
+  * {{https://sprites.worldofbanished.com/gemtopaze.png?nolink|Topaz}} [[WikiPages:custom6:topaz|Topaz]]
+
+----
+
+{{tag>Custom6}}

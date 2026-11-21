@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== DS Fence Decorations ======
+----
+
+<WRAP right>
+^  DS Fence Decorations                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsdecolargewagon.png?nolink|DS Fence Decorations}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Fences yard decorations — barrels, crates, ladders, lanterns, wagons, signs, and wooden posts — to dress fenced areas. All are free to place with F-key appearance variants.
+
+----
+
+===== Variants =====
+
+^ Decoration ^ ^ Decoration ^
+| Barrel | | Large Wagon |
+| Crate Box | | Small Wagon |
+| Ladder | | Wooden Posts |
+| Lantern (post / wall / various / span) | | Hospital pointer sign |
+| | | Market pointer sign |
+| | | Town Hall pointer sign |
+| | | Welcome sign |
+
+All are 1×1 and free to place.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Deco}}</wrap> **Fences, Walls & Deco** → select decoration
+
+----
+
+{{tag>Building Storage DSFences}}

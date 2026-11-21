@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Post Town Inn ======
+----
+
+<WRAP right>
+^  Post Town Inn                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildposttowninn.png?nolink|Post Town Inn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  5  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:wood:log|Wood]]  |  65  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 post town inn; temporarily houses up to 5 settlers across 5 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildposttowninn.png?nolink|Post Town Inn}}</wrap> **Post Town Inn**
+
+----
+
+{{tag>Building Houses A8JapaneseHousing}}

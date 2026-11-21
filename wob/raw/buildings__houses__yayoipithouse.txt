@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Yayoi Pit House ======
+----
+
+<WRAP right>
+^  Yayoi Pit House                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyayoipithouse.png?nolink|Yayoi Pit House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  40  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  65  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Angainor88 Japanese yayoi pit house; houses up to 7 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyayoipithouse.png?nolink|Yayoi Pit House}}</wrap> **Yayoi Pit House**
+
+----
+
+{{tag>Building Houses A8JapaneseHousing}}

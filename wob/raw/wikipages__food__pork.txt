@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pork ======
+----
+
+<WRAP right>
+^  Pork                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  160/200  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/swinemeat.png?nolink|Pork}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pork is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pork Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockpig|Pigs]]
+  * Produced at the [[buildings:animal_pens:animalgrowerpig|Pig Farm]]
+  * Produced at the [[buildings:animal_pens:asppigs|Pig Shed]]
+  * Produced at the [[buildings:animal_pens:asppigsp|Pig Sty]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketroastlarge|Market Roast Large]] (for Market Roast)
+  * Used at the [[buildings:preserving:tinnerymeat|Meat Tinnery]]
+  * Used at the [[buildings:butcher:tinybutcher|Tiny Butcher]] (for Pork Chop, Sausages)
+  * Used at the [[buildings:preserving:tinysmoker|Tiny Smoker]] (for Bacon)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

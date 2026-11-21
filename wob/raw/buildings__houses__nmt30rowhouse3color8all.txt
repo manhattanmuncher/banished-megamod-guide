@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NMT Row House 3 (Color 8) ======
+----
+
+<WRAP right>
+^  NMT Row House 3 (Color 8)                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhouse3.png?nolink|NMT Row House 3 (Color 8)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate color of [[buildings:houses:nmt30rowhouse3color1all|NMT Row House 3 (Color 1)]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhousealltoolbar.png?nolink|NMT Row Houses Toolbar}}</wrap> **NMT Row Houses Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhousecolor8alltoolbar.png?nolink|NMT Row Houses Color8 Toolbar}}</wrap> **NMT Row Houses Color8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhouse3.png?nolink|NMT Row House 3 (Color 8)}}</wrap> **NMT Row House 3 (Color 8)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhousealltoolbar.png?nolink|NMT Row Houses Toolbar}}</wrap> **NMT Row Houses Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhousecolor8alltoolbar.png?nolink|NMT Row Houses Color8 Toolbar}}</wrap> **NMT Row Houses Color8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30rowhouse3.png?nolink|NMT Row House 3 (Color 8)}}</wrap> **NMT Row House 3 (Color 8)**
+
+----
+
+This building originally came from **Rowhouses v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=555|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1728786683|Steam]]
+
+{{tag>Building Houses RKEditorChoice}}

@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Road 04 ======
+----
+
+<WRAP right>
+^  Stone Road 04                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneroad04.png?nolink|Stone Road 04}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  130  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A stone road texture variant that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstoneroad.png?nolink|Stone Roads}}</wrap> **Stone Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menustoneroads.png?nolink|DS Stone Roads}}</wrap> **DS Stone Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menustoneroad04.png?nolink|Stone Road 04}}</wrap> **Stone Road 04** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneroad04.png?nolink|Stone Road 04}}</wrap> **Stone Road 04**
+
+----
+
+===== Other Information =====
+
+{{tag>Road DSRoads}}

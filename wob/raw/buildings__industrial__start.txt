@@ -1,0 +1,22 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Industrial Buildings ======
+----
+
+Buildings that perform heavy industrial processing and manufacturing.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:industrial:brickbuilding|Brickworks]] | Colonial Charter industrial building; kilnman fires Bricks, Charcoal, and Coke |
+| [[buildings:industrial:brickbuildingupgrade|Brickworks (Upgrade)]] | Colonial Charter upgraded brickworks; expanded brick production capability |
+| [[buildings:industrial:charcoalpile|Charburner]] | EB Production Set 2 building; kilnman converts firewood into Industrial Coal; free to build |
+| [[buildings:industrial:nmt30mckiln|Kiln]] | NMT kiln; fires clay into Bricks or Roof Tiles using firewood, charcoal, or coal |
+| [[buildings:industrial:ootwmineralextractor|Mineral Extractor (OOTW)]] | Out Of This World mineral extractor; processes raw materials into refined steel |
+| [[buildings:industrial:industrysmall2|Small Fuel Refinery]] | Colonial Charter small fuel building; converts combustible materials into Furnace Fuel |
+| [[buildings:industrial:otpsugarmill|Sugar Mill (Old Town Ports)]] | Old Town Ports sugar mill; refiner processes raw sugar cane into refined sugar |
+| [[buildings:industrial:clsugarrefinery|Sugar Refinery]] | Colonial Resources building; sugar boiler refines Sugar Beets into Refined Sugar |
+
+----
+
+{{tag>Buildings Industrial}}

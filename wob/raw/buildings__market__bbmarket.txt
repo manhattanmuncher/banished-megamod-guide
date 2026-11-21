@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market ======
+----
+
+<WRAP right>
+^  Market                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmarket.png?nolink|Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 2)  |
+|  Happiness  |  Goods  |
+|  Radius  |  30  |
+|  Storage  |  10,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  56  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A general-purpose market from the Bed & Breakfast mod set. It stocks a wide variety of goods and distributes them to citizens within its radius, providing Goods happiness while stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmarket.png?nolink|Market}}</wrap> **Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbmarket.png?nolink|Market}}</wrap> **Market**
+
+----
+
+===== Stocks =====
+
+  * Food (Grain, Fruit, Vegetables, Meat/Fish)
+  * Firewood
+  * Tools
+  * Medicine
+  * Clothing
+  * Textiles
+  * Crafted Items (Custom 0)
+  * Forged Items (Custom 1)
+  * Fabrics (Custom 2)
+  * Precious Items (Custom 6)
+  * Misc Items (Custom 7)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Bed and Breakfast v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=371|WoB]]
+
+{{tag>Market}}

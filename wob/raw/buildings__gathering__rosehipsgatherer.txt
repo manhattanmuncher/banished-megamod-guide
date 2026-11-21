@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== New Foods Gatherer ======
+----
+
+<WRAP right>
+^  New Foods Gatherer                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrosehipsgatherer.png?nolink|New Foods Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Flora new foods gatherer. A Gatherer collects wild rose hips and oats from surrounding fields within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrosehipsgatherer.png?nolink|New Foods Gatherer}}</wrap> **New Foods Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrosehipsgatherer.png?nolink|New Foods Gatherer}}</wrap> **New Foods Gatherer**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:rose_hips|Rose Hips]]
+  * [[WikiPages:food:wild_oats|Wild Oats]]
+
+----
+
+This building originally came from **New Flora**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=106|WoB]]
+
+{{tag>Building Gathering NewFlora}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silver Bracelets ======
+----
+
+<WRAP right>
+^  Silver Bracelets                               ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  600  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rksilverbracelets.png?nolink|Silver Bracelets}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silver Bracelets are a precious item valued for their rarity or beauty in the Banished MegaMod. They are stored in a Barn and function primarily as luxury trade goods, attracting favourable prices from merchants. At a trade value of 600, they are highly prized by traveling merchants.
+
+----
+
+===== Silver Bracelets Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:precious:nmt30jewelmaker|Jewelry Maker]] (from Silver Bar + Coal + Ruby)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

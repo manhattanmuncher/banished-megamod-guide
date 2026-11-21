@@ -1,0 +1,20 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Frontier Buildings ======
+----
+
+Colonial Frontier and Native American themed buildings found under the Theme toolbar.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:frontier:nceremony|Ceremonial Ground]] | Native American themed building; Quester performs ceremonies to produce arrowheads and native artefacts |
+| [[buildings:frontier:ccgoldllama|Gold Llama]] | CC Frontier quest landmark; produces Artifacts continuously; only one may be built per game |
+| [[buildings:frontier:musketrange|Musket Range]] | Colonial Frontier building; Soldiers train and acquire equipment using Silver Pfennigs |
+| [[buildings:frontier:nativetrader|Native Trader]] | Colonial Frontier trading post; Trader barters goods with native peoples for local resources |
+| [[buildings:frontier:quartermaster|Quartermaster]] | Colonial Frontier building; produces Military Supplies without input materials |
+| [[buildings:frontier:workcamp|Workcamp]] | Colonial Frontier workcamp; Soldier uses Silver Coins to procure raw resources |
+
+----
+
+{{tag>Buildings Frontier}}

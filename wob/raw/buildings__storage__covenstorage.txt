@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage (Coven) ======
+----
+
+<WRAP right>
+^  Storage (Coven)                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenstorage.png?nolink|Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  11,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Custom 0/1/2/6/7/8/9  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Coven mod storage building. Settlers store food, fuel, tools, clothing, and a variety of goods with a capacity of 11,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoven.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenstorage.png?nolink|Storage}}</wrap> **Storage**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoven.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenstorage.png?nolink|Storage}}</wrap> **Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenstorage.png?nolink|Storage (Coven)}}</wrap> **Storage (Coven)**
+
+----
+
+{{tag>Building Storage Coven}}

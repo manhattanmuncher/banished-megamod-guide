@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+wob/test.html
+wob/s_*.png
+wob/*.png

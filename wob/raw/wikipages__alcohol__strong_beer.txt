@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Strong Beer ======
+----
+
+<WRAP right>
+^  Strong Beer                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  6/10  |
+|  Edible  |  No  |
+|  Trade Value  |  10  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/strongbeer.png?nolink|Strong Beer}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Strong Beer is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 10, making it a worthwhile commodity for trade.
+
+----
+
+===== Strong Beer Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:cornertavernt1|Tavern (Corner T1)]]
+  * Produced at the [[buildings:brewery:cornertavernt2|Tavern (Corner T2)]]
+  * Produced at the [[buildings:brewery:cornertavernt3|Tavern (Corner T3)]]
+  * Produced at the [[buildings:brewery:cornertavernt4|Tavern (Corner T4)]]
+  * Produced at the [[buildings:brewery:cornertavernt5|Tavern (Corner T5)]]
+  * Produced at the [[buildings:brewery:cornertavernt6|Tavern (Corner T6)]]
+  * Produced at the [[buildings:brewery:cornertavernt7|Tavern (Corner T7)]]
+  * Produced at the [[buildings:brewery:cornertavernt8|Tavern (Corner T8)]]
+  * Produced at the [[buildings:brewery:ectavern|Tavern (EC)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

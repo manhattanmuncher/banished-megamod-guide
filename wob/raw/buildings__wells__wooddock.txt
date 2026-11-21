@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Dock Pieces (Colonial Charter) ======
+----
+
+<WRAP right>
+^  Wood Dock Pieces                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock1x1.png?nolink|Wood Dock Pieces}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Varies  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0  |
+|  Radius  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter dock platform pieces that also provide Safety happiness and fire suppression within a 20-tile radius. Three variants are available with different sizes and wood costs. Each piece features a fire particle effect and can be placed on water to build dock structures.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Size ^ Wood ^
+| Wood Dock 1×1 Piece | <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock1x1.png?nolink|Wood Dock 1×1 Piece}}</wrap> | 1 × 1 | 2 |
+| Wood Dock 1×2 Piece | <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock1x2.png?nolink|Wood Dock 1×2 Piece}}</wrap> | 2 × 1 | 4 |
+| Wood Dock 1×3 Piece | <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock1x3.png?nolink|Wood Dock 1×3 Piece}}</wrap> | 3 × 1 | 6 |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dockitems.png?nolink|Dock Items}}</wrap> **Dock Items** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Wells ColonialCharter}}

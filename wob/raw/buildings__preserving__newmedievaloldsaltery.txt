@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Old Saltery ======
+----
+
+<WRAP right>
+^  Old Saltery                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsaltery.png?nolink|Medieval Old Saltery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  18  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Medieval Old Saltery where workers cure meat and fish using salt for long-term preservation.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsaltery.png?nolink|Medieval Old Saltery}}</wrap> **Medieval Old Saltery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsaltery.png?nolink|Medieval Old Saltery}}</wrap> **Medieval Old Saltery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsaltery.png?nolink|Medieval Old Saltery}}</wrap> **Medieval Old Saltery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                     ^ Produces                                          ^
+| 12 [[WikiPages:food:beef_beef|Beef]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                       | [[WikiPages:food:salted_meat|Salted Meat]]         |
+| 12 [[WikiPages:food:mutton|Mutton]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                        | [[WikiPages:food:salted_meat|Salted Meat]]         |
+| 12 [[WikiPages:food:venison|Venison]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                      | [[WikiPages:food:salted_meat|Salted Meat]]         |
+| 12 [[WikiPages:food:fish|Fish]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                            | [[WikiPages:food:salted_fish|Salted Fish]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Preserving RKEditorChoice}}

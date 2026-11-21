@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Salt Mine ======
+----
+
+<WRAP right>
+^  Salt Mine                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30saltmine.png?nolink|Salt Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  11  |
+|  Happiness  |  Detraction (radius 20)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  4000  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  32  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Salt Mine extracts salt from the ground. It has a limited total yield of 4000 units and produces a negative happiness effect on nearby citizens. Salt is stored in the Coal/Fuel storage category.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarminesother.png?nolink|Other Mines}}</wrap> **Other Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30saltmine.png?nolink|Salt Mine}}</wrap> **Salt Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30saltmine.png?nolink|Salt Mine}}</wrap> **Salt Mine**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:salt|Salt]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Mining}}

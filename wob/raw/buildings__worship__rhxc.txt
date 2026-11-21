@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Town Chapel ======
+----
+
+<WRAP right>
+^  Small Town Chapel                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxc.png?nolink|Small Town Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Happiness from this building">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit (r35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  110  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  64  |
+|  [[WikiPages:iron:iron|Iron]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small town chapel staffed by a Priest, providing spiritual support to up to 200 worshippers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxc.png?nolink|Small Town Chapel}}</wrap> **Small Town Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxc.png?nolink|Small Town Chapel}}</wrap> **Small Town Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxc.png?nolink|Small Town Chapel}}</wrap> **Small Town Chapel**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Worship ColonialCharter}}

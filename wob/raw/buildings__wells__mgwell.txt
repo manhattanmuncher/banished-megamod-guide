@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MG Well (Medieval Grace) ======
+----
+
+<WRAP right>
+^  MG Well                                                                           ^  Medieval Grace  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgwell.png?nolink|MG Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  40  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Medieval Grace themed well that provides Safety happiness and fire suppression within a 40-tile radius — double the radius of a standard well.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgwell.png?nolink|MG Well}}</wrap> **MG Well (Medieval Grace)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgwell.png?nolink|MG Well}}</wrap> **MG Well**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmedievalgrace.png?nolink|Medieval Grace}}</wrap> **Medieval Grace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmgwell.png?nolink|MG Well}}</wrap> **MG Well**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Grace v1.32**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=407|WoB]]
+
+{{tag>Building Wells MedievalGrace}}

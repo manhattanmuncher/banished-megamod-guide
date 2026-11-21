@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Soybeans ======
+----
+
+<WRAP right>
+^  Soybeans                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/soybean.png?nolink|Soybeans}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Soybeans are a vegetable crop grown in fields in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Soybeans Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:preserving:tinnerysoup|Soup Tinnery]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable}}

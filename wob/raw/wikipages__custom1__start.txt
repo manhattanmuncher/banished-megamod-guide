@@ -1,0 +1,41 @@
+~~NOTOC~~
+
+====== Forged Items ======
+----
+
+Metal-forged goods produced at blacksmiths and foundries, such as Joists and Cannons.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/bronze.png?nolink|Bronze}} [[WikiPages:custom1:bronze|Bronze]]
+  * {{https://sprites.worldofbanished.com/cannon.png?nolink|Cannon}} [[WikiPages:custom1:cannon|Cannon]]
+  * {{https://sprites.worldofbanished.com/canteen.png?nolink|Canteens}} [[WikiPages:custom1:canteens|Canteens]]
+  * {{https://sprites.worldofbanished.com/copper.png?nolink|Copper}} [[WikiPages:custom1:copper|Copper]]
+  * {{https://sprites.worldofbanished.com/copperpipe.png?nolink|Copper Pipes}} [[WikiPages:custom1:copper_pipes|Copper Pipes]]
+  * {{https://sprites.worldofbanished.com/warecopper.png?nolink|Copperware}} [[WikiPages:custom1:copperware|Copperware]]
+  * {{https://sprites.worldofbanished.com/rkarmor1.png?nolink|Fine Armor}} [[WikiPages:custom1:fine_armor|Fine Armor]]
+  * {{https://sprites.worldofbanished.com/rkweapon1.png?nolink|Fine Weapon}} [[WikiPages:custom1:fine_weapon|Fine Weapon]]
+  * {{https://sprites.worldofbanished.com/gold.png?nolink|Gold}} [[WikiPages:custom1:gold|Gold]]
+  * {{https://sprites.worldofbanished.com/ironfittings.png?nolink|Iron Fittings}} [[WikiPages:custom1:iron_fittings|Iron Fittings]]
+  * {{https://sprites.worldofbanished.com/joist.png?nolink|Joists}} [[WikiPages:custom1:joists|Joists]]
+  * {{https://sprites.worldofbanished.com/musket.png?nolink|Musket}} [[WikiPages:custom1:musket|Musket]]
+  * {{https://sprites.worldofbanished.com/rkarmor2.png?nolink|Noble Armor}} [[WikiPages:custom1:noble_armor|Noble Armor]]
+  * {{https://sprites.worldofbanished.com/rkweapon1.png?nolink|Noble Weapon}} [[WikiPages:custom1:noble_weapon|Noble Weapon]]
+  * {{https://sprites.worldofbanished.com/pewter.png?nolink|Pewter}} [[WikiPages:custom1:pewter|Pewter]]
+  * {{https://sprites.worldofbanished.com/warepewter.png?nolink|Pewterware}} [[WikiPages:custom1:pewterware|Pewterware]]
+  * {{https://sprites.worldofbanished.com/rkarmor3.png?nolink|Royal Armor}} [[WikiPages:custom1:royal_armor|Royal Armor]]
+  * {{https://sprites.worldofbanished.com/rkweapon1.png?nolink|Royal Weapon}} [[WikiPages:custom1:royal_weapon|Royal Weapon]]
+  * {{https://sprites.worldofbanished.com/rkarmor4.png?nolink|Shield}} [[WikiPages:custom1:shield|Shield]]
+  * {{https://sprites.worldofbanished.com/silver.png?nolink|Silver}} [[WikiPages:custom1:silver|Silver]]
+  * {{https://sprites.worldofbanished.com/waresilver.png?nolink|Silverware}} [[WikiPages:custom1:silverware|Silverware]]
+  * {{https://sprites.worldofbanished.com/tin.png?nolink|Tin}} [[WikiPages:custom1:tin|Tin]]
+  * {{https://sprites.worldofbanished.com/waretin.png?nolink|Tinware}} [[WikiPages:custom1:tinware|Tinware]]
+  * {{https://sprites.worldofbanished.com/rkweapon1.png?nolink|Weapon}} [[WikiPages:custom1:weapon|Weapon]]
+
+----
+
+{{tag>Custom1}}

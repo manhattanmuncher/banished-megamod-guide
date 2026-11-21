@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Kyoto Pagoda (Japanese All-In-One) ======
+----
+
+<WRAP right>
+^  Kyoto Pagoda                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkyotopagoda.png?nolink|Kyoto Pagoda}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  200  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Japanese pagoda staffed by a Priest, providing Spirit happiness within a radius of 35 tiles to up to 200 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkyotopagoda.png?nolink|Kyoto Pagoda}}</wrap> **Kyoto Pagoda**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkyotopagoda.png?nolink|Kyoto Pagoda}}</wrap> **Kyoto Pagoda**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship A8JapaneseAllInOne}}

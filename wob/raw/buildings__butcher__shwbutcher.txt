@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Butcher ======
+----
+
+<WRAP right>
+^  Butcher                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwbutcher.png?nolink|Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/butcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Storage  |  1000  |
+^  Build Cost                                                                  ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A butcher cuts meat and makes sausages.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwbutcher.png?nolink|Butcher}}</wrap> **Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods.}}</wrap> **Themed Mods.** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwbutcher.png?nolink|Butcher}}</wrap> **Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwbutcher.png?nolink|Butcher}}</wrap> **Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                          ^ Produces                                               ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                                                                                                                 | [[WikiPages:food:beef_steak|Beef Steak]]               |
+| 12 [[WikiPages:food:mutton|Mutton]]                                                                                                                  | [[WikiPages:food:lamb_chop|Lamb Chop]]                 |
+| 12 [[WikiPages:food:venison|Venison]]                                                                                                                | [[WikiPages:food:venison_roast|Venison Roast]]          |
+| 12 [[WikiPages:food:pork|Pork]]                                                                                                                      | [[WikiPages:food:pork_chop|Pork Chop]]                 |
+| 12 [[WikiPages:food:bear|Bear Meat]]                                                                                                                 | [[WikiPages:food:bear_steak|Bear Steak]]               |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                                                                                                          | [[WikiPages:food:bison_steak|Bison Steak]]             |
+| 12 [[WikiPages:food:boar|Boar Meat]]                                                                                                                 | [[WikiPages:food:boar_ribs|Boar Ribs]]                 |
+| 6 [[WikiPages:food:beef_beef|Beef]] //or// Mutton //or// Venison //or// Pork //or// Bear Meat //or// Bison Meat //or// Boar Meat                     | [[WikiPages:food:sausages|Sausages]]                   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Summer Haven v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=598|WoB]]
+
+{{tag>Building Butcher SummerHaven}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval 3rd Floor Residence ======
+----
+
+<WRAP right>
+^  Medieval 3rd Floor Residence                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalhouse3f.png?nolink|Medieval 3rd Floor Residence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  98  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town house placed on top of a 2nd floor residence; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalhouses.png?nolink|New Medieval Houses}}</wrap> **New Medieval Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalhouses3s.png?nolink|New Medieval 3 Story Houses}}</wrap> **New Medieval 3 Story Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalhouse3f.png?nolink|Medieval 3rd Floor Residence}}</wrap> **Medieval 3rd Floor Residence**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalhouse3f.png?nolink|Medieval 3rd Floor Residence}}</wrap> **Medieval 3rd Floor Residence**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Houses NewMedievalTown}}

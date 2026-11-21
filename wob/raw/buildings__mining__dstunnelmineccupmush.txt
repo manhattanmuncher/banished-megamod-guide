@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Mine Mushroom Farm ======
+----
+
+<WRAP right>
+^  Old Mine Mushroom Farm                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstunnelmineccupmush.png?nolink|Old Mine Mushroom Farm}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  34  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+|  Upgraded From  |  [[buildings:mining:dstunnelminecc|Tunnel Mine Random]]  |
+|  Upgraded From  |  [[buildings:mining:dstunnelmineccselect|Tunnel Mine Select]]  |
+|  Upgraded From  |  [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]]  |
+|  Upgraded From  |  [[buildings:mining:dstunnelmineccselectup|Tunnel Mine Upgrade (Select)]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:food:mushroom|Mushroom]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+Converts a Tunnel Mine into a Mushroom Farm for all-weather production of mushrooms. 1–3 Farmers are employed to grow the mushrooms.
+
+----
+
+===== Where to Find =====
+
+Upgrade from any Tunnel Mine variant: [[buildings:mining:dstunnelminecc|Tunnel Mine Random]], [[buildings:mining:dstunnelmineccselect|Tunnel Mine Select]], [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]], or [[buildings:mining:dstunnelmineccselectup|Tunnel Mine Upgrade (Select)]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:mushroom|Mushroom]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tunnel Mine v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=384|WoB]], [[https://www.nexusmods.com/banished/mods/49|Nexus]], [[https://banishedinfo.com/mods/view/897-DS-Tunnel-Mine|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=756252521|Steam]]
+
+{{tag>Building Mining DSTunnelMineCCUpMush}}

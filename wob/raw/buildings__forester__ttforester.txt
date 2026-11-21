@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forester (Tree Topper) ======
+----
+
+<WRAP right>
+^  Forester (Tree Topper)                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildttforester.png?nolink|Forester (Tree Topper)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tree Topper forester lodge. Foresters grow and harvest trees for Log within a 30-tile radius.
+
+----
+
+^ Toolbar ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildttforester.png?nolink|Forester (Tree Topper)}}</wrap> **Forester (Tree Topper)** |
+
+----
+
+This building originally came from **Tree Topper v1.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=577|WoB]]
+
+{{tag>Building Forester KidTreeTopper}}

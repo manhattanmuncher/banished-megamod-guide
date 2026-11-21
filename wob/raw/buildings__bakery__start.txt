@@ -1,0 +1,73 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bakery Buildings ======
+----
+
+Buildings that bake breads, pastries, and other goods from flour and other ingredients.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:bakery:aspbaker|Baker (Animal Shed Plus)]] | Animal Shed Plus baker; bakes bread from any available grain |
+| [[buildings:bakery:ftcbaker|Baker (Fairy Tale Cottage)]] | Fairy Tale Cottage baker |
+| [[buildings:bakery:fhbaker|Baker (Forest Haven)]] | Forest Haven baker |
+| [[buildings:bakery:hobbitbaker|Baker (Hobbit)]] | Hobbit mod baker |
+| [[buildings:bakery:fnbaker|Baker (Friendly Neighborhood)]] | Friendly Neighborhood bakery; produces breads and pastries |
+| [[buildings:bakery:mfbaker|Baker (Mexican Fantasy)]] | Mexican Fantasy baker; bakes Bread from Corn |
+| [[buildings:bakery:otbaker|Baker (Old Town)]] | Old Town baker |
+| [[buildings:bakery:settlersbaker|Baker (Settlers)]] | Settlers mod baker |
+| [[buildings:bakery:shatowerbaker|Baker (Stone House Addon)]] | Stone House Addon baker |
+| [[buildings:bakery:tcbaker|Baker (Tangerine Center)]] | Tangerine Center baker; bakes bread and nut bread from flour |
+| [[buildings:bakery:otpbakehouse|Bakehouse (Old Town Ports)]] | Old Town Ports bakehouse |
+| [[buildings:bakery:bakerycc|Bakery]] | Colonial Charter bakery; produces breads, cakes, and pastries |
+| [[buildings:bakery:bgvintagebread|BG Vintage Bread]] | Bakery & Garden Alt bakery; bakes several styles of bread from Flour and fillings |
+| [[buildings:bakery:oldbakery|Bakery (Old Colonial)]] | Old Colonial-appearance bakery; bakes bread, cakes, and pies |
+| [[buildings:bakery:bgbakery|Bakery (Botanical Garden)]] | Botanical Garden bakery; bakes bread and pies from flour, fruits, and oils |
+| [[buildings:bakery:cmbakery|Bakery (Colonial Resources)]] | Colonial Resources bakery; produces breads and pastries |
+| [[buildings:bakery:ebbakery|Bakery (EB)]] | EB bakery; produces breads and pastries |
+| [[buildings:bakery:jinxiebittybakery|Bitty Bakery]] | Jinxie's Bitty compact bakery |
+| [[buildings:bakery:jinxiebittyspaghetteria|Bitty Spaghetteria]] | Jinxie's Bitty pasta bakery |
+| [[buildings:bakery:bodiambaker|Bodiam Baker]] | Bodiam Castle-style baker |
+| [[buildings:bakery:dstownhousesbstore3x4bakeri|Bryggen Bakeri]] | DS Bryggen-style bakery; produces breads and pastries |
+| [[buildings:bakery:dstownhousesbstore3x4bakeriupsmoke|Bryggen Bakeri (Upgraded)]] | DS Bryggen bakery upgraded with chimney smoke |
+| [[buildings:bakery:cc17bakery|City Bakery]] | Colonial Charter city bakery |
+| [[buildings:bakery:cornerbakeryt1|Corner Bakery (Tier 1)]] | Corner Bakery tier 1 |
+| [[buildings:bakery:cornerbakeryt2|Corner Bakery (Tier 2)]] | Corner Bakery tier 2 |
+| [[buildings:bakery:cornerbakeryt3|Corner Bakery (Tier 3)]] | Corner Bakery tier 3 |
+| [[buildings:bakery:cornerbakeryt4|Corner Bakery (Tier 4)]] | Corner Bakery tier 4 |
+| [[buildings:bakery:cornerbakeryt5|Corner Bakery (Tier 5)]] | Corner Bakery tier 5 |
+| [[buildings:bakery:cornerbakeryt6|Corner Bakery (Tier 6)]] | Corner Bakery tier 6 |
+| [[buildings:bakery:cornerbakeryt7|Corner Bakery (Tier 7)]] | Corner Bakery tier 7 |
+| [[buildings:bakery:cornerbakeryt8|Corner Bakery (Tier 8)]] | Corner Bakery tier 8 |
+| [[buildings:bakery:fbbaker|Friendly Baker]] | Friendly Banished baker |
+| [[buildings:bakery:fpbaker|Friendly Baker (Friendly Pumpkin)]] | Friendly Pumpkin baker |
+| [[buildings:bakery:gnbaker|Friendly Baker (Granny Neighborhood)]] | Granny Neighborhood baker |
+| [[buildings:bakery:fbtbaker|Friendly Baker (Too)]] | Friendly Baker alternate variant |
+| [[buildings:bakery:gfbaker1|Small Baker (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed bakery |
+| [[buildings:bakery:gfbaker2|Small Baker (Gothic Fantasy 2)]] | Gothic Fantasy happy-themed bakery |
+| [[buildings:bakery:hillsidebaker|Hillside Baker (Hillside Village)]] | Hillside Village baker |
+| [[buildings:bakery:kbbbaker|KBB Baker]] | Butcher & Baker bakery; bakes fruit pies, jelly buns, oat cookies, plum cake, and pumpkin pie |
+| [[buildings:bakery:kbbbreadbaker|KBB Bread Baker]] | Butcher & Baker bread oven; bakes bread and specialty loaves from flour |
+| [[buildings:bakery:kbbpiebaker|KBB Pie Baker]] | Butcher & Baker pie shop; bakes basic meat pies from flour, meat, and spices |
+| [[buildings:bakery:newmedievalbakery|Medieval Bakery]] | New Medieval Town bakery |
+| [[buildings:bakery:newmedievalbakeryupg1|Medieval Bakery (Upgrade 1)]] | New Medieval Town bakery upgrade 1, wood facade |
+| [[buildings:bakery:newmedievalbakeryupg2|Medieval Bakery (Upgrade 2)]] | New Medieval Town bakery upgrade 2, brick |
+| [[buildings:bakery:newmedievalbakeryupg3|Medieval Bakery (Upgrade 3)]] | New Medieval Town bakery upgrade 3, ornate brick |
+| [[buildings:bakery:rkoldbakeryshop|Old Bakery]] | RK Editor Choice old-style bakery; bakes bread, cakes, and pies |
+| [[buildings:bakery:hobbitpiebaker|Pie Baker (Hobbit)]] | Hobbit mod pie baker |
+| [[buildings:bakery:prbakery|Port Royal Bakery]] | Port Royal bakery |
+| [[buildings:bakery:bbbakery|Rise and Shine]] | Borrowed Bees bakery |
+| [[buildings:bakery:shatowerbakerroof|SHA Tower Baker (Roof)]] | Stone House Addon tower baker with rooftop access |
+| [[buildings:bakery:shbaker|SH Baker]] | Stone House baker |
+| [[buildings:bakery:shwbaker|SHW Baker]] | SHW baker |
+| [[buildings:bakery:otstonebaker|Stone Baker (Old Town)]] | Old Town stone-construction baker |
+| [[buildings:bakery:tinybaker|Tiny Baker]] | Small compact bakery |
+| [[buildings:bakery:tieredbakery|Urban Bakery]] | Colonial Charter modular stacked urban bakery |
+| [[buildings:bakery:dssvbakery|Village Bakery]] | DS Stone Village bakery |
+| [[buildings:bakery:rkwoodbakery|Wood Bakery]] | RK Editor Choice wood bakery |
+| [[buildings:bakery:wpbaker|WP Baker]] | WP baker |
+| [[buildings:bakery:xmasbaker|Xmas Baker]] | Christmas mod baker |
+
+----
+
+{{tag>Buildings Bakery}}

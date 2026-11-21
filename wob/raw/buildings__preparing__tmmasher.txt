@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Agave Masher ======
+----
+
+<WRAP right>
+^  Agave Masher                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmmasher.png?nolink|Agave Masher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmasher.png?nolink|Agave Masher}}</wrap> Agave Masher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1600  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  54  |
+|  [[WikiPages:wood:log|Wood]]  |  44  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tequila Mod processing building where workers roast and mash Agave with Firewood into Agave Pulp for use in the Tequila Distillery.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmmasher.png?nolink|Agave Masher}}</wrap> **Agave Masher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|TM Menu}}</wrap> **TM Menu** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmmasher.png?nolink|TM Masher}}</wrap> **TM Masher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmmasher.png?nolink|Agave Masher}}</wrap> **Agave Masher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                   ^ Produces                                          ^
+| 4 [[WikiPages:vegetable:agave|Agave]] + 1 [[WikiPages:fuel:firewood|Firewood]]                | [[WikiPages:vegetable:agave_pulp|Agave Pulp]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tequila Mod v3.2 (with Tom Sawyer)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=228|WoB]]
+
+{{tag>Building Preparing TequilaMod}}

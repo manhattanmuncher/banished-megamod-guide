@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Outside Right Angled ======
+----
+
+<WRAP right>
+^  Outside Right Angled                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhaor.png?nolink|Outside Right Angled}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 1  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+An outside right angled row house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhmenu.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrowangle.png?nolink|Angled Residences}}</wrap> **Angled Residences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhaor.png?nolink|Outside Right Angled}}</wrap> **Outside Right Angled**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhmenu.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrowangle.png?nolink|Angled Residences}}</wrap> **Angled Residences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhaor.png?nolink|Outside Right Angled}}</wrap> **Outside Right Angled**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhail.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhaor.png?nolink|Outside Right Angled}}</wrap> **Outside Right Angled**
+
+----
+
+{{tag>Building Houses KidRowHouses}}

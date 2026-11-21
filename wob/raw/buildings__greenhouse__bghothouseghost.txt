@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Greenhouse 7x7 ======
+----
+
+<WRAP right>
+^  Greenhouse 7x7                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouseghost.png?nolink|Greenhouse 7x7}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Botanical Garden ghost hothouse shell with a 7×7 visual footprint; free ghost placement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouseghost.png?nolink|Greenhouse 7x7}}</wrap> **Greenhouse 7x7**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Botanical Garden}}</wrap> **Botanical Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouseghost.png?nolink|Greenhouse 7x7}}</wrap> **Greenhouse 7x7**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbghothouseghost.png?nolink|Greenhouse 7x7}}</wrap> **Greenhouse 7x7**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Greenhouse BotanicalGarden}}

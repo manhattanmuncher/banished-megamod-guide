@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fairy Garden Cliff ======
+----
+
+<WRAP right>
+^  Fairy Garden Cliff                                                                ^  Fairy Garden  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencliff.png?nolink|Fairy Garden Cliff}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Garden themed decorative cliff piece that also provides Safety happiness and fire suppression within a 20-tile radius. Free to place with no build cost.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencliff.png?nolink|Fairy Garden Cliff}}</wrap> **Fairy Garden Cliff**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencliff.png?nolink|Fairy Garden Cliff}}</wrap> **Fairy Garden Cliff**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardencliff.png?nolink|Fairy Garden Cliff}}</wrap> **Fairy Garden Cliff**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building Wells FairyGarden}}

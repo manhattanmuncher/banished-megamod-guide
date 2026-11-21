@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Elven Hunter (Fairy Tale Cottage) ======
+----
+
+<WRAP right>
+^  Elven Hunter                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfthunter.png?nolink|Elven Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  60.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  600  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  58  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Tale Cottage elven hunter post. Hunters consume Elven Bows to harvest a variety of game. The player selects the desired resource.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfthunter.png?nolink|Elven Hunter}}</wrap> **Elven Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfthunter.png?nolink|Elven Hunter}}</wrap> **Elven Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfthunter.png?nolink|Elven Hunter (Fairy Tale Cottage)}}</wrap> **Elven Hunter (Fairy Tale Cottage)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                        ^
+| 1 [[WikiPages:custom7:elven_bow|Elven Bow]]                        | [[WikiPages:food:venison|Venison]]              |
+| 1 [[WikiPages:custom7:elven_bow|Elven Bow]]                        | [[WikiPages:textile:leather|Leather]]           |
+| 1 [[WikiPages:custom7:elven_bow|Elven Bow]]                        | [[WikiPages:food:bear|Bear Meat]]               |
+| 1 [[WikiPages:custom7:elven_bow|Elven Bow]]                        | [[WikiPages:textile:fur|Fur]]                   |
+| 1 [[WikiPages:custom7:elven_bow|Elven Bow]]                        | [[WikiPages:food:game|Game]]                    |
+| 1 [[WikiPages:custom7:elven_bow|Elven Bow]]                        | [[WikiPages:textile:down|Down]]                 |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Food KidFairyTaleCottage}}

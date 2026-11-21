@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Trader (Old Hovels) ======
+----
+
+<WRAP right>
+^  Old Trader                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveltrader.png?nolink|Old Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  20,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Hovels trading post. Merchants arrive by river boat offering food, goods, general items, and seeds. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveltrader.png?nolink|Old Trader}}</wrap> **Old Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhovels.png?nolink|Old Hovels}}</wrap> **Old Hovels** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveltrader.png?nolink|Old Trader}}</wrap> **Old Trader**
+
+----
+
+===== Merchant =====
+
+Four merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, raw materials, and building supplies |
+| General Merchant | Tools, health items, food, textiles, clothing, alcohol, crafted goods, forged goods, fabric, precious goods, and miscellaneous items |
+| Seed Merchant | Crop and orchard seeds |
+
+All merchants accept any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldhoveltrader.png?nolink|Old Trader (Old Hovels)}}</wrap> **Old Trader (Old Hovels)**
+
+----
+
+This building originally came from **Old Hovels v1.17**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=597|WoB]]
+
+{{tag>Building TradingPost KidOldHovels}}

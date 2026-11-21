@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sacred Stone ======
+----
+
+<WRAP right>
+^  Sacred Stone                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsacredstone.png?nolink|Sacred Stone}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Happiness from this building">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit (r35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  120  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A sacred stone attended by a Priest, providing spiritual support to up to 120 worshippers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsacredstone.png?nolink|Sacred Stone}}</wrap> **Sacred Stone**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsacredstone.png?nolink|Sacred Stone}}</wrap> **Sacred Stone**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsacredstone.png?nolink|Sacred Stone}}</wrap> **Sacred Stone**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Deep v5.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=212|WoB]], [[https://banishedinfo.com/mods/view/819-Forest-Deep-V3|BI]]
+
+{{tag>Building Worship ForestDeep}}

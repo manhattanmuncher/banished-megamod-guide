@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bootlegger ======
+----
+
+<WRAP right>
+^  Bootlegger                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbackalley.png?nolink|Bootlegger}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Trader  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  15,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter back-alley **Bootlegger** (template ''BackAlley''). It provides all manner of bootlegged items — for a price in [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]. The worker turns silver coins into a wide range of contraband goods.
+
+----
+
+===== Recipes =====
+
+Each recipe consumes [[WikiPages:custom6:silver_pfennig|Silver Pfennig]] and produces one bootlegged good:
+
+^ Produces ^
+| [[WikiPages:alcohol:ale|Ale]] |
+| [[WikiPages:alcohol:mead|Mead]] |
+| [[WikiPages:alcohol:wine|Wine]] |
+| [[WikiPages:textile:leather|Leather]] |
+| Dress Coat |
+| Full Coat |
+| [[WikiPages:health:herb|Herb]] |
+| [[WikiPages:food:onion|Onion]] |
+| [[WikiPages:custom0:rope|Rope]] |
+| Cured Tobacco |
+| [[WikiPages:tool:tool|Tool]] |
+| [[WikiPages:food:venison|Venison]] |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Specialized Trade Buildings}}</wrap> **Specialized Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbackalley.png?nolink|Bootlegger}}</wrap> **Bootlegger**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Specialized Trade Buildings}}</wrap> **Specialized Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbackalley.png?nolink|Bootlegger}}</wrap> **Bootlegger**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Trading ColonialCharter}}

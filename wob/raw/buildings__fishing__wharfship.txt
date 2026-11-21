@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wharfship ======
+----
+
+<WRAP right>
+^  Wharfship                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwharfship.png?nolink|Wharfship}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/sailor.png?nolink|Sailor}}</wrap> Sailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 3)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  400  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+|  Hull Component  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter whaling and fishing ship. Sailors hunt the deep waters for seafood, bringing back Whalemeat, Blubber, Sealmeat, and Lobster. The player selects which resource to collect.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwharfship.png?nolink|Wharfship}}</wrap> **Wharfship**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/husbandryitems.png?nolink|Raw Food Gathering}}</wrap> **Raw Food Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwharfship.png?nolink|Wharfship}}</wrap> **Wharfship**
+
+----
+
+===== Produces =====
+
+Production is selected by the player:
+  * [[WikiPages:food:whalemeat|Whalemeat]]
+  * [[WikiPages:custom7:whale_blubber|Blubber]]
+  * [[WikiPages:food:sealmeat|Sealmeat]]
+  * [[WikiPages:food:lobster|Lobster]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food ColonialCharter}}

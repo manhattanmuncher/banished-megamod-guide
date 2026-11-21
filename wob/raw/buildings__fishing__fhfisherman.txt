@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fisherman (Forest Haven) ======
+----
+
+<WRAP right>
+^  Fisherman                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhfisherman.png?nolink|Fisherman}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 7  |
+|  Placement  |  Water's edge  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Haven fishing dock. Fishermen catch Fish from a water's-edge dock within a 14-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhresources.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhfisherman.png?nolink|Fisherman}}</wrap> **Fisherman**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhresources.png?nolink|Resources}}</wrap> **Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhfisherman.png?nolink|Fisherman}}</wrap> **Fisherman**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Haven v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=590|WoB]]
+
+{{tag>Building Fishing ForestHaven}}

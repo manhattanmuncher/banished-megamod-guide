@@ -1,0 +1,20 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Construction Buildings ======
+----
+
+Buildings that produce construction materials such as lumber, stone, and other building supplies.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:construction:buildingpackaging|Building Supplier]] | Colonial Charter building; Packer assembles Building Supplies from raw materials |
+| [[buildings:construction:homewaresbld|Homewares Supplier]] | Colonial Charter building; packages household resources into Homewares and Fancy Homewares |
+| [[buildings:construction:oldglassworks|Old Glassworks]] | Colonial glassworks; smelts sand and fuel into Glass or Glassware |
+| [[buildings:construction:oldshipyard|Old Ship Yard (Colonial)]] | Colonial ship yard; assembles Hull Components from lumber, rope, and sailcloth |
+| [[buildings:construction:nmt30salumbermill|SA Lumbermill]] | NMT standalone lumbermill; processes logs into Lumber |
+| [[buildings:construction:shipyard|Ship Yard]] | Colonial Charter ship yard; builds Hull Components for waterside docks |
+
+----
+
+{{tag>Buildings Construction}}

@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wild Things Forester ======
+----
+
+<WRAP right>
+^  Wild Things Forester                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesterlodgewild.png?nolink|Wild Things Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter forester lodge for All the Wild Things maps. Foresters exclusively plant and harvest fantasy trees within a 30-tile radius, producing Logs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforestersandlogging.png?nolink|Foresters and Logging}}</wrap> **Foresters and Logging** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesterlodgewild.png?nolink|Wild Things Forester}}</wrap> **Wild Things Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialforester.png?nolink|Specialized Foresters}}</wrap> **Specialized Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesterlodgewild.png?nolink|Wild Things Forester}}</wrap> **Wild Things Forester**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Forester ColonialCharter}}

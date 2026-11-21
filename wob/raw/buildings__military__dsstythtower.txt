@@ -1,0 +1,62 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Styth Tower ======
+----
+
+<WRAP right>
+^  Styth Tower                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstythtower.png?nolink|Styth Tower}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/soldier.png?nolink|Village Guard}}</wrap> Village Guard  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  89  |
+|  Happiness  |  Safety (radius 30)  |
+|  <abbr "Maximum number that can be built">Max Instances</abbr>  |  1  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:stone:stone|Stone]]  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+Styth Tower is the original DS Mods watchtower — a smaller Safety-radius alternative to the [[buildings:military:dsnewstythtower|New Styth Tower]]. Village Guards confiscate a varied supply of goods from bandits in the surrounding area and deliver them to the town's stockpiles. Only one Styth Tower can be built per map.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dscastlestowers.png?nolink|Castles & Towers}}</wrap> **Castles & Towers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstythtowermenu.png?nolink|Styth Towers}}</wrap> **Styth Towers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstythtower.png?nolink|Styth Tower}}</wrap> **Styth Tower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstythtowermenu.png?nolink|Styth Towers}}</wrap> **Styth Towers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstythtower.png?nolink|Styth Tower}}</wrap> **Styth Tower**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:food:potato|Potato]]
+  * [[WikiPages:food:walnut|Walnut]]
+  * [[WikiPages:food:fish|Fish]]
+  * [[WikiPages:food:pumpkin|Pumpkin]]
+  * [[WikiPages:food:egg|Egg]]
+  * [[WikiPages:tool:tool|Tool]]
+  * [[WikiPages:tool:steeltool|Steel Tool]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:clothing:leathercoat|Leather Coat]]
+  * [[WikiPages:clothing:wintercoat|Winter Coat]]
+  * [[WikiPages:alcohol:ale|Ale]]
+  * [[WikiPages:custom1:silver|Silver]]
+  * [[WikiPages:health:herb|Herb]]
+
+Ale appears twice in the random pool, making it somewhat more likely than the other items.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Military DS}}

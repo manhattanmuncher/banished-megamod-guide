@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Forest Haven Platform ======
+----
+
+<WRAP right>
+^  Forest Haven Platform                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhplatform.png?nolink|Forest Haven Platform}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  13 × 13  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Radius  |  30  |
+|  Storage  |  4,200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  128  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large Forest Haven tree platform with a built-in market. Provides a space to place Forest Haven houses and distributes a wide variety of goods to nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhplatform.png?nolink|Forest Haven Platform}}</wrap> **Forest Haven Platform**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhplatform.png?nolink|Forest Haven Platform}}</wrap> **Forest Haven Platform**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel and Coal and Coke
+  * Tools
+  * Health items
+  * Clothing
+  * Iron and Logs
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Haven v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=590|WoB]]
+
+{{tag>Market}}

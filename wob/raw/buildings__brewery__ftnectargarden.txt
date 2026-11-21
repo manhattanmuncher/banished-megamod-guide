@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nectar Garden (Fairy Tale Cottage) ======
+----
+
+<WRAP right>
+^  Nectar Garden                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftnectargarden.png?nolink|Nectar Garden}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  800  |
+|  Storage Categories  |  Alcohol  |
+|  <abbr "Happiness effect radius">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+|  [[WikiPages:custom7:crystal|Magic Crystal]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Tale Cottage nectar garden. A brewer converts fresh fruit into Nectar. The player selects the desired fruit recipe.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftnectargarden.png?nolink|Nectar Garden}}</wrap> **Nectar Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftnectargarden.png?nolink|Nectar Garden}}</wrap> **Nectar Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftnectargarden.png?nolink|Nectar Garden (Fairy Tale Cottage)}}</wrap> **Nectar Garden (Fairy Tale Cottage)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                        ^
+| 30 [[WikiPages:food:strawberries|Strawberry]]                      | [[WikiPages:alcohol:nectar|Nectar]]             |
+| 30 [[WikiPages:food:blueberries|Blueberry]]                        | [[WikiPages:alcohol:nectar|Nectar]]             |
+| 30 [[WikiPages:food:apple|Apple]]                                  | [[WikiPages:alcohol:nectar|Nectar]]             |
+| 30 [[WikiPages:food:cherry|Cherry]]                                | [[WikiPages:alcohol:nectar|Nectar]]             |
+| 30 [[WikiPages:food:peach|Peach]]                                  | [[WikiPages:alcohol:nectar|Nectar]]             |
+| 30 [[WikiPages:food:pear|Pear]]                                    | [[WikiPages:alcohol:nectar|Nectar]]             |
+| 30 [[WikiPages:food:plum|Plum]]                                    | [[WikiPages:alcohol:nectar|Nectar]]             |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Alcohol KidFairyTaleCottage}}

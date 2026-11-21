@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Orchard, tight ======
+----
+
+<WRAP right>
+^  Village Orchard, tight                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvorchardtight.png?nolink|Village Orchard, tight}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Drag to place (up to 55 × 55 tiles)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 1)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village tight-spaced orchard zone. Farmers tend and harvest fruit trees planted within the orchard area using a dense 2×2 row spacing. The fruit type is selected at construction time.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS Toolbar}}</wrap> **DS Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|DS Food}}</wrap> **DS Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfoodcop.png?nolink|Crops, Orchards & Pastures}}</wrap> **Crops, Orchards & Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvorchardtight.png?nolink|Village Orchard, tight}}</wrap> **Village Orchard, tight**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvorchardtight.png?nolink|Village Orchard, tight}}</wrap> **Village Orchard, tight**
+
+----
+
+===== Produces =====
+
+  * Fruit (type selected at construction)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Gathering DSSmallVillage}}

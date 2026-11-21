@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Citizens ======
+----
+
+Citizens are the core resource of any town. Without them nothing can be built, and the town won't grow. They are not mindless workers — they have their own priorities: staying fed, staying warm, and being happy. Meeting those needs keeps them productive; failing them causes idling, depression, and disease.
+
+Citizens will go home when hungry, stop at a neighbor's house to warm up in cold weather, and idle in places that make them happy when depressed. They collect food and firewood from town storage to keep reserves at home.
+
+----
+
+===== Needs =====
+
+==== Shelter ====
+
+Citizens require a home to rest, stay warm, and store their own supply of food and firewood. Wood houses are quick and cheap to build; stone houses are more fuel-efficient but cost more materials.
+
+==== Health ====
+
+A healthy town maintains a varied diet and a supply of medicinal herbs from a Herbalist. Good health reduces the chance of disease outbreaks. When disease does occur, Hospitals slow its spread and reduce the chance of death.
+
+==== Happiness ====
+
+Happiness directly affects productivity — an unhappy population idles frequently. Structures that increase happiness include Markets, Wells, Taverns, Trading Posts, Cemeteries, and Chapels. Mines and Quarries decrease the happiness of nearby residents. Births and marriages raise happiness; deaths, sickness, starvation, and freezing lower it.
+
+==== Warmth ====
+
+Citizens need warm homes and clothing to survive winter. A home is warm when it has an adequate supply of firewood or coal. Cold citizens will return home or visit the nearest heated house to warm up. Clothing, made by a Tailor, lets citizens stay outdoors longer in cold weather.
+
+==== Education ====
+
+Educated citizens receive a productivity bonus at every job. Starting settlers are educated; subsequent generations require a Schoolhouse. Children spend several years in school before entering the workforce.
+
+==== Diet ====
+
+The ideal diet for maximum health includes grain (corn or wheat), fruit, vegetables, and protein (meat or nuts). Medicinal herbs from a Herbalist can compensate for gaps in diet variety.
+
+==== Tools ====
+
+Most professions require tools to work efficiently. Tools wear out over time — especially in high-activity jobs like mining and farming. A Blacksmith (or Tool Maker in MegaMod) is needed to replace them.
+
+----
+
+===== Nomads =====
+
+Once a town has a Town Hall, a Trading Post, and a Market, groups of nomads will occasionally arrive and request citizenship. Accepting nomads is a fast way to grow the population, but may increase the risk of disease outbreaks.
+
+----
+
+===== Status Icons =====
+
+When something is adversely affecting a citizen, an icon appears above their head:
+
+^ Icon ^ Meaning ^
+| {{https://sprites.worldofbanished.com/CitizenHome.png?nolink|No home}} | The citizen has no home |
+| {{https://sprites.worldofbanished.com/CitizenFood.png?nolink|Starving}} | The citizen has no food |
+| {{https://sprites.worldofbanished.com/CitizenCold.png?nolink|Freezing}} | The citizen is too cold |
+| {{https://sprites.worldofbanished.com/CitizenJob.png?nolink|No workplace}} | The citizen is assigned a job but has no building to work in |
+| {{https://sprites.worldofbanished.com/CitizenTool.png?nolink|No tool}} | The citizen has no tool |
+| {{https://sprites.worldofbanished.com/CitizenDisease.png?nolink|Sick}} | The citizen is diseased |
+
+----
+
+{{tag>Mechanics Citizens}}

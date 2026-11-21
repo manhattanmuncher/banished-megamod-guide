@@ -1,0 +1,58 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pumpkin ======
+----
+
+<WRAP right>
+^  Pumpkin                                        ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |  20/28  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pumpkin.png?nolink|Pumpkin}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pumpkin is a vegetable crop grown in fields in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pumpkin Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:bggreenhouse|Greenhouse (Botanical Garden)]]
+  * Produced at the [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]]
+  * Produced at the [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]]
+  * Produced at the [[buildings:fields:fppatchpumpkin|Pumpkin Patch (Friendly Pumpkin)]]
+  * Produced at the [[buildings:greenhouse:ftgreenhouse|Greenhouse (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch03|Fairy Garden Fall (Fairy Garden)]]
+  * Produced at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:hgpatchpumpkin|Pumpkin Patch (Home Grown)]]
+  * Produced at the [[buildings:fields:kf10|Farmyard 10]]
+  * Produced at the [[buildings:greenhouse:ootwgreenhouse|Greenhouse (OOTW)]]
+  * Produced at the [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:greenhouse:vgwork|VG Work]]
+  * Produced at the [[buildings:fields:patchpumpkin|Patch Pumpkin]] (Kid - Patchwork)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery|Brewery]]
+  * Used at the [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]]
+  * Used at the [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Vegetable Stew)
+  * Used at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]]
+  * Used at the [[buildings:preserving:tinnerysoup|Soup Tinnery]]
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable Vanilla}}

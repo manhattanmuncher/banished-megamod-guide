@@ -1,0 +1,76 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Greenhouse (Garden Walls) ======
+----
+
+<WRAP right>
+^  Greenhouse (Garden Walls)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsgreenhouse.png?nolink|Greenhouse (Garden Walls)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/botanist.png?nolink|Botanist}}</wrap> Botanist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:custom5:glass|Glass]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+The original RK Editor Choice version of the Garden Walls Greenhouse. A Botanist uses Water and Fertilizer to grow a wide variety of crops year-round. Supports 32 different crop types including grains and Seedlings, making it more versatile than the newer Garden Walls Greenhouse.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsgreenhouse.png?nolink|Greenhouse (Garden Walls)}}</wrap> **Greenhouse (Garden Walls)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsgreenhouse.png?nolink|Greenhouse (Garden Walls)}}</wrap> **Greenhouse (Garden Walls)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                     ^ Produces                                              ^
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:barley|Barley]]                      |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:bean|Bean]]                          |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:blueberries|Blueberry]]              |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:broccoli|Broccoli]]                  |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:cabbage|Cabbage]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:carrots|Carrot]]                     |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:corn|Corn]]                          |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:cucumber|Cucumber]]                  |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:health:herb|Herb]]                        |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:grain:hops|Hops]]                         |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:kale|Kale]]                          |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:lettuce|Lettuce]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:mushroom|Mushroom]]                  |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:oats_oat|Oat]]                       |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:onion|Onion]]                        |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:peas|Pea]]                           |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:peanuts|Peanuts]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:pepper|Pepper]]                      |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:potato|Potato]]                      |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:pumpkin|Pumpkin]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:radishes|Radish]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:rice|Rice]]                          |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:rye|Rye]]                            |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:sorghum|Sorghum]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:spinach|Spinach]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:squash|Squash]]                      |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:strawberries|Strawberry]]            |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:tomatoes|Tomato]]                    |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:turnips|Turnip]]                     |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:watermelons|Watermelon]]             |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:food:wheat|Wheat]]                        |
+| 2 [[WikiPages:food:water|Water]] + 2 [[WikiPages:custom7:fertilizer|Fertilizer]]                                     | [[WikiPages:custom4:seedling|Seedling]]               |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Greenhouse RKGardenWalls}}

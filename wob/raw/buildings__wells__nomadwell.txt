@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nomad Well (Tiny Buildings) ======
+----
+
+<WRAP right>
+^  Nomad Well                                                                        ^  Tiny Buildings  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomadwell.png?nolink|Nomad Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Tiny Buildings wells that provide Safety happiness and fire suppression within a 20-tile radius. Five variants are available; the Well (variant 0) is a plain well with no nomad attraction, while the remaining four also attract nomad immigrants at a fixed group-size percentage each spring.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Nomad Group Size ^
+| Well | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad0.png?nolink|Well}}</wrap> | None |
+| Nomad Well 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad5.png?nolink|Nomad Well 5}}</wrap> | 5% of population |
+| Nomad Well 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad10.png?nolink|Nomad Well 10}}</wrap> | 10% of population |
+| Nomad Well 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad20.png?nolink|Nomad Well 20}}</wrap> | 20% of population |
+| Nomad Well 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad50.png?nolink|Nomad Well 50}}</wrap> | 50% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomadwell.png?nolink|Nomad Well}}</wrap> **Nomad Well** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Wells Tiny}}

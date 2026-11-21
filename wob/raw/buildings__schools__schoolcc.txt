@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== One Room Schoolhouse ======
+----
+
+<WRAP right>
+^  One Room Schoolhouse                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschoolcc1.png?nolink|One Room Schoolhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  25  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+A one-room schoolhouse staffed by a Teacher, educating up to 25 students. Can be upgraded to a [[buildings:schools:schoolcc2|Country School]] or [[buildings:schools:schoolcc3|Farmers College]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschoolcc1.png?nolink|One Room Schoolhouse}}</wrap> **One Room Schoolhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/civicitems.png?nolink|Civic Buildings}}</wrap> **Civic Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschoolcc1.png?nolink|One Room Schoolhouse}}</wrap> **One Room Schoolhouse**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building School ColonialCharter}}

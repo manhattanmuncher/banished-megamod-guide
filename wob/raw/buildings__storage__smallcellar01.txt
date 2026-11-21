@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small angled Cellar ======
+----
+
+<WRAP right>
+^  Small angled Cellar                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallcellar01.png?nolink|Small angled Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Fabrics  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Storage small angled cellar. Settlers store food, tools, clothing, and fabrics with a capacity of 2,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragecellars.png?nolink|Cellars}}</wrap> **Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallcellar01.png?nolink|Small angled Cellar}}</wrap> **Small angled Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragecellars.png?nolink|Cellars}}</wrap> **Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallcellar01.png?nolink|Small angled Cellar}}</wrap> **Small angled Cellar**
+
+----
+
+{{tag>Building Storage DS}}

@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader (Forest Haven) ======
+----
+
+<WRAP right>
+^  Trader (Forest Haven)                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhtrader.png?nolink|Trader (Forest Haven)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–5 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  66  |
+|  [[WikiPages:wood:log|Wood]]  |  62  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Haven large trading post. Traders work here and merchants arrive by river boat offering all resource categories.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhtrader.png?nolink|Trader}}</wrap> **Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesthaven.png?nolink|Forest Haven}}</wrap> **Forest Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhtrader.png?nolink|Trader}}</wrap> **Trader**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, raw materials, and building supplies |
+| General Merchant | Tools, health items, food, textiles, clothing, alcohol, crafted goods, forged goods, fabric, precious goods, and miscellaneous items |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfhtrader.png?nolink|Trader (Forest Haven)}}</wrap> **Trader (Forest Haven)**
+
+----
+
+This building originally came from **Forest Haven v1.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=590|WoB]]
+
+{{tag>Building TradingPost ForestHaven}}

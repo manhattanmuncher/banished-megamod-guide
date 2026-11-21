@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cheese ======
+----
+
+<WRAP right>
+^  Cheese                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  9/12  |
+|  Edible  |  Yes  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/cheese.png?nolink|Cheese}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Cheese is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Cheese Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:dairy:aspdairy|Dairy Shed]]
+  * Produced at the [[buildings:dairy:cowparlour|Dairy Parlour]]
+  * Produced at the [[buildings:dairy:dairy|Creamery]] (random)
+  * Produced at the [[buildings:worship:mgmonastery|MG Monastery (Medieval Grace)]]
+  * [[buildings:dairy:nmt30creamery|Old Creamery]] (from Milk)
+  * [[buildings:dairy:newmedievalcreamery|Medieval Creamery (New Medieval)]]
+  * Produced at the [[buildings:dairy:olddairy|Old Dairy]]
+  * Produced at the [[buildings:dairy:rkredcreamery|Red Creamery]]
+  * Produced at the [[buildings:dairy:redcreamery|Red Creamery (Original Mod)]]
+  * Produced at the [[buildings:dairy:redcreamerymain|Red Creamery (Main)]]
+  * Produced at the [[buildings:dairy:shwdairyman|Dairyman (Summer Haven)]]
+  * Produced at the [[buildings:dairy:tinydairy|Tiny Dairy]]
+  * Produced at the [[buildings:dairy:wpdairyman|WP Dairyman]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Bamboo Seeds ======
+----
+
+<WRAP right>
+^  Bamboo Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedbamboo.png?nolink|Bamboo Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Bamboo Seeds are used to plant [[WikiPages:custom7:bamboo|Bamboo]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

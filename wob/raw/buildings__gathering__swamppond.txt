@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Swamp Pond ======
+----
+
+<WRAP right>
+^  Swamp Pond                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamppond.png?nolink|Swamp Pond}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Swamp Pond is a Swamp Houses gathering building where a worker harvests frog legs from the swamp.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamppond.png?nolink|Swamp Pond}}</wrap> **Swamp Pond**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamppond.png?nolink|Swamp Pond}}</wrap> **Swamp Pond**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamppond.png?nolink|Swamp Pond}}</wrap> **Swamp Pond**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                ^ Produces                                              ^
+| —                                                          | [[WikiPages:food:frog_legs|Frog Legs]]                |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Swamp Houses v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=438|WoB]]
+
+{{tag>Building Gathering SwampHouses}}

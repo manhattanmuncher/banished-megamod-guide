@@ -1,0 +1,14 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pathfinding ======
+----
+
+The path tool visualizes the routes workers take between their homes and their workplaces. Select the tool and click any home or workplace to display the paths its occupants will walk.
+
+Workers must periodically return home to eat and warm up in winter. Because of this, shorter home-to-workplace distances mean more time working and less time walking, which increases overall resource production.
+
+If workers are taking long paths, building additional homes near the workplace helps. Over time, workers will move into the closer homes or swap jobs with neighbors to minimize their commute. Bridges and Tunnels can also shorten paths by connecting areas that would otherwise require a long detour.
+
+----
+
+{{tag>Mechanics Pathfinding}}

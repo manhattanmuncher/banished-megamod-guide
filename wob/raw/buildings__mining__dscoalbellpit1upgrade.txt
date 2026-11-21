@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coal Bell Pit Mine ======
+----
+
+<WRAP right>
+^  Coal Bell Pit Mine                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscoalbellpit1upgrade.png?nolink|Coal Bell Pit Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2 – 13 (default 5)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  55  |
+|  Happiness  |  Detraction (radius 15)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  5400  |
+|  Upgraded From  |  [[buildings:mining:dscoalbellpit1|Coal Bell Pit]]  |
+^  Build Cost (Upgrade)                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+|  [[WikiPages:custom0:candles|Candles]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+Upgrade to extend the Coal Bell Pit's lifespan and improve extraction speed, supporting up to 13 miners.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:dscoalbellpit1|Coal Bell Pit]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining DS}}

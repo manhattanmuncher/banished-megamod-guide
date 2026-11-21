@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Carver ======
+----
+
+<WRAP right>
+^  Old Carver                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcarver.png?nolink|Old Carver}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/carver.png?nolink|Carver}}</wrap> Carver  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hammer  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial carver's workshop where a carver sculpts decorative statues from wood, stone, jade, or marble.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcarver.png?nolink|Old Carver}}</wrap> **Old Carver**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/olditems.png?nolink|Old Buildings}}</wrap> **Old Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcarver.png?nolink|Old Carver}}</wrap> **Old Carver**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcarver.png?nolink|Old Carver}}</wrap> **Old Carver**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                       ^ Produces                                              ^
+| 18 [[WikiPages:wood:log|Wood]]                                    | [[WikiPages:custom0:wood_statue|Wood Statue]]         |
+| 8 [[WikiPages:stone:stone|Stone]]                                 | [[WikiPages:custom0:stone_statue|Stone Statue]]       |
+| 20 [[WikiPages:coalfuel:jade|Jade]]                               | [[WikiPages:custom0:jade_statue|Jade Statue]]         |
+| 20 [[WikiPages:coalfuel:marble|Marble]]                           | [[WikiPages:custom0:marble_statue|Marble Statue]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Shore Hut ======
+----
+
+<WRAP right>
+^  Shore Hut                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorehut.png?nolink|Shore Hut}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/pitdigger.png?nolink|Pit Digger}}</wrap> Pit Digger  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB-mod shore hut. A Pit Digger gathers Sand and Clay along the shoreline — outputs alternate between the two.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsandclay.png?nolink|Sand & Clay}}</wrap> **Sand & Clay** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorehut.png?nolink|Shore Hut}}</wrap> **Shore Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebresources.png?nolink|EB Resources}}</wrap> **EB Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorehut.png?nolink|Shore Hut}}</wrap> **Shore Hut**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom4:sand|Sand]]
+  * [[WikiPages:custom4:clay|Clay]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building SandClay EB}}

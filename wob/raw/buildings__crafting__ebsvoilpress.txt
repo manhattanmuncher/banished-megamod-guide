@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Oil Press ======
+----
+
+<WRAP right>
+^  Village Oil Press                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvoilpress.png?nolink|Village Oil Press}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/presser.png?nolink|Presser}}</wrap> Presser  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village oil press. A Presser produces Linseed Oil, Vegetable Oil, and Seed Oil from various crops, each batch sealed in an Amphora.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroilpress.png?nolink|Oil Presses}}</wrap> **Oil Presses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvoilpress.png?nolink|Village Oil Press}}</wrap> **Village Oil Press**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resources}}</wrap> **Village Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvoilpress.png?nolink|Village Oil Press}}</wrap> **Village Oil Press**
+
+----
+
+===== Recipes =====
+
+All recipes also consume **1 [[WikiPages:custom0:amphora|Amphora]]**.
+
+^ Ingredients                                                  ^ Produces                                              ^
+| 25 [[WikiPages:textile:flax|Flax]]                           | [[WikiPages:custom7:linseed_oil|Linseed Oil]]         |
+| 25 Sunflower                                                 | [[WikiPages:food:vegetable_oil|Vegetable Oil]]        |
+| 25 [[WikiPages:food:pecan|Pecan]]                            | [[WikiPages:food:seed_oil|Seed Oil]]                  |
+| 25 [[WikiPages:food:walnut|Walnut]]                          | [[WikiPages:food:seed_oil|Seed Oil]]                  |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Crafting EB}}

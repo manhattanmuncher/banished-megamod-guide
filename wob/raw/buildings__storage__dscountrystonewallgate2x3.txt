@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Stone Wall Gate 2×3 ======
+----
+
+<WRAP right>
+^  Country Stone Wall Gate 2×3                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallgate2x3.png?nolink|Country Stone Wall Gate 2×3}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+|  Storage Categories  |  All  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods double-gate piece for the Country Stone Wall set. Settlers store any goods with a capacity of 1,000 units. Can be upgraded to the [[buildings:storage:dscountrystonewallgate2x3impassable|Country Stone Wall Gate 2×3 (Impassable)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Decorative}}</wrap> **Fences, Walls & Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsdecofencestonelow.png?nolink|Low Stone Walls}}</wrap> **Low Stone Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menucountrystonewall.png?nolink|Country Stone Wall}}</wrap> **Country Stone Wall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallgate2x3.png?nolink|Gate 2×3}}</wrap> **Gate 2×3**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsdecofencestonelow.png?nolink|Low Stone Walls}}</wrap> **Low Stone Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menucountrystonewall.png?nolink|Country Stone Wall}}</wrap> **Country Stone Wall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscountrystonewallgate2x3.png?nolink|Gate 2×3}}</wrap> **Gate 2×3**
+
+----
+
+This building originally came from **Fences v17004**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=357|WoB]]
+
+{{tag>Building Storage DS}}

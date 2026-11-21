@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Essaouira Boat Deco ======
+----
+
+<WRAP right>
+^  Essaouira Boat Deco                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildessaouiraboatdeco.png?nolink|Essaouira Boat Deco}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Water placed  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative fishing boat from the A8 Moroccan Misc mod, placed on water as a visual decoration. Four appearance variants are available. Can be removed via the Remove Item button.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8deco.png?nolink|A8 deco}}</wrap> **A8 deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildessaouiraboatdeco.png?nolink|Essaouira Boat Deco}}</wrap> **Essaouira Boat Deco**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarboats.png?nolink|Boats}}</wrap> **Boats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildessaouiraboatdeco.png?nolink|Essaouira Boat Deco}}</wrap> **Essaouira Boat Deco**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Miscellaneous v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=546|WoB]], [[https://www.nexusmods.com/banished/mods/108|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913001365|Steam]]
+
+{{tag>Building Decorations A8}}

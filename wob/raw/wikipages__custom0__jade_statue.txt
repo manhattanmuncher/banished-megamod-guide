@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jade Statue ======
+----
+
+<WRAP right>
+^  Jade Statue                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  240  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  3  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/jadestatue.png?nolink|Jade Statue}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Jade Statue is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. At a trade value of 240, it is highly prized by traveling merchants.
+
+----
+
+===== Jade Statue Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:carver|Statue Carver]]
+  * Produced at the [[buildings:crafting:oldcarver|Old Carver]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

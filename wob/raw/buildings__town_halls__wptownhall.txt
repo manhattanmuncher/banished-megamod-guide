@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Town Hall (WorkPlace Village) ======
+----
+
+<WRAP right>
+^  Town Hall                                                                          ^  WorkPlace Village  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwptownhall.png?nolink|Town Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  44  |
+</WRAP>
+<WRAP right></WRAP>
+
+A WorkPlace Village town hall providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|WorkPlace Village}}</wrap> **WorkPlace Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwptownhall.png?nolink|Town Hall}}</wrap> **Town Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|WorkPlace Village}}</wrap> **WorkPlace Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwptownhall.png?nolink|Town Hall}}</wrap> **Town Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwptownhall.png?nolink|Town Hall (WorkPlace Village)}}</wrap> **Town Hall (WorkPlace Village)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building TownHalls KidWorkPlaceVillage}}

@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Temple Kura ======
+----
+
+<WRAP right>
+^  Temple Kura                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemplekura.png?nolink|Temple Kura}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7×7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Industrial Fuel, Raw Materials, Building Supplies, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×15, Stone ×10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 Japanese Housing mod large storage barn. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemplekura.png?nolink|Temple Kura}}</wrap> **Temple Kura**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8storage.png?nolink|A8 storage}}</wrap> **A8 storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtemplekura.png?nolink|Temple Kura}}</wrap> **Temple Kura**
+
+----
+
+{{tag>Building Storage A8Japanese}}

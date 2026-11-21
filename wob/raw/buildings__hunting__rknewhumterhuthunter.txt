@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== New Hunter Cabin ======
+----
+
+<WRAP right>
+^  New Hunter Cabin                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewhunterhuthunter.png?nolink|New Hunter Cabin}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 3)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  34  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup Editor's Choice new hunter cabin. Hunters hunt wild game within a 34-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkoldhunterhuttoolbar.png?nolink|Old Hunter Cabin Toolbar}}</wrap> **Old Hunter Cabin Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewhunterhuthunter.png?nolink|New Hunter Cabin}}</wrap> **New Hunter Cabin**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkoldhunterhuttoolbar.png?nolink|Old Hunter Cabin Toolbar}}</wrap> **Old Hunter Cabin Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rknewhunterhuthunter.png?nolink|New Hunter Cabin}}</wrap> **New Hunter Cabin**
+
+----
+
+===== Produces =====
+
+Various wild game (depends on available map resources)
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Hunting RKEditorChoiceEdition}}

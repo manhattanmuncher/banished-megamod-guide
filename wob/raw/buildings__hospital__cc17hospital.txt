@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== City Hospital ======
+----
+
+<WRAP right>
+^  City Hospital                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17hospital.png?nolink|City Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 30)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  40  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  190  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  78  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  52  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter city hospital staffed by a Doctor, providing Health happiness to nearby residents within a radius of 30 tiles and accommodating up to 40 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhealthandhealing.png?nolink|Health and Healing}}</wrap> **Health and Healing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17hospital.png?nolink|City Hospital}}</wrap> **City Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17hospital.png?nolink|City Hospital}}</wrap> **City Hospital**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Hospital ColonialCharter}}

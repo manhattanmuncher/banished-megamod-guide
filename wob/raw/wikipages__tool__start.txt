@@ -1,0 +1,34 @@
+~~NOTOC~~
+
+====== Tools ======
+----
+
+Tools and equipment used by citizens in their professions. Citizens without tools work less efficiently.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/rmtoolbough.png?nolink|Bough Tool}} [[WikiPages:tool:bough_tool|Bough Tool]]
+  * {{https://sprites.worldofbanished.com/bronzetool.png?nolink|Bronze Tool}} [[WikiPages:tool:bronze_tool|Bronze Tool]]
+  * {{https://sprites.worldofbanished.com/nmcarbonsteeltool.png?nolink|Carbon Steel Tool}} [[WikiPages:tool:carbon_steel_tool|Carbon Steel Tool]]
+  * {{https://sprites.worldofbanished.com/coppertool.png?nolink|Copper Tool}} [[WikiPages:tool:copper_tool|Copper Tool]]
+  * {{https://sprites.worldofbanished.com/copperalloytool.png?nolink|CopperAlloy Tool}} [[WikiPages:tool:copperalloy_tool|CopperAlloy Tool]]
+  * {{https://sprites.worldofbanished.com/dwarventool.png?nolink|Dwarven Tool}} [[WikiPages:tool:dwarven_tool|Dwarven Tool]]
+  * {{https://sprites.worldofbanished.com/gemtool.png?nolink|Gemstone Tool}} [[WikiPages:tool:gemstone_tool|Gemstone Tool]]
+  * {{https://sprites.worldofbanished.com/hardenedsteeltool.png?nolink|Hardened Steel Tool}} [[WikiPages:tool:hardened_steel_tool|Hardened Steel Tool]]
+  * {{https://sprites.worldofbanished.com/hardenedtool.png?nolink|Hardened Tool}} [[WikiPages:tool:hardened_tool|Hardened Tool]]
+  * {{https://sprites.worldofbanished.com/magicaltool.png?nolink|Magical Tool}} [[WikiPages:tool:magical_tool|Magical Tool]]
+  * {{https://sprites.worldofbanished.com/rmtoolpitched.png?nolink|Pitched Tool}} [[WikiPages:tool:pitched_tool|Pitched Tool]]
+  * {{https://sprites.worldofbanished.com/crudetool.png?nolink|Rough Tools}} [[WikiPages:tool:rough_tools|Rough Tools]]
+  * {{https://sprites.worldofbanished.com/steeltool.png?nolink|SteelTool}} [[WikiPages:tool:steeltool|SteelTool]]
+  * {{https://sprites.worldofbanished.com/stonetool.png?nolink|Stone Tool}} [[WikiPages:tool:stone_tool|Stone Tool]]
+  * {{https://sprites.worldofbanished.com/tool.png?nolink|Tool}} [[WikiPages:tool:tool|Tool]]
+  * {{https://sprites.worldofbanished.com/rmtooltwined.png?nolink|Twine Handled Tool}} [[WikiPages:tool:twine_handled_tool|Twine Handled Tool]]
+  * {{https://sprites.worldofbanished.com/woodentool.png?nolink|Wooden Tool}} [[WikiPages:tool:wooden_tool|Wooden Tool]]
+
+----
+
+{{tag>Tool}}

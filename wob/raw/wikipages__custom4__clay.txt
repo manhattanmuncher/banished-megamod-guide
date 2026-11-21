@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Clay ======
+----
+
+<WRAP right>
+^  Clay                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom4  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  12  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/clay.png?nolink|Clay}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Clay is a raw material harvested directly from the environment in the Banished MegaMod. It is stockpiled and used as a base ingredient for crafting and construction. It has a modest trade value of 4.
+
+----
+
+===== Clay Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:sand_clay:mfclaypit|Clay Pit (Mexican Fantasy)]]
+  * Produced at the [[buildings:sand_clay:ebsvclaypit|Village Clay Pit]]
+  * Produced at the [[buildings:sand_clay:ebshorehut|Shore Hut]]
+  * [[buildings:sand_clay:nmt30mcclaypit|Clay Pit (NMMK)]]
+  * [[buildings:sand_clay:newmedievalclaypit|Medieval Clay Pit (New Medieval)]]
+  * Produced at the [[buildings:sand_clay:oldshorepit|Old Shore Pit (Colonial)]]
+  * Produced at the [[buildings:sand_clay:shorepit|Shore House]]
+  * Produced at the [[buildings:mining:tinyclaypit|Tiny Clay Pit]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:ebsvpottery|Village Pottery]] (for Amphora)
+  * Used at the [[buildings:crafting:tinybrickworkshop|Tiny Brick Workshop]]
+  * Exported at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom4}}

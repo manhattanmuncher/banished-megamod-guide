@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Moroccan Gate ======
+----
+
+<WRAP right>
+^  Moroccan Gate                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccangate.png?nolink|Moroccan Gate}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative Moroccan gate from the A8 Moroccan Misc mod. The center two tiles of the 6×1 footprint are passable, forming a walkable gate arch. Three appearance variants are available. Pairs with the [[buildings:decorations:moroccangatetower|Moroccan Gate Tower]] and [[buildings:decorations:moroccangatewall|Moroccan Gate Wall]] pieces.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8deco.png?nolink|A8 deco}}</wrap> **A8 deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccangate.png?nolink|Moroccan Gate}}</wrap> **Moroccan Gate**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmoroccangate.png?nolink|Moroccan Gate}}</wrap> **Moroccan Gate**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Miscellaneous v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=546|WoB]], [[https://www.nexusmods.com/banished/mods/108|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913001365|Steam]]
+
+{{tag>Building Decorations A8}}

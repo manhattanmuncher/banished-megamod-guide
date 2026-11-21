@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Wooden Bridge ======
+----
+
+<WRAP right>
+^  EB Wooden Bridge                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwoodbridge.png?nolink|EB Wooden Bridge}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (drag to place)  |
+^  Build Cost (per tile)                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  3  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+EB Small Village (embx61) wooden bridges. Drag to place across water; cost scales per tile. Available as open and roofed (covered) versions, in standard and "Warm" (winter) finishes, with fixed-length 1/2/4/8-tile span pieces.
+
+----
+
+===== Variants =====
+
+^ Variant ^
+| Wooden Bridge (open) |
+| Wooden Bridge, Roofed |
+| Wooden Bridge, Warm |
+| Wooden Bridge, Roofed Warm |
+
+Each is available as a draggable span plus fixed 1/2/4/8-tile pieces. All share the same per-tile cost (3 work, 5 Wood).
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbridge.png?nolink|Bridges}}</wrap> **Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwoodbridge.png?nolink|Wood Bridges}}</wrap> **Wood Bridges** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwoodbridge.png?nolink|EB Wooden Bridge}}</wrap> **EB Wooden Bridge**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Bridges EB}}

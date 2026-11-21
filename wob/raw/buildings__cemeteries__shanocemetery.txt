@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fenceless Cemetery (SHA) ======
+----
+
+<WRAP right>
+^  Fenceless Cemetery (SHA)                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshanocemetery.png?nolink|Fenceless Cemetery (SHA)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Stone House Addon fenceless cemetery; build in a player-drawn area where the deceased may be buried. Free to place — no labor or materials required per tile.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshanocemetery.png?nolink|Fenceless Cemetery (SHA)}}</wrap> **Fenceless Cemetery (SHA)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshanocemetery.png?nolink|Fenceless Cemetery (SHA)}}</wrap> **Fenceless Cemetery (SHA)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshanocemetery.png?nolink|Fenceless Cemetery (SHA)}}</wrap> **Fenceless Cemetery (SHA)**
+
+----
+
+This building originally came from **Stone House Addon v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=279|WoB]]
+
+{{tag>Building Cemeteries StoneHouseAddon}}

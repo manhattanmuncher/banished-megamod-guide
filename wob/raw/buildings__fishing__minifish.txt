@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mini Fisherman ======
+----
+
+<WRAP right>
+^  Mini Fisherman                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishermansdock.png?nolink|Mini Fisherman}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Mini Buildings compact fishing dock. A single Fisherman catches Fish from within a 10-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishermansdock.png?nolink|Mini Fisherman}}</wrap> **Mini Fisherman**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/minitoolbar.png?nolink|Mini Buildings}}</wrap> **Mini Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishermansdock.png?nolink|Mini Fisherman}}</wrap> **Mini Fisherman**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+Must be placed in water tiles.
+
+This building originally came from **Mini Buildings v8**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=696|WoB]]
+
+{{tag>Building Fishing MiniBuildings}}

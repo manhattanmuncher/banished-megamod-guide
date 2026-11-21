@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Christmas Decorations ======
+----
+
+<WRAP right>
+^  Christmas Decorations                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsnowman.png?nolink|Christmas Decorations}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Festive decorations from the Christmas Mod — a snowman and three wreath designs to dress the colony for the holidays.
+
+----
+
+===== Variants =====
+
+^ Decoration ^
+| Snowman |
+| Christmas Wreath A |
+| Christmas Wreath B |
+| Christmas Wreath C |
+
+All are 1×1 and free to place.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed}}</wrap> **Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → select decoration
+
+----
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building Decorations ChristmasMod}}

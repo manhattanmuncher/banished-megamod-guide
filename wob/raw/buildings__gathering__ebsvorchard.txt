@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Orchard (EB Small Village) ======
+----
+
+<WRAP right>
+^  Orchard                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvorchard.png?nolink|Orchard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Drag to place (up to 15 × 15 tiles)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 3)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Small Village orchard zone. Farmers tend fruit trees within the designated area. Drag to place; minimum size 4×4, maximum 15×15.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme}}</wrap> **EB Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Small Village}}</wrap> **EB Small Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagefood.png?nolink|EB Village Food}}</wrap> **EB Village Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvorchard.png?nolink|Orchard}}</wrap> **Orchard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvorchard.png?nolink|Orchard}}</wrap> **Orchard**
+
+----
+
+===== Produces =====
+
+Various fruit (player selects fruit type at placement)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Gathering EBSV}}

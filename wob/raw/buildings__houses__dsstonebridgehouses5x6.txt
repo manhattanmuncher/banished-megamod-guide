@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Bridge Large Home ======
+----
+
+<WRAP right>
+^  Stone Bridge Large Home                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgehouses5x6.png?nolink|Stone Bridge Large Home}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  95  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Stone Bridge large home built over a stone bridge. Houses up to 7 settlers. Buildable on water or on land.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonehousesmenu.png?nolink|Bridge Homes}}</wrap> **Bridge Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgehouses5x6.png?nolink|Stone Bridge Large Home}}</wrap> **Stone Bridge Large Home**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonehousesmenu.png?nolink|Bridge Homes}}</wrap> **Bridge Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgehouses5x6.png?nolink|Stone Bridge Large Home}}</wrap> **Stone Bridge Large Home**
+
+----
+
+This building originally came from **Stone Bridge v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=385|WoB]], [[https://www.nexusmods.com/banished/mods/71|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1238017268|Steam]]
+
+{{tag>Building Houses DS}}

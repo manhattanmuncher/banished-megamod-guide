@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Book ======
+----
+
+<WRAP right>
+^  Book                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  400  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/book.png?nolink|Book}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Book is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. At a trade value of 400, it is highly prized by traveling merchants.
+
+----
+
+===== Book Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:worship:monastery|Monastery]] (from Wood + Coal + Leather)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

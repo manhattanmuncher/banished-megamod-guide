@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Zombie Tombstone Cemetery ======
+----
+
+<WRAP right>
+^  Zombie Tombstone Cemetery                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildzombiecemetery.png?nolink|Zombie Tombstone Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Zombie Tombstones cemetery with zombie hands as tombstones instead of gravestones; build in a player-drawn area for your deceased.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildzombiecemetery.png?nolink|Zombie Tombstone Cemetery}}</wrap> **Zombie Tombstone Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/religiousitems.png?nolink|Worship and Remembrance}}</wrap> **Worship and Remembrance** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildzombiecemetery.png?nolink|Zombie Tombstone Cemetery}}</wrap> **Zombie Tombstone Cemetery**
+
+----
+
+This building originally came from **Zombie Tombstones**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=372|WoB]]
+
+{{tag>Building Cemeteries ZombieTombstones}}

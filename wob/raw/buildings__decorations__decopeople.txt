@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deco People ======
+----
+
+<WRAP right>
+^  Deco People                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecopeople.png?nolink|Deco People}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  No footprint (ghosted)  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative human figures from Kid's Deco People mod — ghosted, free-placing statues of villagers used to bring streets, markets and yards to life. They have no footprint and overlap freely, and come in several outfit sets.
+
+----
+
+===== Variants =====
+
+  * **Vanilla Deco People** — base-game-styled figures.
+  * **First Deco People** and **Rural Deco People** — alternate figure sets.
+  * **New Outfit Deco People** — additional clothing variants.
+  * Individual boys, girls, men and women in assorted colours.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecopeople.png?nolink|Deco People}}</wrap> **Deco People** → the figure
+
+----
+
+{{tag>Building Decorations KidDecoPeople}}

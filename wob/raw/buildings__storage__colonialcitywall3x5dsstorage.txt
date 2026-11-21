@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== City Wall Storage ======
+----
+
+<WRAP right>
+^  City Wall Storage                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialcitywall3x5dsstorage.png?nolink|City Wall Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Custom 0/1/2/6/7/8/9  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter city wall section with integrated storage. Settlers store food, fuel, tools, and other goods with a capacity of 3,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccdecorations.png?nolink|Decorative Items}}</wrap> **Decorative Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwalls.png?nolink|Walls}}</wrap> **Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menucolonialcitywalls.png?nolink|City Walls}}</wrap> **City Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialcitywall3x5dsstorage.png?nolink|City Wall Storage}}</wrap> **City Wall Storage**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menucolonialcitywalls.png?nolink|City Walls}}</wrap> **City Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialcitywall3x5dsstorage.png?nolink|City Wall Storage}}</wrap> **City Wall Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialcitywall3x5dsstorage.png?nolink|City Wall Storage}}</wrap> **City Wall Storage**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

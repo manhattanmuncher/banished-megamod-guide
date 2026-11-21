@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== BG Vintage Bread ======
+----
+
+<WRAP right>
+^  BG Vintage Bread                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbgvintagebread.png?nolink|BG Vintage Bread}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The BG Vintage Bread is a bakery from the Bakery & Garden Alt mod in the Banished MegaMod. Bakers bake several styles of bread from Flour and various fillings.
+
+----
+
+===== Toolbar =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → BG Vintage Bread
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbakerygarden.png?nolink|Bakery Garden}}</wrap> **Bakery Garden** → BG Vintage Bread
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 24 [[WikiPages:grain:flour|Flour]] | [[WikiPages:food:bread_bread|Bread]] |
+| 18 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:rye|Rye]] | [[WikiPages:food:breadrye|Rye Bread]] |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]] | [[WikiPages:food:nut_bread_nutbread|Nut Bread]] |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]] | [[WikiPages:food:herb_bread|Herb Bread]] |
+
+----
+
+This building originally came from **Bakery & Garden Alternative v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=533|WoB]]
+
+{{tag>Bakery BakeryGardenAlt}}

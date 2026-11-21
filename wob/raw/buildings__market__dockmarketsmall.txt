@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Small Market ======
+----
+
+<WRAP right>
+^  Dock Small Market                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockmarkets.png?nolink|Dock Small Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 2)  |
+|  Happiness  |  Goods  |
+|  Radius  |  19  |
+|  Storage  |  3,200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  50  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small Colonial Charter Dock market. Vendors distribute a wide variety of goods to nearby settlers. Provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar.png?nolink|Homes & Town Services}}</wrap> **Homes & Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockmarkets.png?nolink|Dock Small Market}}</wrap> **Dock Small Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar.png?nolink|Homes & Town Services}}</wrap> **Homes & Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockmarkets.png?nolink|Dock Small Market}}</wrap> **Dock Small Market**
+
+----
+
+===== Stocks =====
+
+  * All food (Fruit, Vegetables, Protein, Grain)
+  * Fuel and industrial fuel
+  * Tools
+  * Health items
+  * Clothing and Textiles
+  * Iron and Logs
+  * All crafted goods (Custom 0–9)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

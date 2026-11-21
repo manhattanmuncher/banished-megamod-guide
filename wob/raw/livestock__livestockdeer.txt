@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deer ======
+----
+
+<WRAP right>
+^  Deer                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/deer.png?nolink|Deer}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  600  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  16 tiles  |
+</WRAP>
+<WRAP right></WRAP>
+
+Deer are livestock raised at a Pasture. They yield Venison, Leather, and Fertilizer when slaughtered.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:venison|Venison]]
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockDeer}}

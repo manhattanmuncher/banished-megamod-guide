@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Liqueur ======
+----
+
+<WRAP right>
+^  Liqueur                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  8/10  |
+|  Edible  |  No  |
+|  Trade Value  |  14  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/sbvliqueur.png?nolink|Liqueur}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Liqueur is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 14, making it a worthwhile commodity for trade.
+
+----
+
+===== Liqueur Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:sbvdistillery|SBV Distillery]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

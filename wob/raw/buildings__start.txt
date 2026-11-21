@@ -1,0 +1,101 @@
+~~NOTOC~~
+
+====== Buildings ======
+----
+
+This page is the index of all buildings covered on the wiki. Choose a category below.
+
+----
+
+===== Transport =====
+
+^ Category ^ Description ^
+| [[buildings:bridges:start|Bridges]] | Bridges and jetties for crossing water and connecting land |
+| [[buildings:roads:start|Roads]] | Roads, paths, and other buildings for transport |
+| [[buildings:tunnels:start|Tunnels]] | Mine tunnels and underground passages |
+
+===== Housing =====
+
+^ Category ^ Description ^
+| [[buildings:boarding_houses:start|Boarding Houses]] | Inns, hostels, and other buildings that house multiple families or travelers |
+| [[buildings:houses:start|Houses]] | Residential buildings where citizens live |
+
+===== Storage =====
+
+^ Category ^ Description ^
+| [[buildings:market:start|Market]] | Markets and other buildings for local trade |
+| [[buildings:stockpiles:start|Stockpiles]] | Open-air stockpiles for storing raw materials |
+| [[buildings:storage:start|Storage]] | Storage barns, warehouses, and other buildings for storing goods |
+| [[buildings:trading_post:start|Trading Post]] | Trading posts and other buildings for trading with merchants |
+
+===== Services =====
+
+^ Category ^ Description ^
+| [[buildings:cemeteries:start|Cemeteries]] | Buildings and areas where the deceased are buried |
+| [[buildings:frontier:start|Frontier]] | Frontier-themed outposts and buildings |
+| [[buildings:herbalist:start|Herbalist]] | Buildings where herbalists gather medicinal plants and produce health-related goods |
+| [[buildings:hospital:start|Hospital]] | Hospitals and other buildings that treat sick or injured citizens |
+| [[buildings:more_civic:start|More Civic]] | Additional civic and community buildings not covered by a more specific category |
+| [[buildings:nomads:start|Nomads]] | Nomad camp buildings and tents |
+| [[buildings:schools:start|Schools]] | Schools and other buildings that educate citizens |
+| [[buildings:town_halls:start|Town Halls]] | Town halls and other administrative civic buildings |
+| [[buildings:wells:start|Wells]] | Wells that provide water to nearby houses |
+| [[buildings:worship:start|Worship]] | Churches, temples, and other buildings for worship |
+
+===== Food Production =====
+
+^ Category ^ Description ^
+| [[buildings:animal_pens:start|Animal Pens]] | Buildings that house livestock and collect eggs, milk, wool, and other animal products |
+| [[buildings:beekeeping:start|Beekeeping]] | Buildings that keep bees and produce honey and beeswax |
+| [[buildings:fields:start|Fields]] | Crop fields, orchards, and other planted growing areas |
+| [[buildings:fishing:start|Fishing]] | Docks and buildings that catch fish and other aquatic resources |
+| [[buildings:gathering:start|Gathering]] | Buildings where gatherers collect wild food and materials |
+| [[buildings:greenhouse:start|Greenhouse]] | Greenhouses and other buildings for growing produce under cover |
+| [[buildings:hunting:start|Hunting]] | Hunting cabins and other buildings that harvest wild game |
+| [[buildings:pastures:start|Pastures]] | Pastures where livestock graze |
+| [[buildings:water:start|Water]] | Buildings that manage water, irrigation, and canals |
+
+===== Food Processing =====
+
+^ Category ^ Description ^
+| [[buildings:bakery:start|Bakery]] | Buildings that bake breads, pastries, and other goods |
+| [[buildings:butcher:start|Butchers]] | Buildings that process meat and animal products into food |
+| [[buildings:dairy:start|Dairy]] | Buildings that process milk into cheese, butter, and other dairy products |
+| [[buildings:food:start|Food]] | General food-related buildings not covered by a more specific category |
+| [[buildings:milling:start|Milling]] | Windmills, watermills, and other buildings that grind grain into flour |
+| [[buildings:more_food:start|More Food]] | Other food-producing buildings not covered by the other categories |
+| [[buildings:oil_press:start|Oil Press]] | Buildings that press seeds and crops into oils |
+| [[buildings:preparing:start|Preparing]] | Buildings that prepare and cook meals from multiple ingredients |
+| [[buildings:preserving:start|Preserving]] | Buildings that preserve food through smoking, salting, and pickling |
+
+===== Resource Production =====
+
+^ Category ^ Description ^
+| [[buildings:forester:start|Forester]] | Buildings that manage and harvest forests for wood |
+| [[buildings:mining:start|Mining]] | Quarries, mines, and shafts for extracting stone, ores, and minerals |
+| [[buildings:resources:start|Resources]] | Buildings that gather or store raw natural resources |
+| [[buildings:sand_clay:start|Sand & Clay]] | Buildings that process sand and clay into pottery and glass |
+
+===== Refined Resources =====
+
+^ Category ^ Description ^
+| [[buildings:brewery:start|Brewery]] | Taverns, wineries, and other buildings that produce alcoholic beverages |
+| [[buildings:clothing:start|Tailor]] | Tailors and other buildings that produce clothing from textiles |
+| [[buildings:construction:start|Construction]] | Buildings that produce construction materials and building supplies |
+| [[buildings:crafting:start|Crafting]] | Workshops and other general production buildings |
+| [[buildings:fuel:start|Fuel]] | Buildings that produce firewood, charcoal, and other fuel |
+| [[buildings:industrial:start|Industrial]] | Heavy industrial production buildings |
+| [[buildings:luxuries:start|Luxuries]] | Buildings that produce luxury and specialty goods |
+| [[buildings:metalworking:start|Blacksmith]] | Forges, smithies, and other buildings that produce tools and metal goods |
+| [[buildings:precious:start|Precious]] | Buildings that process gems and precious materials |
+| [[buildings:workshop:start|Workshop]] | Workshops that craft tools, furniture, and other goods |
+
+===== Decorations =====
+
+^ Category ^ Description ^
+| [[buildings:decorations:start|Decorations]] | Purely decorative buildings and objects with no production function |
+| [[buildings:hedgerow:start|Hedgerow]] | Decorative hedges and garden borders |
+
+----
+
+{{tag>Buildings}}

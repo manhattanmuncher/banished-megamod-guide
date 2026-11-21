@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Maritimes Decorations ======
+----
+
+<WRAP right>
+^  Maritimes Decorations                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreedecoapple.png?nolink|Maritimes Decorations}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes decorative natural elements for landscaping — decorative trees, natural-resource props, and road accents. All are free with no footprint.
+
+----
+
+===== Variants =====
+
+^ Group ^ Items ^
+| Decorative Trees | Apple, Aspen, Birch, Fir, Maple, Spruce, White Pine (each with a Small version) |
+| Resource Decorations | Beaver Lodge, Blueberry, Chanterelle, Cranberry, Fiddlehead, Flax, Fox Hole, Hemp, Nest, Pine Bough, Traps 1–3 |
+| Road Accents (PEI) | Dirt Square/Triangle, Stone Square/Triangle |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** (trees), or Decorative → road/resource deco menus
+
+----
+
+{{tag>Building Decorations Maritimes}}

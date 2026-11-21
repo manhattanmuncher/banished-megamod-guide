@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Copper ======
+----
+
+<WRAP right>
+^  Copper                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  7  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/copper.png?nolink|Copper}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Copper is a forged item crafted from metal in the Banished MegaMod. It is produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. It has a modest trade value of 7.
+
+----
+
+===== Copper Mods =====
+
+==== Procuring / where to get ====
+  * Smelted at the [[buildings:mining:copperminedeep|Dark Copper Ore Mine Shaft]]
+  * Smelted at the [[buildings:mining:copperminedeeper|Deep Copper Ore Mine Shaft]]
+  * Produced at the [[buildings:metalworking:forge|Forge]]
+  * Produced at the [[buildings:metalworking:foundry|Foundry]]
+  * [[buildings:metalworking:nmt30foundry|Foundry (NMT30)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

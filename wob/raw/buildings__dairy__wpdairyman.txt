@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WP Dairyman ======
+----
+
+<WRAP right>
+^  WP Dairyman                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpdairyman.png?nolink|WP Dairyman}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dairyman.png?nolink|Dairyman}}</wrap> Dairyman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+KID WorkPlace dairy; processes milk into cheese, cream, and butter, and makes fruit yogurt from milk combined with blueberry, peach, or cherry.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|WorkPlace}}</wrap> **WorkPlace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpdairyman.png?nolink|WP Dairyman}}</wrap> **WP Dairyman**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardairy.png?nolink|Dairies}}</wrap> **Dairies** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpdairyman.png?nolink|WP Dairyman}}</wrap> **WP Dairyman**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                              ^ Produces                                ^
+| 12 [[WikiPages:food:milk|Milk]]                                                                                          | [[WikiPages:food:cheese|Cheese]]        |
+| 12 [[WikiPages:food:milk|Milk]]                                                                                          | [[WikiPages:food:cream|Cream]]          |
+| 12 [[WikiPages:food:milk|Milk]]                                                                                          | [[WikiPages:food:butter|Butter]]        |
+| 12 [[WikiPages:food:milk|Milk]] + 8 [[WikiPages:food:blueberries|Blueberry]]                                             | [[WikiPages:food:yogurt|Yogurt]]        |
+| 12 [[WikiPages:food:milk|Milk]] + 8 [[WikiPages:food:peach|Peach]]                                                       | [[WikiPages:food:yogurt|Yogurt]]        |
+| 12 [[WikiPages:food:milk|Milk]] + 8 [[WikiPages:food:cherry|Cherry]]                                                     | [[WikiPages:food:yogurt|Yogurt]]        |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building Dairy WorkPlace KID}}

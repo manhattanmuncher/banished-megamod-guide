@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bedding Maker ======
+----
+
+<WRAP right>
+^  Bedding Maker                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbeddingmaker.png?nolink|Bedding Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  24  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Bedding Maker is a Colonial Charter building where a tailor crafts bedding from feathers, cotton, or wool combined with cloth or linen.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined}}</wrap> **Refined** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Refined Textiles}}</wrap> **Refined Textiles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbeddingmaker.png?nolink|Bedding Maker}}</wrap> **Bedding Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfabricsandfibers.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbeddingmaker.png?nolink|Bedding Maker}}</wrap> **Bedding Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarclothing.png?nolink|Clothing Makers}}</wrap> **Clothing Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbeddingmaker.png?nolink|Bedding Maker}}</wrap> **Bedding Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                              ^ Produces                               ^
+| 25 [[WikiPages:textile:feathers_feather|Feathers]] + 5 [[WikiPages:custom2:cloth|Cloth]]               | [[WikiPages:custom2:bedding|Bedding]]  |
+| 25 [[WikiPages:textile:cotton|Cotton]] + 5 [[WikiPages:custom2:cloth|Cloth]]                            | [[WikiPages:custom2:bedding|Bedding]]  |
+| 10 [[WikiPages:textile:wool|Wool]] + 5 [[WikiPages:custom2:cloth|Cloth]]                                | [[WikiPages:custom2:bedding|Bedding]]  |
+| 25 [[WikiPages:textile:feathers_feather|Feathers]] + 5 [[WikiPages:custom2:linen|Linen]]               | [[WikiPages:custom2:bedding|Bedding]]  |
+| 25 [[WikiPages:textile:cotton|Cotton]] + 5 [[WikiPages:custom2:linen|Linen]]                            | [[WikiPages:custom2:bedding|Bedding]]  |
+| 10 [[WikiPages:textile:wool|Wool]] + 5 [[WikiPages:custom2:linen|Linen]]                                | [[WikiPages:custom2:bedding|Bedding]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

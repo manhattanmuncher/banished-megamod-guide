@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Japanese Cemetery ======
+----
+
+<WRAP right>
+^  Japanese Cemetery                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapanesecemetery.png?nolink|Japanese Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Japanese All-in-One cemetery in a traditional Japanese style; build in a player-drawn area for your deceased.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapanesecemetery.png?nolink|Japanese Cemetery}}</wrap> **Japanese Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 Civics}}</wrap> **A8 Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapanesecemetery.png?nolink|Japanese Cemetery}}</wrap> **Japanese Cemetery**
+
+----
+
+{{tag>Building Cemeteries A8JapaneseAllInOne}}

@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Flag Maker ======
+----
+
+<WRAP right>
+^  Village Flag Maker                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvflagmaker.png?nolink|Village Flag Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  3.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  21  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+|  [[WikiPages:custom2:canvas|Canvas]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Small Village flag maker. A Tailor sews colourful Flags from any of three textile inputs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvflagmaker.png?nolink|Village Flag Maker}}</wrap> **Village Flag Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvflagmaker.png?nolink|Village Flag Maker}}</wrap> **Village Flag Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                                              ^
+| 1 [[WikiPages:custom2:canvas|Canvas]]                | [[WikiPages:custom0:flag|Flag]]                       |
+| 1 [[WikiPages:custom2:cloth|Cloth]]                  | [[WikiPages:custom0:flag|Flag]]                       |
+| 1 [[WikiPages:custom2:linen|Linen]]                  | [[WikiPages:custom0:flag|Flag]]                       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Clothing DS}}

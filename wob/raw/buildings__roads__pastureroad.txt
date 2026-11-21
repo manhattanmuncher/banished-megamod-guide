@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pasture Road ======
+----
+
+<WRAP right>
+^  Pasture Road                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpastureroad.png?nolink|Pasture Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  43  |
+</WRAP>
+<WRAP right></WRAP>
+
+A pasture road texture that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpastureroad.png?nolink|Pasture Road}}</wrap> **Pasture Road**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grassy Roads**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=695|WoB]]
+
+{{tag>Road GrassyRoads}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pecan ======
+----
+
+<WRAP right>
+^  Pecan                                          ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  50/65  |  50/65  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pecan.png?nolink|Pecan}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pecan is an edible food item available in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pecan Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:military:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:gathering:fpnutgrove|Nut Grove (Friendly Pumpkin)]]
+  * Produced at the [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fruitnut02|Fruit and Nut 02]]
+  * Produced at the [[buildings:gathering:nvhuntingground|Hunting Ground (NV)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:food:dsroastednutscampfire|Campfire, Roasting Nuts]]
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein Vanilla}}

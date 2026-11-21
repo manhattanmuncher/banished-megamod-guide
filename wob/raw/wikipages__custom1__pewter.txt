@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pewter ======
+----
+
+<WRAP right>
+^  Pewter                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  10  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pewter.png?nolink|Pewter}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pewter is a forged item crafted from metal in the Banished MegaMod. It is produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. It carries a trade value of 10, making it a worthwhile commodity for trade.
+
+----
+
+===== Pewter Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:metalworking:forge|Forge]]
+  * Produced at the [[buildings:metalworking:foundry|Foundry]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

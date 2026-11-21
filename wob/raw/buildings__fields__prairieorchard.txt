@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Prairie Orchard ======
+----
+
+<WRAP right>
+^  Prairie Orchard                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchard1.png?nolink|Prairie Orchard}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Drag to place  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 25 (default: 1)  |
+|  <abbr "Tree spacing">Tree Spacing</abbr>  |  2 × 3 tiles  |
+^  Build Cost                                                                        ^^
+|  Free to build  ||
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid Westward Ho prairie orchard zone. Farmers tend and harvest fruit trees planted across the drag-placed area, with 2×3 tile tree spacing. Designed for prairie map environments.
+
+----
+
+===== Where to Find =====
+
+Game Toolbar → Food → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchard1.png?nolink|Prairie Orchard}}</wrap> **Prairie Orchard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchard1.png?nolink|Prairie Orchard}}</wrap> **Prairie Orchard**
+
+----
+
+{{tag>Building Fields}}

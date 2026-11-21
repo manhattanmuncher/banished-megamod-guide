@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Mango Seeds ======
+----
+
+<WRAP right>
+^  Mango Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedmango.png?nolink|Mango Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Mango Seeds are used to plant a Mango tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:mango|Mango]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

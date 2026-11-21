@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Magic Portals ======
+----
+
+<WRAP right>
+^  Magic Portals                                                                      ^  Fairy Garden  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal.png?nolink|Magic Portals}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (default 1)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0 (Free)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Fairy Garden ghosted magic portals that attract nomad immigrants. Each variant limits the maximum size of arriving nomad groups as a percentage of total population. Free to place with no footprint restriction. Six variants are available with different caps.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Max Group Size ^
+| Magic Portal 2 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal2.png?nolink|Magic Portal 2}}</wrap> | 2% of population |
+| Magic Portal 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal5.png?nolink|Magic Portal 5}}</wrap> | 5% of population |
+| Magic Portal 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal10.png?nolink|Magic Portal 10}}</wrap> | 10% of population |
+| Magic Portal 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal20.png?nolink|Magic Portal 20}}</wrap> | 20% of population |
+| Magic Portal 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal50.png?nolink|Magic Portal 50}}</wrap> | 50% of population |
+| Magic Portal 100 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal100.png?nolink|Magic Portal 100}}</wrap> | 100% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal.png?nolink|Magic Portals}}</wrap> **Magic Portals** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfgmagicportal.png?nolink|Magic Portals}}</wrap> **Magic Portals** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building Nomads FairyGarden}}

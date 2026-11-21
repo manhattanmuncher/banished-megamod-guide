@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Narrow Abode 2B ======
+----
+
+<WRAP right>
+^  Narrow Abode 2B                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowt2b.png?nolink|Narrow Abode 2B}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  15  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:narrowt2a|Narrow Abode 2A]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowrowhousestoolbar.png?nolink|Narrow Row Houses}}</wrap> **Narrow Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowt2b.png?nolink|Narrow Abode 2B}}</wrap> **Narrow Abode 2B**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowrowhousestoolbar.png?nolink|Narrow Row Houses}}</wrap> **Narrow Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/narrowt2b.png?nolink|Narrow Abode 2B}}</wrap> **Narrow Abode 2B**
+
+----
+
+{{tag>Building Houses NarrowRowHouses}}

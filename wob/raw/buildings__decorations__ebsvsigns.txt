@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== EB Village Signs ======
+----
+
+<WRAP right>
+^  EB Village Signs                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsigntown.png?nolink|EB Village Signs}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorative EB Simple Village (embx61) signposts — town, market, top, and bottom signs in yellow and white finishes. Each has no footprint and uses ghosted placement, with multiple F-key appearance variants.
+
+----
+
+===== Variants =====
+
+^ Variant ^
+| Town Sign (Yellow / White) |
+| Market Sign (Yellow / White) |
+| Top Sign (Yellow / White) |
+| Bottom Sign (Yellow / White) |
+
+All are free, no footprint, with F-key appearance variants. See also the [[buildings:decorations:ebsvsigntrader|Trader Signs]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvsigntown.png?nolink|EB Village Signs}}</wrap> **EB Signs**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

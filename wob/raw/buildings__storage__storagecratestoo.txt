@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Crates (Too) ======
+----
+
+<WRAP right>
+^  Storage Crates (Too)                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragecratestoo.png?nolink|Storage Crates (Too)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  400  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Fruit, Vegetable, Grain, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+An additional set of crates, barrels, and sacks for storage of most goods. Settlers store goods in the crates.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragecratestoo.png?nolink|Storage Crates (Too)}}</wrap> **Storage Crates (Too)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoragecratestoo.png?nolink|Storage Crates (Too)}}</wrap> **Storage Crates (Too)**
+
+----
+
+This building originally came from **Crates v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=522|WoB]], [[https://banishedinfo.com/mods/view/871-Storage-Crates|BI]]
+
+{{tag>Building Storage}}

@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Candy Store ======
+----
+
+<WRAP right>
+^  Candy Store                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcandystore.png?nolink|Candy Store}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionelf.png?nolink|Santa's Elf}}</wrap> Santa's Elf  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Candy Store is a Christmas Mod building where Santa's Elf crafts candy from sugar or honey combined with fruit or spices. It provides a happiness bonus to nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcandystore.png?nolink|Candy Store}}</wrap> **Candy Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorefood.png?nolink|More Food Processing}}</wrap> **More Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcandystore.png?nolink|Candy Store}}</wrap> **Candy Store**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                         ^ Produces                                              ^
+| 10 Refined Sugar + 10 Blueberry                                                     | [[WikiPages:food:candy|Candy]]                        |
+| 10 Refined Sugar + 10 [[WikiPages:food:apple|Apple]]                                | [[WikiPages:food:candy|Candy]]                        |
+| 10 Refined Sugar + 3 [[WikiPages:food:spices|Spices]]                               | [[WikiPages:food:candy|Candy]]                        |
+| 16 [[WikiPages:food:honey|Honey]] + 10 Blueberry                                    | [[WikiPages:food:candy|Candy]]                        |
+| 16 [[WikiPages:food:honey|Honey]] + 10 [[WikiPages:food:apple|Apple]]               | [[WikiPages:food:candy|Candy]]                        |
+| 16 [[WikiPages:food:honey|Honey]] + 3 [[WikiPages:food:spices|Spices]]              | [[WikiPages:food:candy|Candy]]                        |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building Food MoreFood ChristmasMod}}

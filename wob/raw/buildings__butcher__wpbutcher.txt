@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WP Butcher ======
+----
+
+<WRAP right>
+^  WP Butcher                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbutcher.png?nolink|WP Butcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionbutcher.png?nolink|Butcher}}</wrap> Butcher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+KID WorkPlace butcher; processes seven types of meat into roasts, chops, and ribs, or grinds any of them into sausages.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbutcher.png?nolink|WP Butcher}}</wrap> **WP Butcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|WorkPlace}}</wrap> **WorkPlace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbutcher.png?nolink|WP Butcher}}</wrap> **WP Butcher**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                               ^ Produces                                              ^
+| 12 [[WikiPages:food:beef_beef|Beef]]                                           | [[WikiPages:food:beef_steak|Beef Steak]]              |
+| 12 [[WikiPages:food:mutton|Mutton]]                                       | [[WikiPages:food:lamb_chop|Lamb Chop]]                |
+| 12 [[WikiPages:food:venison|Venison]]                                     | [[WikiPages:food:venison_roast|Venison Roast]]        |
+| 12 Swine Meat                                                             | [[WikiPages:food:pork_chop|Pork Chop]]                |
+| 12 [[WikiPages:food:bear|Bear]]                                           | [[WikiPages:food:bear_steak|Bear Steak]]              |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]]                               | [[WikiPages:food:bison_steak|Bison Steak]]            |
+| 12 [[WikiPages:food:boar|Boar]]                                           | [[WikiPages:food:boar_ribs|Boar Ribs]]                |
+| 6 [[WikiPages:food:beef_beef|Beef]]                                            | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:mutton|Mutton]]                                        | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:venison|Venison]]                                      | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 Swine Meat                                                              | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:bear|Bear]]                                            | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:bison_meat|Bison Meat]]                                | [[WikiPages:food:sausages|Sausages]]                  |
+| 6 [[WikiPages:food:boar|Boar]]                                            | [[WikiPages:food:sausages|Sausages]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building Butcher WorkPlace KID}}

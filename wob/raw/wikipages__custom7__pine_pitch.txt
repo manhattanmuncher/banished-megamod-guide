@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Pitch ======
+----
+
+<WRAP right>
+^  Pine Pitch                                     ^  xNecora  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |  1/2  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  2  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  5  |  5  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rmpinepitch.png?nolink|Pine Pitch}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pine Pitch is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pine Pitch Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:pinepitchkiln|Pine Pitch Kiln]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

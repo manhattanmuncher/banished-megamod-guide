@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Flag ======
+----
+
+<WRAP right>
+^  Flag                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/3  |
+|  Edible  |  No  |
+|  Trade Value  |  9  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/flag.png?nolink|Flag}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Flag is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. It carries a trade value of 9, making it a worthwhile commodity for trade.
+
+----
+
+===== Flag Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:dssvflagmaker|Village Flag Maker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

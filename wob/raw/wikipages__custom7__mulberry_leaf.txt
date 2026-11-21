@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mulberry Leaf ======
+----
+
+<WRAP right>
+^  Mulberry Leaf                                  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  15/20  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mulberryleaf.png?nolink|Mulberry Leaf}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Mulberry Leaf is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Mulberry Leaf Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:fields:mulberrygrove|White Mulberry Grove]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:clothing:gasshosilk|Gassho Silk (A8 Japanese AllInOne)]] (for Silk)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

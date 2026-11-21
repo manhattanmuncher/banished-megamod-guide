@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cape Town Bar House ======
+----
+
+<WRAP right>
+^  Cape Town Bar House                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapetownbarhouse.png?nolink|Cape Town Bar House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Angainor88 South African-style Cape Town bar house. Houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapetownbarhouse.png?nolink|Cape Town Bar House}}</wrap> **Cape Town Bar House**
+
+----
+
+This building originally came from **South African Miscellaneous v1.5**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=465|WoB]], [[https://www.nexusmods.com/banished/mods/111|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1531417763|Steam]]
+
+{{tag>Building Houses SouthAfrican}}

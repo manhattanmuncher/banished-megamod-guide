@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gemstone (Rough) ======
+----
+
+<WRAP right>
+^  Gemstone (Rough)                               ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  200  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/gems.png?nolink|Gemstone (Rough)}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Gemstone (Rough) is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. At a trade value of 200, it is highly prized by traveling merchants.
+
+----
+
+===== Gemstone (Rough) Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:nmt30mcrandomquarry|Random Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]]
+  * Produced at the [[buildings:military:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:military:forwardpost|Forward Post]]
+  * Produced at the [[buildings:trading_post:smugglersdock|Smugglers Dock]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:gemsmith|Gemcutters (Colonial Resources)]] (for Polished Gemstone)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

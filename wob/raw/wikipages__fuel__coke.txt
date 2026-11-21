@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coke ======
+----
+
+<WRAP right>
+^  Coke                                           ^  xDS  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom3  |  Fuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  45/55  |  45/55  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  3  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/coke.png?nolink|Coke}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Coke serves as a fuel that keeps citizens warm during the long winters in the Banished MegaMod. It is stockpiled and consumed automatically by homes to provide heat. It has a modest trade value of 3.
+
+----
+
+===== Coke Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:industrial:brickbuilding|Brickworks]]
+  * Produced at the [[buildings:industrial:brickbuildingupgrade|Brickworks (Upgrade)]]
+  * Produced at the [[buildings:metalworking:dscokeoven1|Coke Oven]]
+  * Produced at the [[buildings:fuel:kilnbuilding|Stacks Burner]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Fuel WoodFuel}}

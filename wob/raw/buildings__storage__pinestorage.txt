@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Storage ======
+----
+
+<WRAP right>
+^  Pine Storage                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinestorage.png?nolink|Pine Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  9,000  |
+|  Storage Categories  |  Fuel, Coal Fuel, Tools, Textile, Clothing  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Pine Set storage building. Settlers store fuel, tools, textiles, and clothing with a capacity of 9,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmaritimes.png?nolink|The Maritimes}}</wrap> **The Maritimes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpineset.png?nolink|Pine Set}}</wrap> **Pine Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinestorage.png?nolink|Pine Storage}}</wrap> **Pine Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinestorage.png?nolink|Pine Storage}}</wrap> **Pine Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage}}</wrap> **Necora's Maritimes Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinestorage.png?nolink|Pine Storage}}</wrap> **Pine Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinestorage.png?nolink|Pine Storage}}</wrap> **Pine Storage**
+
+----
+
+{{tag>Building Storage Maritimes}}

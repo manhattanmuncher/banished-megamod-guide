@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Beef Cows ======
+----
+
+<WRAP right>
+^  Beef Cows                                      ^  xBAN  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockcow.png?nolink|Beef Cows}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  800  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  20 tiles  |
+</WRAP>
+<WRAP right></WRAP>
+
+Beef Cows are vanilla Cattle raised at a Pasture. They yield Beef and Leather when slaughtered. The MegaMod adds a second Beef drop, Fertilizer, and Mountain Oyster to the vanilla slaughter products.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:beef_beef|Beef]] ×2
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+  * [[WikiPages:custom7:mountain_oyster|Mountain Oyster]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockCow}}

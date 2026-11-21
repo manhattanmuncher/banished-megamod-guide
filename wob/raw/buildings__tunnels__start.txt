@@ -1,0 +1,18 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tunnels ======
+----
+
+Underground structures and passageways built through terrain.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:tunnels:nmt30fclumbermill|FC Lumbermill]] | Compact NMT sawmill designed for placement inside the Forest Center radius; processes logs into lumber |
+| [[buildings:tunnels:nmt30fcwoodcutter|FC Woodcutter]] | Compact NMT woodcutting building designed for placement inside the Forest Center radius; converts logs into firewood |
+| [[buildings:tunnels:dstunnels|DS Tunnels]] | DS Tunnels through terrain; drag to place; stone and timber styles; cost per tile: WR 3 + Stone 4 (or Wood 3-4) |
+| [[buildings:tunnels:tunnel|Tunnel]] | Vanilla Banished tunnel through terrain obstacles; variable length; cost per tile: WR 3 + Stone 4 |
+
+----
+
+{{tag>Buildings Tunnels}}

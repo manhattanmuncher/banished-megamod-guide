@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly Baker ======
+----
+
+<WRAP right>
+^  Friendly Baker                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbbaker.png?nolink|Friendly Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "Happiness radius (tiles)">Happiness Radius</abbr>  |  20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Friendly Blue Baker is a small bakery that turns Flour and other ingredients into Bread, Herb Bread, and Oat Cookies for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbbaker.png?nolink|Friendly Baker}}</wrap> **Friendly Baker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                      ^ Produces                                              ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                | [[WikiPages:food:bread_bread|Bread]]                  |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]]             | [[WikiPages:food:herb_bread|Herb Bread]]              |
+| 15 [[WikiPages:food:oats_oat|Oats]] + 8 [[WikiPages:food:honey|Honey]]            | [[WikiPages:food:oat_cookies|Oat Cookies]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Blue (Ice) v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=587|WoB]]
+
+{{tag>Building Food FrontierBuildings}}

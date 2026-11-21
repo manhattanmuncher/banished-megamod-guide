@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Duck Meat ======
+----
+
+<WRAP right>
+^  Duck Meat                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  160/200  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/duckmeat.png?nolink|Duck Meat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Duck Meat is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Duck Meat Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockrkduck|Ducks]]
+  * Produced at the [[buildings:hunting:blindshore|Hunting Blind]]
+  * Produced at the [[buildings:fields:kf16|Farmyard 16]]
+  * [[buildings:frontier:nativetrader|Native Trader (CC Frontier)]]
+  * Produced at the [[buildings:hunting:rkmctower|Watch Tower (RK Training Camp)]] (random)
+  * Produced at the [[buildings:hunting:rkmctower2|Watch Tower 2 (RK Training Camp)]] (random)
+  * Produced at the [[buildings:gathering:theglade|The Glade]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketroastsmall|Market Roast Small]] (for Market Roast)
+  * Used at the [[buildings:preserving:tinnerymeat|Meat Tinnery]]
+  * Used at the [[buildings:butcher:woodbutcher|Wood Butcher]] (for Roast Duck)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

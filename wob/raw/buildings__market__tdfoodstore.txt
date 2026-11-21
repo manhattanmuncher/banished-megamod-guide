@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Store (Tiny Downtown) ======
+----
+
+<WRAP right>
+^  Food Store                                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtdfoodstore.png?nolink|Food Store}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  6,400  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  Stone  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Tiny Downtown food store. Distributes all edible food types to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtd.png?nolink|Tiny Downtown Storage}}</wrap> **Tiny Downtown Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtdfoodstore.png?nolink|Food Store}}</wrap> **Food Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtd.png?nolink|Tiny Downtown Storage}}</wrap> **Tiny Downtown Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtdfoodstore.png?nolink|Food Store}}</wrap> **Food Store**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny Downtown (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=618|WoB]]
+
+{{tag>Market}}

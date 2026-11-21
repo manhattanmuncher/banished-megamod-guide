@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fairy Garden Spring (Fairy Garden) ======
+----
+
+<WRAP right>
+^  Fairy Garden Spring                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpatch02.png?nolink|Fairy Garden Spring}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  60.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Garden spring patch. Workers use Fairy Dust to magically grow a variety of vegetables, grain, and fruit. The player selects the desired resource.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpatch02.png?nolink|Fairy Garden Spring}}</wrap> **Fairy Garden Spring**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpatch02.png?nolink|Fairy Garden Spring}}</wrap> **Fairy Garden Spring**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenpatch02.png?nolink|Fairy Garden Spring}}</wrap> **Fairy Garden Spring**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                               ^
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:pear|Pear]]                           |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:oats_oat|Oat]]                        |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:cabbage|Cabbage]]                     |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:mushroom|Mushroom]]                   |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:brussel_sprouts|Sprouts]]             |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:rose_hips|Rose Hips]]                 |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:food:squash|Squash]]                       |
+| 1 [[WikiPages:custom7:fairy_dust|Fairy Dust]]                      | [[WikiPages:health:herb|Herbs]]                        |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building Food KidFairyGarden}}

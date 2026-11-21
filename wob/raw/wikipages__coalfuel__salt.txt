@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Salt ======
+----
+
+<WRAP right>
+^  Salt                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/5  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/salt.png?nolink|Salt}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Salt is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Salt Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:quarrydeeper|Deeper Quarry]]
+  * Mined at the [[buildings:mining:quarrysmalldeeper|Deeper Small Quarry]]
+  * Mined at the [[buildings:mining:blmquarry|Stone & Salt Mine]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarry|Rock Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl2|Rock Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl3|Rock Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl4|Rock Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrockquarrylvl5|Rock Quarry Lvl5]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarry|Random Quarry]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl2|Random Quarry Lvl2]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl3|Random Quarry Lvl3]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl4|Random Quarry Lvl4]]
+  * Mined at the [[buildings:mining:nmt30mcrandomquarrylvl5|Random Quarry Lvl5]]
+  * Mined at the [[buildings:mining:ebsvsaltmine|Village Salt Mine]]
+  * Produced at the [[buildings:mining:ebsaltworks|Salt Works]]
+  * [[buildings:mining:nmt30saltmine|Salt Mine (NMT30)]]
+  * [[buildings:mining:newmedievalsaltmine|Medieval Salt Mine (New Medieval)]]
+  * Produced at the [[buildings:mining:saltworks|Saltworks]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:food:ebsvpreservist|Village Preservist]] (for Potted Meat)
+  * Used at the [[buildings:clothing:ebsvtannery|Village Tannery]] (for Cured Leather)
+  * Used at the [[buildings:clothing:ebtannery|Tannery (EB)]] (for Cured Leather)
+  * Exported at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

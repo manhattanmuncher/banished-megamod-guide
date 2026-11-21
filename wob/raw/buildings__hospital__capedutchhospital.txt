@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cape Dutch Hospital ======
+----
+
+<WRAP right>
+^  Cape Dutch Hospital                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapedutchhospital.png?nolink|Cape Dutch Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  |
+|  [[WikiPages:wood:log|Wood]]  |  50  |
+|  [[WikiPages:stone:stone|Stone]]  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+A hospital in the Cape Dutch style staffed by a Doctor, accommodating up to 20 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapedutchhospital.png?nolink|Cape Dutch Hospital}}</wrap> **Cape Dutch Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapedutchhospital.png?nolink|Cape Dutch Hospital}}</wrap> **Cape Dutch Hospital**
+
+----
+
+===== Other Information =====
+
+This building originally came from **South African Miscellaneous v1.5**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=465|WoB]], [[https://www.nexusmods.com/banished/mods/111|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1531417763|Steam]]
+
+{{tag>Building Hospital A8}}

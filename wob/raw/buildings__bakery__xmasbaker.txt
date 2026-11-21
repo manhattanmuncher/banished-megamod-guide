@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Xmas Baker ======
+----
+
+<WRAP right>
+^  Xmas Baker                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildxmasbaker.png?nolink|Xmas Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionelf.png?nolink|Elf}}</wrap> Elf  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Christmas Mod bakery staffed by an Elf that bakes Gingerbread and Plum Cake from seasonal ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildxmasbaker.png?nolink|Xmas Baker}}</wrap> **Xmas Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildxmasbaker.png?nolink|Xmas Baker}}</wrap> **Xmas Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildxmasbaker.png?nolink|Xmas Baker}}</wrap> **Xmas Baker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                                             ^ Produces                                   ^
+| 10 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:vegetable:sugar_refined|Sugar Refined]] + 5 [[WikiPages:food:spices|Spices]] + 1 [[WikiPages:fuel:firewood|Firewood]]                               | [[WikiPages:food:gingerbread|Gingerbread]] |
+| 10 [[WikiPages:grain:flour|Flour]] + 7 [[WikiPages:food:honey|Honey]] + 5 [[WikiPages:food:spices|Spices]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                    | [[WikiPages:food:gingerbread|Gingerbread]] |
+| 10 [[WikiPages:grain:flour|Flour]] + 5 [[WikiPages:food:plum|Plum]] + 5 [[WikiPages:food:spices|Spices]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                      | [[WikiPages:food:plum_cake|Plum Cake]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building Bakery ChristmasMod}}

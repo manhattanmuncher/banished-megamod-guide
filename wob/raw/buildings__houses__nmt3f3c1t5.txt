@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== MultiStory 3rd Floor Corner (Texture 5) ======
+----
+
+<WRAP right>
+^  MultiStory 3rd Floor Corner (Texture 5)                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3f3c1t5.png?nolink|MultiStory 3rd Floor Corner (Texture 5)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  108  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:custom5:brick|Brick]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+|  [[WikiPages:custom5:glass|Glass]]  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town multi-story corner residence; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture5.png?nolink|NMT MultiLevel Fire Bricks Toolbar}}</wrap> **NMT MultiLevel Fire Bricks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3f3c1t5.png?nolink|MultiStory 3rd Floor Corner (Texture 5)}}</wrap> **MultiStory 3rd Floor Corner (Texture 5)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK Housing}}</wrap> **RK Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture5.png?nolink|NMT MultiLevel Fire Bricks Toolbar}}</wrap> **NMT MultiLevel Fire Bricks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3f3c1t5.png?nolink|MultiStory 3rd Floor Corner (Texture 5)}}</wrap> **MultiStory 3rd Floor Corner (Texture 5)**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Native WigWam House ======
+----
+
+<WRAP right>
+^  Native WigWam House                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwigwam.png?nolink|Native WigWam House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:textile:leather|Leather]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Frontier native wigwam house; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwigwam.png?nolink|Native WigWam House}}</wrap> **Native WigWam House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwigwam.png?nolink|Native WigWam House}}</wrap> **Native WigWam House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwigwam.png?nolink|Native WigWam House}}</wrap> **Native WigWam House**
+
+----
+
+This building originally came from **CC Frontier**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=699|WoB]]
+
+{{tag>Building Houses CCFrontier}}

@@ -1,0 +1,63 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Choo Choo: Train Engine (Model 2) ======
+----
+
+<WRAP right>
+^  Choo Choo: Train Engine                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chootrain2.png?nolink|Choo Choo: Train Engine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/traindriver.png?nolink|Train Driver}}</wrap> Train Driver  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  180  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:iron:iron|Iron]]  |  124  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Choo Choo: Train Engine is a Choo Choo mod building that functions as a trading post. A train driver spends Coins to purchase a wide variety of goods from food and resources to clothing and crafted items. Model 2 is cosmetically distinct from [[buildings:trading_post:chootrain1|Model 1]] but functionally identical.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/trains.png?nolink|Trains}}</wrap> **Trains** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/chootrain2.png?nolink|Choo Choo: Train Engine}}</wrap> **Choo Choo: Train Engine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/trains.png?nolink|Trains}}</wrap> **Trains** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/chootrain2.png?nolink|Choo Choo: Train Engine}}</wrap> **Choo Choo: Train Engine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/chootrain2.png?nolink|Choo Choo: Train Engine}}</wrap> **Choo Choo: Train Engine**
+
+----
+
+===== Trades (Coins → Goods) =====
+
+The train driver purchases goods using Coins. Coin costs vary by item value. A sample of available trades:
+
+^ Coins  ^ Goods Purchased  ^
+| 6   | Wood  |
+| 10  | Iron  |
+| 14  | Stone  |
+| 22  | Blueberry, Mushroom, Onion, Root  |
+| 24  | Coal  |
+| 28  | Bean, Cabbage, Corn, Pepper, Potato, Pumpkin, Squash, Wheat, Barley  |
+| 60  | Leather  |
+| 65  | Apple, Cherry, Peach, Pear, Plum, Chestnut, Pecan, Walnut  |
+| 80  | Beer, Ale  |
+| 18  | Chicken, Beeswax  |
+| 7   | Fish  |
+| 12  | Egg  |
+| 600 | Beef, Mutton, Venison  |
+
+Many additional goods are available including clothing, tools, crafted items, and processed foods.
+
+----
+
+===== Other Information =====
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building ChooChoo}}

@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Precious Mine (Upgrade 3) ======
+----
+
+<WRAP right>
+^  Precious Mine (Upgrade 3)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpreciousmineupgrade.png?nolink|Precious Mine (Upgrade 3)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default 3)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  50  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  1000  |
+|  Upgraded From  |  [[buildings:mining:preciousmine2|Precious Mine (Upgrade 2)]]  |
+^  Upgrade Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  130  |
+|  [[WikiPages:custom0:lamp_oil|Lamp Oil]]  |  90  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Precious Mine (Upgrade 3) is the final tier of the Colonial Charter Precious Mine. It shares the same production stats as earlier tiers, producing Silver, Gold, and Gems randomly. This upgrade uses Lamp Oil to light the deepest mine shafts.
+
+----
+
+===== Where to Find =====
+
+Upgrade only — not available in the toolbar. Build by upgrading a [[buildings:mining:preciousmine2|Precious Mine (Upgrade 2)]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                              ^
+| —            | [[WikiPages:custom1:silver|Silver]]   |
+| —            | [[WikiPages:custom1:gold|Gold]]        |
+| —            | Gems                                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Mining ColonialCharter}}

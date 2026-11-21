@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== General Trade Port ======
+----
+
+<WRAP right>
+^  General Trade Port                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtrader.png?nolink|General Trade Port}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–8 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  40,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  110  |
+|  [[WikiPages:wood:log|Wood]]  |  64  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village general trading port. Traders work here and merchants arrive by river boat offering all resource categories.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtrader.png?nolink|General Trade Port}}</wrap> **General Trade Port**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagestorage.png?nolink|Village Storage}}</wrap> **Village Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartradeports.png?nolink|Trade Ports Toolbar}}</wrap> **Trade Ports Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtrader.png?nolink|General Trade Port}}</wrap> **General Trade Port**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | Food, grain, vegetables, and fruit |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, raw materials, and building supplies |
+| General Merchant | Tools, health items, food, textiles, clothing, alcohol, crafted goods, forged goods, fabric, precious goods, and misc |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building TradingPost EB}}

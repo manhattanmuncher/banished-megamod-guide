@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Canal : Fishing Dock (Old Wood, 8×) ======
+----
+
+<WRAP right>
+^  Medieval Canal : Fishing Dock                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xfdockc8.png?nolink|Medieval Canal : Fishing Dock (Old Wood, 8×)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  Stone  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT 3.1 Canal Set canal fishing dock in the Old Wood style for 8-wide canal sections. Fishermen catch [[WikiPages:food:fish|Fish]] from within a 6-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc8oldwood.png?nolink|NMT 3.1 Canal Old Wood Set Toolbar}}</wrap> **NMT 3.1 Canal Old Wood Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc8oldwood8x.png?nolink|NMT 3.1 Canal Old Wood Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Wood Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xfdockc8.png?nolink|Medieval Canal : Fishing Dock (Old Wood, 8×)}}</wrap> **Medieval Canal : Fishing Dock (Old Wood, 8×)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc8oldwood.png?nolink|NMT 3.1 Canal Old Wood Set Toolbar}}</wrap> **NMT 3.1 Canal Old Wood Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc8oldwood8x.png?nolink|NMT 3.1 Canal Old Wood Set 8x Toolbar}}</wrap> **NMT 3.1 Canal Old Wood Set 8x Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xfdockc8.png?nolink|Medieval Canal : Fishing Dock (Old Wood, 8×)}}</wrap> **Medieval Canal : Fishing Dock (Old Wood, 8×)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+  * Must be placed on water.
+
+----
+
+{{tag>Building Fishing NMT30CanalSet}}

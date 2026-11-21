@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Turpentine ======
+----
+
+<WRAP right>
+^  Turpentine                                     ^  xNecora  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |  1/2  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  2  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  5  |  5  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rmturpentine.png?nolink|Turpentine}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Turpentine is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Turpentine Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:pineturpentinestill|Turpentine Still]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

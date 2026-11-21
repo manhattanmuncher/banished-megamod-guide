@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Cloth Vendor ======
+----
+
+<WRAP right>
+^  Medieval Cloth Vendor                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalclothshop.png?nolink|Medieval Cloth Vendor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  Radius  |  30  |
+|  Storage  |  15,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  Stone  |  22  |
+|  Iron  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town cloth vendor. Distributes clothing, textiles, and fabrics to nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmarkets.png?nolink|New Medieval markets}}</wrap> **New Medieval markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalclothshop.png?nolink|Medieval Cloth Vendor}}</wrap> **Medieval Cloth Vendor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmarkets.png?nolink|New Medieval markets}}</wrap> **New Medieval markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalclothshop.png?nolink|Medieval Cloth Vendor}}</wrap> **Medieval Cloth Vendor**
+
+----
+
+===== Stocks =====
+
+  * Clothing
+  * Textiles
+  * Fabrics (Custom 2)
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalclothshop.png?nolink|Medieval Cloth Vendor}}</wrap> **Medieval Cloth Vendor**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Market}}

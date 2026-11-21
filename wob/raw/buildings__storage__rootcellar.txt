@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Root Cellar ======
+----
+
+<WRAP right>
+^  Root Cellar                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrootcellar.png?nolink|Root Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Vegetable, Fruit  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Stone ×26, Lumber ×30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial mod underground storage for fruit and vegetables. Settlers store vegetables and fruits only. Can be upgraded to the Root Cache.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Special Barn}}</wrap> **Special Barn** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrootcellar.png?nolink|Root Cellar}}</wrap> **Root Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrootcellar.png?nolink|Root Cellar}}</wrap> **Root Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrootcellar.png?nolink|Root Cellar}}</wrap> **Root Cellar**
+
+----
+
+{{tag>Building Storage Colonial}}

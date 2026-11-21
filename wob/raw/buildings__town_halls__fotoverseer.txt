@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Overseer ======
+----
+
+<WRAP right>
+^  Overseer                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfotoverseer.png?nolink|Overseer}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Trader overseer building. Tracks resource stockpile limits for all goods categories and provides Spirit happiness within 35 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesttrader.png?nolink|Forest Trader}}</wrap> **Forest Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfotoverseer.png?nolink|Overseer}}</wrap> **Overseer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesttrader.png?nolink|Forest Trader}}</wrap> **Forest Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfotoverseer.png?nolink|Overseer}}</wrap> **Overseer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfotoverseer.png?nolink|Overseer}}</wrap> **Overseer**
+
+----
+
+This building originally came from **Forest Trader v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=580|WoB]]
+
+{{tag>Building TownHalls ForestTrader}}

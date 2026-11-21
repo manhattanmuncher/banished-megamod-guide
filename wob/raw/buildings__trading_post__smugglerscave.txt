@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Smuggler's Cave ======
+----
+
+<WRAP right>
+^  Smuggler's Cave                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/smugglerscave.png?nolink|Smuggler's Cave}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/pirate.png?nolink|Pirate}}</wrap> Pirate  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 14  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  Storage  |  10000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Smuggler's Cave is a hidden pirate den where pirates trade ale for a wide variety of goods. Cheaper items cost 1–7 Ale, while livestock requires 66 Ale per animal. The cave has a massive storage capacity of 10,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkservices.png?nolink|RK services}}</wrap> **RK services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smugglerscave.png?nolink|Smuggler's Cave}}</wrap> **Smuggler's Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smugglerscave.png?nolink|Smuggler's Cave}}</wrap> **Smuggler's Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smugglerscave.png?nolink|Smuggler's Cave}}</wrap> **Smuggler's Cave**
+
+----
+
+===== Recipes =====
+
+All recipes consume [[WikiPages:alcohol:ale|Ale]] and produce one item. The player selects which item to produce.
+
+^ Ale Cost ^ Produces ^
+| 1 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:food:egg|Egg]], [[WikiPages:food:fish|Fish]], [[WikiPages:health:herb|Herb]]  |
+| 2 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:food:blueberries|Blueberry]], [[WikiPages:food:mushroom|Mushroom]], [[WikiPages:food:onion|Onion]], [[WikiPages:food:root|Root]], [[WikiPages:food:chicken|Chicken]], [[WikiPages:fuel:firewood|Firewood]], [[WikiPages:tool:tool|Tool]]  |
+| 3 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:food:bean|Bean]], [[WikiPages:food:cabbage|Cabbage]], [[WikiPages:food:pepper|Pepper]], [[WikiPages:food:potato|Potato]], [[WikiPages:food:pumpkin|Pumpkin]], [[WikiPages:food:squash|Squash]], [[WikiPages:food:corn|Corn]], [[WikiPages:food:wheat|Wheat]], [[WikiPages:textile:wool|Wool]], [[WikiPages:clothing:leathercoat|Leather Coat]], [[WikiPages:clothing:woolcoat|Wool Coat]], [[WikiPages:tool:steeltool|Steel Tool]], [[WikiPages:coalfuel:coal|Coal]]  |
+| 4 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:clothing:wintercoat|Winter Coat]]  |
+| 6 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:textile:leather|Leather]]  |
+| 7 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:food:apple|Apple]], [[WikiPages:food:cherry|Cherry]], [[WikiPages:food:peach|Peach]], [[WikiPages:food:pear|Pear]], [[WikiPages:food:plum|Plum]], [[WikiPages:food:chestnut|Chestnut]], [[WikiPages:food:pecan|Pecan]], [[WikiPages:food:walnut|Walnut]]  |
+| 66 [[WikiPages:alcohol:ale|Ale]]  | [[WikiPages:food:beef_beef|Beef]], [[WikiPages:food:mutton|Mutton]], [[WikiPages:food:venison|Venison]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Smuggler's Cave v1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=158|WoB]]
+
+{{tag>Building Trading ColonialCharter}}

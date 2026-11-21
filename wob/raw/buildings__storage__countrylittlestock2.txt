@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Little Stockage 2 ======
+----
+
+<WRAP right>
+^  Country Little Stockage 2                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlestock2.png?nolink|Country Little Stockage 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Fuel, Tools, Health, Clothing, Textile, Custom 0/2/3/5/7  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Country Little House stockage building. Settlers store fuel, tools, clothing, and other goods with a capacity of 2,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehouse2toolbar.png?nolink|Country Little House 2 Toolbar}}</wrap> **Country Little House 2 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlestock2.png?nolink|Country Little Stockage 2}}</wrap> **Country Little Stockage 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehouse2toolbar.png?nolink|Country Little House 2 Toolbar}}</wrap> **Country Little House 2 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlestock2.png?nolink|Country Little Stockage 2}}</wrap> **Country Little Stockage 2**
+
+----
+
+{{tag>Building Storage CountryLittle}}

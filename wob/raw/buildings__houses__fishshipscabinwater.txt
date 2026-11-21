@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Cabin Low ======
+----
+
+<WRAP right>
+^  Jetty Cabin Low                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipscabinwater.png?nolink|Jetty Cabin Low}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Fish n Ships low-level jetty cabin for placement on a small platform; houses up to 4 settlers. Buildable on water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybuilding.png?nolink|Jetty Building}}</wrap> **Jetty Building** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipscabinwater.png?nolink|Jetty Cabin Low}}</wrap> **Jetty Cabin Low**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybuilding.png?nolink|Jetty Building}}</wrap> **Jetty Building** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipscabinwater.png?nolink|Jetty Cabin Low}}</wrap> **Jetty Cabin Low**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipscabin.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipscabinwater.png?nolink|Jetty Cabin Low}}</wrap> **Jetty Cabin Low**
+
+----
+
+This building originally came from **Fish n Ships v1.11**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=565|WoB]]
+
+{{tag>Building Houses FishNShips}}

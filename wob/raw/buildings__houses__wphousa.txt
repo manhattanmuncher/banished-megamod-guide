@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Angled House ======
+----
+
+<WRAP right>
+^  Small Angled House                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwphousea.png?nolink|Small Angled House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  70  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID WorkPlace Village house; houses up to 4 settlers. Alternate placement of [[buildings:houses:wphouse|Small House]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwphousea.png?nolink|Small Angled House}}</wrap> **Small Angled House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwphousea.png?nolink|Small Angled House}}</wrap> **Small Angled House**
+
+----
+
+This building originally came from **Workplace Village v1.17**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=527|WoB]]
+
+{{tag>Building Houses WorkPlaceVillage}}

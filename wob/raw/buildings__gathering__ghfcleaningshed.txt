@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cleaning Shed (Grow Hunt Fish) ======
+----
+
+<WRAP right>
+^  Cleaning Shed                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfcleaningshed.png?nolink|Cleaning Shed}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+Grow Hunt Fish shed that gathers Plant Debris and Fertilizer from the surrounding area.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrowhuntfish.png?nolink|Grow Hunt Fish}}</wrap> **Grow Hunt Fish** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfcleaningshed.png?nolink|Cleaning Shed}}</wrap> **Cleaning Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrowhuntfish.png?nolink|Grow Hunt Fish}}</wrap> **Grow Hunt Fish** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfcleaningshed.png?nolink|Cleaning Shed}}</wrap> **Cleaning Shed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfcleaningshed.png?nolink|Cleaning Shed (Grow Hunt Fish)}}</wrap> **Cleaning Shed (Grow Hunt Fish)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                                             ^
+| (none)       | [[WikiPages:custom4:plant_debris|Plant Debris]]      |
+| (none)       | [[WikiPages:custom7:fertilizer|Fertilizer]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grow, Hunt, Fish v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=537|WoB]]
+
+{{tag>Building KidGrowHuntFish}}

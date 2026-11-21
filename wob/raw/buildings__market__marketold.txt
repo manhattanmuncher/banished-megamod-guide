@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rural Market ======
+----
+
+<WRAP right>
+^  Rural Market                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketold.png?nolink|Rural Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 14  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 12 (default: 4)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  58  |
+|  Storage  |  18,500  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  Stone  |  64  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  70  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter large rural market. Distributes all goods categories to nearby settlers and provides Goods happiness when stocked. One of the largest markets available with very wide radius coverage.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketold.png?nolink|Rural Market}}</wrap> **Rural Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketitems.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketold.png?nolink|Rural Market}}</wrap> **Rural Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel and Coal and Coke
+  * Tools
+  * Health items
+  * Clothing
+  * Iron and Logs
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+  * Industrial fuel (Custom 3)
+  * Raw materials (Custom 4)
+  * Building Supplies (Custom 5)
+  * Precious items (Custom 6)
+  * Misc items (Custom 7)
+  * Custom 8
+  * Consumables (Custom 9)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

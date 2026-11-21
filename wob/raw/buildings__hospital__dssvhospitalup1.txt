@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Hospital (Upgrade) ======
+----
+
+<WRAP right>
+^  Village Hospital (Upgrade)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhospitalup1.png?nolink|Village Hospital (Upgrade)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Happiness  |  Health (radius 30)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  45  |
+^  Upgrade Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An upgraded DS Small Village hospital staffed by a Doctor, providing Health happiness within a radius of 30 tiles and treating up to 45 patients.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:hospital:dssvhospital|Village Hospital]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Services v1.1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=236|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231726495|Steam]]
+
+{{tag>Building Hospital DS}}

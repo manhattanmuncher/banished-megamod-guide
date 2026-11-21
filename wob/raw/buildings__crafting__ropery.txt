@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ropery ======
+----
+
+<WRAP right>
+^  Ropery                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildropery.png?nolink|Ropery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/roper.png?nolink|Roper}}</wrap> Roper  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Colonial Charter ropery; twists flax, hemp leaf, or reeds into rope.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildropery.png?nolink|Ropery}}</wrap> **Ropery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildropery.png?nolink|Ropery}}</wrap> **Ropery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildropery.png?nolink|Ropery}}</wrap> **Ropery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                      ^ Produces                          ^
+| 125 [[WikiPages:textile:flax|Flax]]                              | [[WikiPages:custom0:rope|Rope]]   |
+| 100 [[WikiPages:textile:hemp_hempleaf|Hemp]]                     | [[WikiPages:custom0:rope|Rope]]   |
+| 150 [[WikiPages:custom7:reeds|Reeds]]                            | [[WikiPages:custom0:rope|Rope]]   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

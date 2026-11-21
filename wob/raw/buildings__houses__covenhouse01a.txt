@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Witch's House Angled ======
+----
+
+<WRAP right>
+^  Witch's House Angled                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhouse01a.png?nolink|Witch's House Angled}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  75  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Coven witch's house, angled placement. Houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoven.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhouse01a.png?nolink|Witch's House Angled}}</wrap> **Witch's House Angled**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoven.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhouse01a.png?nolink|Witch's House Angled}}</wrap> **Witch's House Angled**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovencabin.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhouse01a.png?nolink|Witch's House Angled}}</wrap> **Witch's House Angled**
+
+----
+
+{{tag>Building Houses Coven}}

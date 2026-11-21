@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Ale Stall ======
+----
+
+<WRAP right>
+^  Medieval Ale Stall                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalalestall.png?nolink|Medieval Ale Stall}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/entertainment.png?nolink|Entertainment}}</wrap> Entertainment  |
+|  Radius  |  20  |
+|  Storage  |  3,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town ale stall. Distributes alcohol to nearby settlers and provides Entertainment happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmarkets.png?nolink|New Medieval markets}}</wrap> **New Medieval markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalalestall.png?nolink|Medieval Ale Stall}}</wrap> **Medieval Ale Stall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalmarkets.png?nolink|New Medieval markets}}</wrap> **New Medieval markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalalestall.png?nolink|Medieval Ale Stall}}</wrap> **Medieval Ale Stall**
+
+----
+
+===== Stocks =====
+
+  * Alcohol
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalalestall.png?nolink|Medieval Ale Stall}}</wrap> **Medieval Ale Stall**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Market}}

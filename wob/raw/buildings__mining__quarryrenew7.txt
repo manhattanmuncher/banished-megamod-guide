@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Quarry (Renew 7) ======
+----
+
+<WRAP right>
+^  Quarry (Renew 7)                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquarry.png?nolink|Quarry (Renew 7)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  21 × 17  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  30000  |
+|  Upgraded From  |  [[buildings:mining:quarryrenew6|Quarry (Renew 6)]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:coalfuel:iron_ore|Iron Ore]]  |  20  |
+|  [[WikiPages:custom0:candles|Candles]]  |  80  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Quarry (Renew 7) is the final tier of the Quarry Renew chain, with a production cap of 30000 Stone.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:quarryrenew6|Quarry (Renew 6)]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Mining QuarryRenew7}}

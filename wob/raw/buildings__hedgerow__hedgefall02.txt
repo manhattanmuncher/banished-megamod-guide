@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fall 02 ======
+----
+
+<WRAP right>
+^  Fall 02                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgefall02.png?nolink|Fall 02}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  64.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+Fall 02 is a hedgerow gathering structure in the Banished MegaMod. Workers harvest a random selection of wild goods each cycle. It requires no construction materials to build.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgerow.png?nolink|Hedgerows}}</wrap> **Hedgerows** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgefall02.png?nolink|Fall 02}}</wrap> **Fall 02**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgerow.png?nolink|Hedgerows}}</wrap> **Hedgerows** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgefall02.png?nolink|Fall 02}}</wrap> **Fall 02**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhedgefall02.png?nolink|Fall 02}}</wrap> **Fall 02**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+  * [[WikiPages:food:walnut|Walnut]]
+  * [[WikiPages:food:mushroom|Mushroom]]
+  * [[WikiPages:food:oats_oat|Oats]]
+  * [[WikiPages:food:egg|Egg]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hedgerow v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=627|WoB]]
+
+{{tag>Building Gathering Hedgerow}}

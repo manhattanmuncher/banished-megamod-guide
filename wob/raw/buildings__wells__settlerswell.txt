@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Well (Settlers) ======
+----
+
+<WRAP right>
+^  Well                                                                               ^  Settlers  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell.png?nolink|Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+Settlers mod wells that provide Safety happiness and fire suppression within a 20-tile radius. Seven variants are available; the Well (variant 0) is a plain well with no nomad attraction, while the remaining six also attract nomad immigrants at a fixed group-size percentage.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Nomad Group Size ^
+| Well | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell0.png?nolink|Well}}</wrap> | None |
+| Well 2 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell2.png?nolink|Well 2}}</wrap> | 2% of population |
+| Well 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell5.png?nolink|Well 5}}</wrap> | 5% of population |
+| Well 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell10.png?nolink|Well 10}}</wrap> | 10% of population |
+| Well 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell20.png?nolink|Well 20}}</wrap> | 20% of population |
+| Well 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell50.png?nolink|Well 50}}</wrap> | 50% of population |
+| Well 100 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell100.png?nolink|Well 100}}</wrap> | 100% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersservice.png?nolink|Service}}</wrap> **Service** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell.png?nolink|Well}}</wrap> **Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlers.png?nolink|Settlers}}</wrap> **Settlers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlersservice.png?nolink|Service}}</wrap> **Service** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsettlerswell.png?nolink|Well}}</wrap> **Well** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Settlers v1.10**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=564|WoB]]
+
+{{tag>Building Wells Settlers}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke Medium House ======
+----
+
+<WRAP right>
+^  Sherbrooke Medium House                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookemediumhouse.png?nolink|Sherbrooke Medium House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora Maritimes Sherbrooke Village medium house; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsherbrooke.png?nolink|Sherbrooke Village}}</wrap> **Sherbrooke Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookemediumhouse.png?nolink|Sherbrooke Medium House}}</wrap> **Sherbrooke Medium House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsherbrooke.png?nolink|Sherbrooke Village}}</wrap> **Sherbrooke Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookemediumhouse.png?nolink|Sherbrooke Medium House}}</wrap> **Sherbrooke Medium House**
+
+----
+
+This building originally came from **Maritimes Sherbrooke Village v101**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=291|WoB]]
+
+{{tag>Building Houses Maritimes}}

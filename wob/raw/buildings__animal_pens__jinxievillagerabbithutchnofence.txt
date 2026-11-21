@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rabbit Hutch, Fenceless (Jinxie) ======
+----
+
+<WRAP right>
+^  Rabbit Hutch                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrabbithutch.png?nolink|Rabbit Hutch}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  15  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie Bitty Village rabbit hutch without a fence. A Herdsman raises and breeds rabbits to produce leather and meat. Identical stats to the fenced version.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagerabbitsmenuicon.png?nolink|Jinxie's Bitty Rabbit Hutch Set Items}}</wrap> **Jinxie's Bitty Rabbit Hutch Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrabbithutch.png?nolink|Rabbit Hutch}}</wrap> **Rabbit Hutch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxiefood.png?nolink|Jinxie's Food Production}}</wrap> **Jinxie's Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagerabbitsmenuicon.png?nolink|Jinxie's Bitty Rabbit Hutch Set Items}}</wrap> **Jinxie's Bitty Rabbit Hutch Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrabbithutch.png?nolink|Rabbit Hutch}}</wrap> **Rabbit Hutch**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:food:rabbit_meat|Rabbit Meat]]
+
+----
+
+{{tag>Building Animal JinxieBittyVillage}}

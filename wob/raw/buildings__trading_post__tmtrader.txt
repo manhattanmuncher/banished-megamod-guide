@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tequila Trader ======
+----
+
+<WRAP right>
+^  Tequila Trader                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmtrader.png?nolink|Tequila Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (default 1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tequila Mod trading post staffed by Traders; a General Merchant may visit by river boat.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmtrader.png?nolink|Tequila Trader}}</wrap> **Tequila Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tmmenu.png?nolink|The Tequila Mod}}</wrap> **The Tequila Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmtrader.png?nolink|Tequila Trader}}</wrap> **Tequila Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtmtrader.png?nolink|Tequila Trader}}</wrap> **Tequila Trader**
+
+----
+
+===== Merchants =====
+
+One merchant type may visit by river boat:
+
+^ Merchant ^ Offers ^
+| General Merchant | Wood, stone, iron, fuel, tools, health items, food, textiles, clothing, and alcohol |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tequila Mod v3.2 (with Tom Sawyer)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=228|WoB]]
+
+{{tag>Building TradingPost TequilaMod}}

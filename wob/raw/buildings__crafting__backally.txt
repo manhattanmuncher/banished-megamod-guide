@@ -1,0 +1,58 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bootlegger ======
+----
+
+<WRAP right>
+^  Bootlegger                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbackalley.png?nolink|Bootlegger}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/shady.png?nolink|Shady}}</wrap> Shady  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  40  |
+|  Happiness  |  Entertainment, radius 20  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:custom5:furnishing_kit|Furnishing Kit]]  |  1  |
+|  [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Bootlegger is a Colonial Charter building where a shady worker exchanges Silver Pfennig for goods that are otherwise difficult to come by.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Special Trade}}</wrap> **Special Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbackalley.png?nolink|Bootlegger}}</wrap> **Bootlegger**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartradebuildings.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbackalley.png?nolink|Bootlegger}}</wrap> **Bootlegger**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                           ^
+| 68 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:alcohol:ale|Ale]]                      |
+| 68 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:alcohol:mead|Mead]]                    |
+| 68 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:alcohol:wine|Wine]]                    |
+| 80 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | Tobacco Cured                                      |
+| 12 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:tool:tool|Tool]]                       |
+| 19 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:food:onion|Onion]]                     |
+| 540 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]            | [[WikiPages:food:venison|Venison]]                 |
+| 10 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:health:herb|Herb]]                     |
+| 53 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:custom0:rope|Rope]]                    |
+| 50 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:textile:leather|Leather]]              |
+| 23 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:clothing:dress_coat|Dress Coat]]       |
+| 23 [[WikiPages:custom6:silver_pfennig|Silver Pfennig]]             | [[WikiPages:clothing:full_coat|Full Coat]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Crafting ColonialCharter}}

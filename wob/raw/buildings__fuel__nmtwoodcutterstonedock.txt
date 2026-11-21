@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Woodcutter (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Woodcutter (NMT Stone Dock)                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtwoodcutterstonedock.png?nolink|Woodcutter (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Woodcutter}}</wrap> Woodcutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Axe  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks stone-construction woodcutter. Upgraded from the wood version. A Woodcutter chops logs, lumber, or thatch into firewood. Identical output to the wood version.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtwoodcutterstonedock.png?nolink|Woodcutter}}</wrap> **Woodcutter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtwoodcutterstonedock.png?nolink|Woodcutter}}</wrap> **Woodcutter**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces  ^
+| 2 [[WikiPages:wood:log|Wood]]  | [[WikiPages:fuel:firewood|Firewood]]  |
+| 5 [[WikiPages:custom5:lumber|Lumber]]  | [[WikiPages:fuel:firewood|Firewood]]  |
+| 5 [[WikiPages:custom7:fodder-thatch_haystack|Fodder-Thatch]]  | [[WikiPages:fuel:firewood|Firewood]]  |
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Fuel RKEditorChoice}}

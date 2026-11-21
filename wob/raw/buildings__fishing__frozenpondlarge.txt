@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Pond ======
+----
+
+<WRAP right>
+^  Large Pond                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfrozenpondlarge.png?nolink|Large Pond}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Fishing  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+Frozen Ponds large fishing pond where workers fish through the ice. Free to build.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfrozenponds.png?nolink|Frozen Ponds}}</wrap> **Frozen Ponds** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfrozenpondlarge.png?nolink|Large Pond}}</wrap> **Large Pond**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfrozenponds.png?nolink|Frozen Ponds}}</wrap> **Frozen Ponds** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfrozenpondlarge.png?nolink|Large Pond}}</wrap> **Large Pond**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfrozenpondlarge.png?nolink|Large Pond}}</wrap> **Large Pond**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                           ^
+| (none)       | [[WikiPages:food:fish|Fish]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Frozen Ponds v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=666|WoB]]
+
+{{tag>Building FrozenPonds}}

@@ -1,0 +1,107 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== School Buildings ======
+----
+
+Buildings that educate and train settlers.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:schools:hobbitapprentices|Apprentices (Hobbit Homes)]] | Hobbit Homes school; Teacher educates up to 24 students |
+| [[buildings:schools:jinxiebittyschool|Bitty Schoolhouse (Jinxie's Bitty Village Set)]] | Jinxie's Bitty Village Set school; Teacher educates up to 20 students |
+| [[buildings:schools:bizenschool|Bizen School]] | Bizen school; Teacher educates up to 55 students |
+| [[buildings:schools:bgschool|BG School]] | Bakery & Garden Alt school; Teacher educates up to 36 students |
+| [[buildings:schools:clschool|Colonial School]] | Colonial-themed school; Teacher educates up to 20 students |
+| [[buildings:schools:college|College]] | Large college; Teachers educate up to 100 students |
+| [[buildings:schools:schoolcc2|Country School]] | Colonial Charter country school; Teacher educates up to 50 students; upgraded from One Room Schoolhouse |
+| [[buildings:schools:covenschool|Coven School]] | Coven school; Teacher educates up to 20 students |
+| [[buildings:schools:dscelticschool|DS Celtic School]] | DS Mods Celtic school; Teacher educates up to 20 students |
+| [[buildings:schools:schoolcc3|Farmers College]] | Colonial Charter farmers college; Teacher educates up to 80 students |
+| [[buildings:schools:schoolcc3b|Farmers College (Variant)]] | Colonial Charter farmers college variant; Teacher educates up to 80 students |
+| [[buildings:schools:fesuniversity|Fes University]] | Moroccan university; Teacher educates up to 120 students |
+| [[buildings:schools:fbschool|Friendly School (Friendly Blue)]] | Friendly Blue school; Teacher educates up to 20 students |
+| [[buildings:schools:fbtschool|Friendly School (Friendly Blue Too)]] | Friendly Blue Too school; Teacher educates up to 20 students |
+| [[buildings:schools:fnschool|Friendly School (Friendly Neighborhood)]] | Friendly Neighborhood school; Teacher educates up to 20 students |
+| [[buildings:schools:fpschool|Friendly School (Friendly Pumpkin)]] | Friendly Pumpkin school; Teacher educates up to 20 students |
+| [[buildings:schools:gnschool|Friendly School (Granny Neighborhood)]] | Granny Neighborhood school; Teacher educates up to 20 students |
+| [[buildings:schools:gbvschool|GBV School]] | Gingerbread Village school; free to build; Teacher educates the colony's children |
+| [[buildings:schools:grannyschool|Granny School (Granny Park)]] | Granny Park school; Teacher educates up to 15 students |
+| [[buildings:schools:hillsideschool|Hillside School (Hillside Village)]] | Hillside Village school; Teacher educates up to 40 students |
+| [[buildings:schools:pineschool|Humble School]] | Humble school; Teacher educates up to 15 students |
+| [[buildings:schools:icecastleschool|Ice Castle School]] | Kid Ice Castle school; 18 students; WR 32 + Stone 28 + Iron 12 |
+| [[buildings:schools:dsjabjetty5x5school|Jetty School (Tex1)]] | DS Jetty & Bridge school, light-brown style; can be placed on water; Teacher educates up to 21 students |
+| [[buildings:schools:dsjabjetty5x5schooltex2|Jetty School (Tex2)]] | DS Jetty & Bridge school, blue-grey style; can be placed on water; Teacher educates up to 21 students |
+| [[buildings:schools:ootwlearningcenter|Learning Pods]] | Out Of This World learning pods; Teacher educates up to 36 students |
+| [[buildings:schools:cornerlibraryt1|Library (Corner T1)]] | RK Editor Choice corner library, Classic Stones style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt2|Library (Corner T2)]] | RK Editor Choice corner library, Old Stones style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt3|Library (Corner T3)]] | RK Editor Choice corner library, Red Bricks style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt4|Library (Corner T4)]] | RK Editor Choice corner library, Sand Bricks style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt5|Library (Corner T5)]] | RK Editor Choice corner library, Fire Bricks style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt6|Library (Corner T6)]] | RK Editor Choice corner library, Old Church Stones style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt7|Library (Corner T7)]] | RK Editor Choice corner library, Old Chapel Stones style; Teacher educates up to 24 students |
+| [[buildings:schools:cornerlibraryt8|Library (Corner T8)]] | RK Editor Choice corner library, Old Wood style; Teacher educates up to 24 students |
+| [[buildings:schools:ftmagicschool|Magic School (Fairy Tale)]] | Fairy Tale magic school; Teacher educates up to 12 students |
+| [[buildings:schools:newmedievalschool|Medieval School]] | NMT school; Teacher educates up to 30 students |
+| [[buildings:schools:nmt30schoolhouse|Medieval School (NMT 3.1)]] | NMT 3.1 medieval school; Teacher educates up to 40 students |
+| [[buildings:schools:newmedievalschoolupg1|Medieval School (Upgrade 1)]] | NMT school upgrade 1; Teacher educates up to 40 students |
+| [[buildings:schools:newmedievalschoolupg2|Medieval School (Upgrade 2)]] | NMT school upgrade 2; Teacher educates up to 40 students |
+| [[buildings:schools:mgeducenter|MG Education Center (Medieval Grace)]] | Medieval Grace education center; up to 2 Teachers educate up to 88 students |
+| [[buildings:schools:mgsmallschool|MG Small School (Medieval Grace)]] | Medieval Grace small school; Teacher educates up to 10 students |
+| [[buildings:schools:minischool|Mini School (Mini Buildings)]] | Mini Buildings school; Teacher educates up to 5 students |
+| [[buildings:schools:sbvschool|Mission School]] | SBV Mission school; Teacher educates up to 24 students |
+| [[buildings:schools:mfmissionschool|Mission School (Mexican Fantasy)]] | Mexican Fantasy mission school; Teacher educates up to 24 students |
+| [[buildings:schools:nordicac|Christmas School]] | Nordic Houses snow-roofed school variant; Teacher educates up to 20 students; identical stats to Nordic School |
+| [[buildings:schools:nordica|Nordic School]] | Nordic school; Teacher educates up to 20 students |
+| [[buildings:schools:nordica_school|Nordic School (alt)]] | Nordic school alternate variant; Teacher educates up to 20 students |
+| [[buildings:schools:dsmarketharborougholdschoolhouse|Old Grammar School]] | DS Mods school based on Old Grammar School in Market Harborough; Teacher educates up to 25 students |
+| [[buildings:schools:oldhovelschool|Old School (Old Hovels)]] | KID Old Hovels school; Teacher educates up to 20 students |
+| [[buildings:schools:otschool|Old School (Old Town)]] | KID Old Town school; Teacher educates up to 14 students |
+| [[buildings:schools:schoolcc|One Room Schoolhouse]] | Colonial Charter one-room schoolhouse; Teacher educates up to 25 students; upgrades to Country School or Farmers College |
+| [[buildings:schools:openschoolhouse|Open Schoolhouse]] | Open schoolhouse; Teacher educates up to 20 students |
+| [[buildings:schools:phschool|Plantation School (Plimoth Harmonized)]] | Plimoth Harmonized school; Teacher educates up to 20 students |
+| [[buildings:schools:ppschool|Plantation School (Plimoth Plantation)]] | Plimoth Plantation school; Teacher educates up to 20 students |
+| [[buildings:schools:prschool|Port Royal School]] | Necora Port Royal school; Teacher educates up to 15 students |
+| [[buildings:schools:bardseers1|Sacred Word]] | Druidic stone circle school; Teacher educates up to 20 students |
+| [[buildings:schools:bodiamschool|School (Bodiam Castle)]] | Bodiam Castle courtyard school; Teacher educates up to 22 students |
+| [[buildings:schools:ftcschool|School (Fairy Tale Cottage)]] | Fairy Tale Cottage school; Teacher educates up to 10 students |
+| [[buildings:schools:fhschool|School (Forest Haven)]] | Forest Haven school; Teacher educates up to 26 students |
+| [[buildings:schools:fodschool|School (Forge Of Dwarves)]] | Forge Of Dwarves school; Teacher educates up to 24 students |
+| [[buildings:schools:fodwschool|School (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter school; Teacher educates up to 24 students |
+| [[buildings:schools:gfschool1|School (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed school; Teacher educates up to 22 students |
+| [[buildings:schools:gfschool2|School (Gothic Fantasy 2)]] | Gothic Fantasy cheerful-themed school; Teacher educates up to 22 students |
+| [[buildings:schools:mhschool|School (More Houses)]] | More Houses school; Teacher educates up to 52 students |
+| [[buildings:schools:mhdschool|School (More Houses Dark)]] | More Houses Dark school; Teacher educates up to 52 students |
+| [[buildings:schools:mhsschool|School (More Houses Stone)]] | More Houses Stone school; Teacher educates up to 52 students |
+| [[buildings:schools:mhwschool|School (More Houses Wood)]] | More Houses Wood school; Teacher educates up to 52 students |
+| [[buildings:schools:nmt30school|School (NMT 3.1)]] | NMT 3.1 school; Teacher educates up to 60 students |
+| [[buildings:schools:nmtschooldock|School (NMT Dock)]] | NMT Docks school; Teacher educates up to 24 students with 5 × 7 footprint; water placement required |
+| [[buildings:schools:nmtschoolstonedock|School (NMT Stone Dock)]] | NMT Stone Docks school; Teacher educates up to 26 students with 5 × 7 footprint; water placement required |
+| [[buildings:schools:otpschool|School (Old Town Ports)]] | Old Town Ports school; Teacher educates up to 36 students |
+| [[buildings:schools:settlersschool|School (Settlers)]] | Settlers school; Teacher educates up to 24 students |
+| [[buildings:schools:shschool|School (Summer Haven)]] | Summer Haven school; Teacher educates up to 24 students |
+| [[buildings:schools:tcschool|School (Tangerine Center)]] | Tangerine Center school; Teacher educates up to 10 students |
+| [[buildings:schools:tdschool|School (Tiny Downtown)]] | Tiny Downtown school; Teacher educates up to 24 students |
+| [[buildings:schools:wwschool|School (Wild West)]] | Wild West school; Teacher educates up to 26 students |
+| [[buildings:schools:sbvschoolx|School Extension]] | SBV Mission school extension; Teacher educates up to 12 students |
+| [[buildings:schools:ecschoolhouse|School House (Editor's Choice)]] | Editor's Choice school house; Teacher educates up to 20 students |
+| [[buildings:schools:whschool|School Wagon]] | School wagon; Teacher educates up to 6 students |
+| [[buildings:schools:settlersstump|Settlers Stump]] | Settlers outdoor stump school; Teacher educates up to 12 students |
+| [[buildings:schools:sbschool|Sherbrooke School]] | Sherbrooke school; Teacher educates up to 30 students |
+| [[buildings:schools:foschool|Small School (Forest Outpost)]] | Forest Outpost small school; Teacher educates up to 7 students |
+| [[buildings:schools:shaschool|Small School (Stone House Addon)]] | Stone House Addon small school; Teacher educates up to 24 students |
+| [[buildings:schools:wpschool|Small School (Workplace)]] | KID Workplace small school; Teacher educates up to 12 students |
+| [[buildings:schools:rhxs|Small Town School]] | KID Small Town Row Business school; Teacher educates up to 24 students |
+| [[buildings:schools:dssvschool|Small Village School]] | DS Small Village school; Teacher educates up to 20 students |
+| [[buildings:schools:swampschool|Swamp School]] | Swamp Houses school; Teacher educates up to 22 students |
+| [[buildings:schools:tinyschool|Tiny School]] | KID tiny school; Teacher educates up to 14 students |
+| [[buildings:schools:tieredschool|Urban School]] | Colonial Charter modular stacked urban school; Teacher educates up to 15 students |
+| [[buildings:schools:villageschool|Village School]] | Village school; Teacher educates up to 12 students |
+| [[buildings:schools:ebsvschool|Village School (EB)]] | EB Small Village school; Teacher educates up to 30 students |
+| [[buildings:schools:nvwiseelders|Wise Elders]] | Wise elders lodge school; Teacher educates up to 24 students |
+| [[buildings:schools:dockschool|Wood Dock School]] | Colonial Charter wood dock school; can be placed on water; Teacher educates up to 12 students |
+| [[buildings:schools:schoolhouse|Schoolhouse]] | Vanilla Banished school; Teacher educates students; 8 × 5 footprint |
+
+----
+
+{{tag>Buildings Schools}}

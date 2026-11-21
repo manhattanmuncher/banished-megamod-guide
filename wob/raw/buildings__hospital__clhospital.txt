@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Colonial Hospital ======
+----
+
+<WRAP right>
+^  Colonial Hospital                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildclhospital.png?nolink|Colonial Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  62  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial-themed hospital staffed by a Doctor, accommodating up to 30 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialhousing.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildclhospital.png?nolink|Colonial Hospital}}</wrap> **Colonial Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialhousing.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildclhospital.png?nolink|Colonial Hospital}}</wrap> **Colonial Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildclhospital.png?nolink|Colonial Hospital}}</wrap> **Colonial Hospital**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Modular: Housing v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=220|WoB]]
+
+{{tag>Building Hospital KID}}

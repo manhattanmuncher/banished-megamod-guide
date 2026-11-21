@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tin Ore ======
+----
+
+<WRAP right>
+^  Tin Ore                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tinore.png?nolink|Tin Ore}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Tin Ore is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Tin Ore Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:tinmine|Tin Ore Mine Shaft]]
+  * Mined at the [[buildings:mining:tinminedeep|Dark Tin Ore Mine Shaft]]
+  * Mined at the [[buildings:mining:tinminedeeper|Deep Tin Ore Mine Shaft]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

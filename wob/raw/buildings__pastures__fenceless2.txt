@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fenceless Pasture 2 ======
+----
+
+<WRAP right>
+^  Fenceless Pasture 2                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfenceless2.png?nolink|Fenceless Pasture 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Fenceless Pasture (style 2); build in a player-drawn area for livestock to graze. Free to place with no materials required.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpasture.png?nolink|Pastures}}</wrap> **Pastures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfenceless2.png?nolink|Fenceless Pasture 2}}</wrap> **Fenceless Pasture 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfenceless2.png?nolink|Fenceless Pasture 2}}</wrap> **Fenceless Pasture 2**
+
+----
+
+{{tag>Building Pastures KidFenceLess}}

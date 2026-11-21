@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Notre Dame ======
+----
+
+<WRAP right>
+^  Notre Dame                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnotredamecathedral.png?nolink|Notre Dame}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  17 × 36  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 100)  |
+|  <abbr "Max citizens attending at once">Attendance</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1800  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  270  |
+|  [[WikiPages:stone:stone|Stone]]  |  480  |
+|  [[WikiPages:custom5:glass|Glass]]  |  192  |
+|  [[WikiPages:custom1:silver|Silver]]  |  54  |
+|  [[WikiPages:custom1:gold|Gold]]  |  36  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  240  |
+</WRAP>
+<WRAP right></WRAP>
+
+A cathedral staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 100 tiles and accommodating up to 1000 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dolbadarnmodstoolbar.png?nolink|Dolbadarn Toolbar}}</wrap> **Dolbadarn Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dolbadarnservices.png?nolink|Dolbadarn services}}</wrap> **Dolbadarn services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnotredamecathedral.png?nolink|Notre Dame}}</wrap> **Notre Dame**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnotredamecathedral.png?nolink|Notre Dame}}</wrap> **Notre Dame**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship DolbadarnMods}}

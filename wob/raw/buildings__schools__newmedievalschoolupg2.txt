@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval School (Upgrade 2) ======
+----
+
+<WRAP right>
+^  Medieval School                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalschoolupg2.png?nolink|Medieval School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  40  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:custom5:brick|Brick]]  |  48  |
+|  [[WikiPages:custom5:roof_tile|Roof Tile]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:schools:newmedievalschoolupg1|Medieval School (Upgrade 1)]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:schools:newmedievalschool|Medieval School]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building School NewMedievalTown}}

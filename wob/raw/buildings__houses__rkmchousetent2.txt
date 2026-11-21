@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tent House ======
+----
+
+<WRAP right>
+^  Tent House                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetent2.png?nolink|Tent House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+|  [[WikiPages:textile:leather|Leather]]  |  10  |
+|  [[WikiPages:textile:fur|Fur]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A training camp tent house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetentstoolbar.png?nolink|Tent Housing Toolbar}}</wrap> **Tent Housing Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetent2.png?nolink|Tent House}}</wrap> **Tent House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetentstoolbar.png?nolink|Tent Housing Toolbar}}</wrap> **Tent Housing Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmchousetent2.png?nolink|Tent House}}</wrap> **Tent House**
+
+----
+
+{{tag>Building Houses RKTrainingCamp}}

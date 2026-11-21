@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Cart ======
+----
+
+<WRAP right>
+^  Storage Cart                                                                        ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartransport.png?nolink|Storage Cart}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2×2  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  8  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,500  ||
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables, Fuel  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  –  |  10  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  –  |  Wood ×12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A storage cart for most goods. Settlers store goods in the cart.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartransport.png?nolink|Storage Cart}}</wrap> **Storage Cart**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartransport.png?nolink|Storage Cart}}</wrap> **Storage Cart**
+
+----
+
+{{tag>Building Storage Colonial}}

@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Watch Tower (RK Training Camp) ======
+----
+
+<WRAP right>
+^  Watch Tower (RK Training Camp)                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmctower.png?nolink|Watch Tower}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+The RK Training Camp Watch Tower staffs a Hunter who ranges out to gather a variety of game, hides, and furs. No inputs are required. Part of the RK Training Camp themed building set.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp toolbar}}</wrap> **RK Training Camp toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmctower.png?nolink|Watch Tower}}</wrap> **Watch Tower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmctower.png?nolink|Watch Tower}}</wrap> **Watch Tower**
+
+----
+
+===== Produces =====
+
+Produces one of the following at random (no inputs required):
+
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:textile:fur|Fur]]
+  * [[WikiPages:food:venison|Venison]]
+  * [[WikiPages:food:bison_meat|Bison Meat]]
+  * [[WikiPages:food:bear|Bear Meat]]
+  * [[WikiPages:food:boar|Boar Meat]]
+  * [[WikiPages:food:goose|Goose Meat]]
+  * [[WikiPages:food:duck_meat|Duck Meat]]
+  * [[WikiPages:food:rabbit_meat|Rabbit Meat]]
+  * [[WikiPages:food:pheasant|Pheasant Meat]]
+  * [[WikiPages:food:partridge|Partridge Meat]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hunting RKTrainingCamp}}

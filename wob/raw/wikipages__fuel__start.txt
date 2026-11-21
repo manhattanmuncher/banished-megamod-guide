@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Fuel ======
+----
+
+Firewood and other fuels burned in homes to keep citizens warm during cold winters. Running out of fuel in winter can be fatal.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/branches.png?nolink|Branches}} [[WikiPages:fuel:branches|Branches]]
+  * {{https://sprites.worldofbanished.com/charcoal.png?nolink|Charcoal}} [[WikiPages:fuel:charcoal|Charcoal]]
+  * {{https://sprites.worldofbanished.com/coke.png?nolink|Coke}} [[WikiPages:fuel:coke|Coke]]
+  * {{https://sprites.worldofbanished.com/firebundle.png?nolink|Fire Bundle}} [[WikiPages:fuel:fire_bundle|Fire Bundle]]
+  * {{https://sprites.worldofbanished.com/firewood.png?nolink|Firewood}} [[WikiPages:fuel:firewood|Firewood]]
+  * {{https://sprites.worldofbanished.com/fuelbrick.png?nolink|Fuel Brick}} [[WikiPages:fuel:fuel_brick|Fuel Brick]]
+
+----
+
+{{tag>Fuel}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Fish Hatchery ======
+----
+
+<WRAP right>
+^  Village Fish Hatchery                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvrockquarryfish.png?nolink|Village Fish Hatchery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 14  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 1)  |
+|  Tool  |  Fishing Rod  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+|  Upgraded From  |  [[buildings:mining:ebsvrockquarry|Village Rock Quarry]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Village Rock Quarry transformed into a Fish Hatchery. Up to 4 Fishermen can be employed to catch fish.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:ebsvrockquarry|Village Rock Quarry]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining EBSVRockQuarryFish}}

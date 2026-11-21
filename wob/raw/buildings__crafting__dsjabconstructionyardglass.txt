@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Construction: Glass-maker ======
+----
+
+<WRAP right>
+^  Jetty Construction: Glass-maker                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabconstructionyardglass.png?nolink|Jetty Construction: Glass-maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Toolmaker}}</wrap> Toolmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  13.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  21  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  21  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  13  |
+|  [[WikiPages:iron:iron|Iron]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+Jetty Construction: Glass-maker is a DS Mods Jetty & Bridge crafting building. A Toolmaker fires Sand with Firewood or Coal to produce Glass for construction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabconstructionyardmenu.png?nolink|Construction Yard}}</wrap> **Construction Yard** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabconstructionyardglass.png?nolink|Jetty Construction: Glass-maker}}</wrap> **Jetty Construction: Glass-maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabconstructionyardmenu.png?nolink|Construction Yard}}</wrap> **Construction Yard** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabconstructionyardglass.png?nolink|Jetty Construction: Glass-maker}}</wrap> **Jetty Construction: Glass-maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabconstructionyardglass.png?nolink|Jetty Construction: Glass-maker}}</wrap> **Jetty Construction: Glass-maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                          ^ Produces                              ^
+| 4 [[WikiPages:custom4:sand|Sand]] + 2 [[WikiPages:fuel:firewood|Firewood]]           | [[WikiPages:custom5:glass|Glass]]     |
+| 4 [[WikiPages:custom4:sand|Sand]] + 2 [[WikiPages:coalfuel:coal|Coal]]               | [[WikiPages:custom5:glass|Glass]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Crafting DS}}

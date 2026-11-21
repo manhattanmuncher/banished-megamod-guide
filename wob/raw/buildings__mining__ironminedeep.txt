@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dark Mine ======
+----
+
+<WRAP right>
+^  Dark Mine                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmineupgrade.png?nolink|Dark Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 12  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 15)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  60  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+|  Upgraded From  |  [[buildings:mining:ironmine|Iron Mine]]  |
+|  Upgrades To  |  [[buildings:mining:ironminedeeper|Deep Mine]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  120  |
+|  [[WikiPages:custom0:candles|Candles]]  |  80  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Dark Mine is a deep upgrade of the Iron Mine, allowing continued resource extraction after the original mine nears depletion. Miners can choose to produce Iron Ore, Coal, or smelt Iron directly using Furnace Fuel.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:ironmine|Iron Mine]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                ^ Produces                                          ^
+| —                                                          | [[WikiPages:coalfuel:iron_ore|Iron Ore]]          |
+| —                                                          | [[WikiPages:coalfuel:coal|Coal]]                  |
+| 1 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]          | [[WikiPages:iron:iron|Iron]]                      |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining IronMineDeep}}

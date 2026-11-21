@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seeds and Animals ======
+----
+
+<WRAP right>
+^  Seeds and Animals                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Seeds and Animals}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (6)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  82  |
+|  [[WikiPages:stone:stone|Stone]]  |  80  |
+|  [[WikiPages:iron:iron|Iron]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter seeds and animals trading post. Must be placed on water. Merchants arrive by river boat offering seeds and livestock. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Seeds and Animals}}</wrap> **Seeds and Animals**
+
+----
+
+===== Merchant =====
+
+Three merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Livestock Merchant | Livestock |
+| Crop Seed Merchant | Crop seeds |
+| Orchard Seed Merchant | Orchard seeds |
+
+All merchants accept wood, stone, iron, firewood, tools, textiles, and clothing as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradingpost.png?nolink|Seeds and Animals}}</wrap> **Seeds and Animals**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building TradingPost ColonialCharter}}

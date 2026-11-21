@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Soan Teahouse ======
+----
+
+<WRAP right>
+^  Soan Teahouse                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoanteahouse.png?nolink|Soan Teahouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Entertainment (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Soan Teahouse is an A8 Japanese-themed building where a chef brews tea from tea leaves or herbs. When stocked with tea, the teahouse provides an Entertainment happiness bonus to nearby citizens within radius 20.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8crafts.png?nolink|A8 crafts}}</wrap> **A8 crafts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoanteahouse.png?nolink|Soan Teahouse}}</wrap> **Soan Teahouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxuries Production}}</wrap> **Luxuries Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsoanteahouse.png?nolink|SOAN Tea House}}</wrap> **SOAN Tea House**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                               ^
+| 10 [[WikiPages:health:tea_leaves|Tea Leaf]]           | [[WikiPages:alcohol:tea_tea|Tea]]      |
+| 10 [[WikiPages:health:herb|Herb]]                     | [[WikiPages:alcohol:tea_tea|Tea]]      |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Preparing A8JapaneseAllInOne}}

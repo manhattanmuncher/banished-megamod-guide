@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pepper ======
+----
+
+<WRAP right>
+^  Pepper                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |  20/28  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/pepper.png?nolink|Pepper}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Pepper is a vegetable crop grown in fields in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Pepper Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:mfpatchpepper|Pepper Patch (Mexican Fantasy)]]
+  * Produced at the [[buildings:greenhouse:aspgreenhousec|Salsa House]]
+  * Produced at the [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]]
+  * Produced at the [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch01|Fairy Garden Summer (Fairy Garden)]]
+  * Produced at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:hgpatchpepper|Pepper Patch (Home Grown)]]
+  * Produced at the [[buildings:fields:kf09|Farmyard 09]]
+  * Produced at the [[buildings:greenhouse:ootwgreenhouse|Greenhouse (OOTW)]]
+  * Produced at the [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:greenhouse:vgwork|VG Work]]
+  * Produced at the [[buildings:fields:patchpepper|Patch Pepper]] (Kid - Patchwork)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]]
+  * Used at the [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]]
+  * Used at the [[buildings:food:hgsalsa|Homemade Salsa (Home Grown)]] (for Salsa)
+  * Used at the [[buildings:food:hgsalsastore|Salsa Store (Home Grown)]] (for Salsa)
+  * Used at the [[buildings:preserving:tinneryveg|Vegetable Tinnery]]
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable Vanilla}}

@@ -1,0 +1,60 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Tavern (Upgrade 1) ======
+----
+
+<WRAP right>
+^  Tavern                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltavernupg1.png?nolink|Medieval Tavern (Upgrade 1)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Scythe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+|  Happiness  |  Entertainment (radius 30)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:custom5:brick|Brick]]  |  36  |
+|  [[WikiPages:custom5:roof_tile|Roof Tile]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An upgraded Medieval Tavern with improved brewing efficiency.
+
+----
+
+===== Where to Find =====
+
+The Medieval Tavern (Upgrade 1) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:brewery:newmedievaltavern|Medieval Tavern]].
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                ^ Produces                              ^
+| 100 [[WikiPages:food:wheat|Wheat]]                                                                                                        | [[WikiPages:alcohol:beer|Beer]]       |
+| 100 [[WikiPages:food:barley|Barley]]                                                                                                      | [[WikiPages:alcohol:beer|Beer]]       |
+| 100 [[WikiPages:food:sorghum|Sorghum]]                                                                                                    | [[WikiPages:alcohol:beer|Beer]]       |
+| 30 [[WikiPages:food:wheat|Wheat]] + 20 [[WikiPages:grain:hops|Hops]]                                                                     | [[WikiPages:alcohol:beer|Beer]]       |
+| 30 [[WikiPages:food:barley|Barley]] + 20 [[WikiPages:grain:hops|Hops]]                                                                   | [[WikiPages:alcohol:beer|Beer]]       |
+| 30 [[WikiPages:food:sorghum|Sorghum]] + 20 [[WikiPages:grain:hops|Hops]]                                                                 | [[WikiPages:alcohol:beer|Beer]]       |
+| 100 [[WikiPages:food:potato|Potato]]                                                                                                  | [[WikiPages:alcohol:ale|Ale]]         |
+| 60 [[WikiPages:food:honey|Honey]]                                                                                                         | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:apple|Apple]]                                                                                                         | [[WikiPages:alcohol:ale|Ale]]         |
+| 60 [[WikiPages:food:blueberries|Blueberry]]                                                                                                 | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:cherry|Cherry]]                                                                                                       | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:peach|Peach]]                                                                                                         | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:pear|Pear]]                                                                                                           | [[WikiPages:alcohol:ale|Ale]]         |
+| 30 [[WikiPages:food:plum|Plum]]                                                                                                           | [[WikiPages:alcohol:ale|Ale]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Brewery RKEditorChoice}}

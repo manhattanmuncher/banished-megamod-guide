@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hillside House Ground ======
+----
+
+<WRAP right>
+^  Hillside House Ground                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouseground.png?nolink|Hillside House Ground}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hillside Village house; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouse.png?nolink|Hillside House}}</wrap> **Hillside House** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouseground.png?nolink|Hillside House Ground}}</wrap> **Hillside House Ground**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillside.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouse.png?nolink|Hillside House}}</wrap> **Hillside House** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouseground.png?nolink|Hillside House Ground}}</wrap> **Hillside House Ground**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouseground.png?nolink|Hillside Village}}</wrap> **Hillside Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhillsidehouseground.png?nolink|Hillside House Ground}}</wrap> **Hillside House Ground**
+
+----
+
+This building originally came from **Hillside Village v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=639|WoB]]
+
+{{tag>Building Houses KidHillsideVillage}}

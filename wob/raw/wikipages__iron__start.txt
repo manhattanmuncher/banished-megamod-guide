@@ -1,0 +1,18 @@
+~~NOTOC~~
+
+====== Iron ======
+----
+
+Iron and refined metal resources smelted from ore, used in tool production and other metalworking.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/iron.png?nolink|Iron}} [[WikiPages:iron:iron|Iron]]
+
+----
+
+{{tag>Iron}}

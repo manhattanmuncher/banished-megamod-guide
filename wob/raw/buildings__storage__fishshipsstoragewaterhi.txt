@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Storage Hi (Fish Ships) ======
+----
+
+<WRAP right>
+^  Jetty Storage Hi                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsstoragewaterhi.png?nolink|Jetty Storage Hi}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,800  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fish Ships general-purpose jetty storage building (high platform variant). Settlers store food, tools, clothing, and a variety of goods with a capacity of 4,800 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish Ships}}</wrap> **Fish Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybuilding.png?nolink|Jetty Building}}</wrap> **Jetty Building** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsstoragewaterhi.png?nolink|Jetty Storage Hi}}</wrap> **Jetty Storage Hi**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish Ships}}</wrap> **Fish Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjettybuilding.png?nolink|Jetty Building}}</wrap> **Jetty Building** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsstoragewaterhi.png?nolink|Jetty Storage Hi}}</wrap> **Jetty Storage Hi**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsstoragewaterhi.png?nolink|Jetty Storage Hi (Fish Ships)}}</wrap> **Jetty Storage Hi (Fish Ships)**
+
+----
+
+{{tag>Building Storage}}

@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Baker (Hobbit) ======
+----
+
+<WRAP right>
+^  Bakery                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitbaker.png?nolink|Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hobbit Homes bakery where a baker produces Bread and Donuts from flour and local ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitbaker.png?nolink|Baker}}</wrap> **Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitbaker.png?nolink|Baker}}</wrap> **Baker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitbaker.png?nolink|Baker (Hobbit)}}</wrap> **Baker (Hobbit)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                         ^ Produces                                          ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                  | [[WikiPages:food:bread_bread|Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]]                              | [[WikiPages:food:bread_bread|Bread]]              |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                           | [[WikiPages:food:bread_bread|Bread]]              |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:apple|Apple]]                             | [[WikiPages:food:donut|Donut]]                    |
+| 12 [[WikiPages:grain:flour|Flour]] + 10 [[WikiPages:food:blueberries|Blueberry]]                   | [[WikiPages:food:donut|Donut]]                    |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hobbits v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=608|WoB]]
+
+{{tag>Building Food KidHobbits}}

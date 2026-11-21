@@ -1,0 +1,63 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trading ======
+----
+
+Trading allows your settlement to exchange surplus goods with visiting merchants for items your town cannot produce on its own — including crop seeds, orchard seeds, and livestock.
+
+----
+
+===== Trading Posts =====
+
+A [[buildings:trading_post:start|Trading Post]] must be built on a river or lake. Merchants arrive by boat, so a trading post on a lake with no river access will never receive visitors.
+
+Once built, clicking a trading post opens its inventory panel. Traders (the workers assigned to the post) move goods between town storage and the trading post. Set a desired quantity for each item to have traders stock the post; if actual inventory exceeds the desired count, traders return the surplus to town storage.
+
+Work can be paused at any time using the toggle button on the trading post panel.
+
+----
+
+===== Making a Trade =====
+
+When a merchant arrives, press the **Trade** button to open the trade window.
+
+  * **Left side** — goods the merchant has for sale
+  * **Right side** — inventory stored in the trading post
+
+Select how many items to buy on the left, then select items on the right to offer in exchange. The total value of what you offer must meet or exceed the cost of what you are buying. Press the **Trade** button to confirm, or the **Dismiss** button to send the merchant away without trading.
+
+----
+
+===== Automatic Purchases =====
+
+Click the **Purchase** tab to set up automatic trades so traders handle recurring buys without manual input.
+
+Auto-purchase can be set to:
+  * **Never** — disabled
+  * **When a merchant arrives** — trades run as soon as the merchant docks
+  * **Before the merchant leaves** — trades run just before departure
+
+Within each resource category, set the quantity to purchase. Workers will execute those trades automatically as long as there is enough inventory in the post to cover the cost. Use the up/down arrows to prioritize which items are bought first.
+
+----
+
+===== Custom Orders =====
+
+Click the **Order** tab to request specific goods from the next merchant.
+
+Custom order mode can be set to:
+  * **Never** — no standing order
+  * **Once** — applies to the next merchant visit only
+  * **Every time** — repeats every visit
+
+Select items from the list to add them to your order; select again to remove. If the order is too large, the merchant may only fulfill part of it. **Items purchased through custom orders cost more than items from a merchant's standard inventory.**
+
+----
+
+===== Trading Post Buildings =====
+
+See [[buildings:trading_post:start|Trading Post Buildings]] for the full list of trading posts available in MegaMod.
+
+----
+
+{{tag>Trading Mechanics}}

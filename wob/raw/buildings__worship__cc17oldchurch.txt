@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Church ======
+----
+
+<WRAP right>
+^  Old Church                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17oldchurch.png?nolink|Old Church}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 25)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  300  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  180  |
+|  [[WikiPages:wood:log|Wood]]  |  200  |
+|  [[WikiPages:stone:stone|Stone]]  |  100  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large Colonial Charter church staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 25 tiles and accommodating up to 300 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworshipandremembrance.png?nolink|Worship and Remembrance}}</wrap> **Worship and Remembrance** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17oldchurch.png?nolink|Old Church}}</wrap> **Old Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcc17oldchurch.png?nolink|Old Church}}</wrap> **Old Church**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Worship ColonialCharter}}

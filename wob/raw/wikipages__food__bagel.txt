@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bagel ======
+----
+
+<WRAP right>
+^  Bagel                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  36/40  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/bagel.png?nolink|Bagel}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Bagel is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Bagel Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:bakery:bakerycc|Bakery]]
+  * Produced at the [[buildings:bakery:cmbakery|Bakery (Colonial Resources)]]
+  * Produced at the [[buildings:bakery:dstownhousesbstore3x4bakeri|Bryggen Bakeri]]
+  * Produced at the [[buildings:bakery:dstownhousesbstore3x4bakeriupsmoke|Bryggen Bakeri (Upgraded)]]
+  * Produced at the [[buildings:bakery:ebbakery|Bakery (EB)]]
+  * Produced at the [[buildings:bakery:fnbaker|Baker (Friendly Neighborhood)]]
+  * Produced at the [[buildings:bakery:gfbaker1|Baker (Gothic Fantasy 1)]]
+  * Produced at the [[buildings:bakery:gfbaker2|Baker (Gothic Fantasy 2)]]
+  * Produced at the [[buildings:bakery:newmedievalbakery|Medieval Bakery]]
+  * Produced at the [[buildings:bakery:newmedievalbakeryupg1|Medieval Bakery (Upgrade 1)]]
+  * Produced at the [[buildings:bakery:newmedievalbakeryupg2|Medieval Bakery (Upgrade 2)]]
+  * Produced at the [[buildings:bakery:newmedievalbakeryupg3|Medieval Bakery (Upgrade 3)]]
+  * Produced at the [[buildings:bakery:rkoldbakeryshop|Old Bakery]]
+  * Produced at the [[buildings:bakery:shatowerbaker|Baker (Stone House Addon)]]
+  * Produced at the [[buildings:bakery:cc17bakery|City Bakery]]
+  * Produced at the [[buildings:bakery:tieredbakery|Urban Bakery]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain Protein}}

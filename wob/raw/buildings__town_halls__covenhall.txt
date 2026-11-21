@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Coven Hall ======
+----
+
+<WRAP right>
+^  Coven Hall                                                                         ^  Coven  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhall.png?nolink|Coven Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Coven meeting hall providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoven.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhall.png?nolink|Coven Hall}}</wrap> **Coven Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoven.png?nolink|Coven}}</wrap> **Coven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhall.png?nolink|Coven Hall}}</wrap> **Coven Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcovenhall.png?nolink|Coven Hall}}</wrap> **Coven Hall**
+
+----
+
+===== Other Information =====
+
+{{tag>Building TownHalls KidCoven}}

@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Shore Pit (Colonial) ======
+----
+
+<WRAP right>
+^  Old Shore Pit                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorepit.png?nolink|Old Shore Pit (Colonial)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/pitdigger.png?nolink|Pit Digger}}</wrap> Pit Digger  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial shore pit where workers gather materials from shoreline terrain, including sand, clay, turtles, frog legs, and reeds.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsandclay.png?nolink|Sand & Clay}}</wrap> **Sand & Clay** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorepit.png?nolink|Old Shore Pit}}</wrap> **Old Shore Pit (Colonial)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/olditems.png?nolink|Old Buildings}}</wrap> **Old Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorepit.png?nolink|Old Shore Pit (Colonial)}}</wrap> **Old Shore Pit (Colonial)**
+
+----
+
+===== Produces =====
+
+Production is selected by the player:
+  * [[WikiPages:custom4:sand|Sand]]
+  * [[WikiPages:custom4:clay|Clay]]
+  * [[WikiPages:food:turtle|Turtle]]
+  * [[WikiPages:food:frog_legs|Frog Leg]]
+  * [[WikiPages:custom7:reeds|Reed]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Gathering ColonialCharter}}

@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Roasted Nuts ======
+----
+
+<WRAP right>
+^  Roasted Nuts                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  70/85  |
+|  Edible  |  Yes  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/roastednuts.png?nolink|Roasted Nuts}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Roasted Nuts are an edible food item available in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 2, but they play an important role in the colony's production chains.
+
+----
+
+===== Roasted Nuts Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:apnutroaster|Nut Roaster (Abandoned Places)]]
+  * Produced at the [[buildings:food:dsroastednutscampfire|Campfire, Roasting Nuts]]
+  * Produced at the [[buildings:food:fhnutroaster|Nut Roaster (Forest Haven)]]
+  * Produced at the [[buildings:food:fpnutroaster|Nut Roaster (Friendly Pumpkin)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

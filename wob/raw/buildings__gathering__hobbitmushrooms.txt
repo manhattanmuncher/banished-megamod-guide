@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hobbit Mushrooms ======
+----
+
+<WRAP right>
+^  Mushroom Farm                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitmushrooms.png?nolink|Hobbit Mushrooms}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  56.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hobbit Homes mushroom farm where workers cultivate and harvest Mushrooms.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitmushrooms.png?nolink|Hobbit Mushrooms}}</wrap> **Hobbit Mushrooms**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit Homes}}</wrap> **Hobbit Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitmushrooms.png?nolink|Hobbit Mushrooms}}</wrap> **Hobbit Mushrooms**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitmushrooms.png?nolink|Hobbit Mushrooms}}</wrap> **Hobbit Mushrooms**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:mushroom|Mushroom]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Hobbits v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=608|WoB]]
+
+{{tag>Building Food KidHobbits}}

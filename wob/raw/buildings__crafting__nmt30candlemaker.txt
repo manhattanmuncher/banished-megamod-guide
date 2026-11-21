@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Candle Maker ======
+----
+
+<WRAP right>
+^  Candle Maker                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30candlemaker.png?nolink|Candle Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chandler.png?nolink|Chandler}}</wrap> Chandler  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+|  [[WikiPages:custom5:brick|Brick]]  |  24  |
+|  [[WikiPages:custom0:glassware|Glass]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Candle Maker converts beeswax into candles for use as crafted items or trade.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcandle.png?nolink|Candle Makers}}</wrap> **Candle Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30candlemaker.png?nolink|Candle Maker}}</wrap> **Candle Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30candlemaker.png?nolink|Candle Maker}}</wrap> **Candle Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                       ^ Produces                                          ^
+| 16 [[WikiPages:custom7:beeswax|Beeswax]]                                         | [[WikiPages:custom0:candles|Candles]]             |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Crafting}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mine Cart ======
+----
+
+<WRAP right>
+^  Mine Cart                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayminecart.png?nolink|Mine Cart}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  |
+|  Storage Categories  |  Coal Fuel, Iron  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×9, Iron ×2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Railway mod mine cart for storing coal and iron. Settlers store coal fuel and iron only.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcars.png?nolink|Cars}}</wrap> **Cars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayminecart.png?nolink|Mine Cart}}</wrap> **Mine Cart**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailway.png?nolink|Railway}}</wrap> **Railway** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcars.png?nolink|Cars}}</wrap> **Cars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayminecart.png?nolink|Mine Cart}}</wrap> **Mine Cart**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrailwayminecart.png?nolink|Mine Cart}}</wrap> **Mine Cart**
+
+----
+
+This building originally came from **Railway v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=581|WoB]]
+
+{{tag>Building Storage Railway}}

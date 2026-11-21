@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Market (NMT Stone Dock)                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtmarketstonedock.png?nolink|Market (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 8 (default: 1)  |
+|  Radius  |  45  |
+|  Storage  |  15,000  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:stone:stone|Stone]]  |  76  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  52  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks stone market. Distributes a wide variety of goods to nearby settlers from a large 10×10 dock structure with a capacity of 15,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstoragestonedocktoolbar.png?nolink|NMT Stone Dock Storage Toolbar}}</wrap> **NMT Stone Dock Storage Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtmarketstonedock.png?nolink|Market}}</wrap> **Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstoragestonedocktoolbar.png?nolink|NMT Stone Dock Storage Toolbar}}</wrap> **NMT Stone Dock Storage Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtmarketstonedock.png?nolink|Market}}</wrap> **Market**
+
+----
+
+===== Stocks =====
+
+  * Food
+  * Fuel
+  * Tools
+  * Health
+  * Clothing
+  * Grain
+  * Protein
+  * Fruit
+  * Vegetable
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Market RKEditorChoice}}

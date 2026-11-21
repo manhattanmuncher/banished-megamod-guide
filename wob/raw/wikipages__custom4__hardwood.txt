@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hardwood ======
+----
+
+<WRAP right>
+^  Hardwood                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom4  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/hardwood.png?nolink|Hardwood}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Hardwood is a raw material harvested directly from the environment in the Banished MegaMod. It is stockpiled and used as a base ingredient for crafting and construction. It has a modest trade value of 4.
+
+----
+
+===== Hardwood Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:resources:loggingbarge|Logging Barge]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:cc17lumberyard|City Lumber Yard]] (for Lumber)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom4}}

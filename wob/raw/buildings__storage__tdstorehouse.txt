@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storehouse ======
+----
+
+<WRAP right>
+^  Storehouse                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtdstorehouse.png?nolink|Storehouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  18,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×32, Stone ×6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tiny Downtown mod large general-purpose storehouse. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtd.png?nolink|Tiny Downtown Storage}}</wrap> **Tiny Downtown Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtdstorehouse.png?nolink|Storehouse}}</wrap> **Storehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtd.png?nolink|Tiny Downtown Storage}}</wrap> **Tiny Downtown Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtdstorehouse.png?nolink|Storehouse}}</wrap> **Storehouse**
+
+----
+
+This building originally came from **Tiny Downtown (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=618|WoB]]
+
+{{tag>Building Storage TinyDowntown}}

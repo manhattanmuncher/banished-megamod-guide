@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Strong Ale ======
+----
+
+<WRAP right>
+^  Strong Ale                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/8  |
+|  Edible  |  No  |
+|  Trade Value  |  15  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/strongale.png?nolink|Strong Ale}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Strong Ale is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 15, making it a worthwhile commodity for trade.
+
+----
+
+===== Strong Ale Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:dsalehouse|Ale House]]
+  * Produced at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Produced at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Produced at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

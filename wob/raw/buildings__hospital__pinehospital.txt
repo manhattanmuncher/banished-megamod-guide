@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Hospital ======
+----
+
+<WRAP right>
+^  Pine Hospital                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Pine Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  30  |
+|  <abbr "Healing radius (tiles)">Service Radius</abbr>  |  30  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  60  |
+|  [[WikiPages:iron:iron|Iron]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Pine Set hospital staffed by a Doctor, treating up to 30 patients within a service radius of 30 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolcivics.png?nolink|Necora's Maritimes Civics}}</wrap> **Necora's Maritimes Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinecivic.png?nolink|Pine Civics}}</wrap> **Pine Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Pine Hospital}}</wrap> **Pine Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Pine Hospital}}</wrap> **Pine Hospital**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Hospital Maritimes}}

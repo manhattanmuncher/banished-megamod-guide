@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Veg-Fruits Barn ======
+----
+
+<WRAP right>
+^  Small Veg-Fruits Barn                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallveg.png?nolink|Small Veg-Fruits Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+|  Storage Categories  |  Fruit, Vegetable  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×24, Stone ×8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A storage barn dedicated to fruits and vegetables. Settlers store fruits and vegetables.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinysmallbar.png?nolink|Tiny Small barns toolbar}}</wrap> **Tiny Small barns toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallveg.png?nolink|Small Veg-Fruits Barn}}</wrap> **Small Veg-Fruits Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK Storage}}</wrap> **RK Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinysmallbar.png?nolink|Tiny Small barns toolbar}}</wrap> **Tiny Small barns toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallveg.png?nolink|Small Veg-Fruits Barn}}</wrap> **Small Veg-Fruits Barn**
+
+----
+
+This building originally came from **Tiny Small Barns v2.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=195|WoB]]
+
+{{tag>Building Storage}}

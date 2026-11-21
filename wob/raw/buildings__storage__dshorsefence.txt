@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Horse Fence ======
+----
+
+<WRAP right>
+^  Horse Fence                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshorsefencestraight1.png?nolink|Horse Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of DS Fences post-and-rail horse fence pieces. Combine straight, corner, angled, and gate pieces to enclose paddocks.
+
+----
+
+===== Variants =====
+
+^ Piece ^ Size ^ Build Cost ^
+| Straight (1 / 2 / 5) | 1 × 1 – 5 × 1 | 8 work, 2 [[WikiPages:wood:log|Wood]] |
+| Corner / Angled | 1 × 1 | low Wood |
+| Gate / Small Gate / Large Gate | up to 3 × 1 | 21 work, 5 [[WikiPages:wood:log|Wood]] |
+| Straight 5 (raised) / Non-Flatten | varies | low Wood |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfencewalldeco.png?nolink|Fences, Walls & Deco}}</wrap> **Fences, Walls & Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshorsefencestraight1.png?nolink|Horse Fence}}</wrap> **Horse Fence**
+
+----
+
+{{tag>Building Storage DSFences}}

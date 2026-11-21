@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NMBread ======
+----
+
+<WRAP right>
+^  NMBread                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  16/20  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/nmbread.png?nolink|NMBread}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+NMBread is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== NMBread Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:bakery:cornerbakeryt1|Bakery (Corner T1)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt2|Bakery (Corner T2)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt3|Bakery (Corner T3)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt4|Bakery (Corner T4)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt5|Bakery (Corner T5)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt6|Bakery (Corner T6)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt7|Bakery (Corner T7)]]
+  * Produced at the [[buildings:bakery:cornerbakeryt8|Bakery (Corner T8)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain}}

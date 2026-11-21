@@ -1,0 +1,58 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Market ======
+----
+
+<WRAP right>
+^  Small Market                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallmarket.png?nolink|Small Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 10 (default: 2)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  35  |
+|  Storage  |  6,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  Stone  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter small market. Distributes all goods categories to nearby settlers and provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallmarket.png?nolink|Small Market}}</wrap> **Small Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketitems.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallmarket.png?nolink|Small Market}}</wrap> **Small Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel and Coal and Coke
+  * Tools
+  * Health items
+  * Clothing
+  * Iron and Logs
+  * Textiles
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * Fabrics (Custom 2)
+  * Industrial fuel (Custom 3)
+  * Raw materials (Custom 4)
+  * Building Supplies (Custom 5)
+  * Precious items (Custom 6)
+  * Misc items (Custom 7)
+  * Custom 8
+  * Consumables (Custom 9)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

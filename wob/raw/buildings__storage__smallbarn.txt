@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Barn ======
+----
+
+<WRAP right>
+^  Small Barn                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarn.png?nolink|Small Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,500  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×30, Stone ×8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter mod general-purpose storage barn. Settlers store a wide variety of items.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+----
+
+{{tag>Building Storage Colonial}}

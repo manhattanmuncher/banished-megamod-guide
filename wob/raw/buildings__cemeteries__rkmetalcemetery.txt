@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Metal Fence Cemetery ======
+----
+
+<WRAP right>
+^  Metal Fence Cemetery                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmetalcemetery.png?nolink|Metal Fence Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+|  [[WikiPages:iron:iron|Iron]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor's Choice Edition metal-fenced cemetery; build in a player-drawn area for your deceased.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcemetery.png?nolink|Creepy Cemetery Toolbar}}</wrap> **Creepy Cemetery Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmetalcemetery.png?nolink|Metal Fence Cemetery}}</wrap> **Metal Fence Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkservices.png?nolink|RK services}}</wrap> **RK services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkcemetery.png?nolink|Creepy Cemetery Toolbar}}</wrap> **Creepy Cemetery Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmetalcemetery.png?nolink|Metal Fence Cemetery}}</wrap> **Metal Fence Cemetery**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Cemeteries RKEditorChoice}}

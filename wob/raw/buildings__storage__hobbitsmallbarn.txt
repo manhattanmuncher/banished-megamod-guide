@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Barn (Hobbit) ======
+----
+
+<WRAP right>
+^  Small Barn                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitsmallbarn.png?nolink|Small Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  3,600  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Hobbit small general-purpose barn. Settlers store food, tools, clothing, and a variety of goods with a capacity of 3,600 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit}}</wrap> **Hobbit** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbittoolbar.png?nolink|Hobbit}}</wrap> **Hobbit** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitsmallbarn.png?nolink|Small Barn}}</wrap> **Small Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhobbitsmallbarn.png?nolink|Small Barn (Hobbit)}}</wrap> **Small Barn (Hobbit)**
+
+----
+
+This building originally came from **Hobbits v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=608|WoB]]
+
+{{tag>Building Storage}}

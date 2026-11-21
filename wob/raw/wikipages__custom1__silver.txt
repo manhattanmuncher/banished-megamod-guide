@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Silver ======
+----
+
+<WRAP right>
+^  Silver                                         ^  xBLS  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |  2/3  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  3  |  30  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/silver.png?nolink|Silver}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Silver is a forged item crafted from metal in the Banished MegaMod. It is produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. At a trade value of 30, it is highly prized by traveling merchants.
+
+----
+
+===== Silver Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:more_civic:dsstythtower|Styth Tower]] (random)
+  * Produced at the [[buildings:metalworking:forge|Forge]]
+  * Produced at the [[buildings:metalworking:foundry|Foundry]]
+  * Produced at the [[buildings:mining:placermine|Placer Mine]] (random)
+  * Produced at the [[buildings:mining:preciousmine|Precious Mine]] (random)
+  * Produced at the [[buildings:mining:preciousmine2|Precious Mine (Upgrade 2)]] (random)
+  * Produced at the [[buildings:mining:preciousmine3|Precious Mine (Upgrade 3)]] (random)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Forestry ======
+----
+
+<WRAP right>
+^  Pine Forestry                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineforestermaterials.png?nolink|Pine Forestry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  22  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Pine Set pine forestry tower. Foresters plant and harvest pine tree sets within a 22-tile radius, producing Logs. Planted pine trees also spawn resources for foragers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialforester.png?nolink|Special Foresters}}</wrap> **Special Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Forestry}}</wrap> **Pine Forestry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineforestermaterials.png?nolink|Pine Forestry}}</wrap> **Pine Forestry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratolresources.png?nolink|Necora Resources}}</wrap> **Necora Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Forestry}}</wrap> **Pine Forestry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineforestermaterials.png?nolink|Pine Forestry}}</wrap> **Pine Forestry**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Forester}}

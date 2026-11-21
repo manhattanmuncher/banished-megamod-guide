@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nomad Lamp ======
+----
+
+<WRAP right>
+^  Nomad Lamp                                                                         ^  Kid - Nomads  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomadlampa.png?nolink|Nomad Lamp}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (default 2)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0 (Free)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid - Nomads decorative lamp that attracts nomad immigrants. Each variant limits the maximum size of arriving nomad groups as a percentage of total population. Free to place with no footprint restriction, max 1 instance per variant. Seven variants are available — the plain "Nomad Lamp" variant is purely decorative with no immigration effect (its immigration behavior is not active in the underlying data).
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Max Group Size ^
+| Nomad Lamp | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad0.png?nolink|Nomad Lamp}}</wrap> | None (decorative only) |
+| Nomad Lamp 2 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad2.png?nolink|Nomad Lamp 2}}</wrap> | 2% of population |
+| Nomad Lamp 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad5.png?nolink|Nomad Lamp 5}}</wrap> | 5% of population |
+| Nomad Lamp 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad10.png?nolink|Nomad Lamp 10}}</wrap> | 10% of population |
+| Nomad Lamp 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad20.png?nolink|Nomad Lamp 20}}</wrap> | 20% of population |
+| Nomad Lamp 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad50.png?nolink|Nomad Lamp 50}}</wrap> | 50% of population |
+| Nomad Lamp 100 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomad100.png?nolink|Nomad Lamp 100}}</wrap> | 100% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnomad.png?nolink|Nomad}}</wrap> **Nomad** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomads.png?nolink|Nomads}}</wrap> **Nomads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnomadlampa.png?nolink|Nomad Lamp}}</wrap> **Nomad Lamp** → select variant
+
+----
+
+===== Other Information =====
+
+{{tag>Building Nomads KidNomads}}

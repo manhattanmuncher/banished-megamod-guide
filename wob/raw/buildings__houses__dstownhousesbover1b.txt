@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bryggen Store Townhouse (B) ======
+----
+
+<WRAP right>
+^  Bryggen Store Townhouse (B)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesbover1b.png?nolink|Bryggen Store Townhouse (B)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  95  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  44  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Town Houses Bryggen store townhouse with left overhang. Houses up to 7 settlers. See also: [[buildings:houses:dstownhousesbover1a|Bryggen Store Townhouse]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhouses.png?nolink|DS Town Houses}}</wrap> **DS Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhousesb.png?nolink|Bryggen Town Houses}}</wrap> **Bryggen Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesbover1b.png?nolink|Bryggen Store Townhouse (B)}}</wrap> **Bryggen Store Townhouse (B)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhouses.png?nolink|DS Town Houses}}</wrap> **DS Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhousesb.png?nolink|Bryggen Town Houses}}</wrap> **Bryggen Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesbover1b.png?nolink|Bryggen Store Townhouse (B)}}</wrap> **Bryggen Store Townhouse (B)**
+
+----
+
+This building originally came from **TownHouses v3.0.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=301|WoB]], [[https://www.nexusmods.com/banished/mods/66|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1237321261|Steam]]
+
+{{tag>Building Houses DS}}

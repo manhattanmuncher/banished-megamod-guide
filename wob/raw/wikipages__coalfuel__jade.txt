@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jade ======
+----
+
+<WRAP right>
+^  Jade                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/6  |
+|  Edible  |  No  |
+|  Trade Value  |  10  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/jade.png?nolink|Jade}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Jade is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. It carries a trade value of 10, making it a worthwhile commodity for trade.
+
+----
+
+===== Jade Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:jadequarry|Jade Quarry]]
+  * Mined at the [[buildings:mining:jadequarry2|Jade Quarry 2]]
+  * Mined at the [[buildings:mining:jadequarry3|Jade Quarry 3]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

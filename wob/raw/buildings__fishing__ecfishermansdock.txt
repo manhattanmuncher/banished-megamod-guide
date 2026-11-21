@@ -1,0 +1,17 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishermansdock.png?nolink|Fishing Dock}}</wrap> **Fishing Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice Toolbar}}</wrap> **Editor's Choice Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishermansdock.png?nolink|Fishing Dock}}</wrap> **Fishing Dock**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing EditorChoice}}

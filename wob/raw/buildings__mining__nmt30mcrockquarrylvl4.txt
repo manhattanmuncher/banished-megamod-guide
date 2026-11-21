@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rock Quarry Lvl4 ======
+----
+
+<WRAP right>
+^  Rock Quarry Lvl4                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30mcrockquarrylvl3.png?nolink|Rock Quarry Lvl4}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  6000  |
+|  Upgraded From  |  [[buildings:mining:nmt30mcrockquarrylvl3|Rock Quarry Lvl3]]  |
+|  Upgrades To  |  [[buildings:mining:nmt30mcrockquarrylvl5|Rock Quarry Lvl5]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  96  |
+|  [[WikiPages:custom0:candles|Candles]]  |  128  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Rock Quarry Lvl4 is an upgraded Rock Quarry with high production capacity. It can be upgraded to the final tier for maximum output.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:nmt30mcrockquarrylvl3|Rock Quarry Lvl3]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+  * [[WikiPages:coalfuel:salt|Salt]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Mining NMT30MCrockQuarryLvl4}}

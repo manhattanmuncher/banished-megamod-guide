@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Waterside Fishing ======
+----
+
+<WRAP right>
+^  Waterside Fishing                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvwatersedgefishing.png?nolink|Waterside Fishing}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 1 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  2  |
+|  Placement  |  Water's edge  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  Fishing Gear  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village water's edge fishing spot. Place a Fishing Gear on a sloped shoreline to allow one Fisherman to catch Fish from lakes, rivers, and streams within a 2-tile radius. Place the upper tile on the slope facing land and the lower tile towards the water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvwatersedgefishing.png?nolink|Waterside Fishing}}</wrap> **Waterside Fishing**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS Toolbar}}</wrap> **DS Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|DS Food}}</wrap> **DS Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvwatersedgefishing.png?nolink|Waterside Fishing}}</wrap> **Waterside Fishing**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Fishing DSSmallVillage}}

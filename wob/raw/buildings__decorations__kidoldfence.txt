@@ -1,0 +1,25 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Fence (Kid) ======
+----
+
+<WRAP right>
+^  Old Fence (Kid)                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldfence.png?nolink|Old Fence}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Kid's Old Fence — a simple weathered decorative fence for edging fields, yards and paths. Free to place, with a remove tool.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfences.png?nolink|Fences}}</wrap> **Fences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldfence.png?nolink|Old Fence}}</wrap> **Old Fence**
+
+----
+
+{{tag>Building Decorations KidOldFence}}

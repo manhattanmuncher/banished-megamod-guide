@@ -1,0 +1,68 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mushroom ======
+----
+
+<WRAP right>
+^  Mushroom                                       ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  16/22  |  16/22  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/mushroom.png?nolink|Mushroom}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Mushroom is a vegetable crop grown in fields in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Mushroom Mods =====
+
+==== Procuring / where to get ====
+  * Grown at the [[buildings:mining:dstunnelmineccupmush|Old Mine Mushroom Farm]]
+  * Produced at the [[buildings:food:dsjabjettymushrooms|Jetty Mushroom Farm]]
+  * Produced at the [[buildings:food:dsjabjettymushroomstex2|Jetty Mushroom Farm (Tex2)]]
+  * Produced at the [[buildings:market:fodgatelarge|Large Gate (Forge Of Dwarves)]] (random)
+  * Produced at the [[buildings:market:fodwgatelarge|Large Gate (Forge Of Dwarves - Winter)]] (random)
+  * Produced at the [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch01|Fairy Garden Summer (Fairy Garden)]]
+  * Produced at the [[buildings:gathering:fairygardenpatch02|Fairy Garden Spring (Fairy Garden)]]
+  * Produced at the [[buildings:hedgerow:hedgefall02|Fall 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:gathering:dwcache|Cache]] (random)
+  * Produced at the [[buildings:hedgerow:hedgespring01|Spring 01 (Hedgerow)]] (random)
+  * Produced at the [[buildings:gathering:hobbitmushrooms|Hobbit Mushrooms]]
+  * Produced at the [[buildings:fields:kf13|Farmyard 13]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * [[buildings:gathering:nmtforestcenter|NMT Forest Center]]
+  * Produced at the [[buildings:mining:oldhovelmine2|Old Mine 2 (Old Hovels)]]
+  * Produced at the [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:tradercartfruitveg|Trader Cart (Fruit & Veg)]] (random)
+  * Produced at the [[buildings:gathering:mcmushroom|Mushroom Cave]] (More Caves)
+  * Produced at the [[buildings:fields:patchmushroom|Patch Mushroom]] (Kid - Patchwork)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketstew|Market Stew]] (for [[WikiPages:food:stew_stew|Stew]])
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:food:dsjabjettymushrooms|Jetty Mushroom Farm]]
+  * Used at the [[buildings:food:dsjabjettymushroomstex2|Jetty Mushroom Farm (Tex2)]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Mushroom Soup, Vegetable Stew)
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+  * Used at the [[buildings:preserving:tinnerysoup|Soup Tinnery]]
+  * Used at the [[buildings:food:whchuck|Chuck Wagon]] (for Stew)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable Vanilla}}

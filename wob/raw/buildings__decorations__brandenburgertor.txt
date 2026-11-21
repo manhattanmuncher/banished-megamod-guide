@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Brandenburger Tor ======
+----
+
+<WRAP right>
+^  Brandenburger Tor                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrandenburggate.png?nolink|Brandenburger Tor}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  30 × 16  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25000  |
+|  [[WikiPages:wood:log|Wood]]  |  500  |
+|  [[WikiPages:stone:stone|Stone]]  |  1500  |
+|  [[WikiPages:iron:iron|Iron]]  |  400  |
+|  [[WikiPages:custom3:copper|Copper]]  |  400  |
+|  [[WikiPages:custom4:glass|Glass]]  |  100  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Brandenburg Gate (Brandenburger Tor) — a colossal monumental landmark from the EB (embx61) mod. At 30×16 tiles and 25,000 work, it is a true end-game showpiece requiring a vast quantity of materials.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbrandenburggate.png?nolink|Brandenburger Tor}}</wrap> **Brandenburger Tor**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations EB}}

@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Nomad Well (Bodiam Castle) ======
+----
+
+<WRAP right>
+^  Nomad Well                                                                        ^  Bodiam Castle  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell.png?nolink|Nomad Well}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Bodiam Castle wells that provide Safety happiness and fire suppression within a 20-tile radius. Features a small fire particle effect. Can be removed via the upgrade button. Five variants are available; the Well (variant 0) is a plain well with no nomad attraction, while the remaining four also attract nomad immigrants at a fixed group-size percentage.
+
+----
+
+===== Variants =====
+
+^ Variant ^ Sprite ^ Nomad Group Size ^
+| Well | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell0.png?nolink|Well}}</wrap> | None |
+| Nomad Well 5 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell5.png?nolink|Nomad Well 5}}</wrap> | 5% of population |
+| Nomad Well 10 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell10.png?nolink|Nomad Well 10}}</wrap> | 10% of population |
+| Nomad Well 20 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell20.png?nolink|Nomad Well 20}}</wrap> | 20% of population |
+| Nomad Well 50 | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell50.png?nolink|Nomad Well 50}}</wrap> | 50% of population |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiam.png?nolink|Bodiam Castle}}</wrap> **Bodiam Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell.png?nolink|Nomad Well}}</wrap> **Nomad Well** → select variant
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiam.png?nolink|Bodiam Castle}}</wrap> **Bodiam Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbodiamwell.png?nolink|Nomad Well}}</wrap> **Nomad Well** → select variant
+
+----
+
+===== Other Information =====
+
+This building originally came from **Bodiam Castle v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=486|WoB]]
+
+{{tag>Building Wells BodiamCastle}}

@@ -1,0 +1,22 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Luxury Buildings ======
+----
+
+Buildings that produce luxury goods and services for settlers.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:luxuries:moroccanteahouse|Moroccan Teahouse]] | Brews tea from tea leaves or herbs; provides Entertainment happiness; requires alcohol |
+| [[buildings:luxuries:rkgardenwallsperfumery|Perfumery (Garden Walls)]] | RK Garden Walls building; Worker crafts Perfume from Flowers, Water, and Glassware |
+| [[buildings:luxuries:rkgardenwallsperfumeryold|Perfumery (Garden Walls, Old)]] | Older Garden Walls perfumery; crafts Perfume from Flowers and Water without Glassware |
+| [[buildings:luxuries:jwphwinemaker|Wine Maker (Plimoth Harmonized)]] | Jam & Wine mod building; produces wine or mulled wine from grapes or elderberries |
+| [[buildings:luxuries:jwpwinemaker|Wine Maker (Plimoth Plantation)]] | Jam & Wine mod building; produces wine or mulled wine from grapes or elderberries |
+| [[buildings:luxuries:jwswinemaker|Wine Maker (Settlers)]] | Jam & Wine mod building; produces wine or mulled wine from grapes or elderberries |
+| [[buildings:luxuries:jwvswinemaker|Wine Maker (Vanilla Stone)]] | Jam & Wine mod building; produces wine or mulled wine from grapes or elderberries |
+| [[buildings:luxuries:jwvwinemaker|Wine Maker (Vanilla Wood)]] | Jam & Wine mod building; produces wine or mulled wine from grapes or elderberries |
+
+----
+
+{{tag>Buildings Luxuries}}

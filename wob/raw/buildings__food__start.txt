@@ -1,0 +1,68 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Production & Processing Buildings ======
+----
+
+Farms, orchards, fishing, hunting, mills, bakeries, and other food-related buildings.
+
+----
+
+^ Category ^ Description ^
+| [[buildings:animal_pens:start|Animal Pens]] | Buildings that house livestock and collect eggs, milk, wool, and other animal products |
+| [[buildings:bakery:start|Bakery]] | Buildings that bake breads, pastries, and other goods |
+| [[buildings:beekeeping:start|Beekeeping]] | Buildings that keep bees and produce honey and beeswax |
+| [[buildings:butcher:start|Butchers]] | Buildings that process meat and animal products into food |
+| [[buildings:dairy:start|Dairy]] | Buildings that process milk into cheese, butter, and other dairy products |
+| [[buildings:milling:start|Milling]] | Windmills, watermills, and other buildings that grind grain into flour |
+| [[buildings:more_food:start|More Food]] | Other food-producing buildings not covered by the other categories |
+| [[buildings:oil_press:start|Oil Press]] | Buildings that press seeds and crops into oils |
+| [[buildings:preparing:start|Preparing]] | Buildings that prepare and cook meals from multiple ingredients |
+| [[buildings:preserving:start|Preserving]] | Buildings that preserve food through smoking, salting, and pickling |
+
+----
+
+^ Building ^ Description ^
+| [[buildings:food:bgnutroaster|BG Nut Roaster]] | Bakery & Garden Alt building; roasts Walnuts, Pecans, or Chestnuts into Roasted Nuts |
+| [[buildings:food:bbnook|Breakfast Nook]] | Bed and Breakfast building; prepares hearty breakfast meals from bread, eggs, and oats |
+| [[buildings:food:dsroastednutscampfire|Campfire, Roasting Nuts]] | DS Mods open-air campfire; Chef roasts various nuts into Roasted Nuts using Firewood |
+| [[buildings:food:dscelticcampfire|Celtic Campfire]] | DS Mods food building; Chef prepares stews, soups, and flatbreads from grains, vegetables, and game |
+| [[buildings:food:whchuck|Chuck Wagon]] | Westward Ho frontier cooking wagon; combines wild game meat with vegetables and water into Stew |
+| [[buildings:food:hgsalsa|Homemade Salsa]] | Home Grown building; workers combine garden vegetables to make Salsa |
+| [[buildings:food:dsjabjettyfishdrying|Jetty Fish Drying]] | DS Jetty & Bridge food station; dries Fish into Dried Fish and Mollusc into Dried Mollusc |
+| [[buildings:food:dsjabjettyfishdryingtex2|Jetty Fish Drying (Tex2)]] | DS Jetty & Bridge fish drying station, alternate style; same as Jetty Fish Drying |
+| [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]] | DS Jetty & Bridge jetty greenhouse; Farmer grows vegetables using Fertilizer and Water |
+| [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]] | DS Jetty & Bridge greenhouse, alternate style; same as Jetty Glass House |
+| [[buildings:food:dsjabjetty5x5kitchen|Jetty Kitchen Kiosk]] | DS Jetty & Bridge food building; Worker cooks meals from vegetables, fish, mushrooms, chicken, or eggs |
+| [[buildings:food:dsjabjetty5x5kitchentex2|Jetty Kitchen Kiosk (Tex2)]] | DS Jetty & Bridge kitchen, alternate style; same as Jetty Kitchen Kiosk |
+| [[buildings:food:dsjabjettymolluscfarm|Jetty Mollusc Farm]] | DS Jetty & Bridge water-based farm; Fishermen harvest Mollusc from cultivation racks |
+| [[buildings:food:dsjabjettymolluscfarmtex2|Jetty Mollusc Farm (Tex2)]] | DS Jetty & Bridge mollusc farm, alternate style; same as Jetty Mollusc Farm |
+| [[buildings:food:dsjabjettymushrooms|Jetty Mushroom Farm]] | DS Jetty & Bridge jetty shed; Farmer cultivates Mushrooms using seed stock and Fertilizer |
+| [[buildings:food:dsjabjettymushroomstex2|Jetty Mushroom Farm (Tex2)]] | DS Jetty & Bridge mushroom farm, alternate style; same as Jetty Mushroom Farm |
+| [[buildings:food:ketchupindustry|Ketchup Inc]] | Red Ketchup mod building; Bakers convert tomatoes into ketchup |
+| [[buildings:food:aspkitchen|Kitchen (ASP)]] | Animal Shed Plus kitchen; prepares cooked meals using meat, dairy, and vegetables |
+| [[buildings:food:kitchen|Kitchen]] | Food production building; Ale Wench prepares Pub Meals |
+| [[buildings:food:pinemapleboiler|Maple Boiler]] | Necora Pine Set maple boiler; boils maple sap into maple syrup using charcoal |
+| [[buildings:food:marketbbq|Market BBQ]] | Market barbecue stand; Chef grills meats and vegetables into BBQ Meals and Grilled Vegetables |
+| [[buildings:food:marketfallfood|Market Fall Food]] | Market fall-food stand; Worker roasts apples, chestnuts, corn, and potatoes into Market produce |
+| [[buildings:food:marketroastlarge|Market Roast Large]] | Large market roasting spit; Worker roasts large cuts of meat into Market Roast |
+| [[buildings:food:marketroastsmall|Market Roast Small]] | Small market roasting spit; Worker roasts poultry and small game into Market Roast |
+| [[buildings:food:marketsoup|Market Soup]] | Market soup kitchen; Chef simmers meats, fish, and vegetables into various soups |
+| [[buildings:food:marketstew|Market Stew]] | Market stew pot; Worker simmers potatoes with meat or vegetables into Stew |
+| [[buildings:food:apnutroaster|Nut Roaster (Abandoned Places)]] | Abandoned Places restoration; roasts Walnuts, Pecans, or Chestnuts into Roasted Nuts using Firewood |
+| [[buildings:food:fhnutroaster|Nut Roaster (Forest Haven)]] | Forest Haven roasting building; roasts Walnuts, Pecans, or Chestnuts into Roasted Nuts |
+| [[buildings:food:fpnutroaster|Nut Roaster (Friendly Pumpkin)]] | Friendly Pumpkin nut roasting building; roasts nuts into Roasted Nuts using Firewood |
+| [[buildings:food:bbpancakehouse|Pancake House]] | Bed and Breakfast building; worker makes pancakes from flour, eggs, and a sweetener |
+| [[buildings:food:hgsalsastore|Salsa Store]] | Home Grown building; larger and more efficient alternative to the Homemade Salsa |
+| [[buildings:food:hobbitstewpot|Sam's Stew Pot (Hobbit)]] | Hobbit Homes stew pot; makes Stew from meat, vegetables, and herbs |
+| [[buildings:food:sbvkitchen|SBV Kitchen]] | SBV Mission kitchen; cooks chili con carne, chili sin carne, and tortillas |
+| [[buildings:food:fairygardencandyshop|Sugar Plum Shop (Fairy Garden)]] | Fairy Garden sweet shop; leprechaun combines honey and plums to produce Sugar Plums |
+| [[buildings:food:tidal|Tidal Pool]] | Colonial Charter tidal pool; Dredgers harvest seafood and Pearls from surrounding water |
+| [[buildings:food:dssvgruelkitchen|Village Gruel Kitchen]] | DS Small Village gruel kitchen; Chef boils grains, hemp leaves, or acorns into Gruel |
+| [[buildings:food:dssvvillagekitchen|Village Kitchen]] | DS Small Village kitchen; Chefs prepare Mushroom Soup, Vegetable Stew, Hunter's Stew, Fisherman's Catch, and Hardtack |
+| [[buildings:food:ebsvpreservist|Village Preservist]] | EB Small Village preservation building; Preservist seals meats and fruits into Amphora |
+| [[buildings:food:docktidal|Water Scavenger]] | Colonial Charter Dock building; Dredger harvests Oysters, Mussels, Seaweed, Crayfish, and Pearls |
+| [[buildings:food:xmasmarket|Xmas Market]] | Christmas Mod market; Elf roasts seasonal foods over a fire |
+
+----
+
+{{tag>Buildings Food}}

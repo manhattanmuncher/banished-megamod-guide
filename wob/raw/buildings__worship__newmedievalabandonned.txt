@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Abandonned Church (New Medieval Town) ======
+----
+
+<WRAP right>
+^  Abandonned Church                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalabandonned.png?nolink|Abandonned Church}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 13  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 40)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  250  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:custom6:archeology_artefact|Artefact]]  |  240  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town chapel staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 40 tiles and accommodating up to 250 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalarcheologie.png?nolink|New Medieval Archéologie}}</wrap> **New Medieval Archéologie** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalabandonned.png?nolink|Abandonned Church}}</wrap> **Abandonned Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalarcheologie.png?nolink|New Medieval Archeology}}</wrap> **New Medieval Archeology** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalabandonned.png?nolink|Abandonned Church}}</wrap> **Abandonned Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalabandonned.png?nolink|Abandonned Church (New Medieval Town)}}</wrap> **Abandonned Church (New Medieval Town)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Worship RKEditorChoice}}

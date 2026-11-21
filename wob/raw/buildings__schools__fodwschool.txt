@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== School (Forge Of Dwarves - Winter) ======
+----
+
+<WRAP right>
+^  School                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwschool.png?nolink|School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge Of Dwarves - Winter school staffed by a Teacher, accommodating up to 24 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwwood.png?nolink|Wood}}</wrap> **Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwschool.png?nolink|School}}</wrap> **School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves - Winter}}</wrap> **Forge Of Dwarves - Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwwood.png?nolink|Wood}}</wrap> **Wood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwschool.png?nolink|School}}</wrap> **School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwschool.png?nolink|School (Forge Of Dwarves - Winter)}}</wrap> **School (Forge Of Dwarves - Winter)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building School KidForgeOfDwarvesWinter}}

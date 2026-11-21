@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Apricot Seeds ======
+----
+
+<WRAP right>
+^  Apricot Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedapricot.png?nolink|Apricot Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Apricot Seeds are used to plant an Apricot tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:apricots|Apricots]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

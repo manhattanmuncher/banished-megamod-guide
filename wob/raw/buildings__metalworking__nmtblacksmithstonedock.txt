@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blacksmith (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Blacksmith (NMT Stone Dock)                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtblacksmithstonedock.png?nolink|Blacksmith (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Toolmaker}}</wrap> Toolmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Anvil  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  64  |
+|  [[WikiPages:stone:stone|Stone]]  |  65  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:coalfuel:iron_ore|Iron Ore]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks stone-construction blacksmith. Upgraded from the wood version. A Toolmaker forges a wide variety of tools from wood, stone, and metals, and can smelt iron and copper ores into refined metals.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtblacksmithstonedock.png?nolink|Blacksmith}}</wrap> **Blacksmith**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Dock Toolbar}}</wrap> **NMT Stone Dock Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Resources Stone Dock Toolbar}}</wrap> **NMT Resources Stone Dock Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtblacksmithstonedock.png?nolink|Blacksmith}}</wrap> **Blacksmith**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces  ^
+| 2 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:wooden_tool|Wooden Tool (NM)]]  |
+| 1 [[WikiPages:stone:stone|Stone]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:stone_tool|Stone Tool (NM)]]  |
+| 1 [[WikiPages:coalfuel:iron_ore|Iron Ore]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:rough_tools|Rough Tool]]  |
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:tool|Tool]]  |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:steeltool|Steel Tool]]  |
+| 3 [[WikiPages:fuel:charcoal|Charcoal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:steeltool|Steel Tool]]  |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:hardened_tool|Hardened Tool]]  |
+| 1 [[WikiPages:custom1:copper|Copper]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:copper_tool|Copper Tool]]  |
+| 1 [[WikiPages:custom1:copper|Copper]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:copperalloy_tool|Copper Alloy Tool]]  |
+| 2 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:hardened_steel_tool|Hardened Steel Tool]]  |
+| 1 [[WikiPages:custom1:bronze|Bronze]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:bronze_tool|Bronze Tool]]  |
+| 2 [[WikiPages:coalfuel:coal|Coal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:carbon_steel_tool|Carbon Steel Tool (NM)]]  |
+| 5 [[WikiPages:fuel:charcoal|Charcoal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:carbon_steel_tool|Carbon Steel Tool (NM)]]  |
+| 1 [[WikiPages:custom6:gemstone_polished|Gemstone (Polished)]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:tool:gemstone_tool|Gemstone Tool]]  |
+| 3 [[WikiPages:coalfuel:iron_ore|Iron Ore]]  | [[WikiPages:iron:iron|Iron]]  |
+| 3 [[WikiPages:coalfuel:copper_ore|Copper Ore]]  | [[WikiPages:custom1:copper|Copper]]  |
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Blacksmith RKEditorChoice}}

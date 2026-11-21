@@ -1,0 +1,108 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blacksmith Buildings ======
+----
+
+Forges, smithies, and other buildings that produce tools and metal goods.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:metalworking:tetower|Tool Tower]] | Tool Emporium building; upgrades standard tools into steel tools using firewood |
+| [[buildings:metalworking:nmt30armormaker|Armor Maker]] | NMT armor maker; crafts various armor tiers from iron, leather, and precious metals |
+| [[buildings:metalworking:jinxiebittyblacksmith|Bitty Blacksmith]] | Bitty Village blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:bgsmith|BG Smith]] | Bakery & Garden Alt smithy; Toolmaker crafts Tools and Steel Tools from Iron, Wood, and Coal |
+| [[buildings:metalworking:blacksmith|Blacksmith]] | Forges tools and metal goods from wood and iron |
+| [[buildings:metalworking:bbtoolmaker|Blacksmith (Bed and Breakfast)]] | Bed and Breakfast blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:ctoolmaker|Blacksmith (Colonial Charter)]] | Colonial Charter blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht1|Blacksmith (Corner T1)]] | RK Editor Choice corner blacksmith, Classic Stones style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht2|Blacksmith (Corner T2)]] | RK Editor Choice corner blacksmith, Old Stones style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht3|Blacksmith (Corner T3)]] | RK Editor Choice corner blacksmith, Red Bricks style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht4|Blacksmith (Corner T4)]] | RK Editor Choice corner blacksmith, Sand Bricks style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht5|Blacksmith (Corner T5)]] | RK Editor Choice corner blacksmith, Fire Bricks style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht6|Blacksmith (Corner T6)]] | RK Editor Choice corner blacksmith, Old Church Stones style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht7|Blacksmith (Corner T7)]] | RK Editor Choice corner blacksmith, Old Chapel Stones style; forges tools and metal goods |
+| [[buildings:metalworking:cornerblacksmitht8|Blacksmith (Corner T8)]] | RK Editor Choice corner blacksmith, Old Wood style; forges tools and metal goods |
+| [[buildings:metalworking:nmtblacksmith2dock|Blacksmith (NMT Dock 2)]] | NMT Docks blacksmith; Toolmaker forges tools from wood, stone, and metals; can smelt ores |
+| [[buildings:metalworking:nmtblacksmithstonedock|Blacksmith (NMT Stone Dock)]] | NMT Docks stone-construction blacksmith; upgraded from wood version; forges tools and smelts ores |
+| [[buildings:metalworking:dssvblacksmith|Blacksmith (Small Village)]] | DS Small Village blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:dsblastfurnace|Blast Furnace]] | DS Mods industrial smelter; Toolmaker smelts Iron Ore with Coke or Charcoal into Iron; Detraction building |
+| [[buildings:metalworking:dsblastfurnacecopy|Blast Furnace (Copy)]] | DS duplicate of the Blast Furnace; identical stats and recipes |
+| [[buildings:metalworking:cc17blacksmith|City Blacksmith]] | Colonial Charter city blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:dscokeoven1|Coke Oven]] | DS Mods industrial building; Toolmaker converts Coal into Coke for smelting |
+| [[buildings:metalworking:ruralsmith|Country Smithy]] | Colonial country smithy; forges tools and metal goods |
+| [[buildings:metalworking:coventoolmaker|Coven Tool Maker]] | Coven mod blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:dscrestblacksmith|Crest Family Blacksmith]] | DS Crest Family blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:forge|Forge]] | Colonial Charter forge; smelts ores into metals using Furnace Fuel |
+| [[buildings:metalworking:fodforge|Forge (Forge Of Dwarves)]] | Forge Of Dwarves forge; Toolmaker crafts Tools, Steel Tools, and Hardened Tools |
+| [[buildings:metalworking:fodwforge|Forge (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter forge; Toolmaker crafts Tools, Steel Tools, and Hardened Tools |
+| [[buildings:metalworking:fortblacksmith|Fort Blacksmith]] | Colonial Charter frontier blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:wftoolmaker|Fort Tool Maker]] | KID Wooden Fort tool maker; forges tools and metal goods |
+| [[buildings:metalworking:foundry|Foundry]] | Colonial Charter foundry; smelts ores into metals and casts finished goods |
+| [[buildings:metalworking:nmt30foundry|Foundry (NMT 3.1)]] | NMT 3.1 foundry; smelts ores into refined metals using charcoal or coal |
+| [[buildings:metalworking:gnsmith|Friendly Smith (Granny Neighborhood)]] | Granny Neighborhood smith; forges tools and metal goods |
+| [[buildings:metalworking:fodgrinder|Grinder (Forge Of Dwarves)]] | Forge Of Dwarves water-powered grinder; Toolmaker crafts Dwarven Axes; must be placed on water |
+| [[buildings:metalworking:fodwgrinder|Grinder (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter water-powered grinder; crafts Dwarven Axes; must be placed on water |
+| [[buildings:metalworking:cmhardwarestore|Hardware Store]] | Colonial Resources hardware store; forges tools and metal goods |
+| [[buildings:metalworking:hillsidesmith|Hillside Smith (Hillside Village)]] | Hillside Village smith; makes tools from iron, wood, and coal |
+| [[buildings:metalworking:maritimeshumbleironkiln|Iron Kiln (Maritimes Humble)]] | Maritimes Humble iron kiln; Smelter smelts Iron Ore into Iron using Charcoal or Firewood |
+| [[buildings:metalworking:ebsvsmelter|Iron Smelter]] | EB Small Village iron smelter; Smelter refines Iron Ore into Iron |
+| [[buildings:metalworking:dsjabconstructionyardforge|Jetty Construction: Forge]] | DS Jetty & Bridge metalworking building; smelts Iron Ore into Iron and Iron Fittings |
+| [[buildings:metalworking:largesmithy|Large Smithy]] | Colonial Charter upgraded smithy; forges tools and produces muskets |
+| [[buildings:metalworking:newmedievalblacksmith|Medieval Blacksmith]] | NMT blacksmith; forges tools for citizens |
+| [[buildings:metalworking:newmedievalblacksmithupg1|Medieval Blacksmith (Upgrade 1)]] | NMT blacksmith upgrade 1 |
+| [[buildings:metalworking:newmedievalblacksmithupg2|Medieval Blacksmith (Upgrade 2)]] | NMT blacksmith upgrade 2, brick exterior |
+| [[buildings:metalworking:newmedievalblacksmithupg3|Medieval Blacksmith (Upgrade 3)]] | NMT blacksmith upgrade 3, fully upgraded |
+| [[buildings:metalworking:metalsmith|Metalsmith]] | Colonial Charter metalsmith; Toolmaker works metals into tableware, pipes, and canteens; Detraction building |
+| [[buildings:metalworking:sbvblacksmith|Mission Blacksmith]] | SBV Mission blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:dsneubertsmithshop|Neubert Smith Shop]] | DS large smith shop; forges tools and metal goods; negative happiness effect on nearby residents |
+| [[buildings:metalworking:rkoldblacksmithshop|Old Blacksmith]] | RK Editor Choice blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:oldsmelter|Old Smelter (Colonial)]] | Colonial smelter; mints silver and gold coins from precious metals using Furnace Fuel |
+| [[buildings:metalworking:oldhovelsmith|Old Smith (Old Hovels)]] | KID Old Hovels blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:otsmith|Old Smith (Old Town)]] | KID Old Town smith; forges tools and metal goods |
+| [[buildings:metalworking:otstonesmith|Old Smith (Old Town, Stone)]] | KID Old Town stone smith; forges tools and metal goods |
+| [[buildings:metalworking:tefurnace|Ore Furnace]] | Tool Emporium building; Toolmaker smelts iron ore into iron |
+| [[buildings:metalworking:pineblacksmith|Pine Blacksmith]] | Necora Pine Set blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:prblacksmith|Port Royal Blacksmith]] | Necora Port Royal blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:prfurnace|Port Royal Furnace]] | Maritimes Port Royal small furnace; melts iron ore into iron |
+| [[buildings:metalworking:sbblacksmith|Sherbrooke Smith]] | Sherbrooke smith; forges tools and metal goods |
+| [[buildings:metalworking:industrysmall|Small Iron Smelter]] | Colonial Charter small smelter; smelts Iron Ore and Furnace Fuel into Iron; Detraction building |
+| [[buildings:metalworking:gfsmith1|Small Smith (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed smith; forges tools and metal goods |
+| [[buildings:metalworking:gfsmith2|Small Smith (Gothic Fantasy 2)]] | Gothic Fantasy happy-themed smith; forges tools and metal goods |
+| [[buildings:metalworking:rhbs|Small Town Blacksmith]] | KID Small Town Row Business blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:fodfurnace|Smelter (Forge Of Dwarves)]] | Forge Of Dwarves smelter; Worker smelts Iron Ore and Coal into Iron |
+| [[buildings:metalworking:fodwfurnace|Smelter (Forge Of Dwarves - Winter)]] | Forge Of Dwarves Winter smelter; Worker smelts Iron Ore and Coal into Iron |
+| [[buildings:metalworking:bodiamsmith|Smith (Bodiam Castle)]] | Bodiam Castle courtyard toolsmith; forges tools and metal goods |
+| [[buildings:metalworking:ftcsmith|Smith (Fairy Tale Cottage)]] | Fairy Tale Cottage smith; forges tools and metal goods |
+| [[buildings:metalworking:fbsmith|Smith (Friendly Blue)]] | Friendly Blue smith; forges tools and metal goods |
+| [[buildings:metalworking:fbtsmith|Smith (Friendly Blue Too)]] | Friendly Blue Too smith; forges tools and metal goods |
+| [[buildings:metalworking:fnsmith|Smith (Friendly Neighborhood)]] | Friendly Neighborhood smith; forges tools and metal goods |
+| [[buildings:metalworking:fpsmith|Smith (Friendly Pumpkin)]] | Friendly Pumpkin smith; forges tools and metal goods |
+| [[buildings:metalworking:hobbitsmith|Smith (Hobbit)]] | Hobbit village smith; forges tools and metal goods |
+| [[buildings:metalworking:settlerssmith|Smith (Settlers)]] | Settlers smith; forges tools and metal goods |
+| [[buildings:metalworking:shatowersmith|Smith (Stone House Addon)]] | Stone House Addon smith; forges tools and metal goods |
+| [[buildings:metalworking:tcsmith|Smith (Tangerine Center)]] | Tangerine Center smith; forges tools and metal goods |
+| [[buildings:metalworking:shatowersmithroof|Smith with Roof (Stone House Addon)]] | Stone House Addon smith with roof; forges tools and metal goods |
+| [[buildings:metalworking:ftspelltower|Spell Tower (Fairy Tale Cottage)]] | Fairy Tale Cottage spell tower; Magician crafts enhanced tools and Elven Bows using Magic Crystals |
+| [[buildings:metalworking:japanforge|Tataraba Forge]] | A8 Japanese style forge; forges tools and metal goods |
+| [[buildings:metalworking:tinyfurnace|Tiny Furnace]] | KID Tiny Builders compact furnace; smelts Iron Ore into Iron |
+| [[buildings:metalworking:tinysmith|Tiny Smith]] | KID Tiny Village smith; forges tools and metal goods |
+| [[buildings:metalworking:ectoolmaker|Tool Maker (Editor's Choice)]] | Editor's Choice tool maker; forges tools and metal goods |
+| [[buildings:metalworking:fbtoolmaker|Tool Maker (FB)]] | Friendly Blue Too tool maker; forges tools and metal goods |
+| [[buildings:metalworking:mgtoolmaker|Tool Maker (MG)]] | Large Medieval Grace tool maker building; forges tools and metal goods |
+| [[buildings:metalworking:otptoolmaker|Tool Maker (Old Town Ports)]] | Old Town Ports tool maker; forges tools and metal goods |
+| [[buildings:metalworking:tmtoolmaker|Tool Maker (Tequila Mod)]] | Tequila Mod tool maker; forges tools and metal goods |
+| [[buildings:metalworking:wwtoolmaker|Tool Maker (Wild West)]] | Wild West tool maker; forges tools and metal goods |
+| [[buildings:metalworking:tesmith|Tool Smith (Tool Emporium)]] | Tool Emporium tool smith; forges tools and metal goods |
+| [[buildings:metalworking:ootwtools|Tool Workshop (OOTW)]] | Out Of This World tool workshop; Blacksmith forges tools from iron and steel |
+| [[buildings:metalworking:shwtoolsmith|Toolsmith (Summer Haven)]] | Summer Haven toolsmith; forges tools and metal goods |
+| [[buildings:metalworking:wwtoolsmith|Toolsmith (Wild West)]] | Wild West toolsmith; forges tools and metal goods |
+| [[buildings:metalworking:wptoolsmith|Toolsmith (Workplace)]] | KID Workplace toolsmith; forges tools and metal goods |
+| [[buildings:metalworking:tieredblacksmith|Urban Blacksmith]] | Colonial Charter modular stacked urban blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:ebsvblacksmith|Village Blacksmith (EB)]] | EB Small Village blacksmith; forges tools and metal goods |
+| [[buildings:metalworking:nmt30weaponmaker|Weapon Maker]] | NMT weapon maker; forges weapons from iron, wood, and precious metals |
+| [[buildings:metalworking:toolmaker|Tool Maker]] | Vanilla Banished tool production building; Tool Maker crafts Iron Tools and Steel Tools; 7 × 5 footprint |
+
+----
+
+{{tag>Buildings Blacksmith}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Village Barn (3×3 Angle) ======
+----
+
+<WRAP right>
+^  Small Village Barn (3×3 Angle)                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragebarn3x3angle.png?nolink|Small Village Barn (Angle)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,500  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Custom 0/1/2/6/7/8/9  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village mod angled general storage barn. Settlers store food, tools, clothing, and a variety of goods with a capacity of 1,500 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragebarn3x3angle.png?nolink|Small Village Barn (Angle)}}</wrap> **Small Village Barn (Angle)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragebarn3x3angle.png?nolink|Small Village Barn (Angle)}}</wrap> **Small Village Barn (Angle)**
+
+----
+
+This building originally came from **Small Village: Storage v1.2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=215|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231746080|Steam]]
+
+{{tag>Building Storage DSSV}}

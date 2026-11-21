@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Urban Storage Barn ======
+----
+
+<WRAP right>
+^  Urban Storage Barn                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredstorage.png?nolink|Urban Storage Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5×6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×40, Stone ×10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter mod urban storage barn. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Tiered Items}}</wrap> **Tiered Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredstorage.png?nolink|Urban Storage Barn}}</wrap> **Urban Storage Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Tiered Items}}</wrap> **Tiered Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredstorage.png?nolink|Urban Storage Barn}}</wrap> **Urban Storage Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredstorage.png?nolink|Urban Storage Barn}}</wrap> **Urban Storage Barn**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

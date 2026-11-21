@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Camellia Seeds ======
+----
+
+<WRAP right>
+^  Camellia Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedshanchahua.png?nolink|Camellia Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,200  |
+</WRAP>
+<WRAP right></WRAP>
+
+Camellia Seeds are used to plant [[WikiPages:food:camellia|Camellia]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Boxes ======
+----
+
+<WRAP right>
+^  Storage Boxes                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreldecoboxes.png?nolink|Storage Boxes}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  200  |
+|  Storage Categories  |  Tools, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  5  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods small box storage cluster from the Thadd Surrel set. Settlers store tools, clothing, textiles, crafted goods, forged goods, fabrics, and miscellaneous items with a capacity of 200 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragebbc.png?nolink|Barrels, Boxes & Crates}}</wrap> **Barrels, Boxes & Crates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreldecoboxes.png?nolink|Storage Boxes}}</wrap> **Storage Boxes**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcratestorage.png?nolink|Crates, Barrels, and Boxes}}</wrap> **Crates, Barrels, and Boxes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreldecoboxes.png?nolink|Storage Boxes}}</wrap> **Storage Boxes**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurreldecoboxes.png?nolink|Storage Boxes}}</wrap> **Storage Boxes**
+
+----
+
+{{tag>Building Storage DS}}

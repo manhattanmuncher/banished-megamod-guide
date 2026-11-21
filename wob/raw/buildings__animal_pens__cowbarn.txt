@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Milking Barn ======
+----
+
+<WRAP right>
+^  Milking Barn                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcowbarn.png?nolink|Milking Barn}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herdsman.png?nolink|Herdsman}}</wrap> Herdsman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  Happiness  |  Health (radius 20)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+|  [[WikiPages:custom7:domesticated_animal|Domesticated Animal]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Milking Barn is a Colonial Charter building where a herdsman tends cattle to produce milk and leather. It requires domesticated animals to build and provides a health happiness bonus to nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardairy.png?nolink|Dairies}}</wrap> **Dairies** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcowbarn.png?nolink|Milking Barn}}</wrap> **Milking Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodrefining.png?nolink|Food Refining}}</wrap> **Food Refining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcowbarn.png?nolink|Milking Barn}}</wrap> **Milking Barn**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                                  ^
+|               | [[WikiPages:food:milk|Milk]]              |
+|               | [[WikiPages:textile:leather|Leather]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Animal ColonialCharter}}

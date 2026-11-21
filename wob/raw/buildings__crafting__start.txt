@@ -1,0 +1,89 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Crafting Buildings ======
+----
+
+Breweries, workshops, and other production buildings.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:crafting:beddingmaker|Bedding Maker]] | Colonial Charter building; crafts Bedding from feathers, cotton, or wool with cloth or linen |
+| [[buildings:crafting:backally|Bootlegger]] | Colonial Charter building; exchanges Silver Pfennig for goods otherwise difficult to obtain |
+| [[buildings:crafting:brewery|Brewery]] | Brews alcohol for consumption at taverns; provides citizen happiness |
+| [[buildings:crafting:nmt30candlemaker|Candle Maker]] | NMT candle maker; converts Beeswax into Candles |
+| [[buildings:crafting:gfcandlemaker1|Candlemaker (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed candlemaker; converts Beeswax into Candles |
+| [[buildings:crafting:gfcandlemaker2|Candlemaker (Gothic Fantasy 2)]] | Gothic Fantasy happy-themed candlemaker; converts Beeswax into Candles |
+| [[buildings:crafting:covencauldron|Cauldron]] | Coven mod building; brews Witch Brew from herbs and firewood for entertainment happiness |
+| [[buildings:crafting:chandlery|Chandlery]] | Colonial Charter chandlery; renders beeswax, blubber, or tallow into Candles |
+| [[buildings:crafting:packaging|Chartered Company]] | Colonial Charter trading company; exchanges goods for refined items at a small markup |
+| [[buildings:crafting:cc17lumberyard|City Lumber Yard]] | Colonial Charter city lumber yard; processes Wood or Hardwood into Lumber or Firewood |
+| [[buildings:crafting:cooper|Cooper]] | Colonial Charter workshop; crafts Crates, Barrels, or Casks from Wood |
+| [[buildings:crafting:dockshopcraft|Dock Workshop]] | Colonial Charter Dock building; Wetworker crafts Firebundles, Reed Coats, Rope, and Tools |
+| [[buildings:crafting:dorybuilder|Dory Builder]] | Maritimes Dock building; Boatman builds Dories from Lumber and Rope |
+| [[buildings:crafting:farmyard|Farmyard]] | Colonial Charter farmyard; processes cotton or flax into cloth, seed oil, or rope |
+| [[buildings:crafting:nmt30furnituremaker|Furniture Maker]] | NMT furniture maker; crafts Furniture from wood, lumber, and metals |
+| [[buildings:crafting:gbvsupplies|GBV Supplies]] | Gingerbread Village supplies shop; free to build; Toolmaker crafts Tools, Steel Tools, and coats |
+| [[buildings:crafting:gemsmith|Gemcutters]] | Colonial Resources building; cuts and polishes Rough Gemstones into Polished Gemstones |
+| [[buildings:crafting:nmt30mcglassmaker|Glass Maker]] | NMT glass maker; smelts Sand into Glass or Glassware |
+| [[buildings:crafting:ebglassworks|Glass Works]] | EB mod glass works; smelts Sand into Glass or Glassware using coal-type fuel |
+| [[buildings:crafting:glassworkers|Glassworks]] | Colonial Resources glass works; melts Sand into Glass or Glassware |
+| [[buildings:crafting:dsjabconstructionyardglass|Jetty Construction: Glass-maker]] | DS Jetty & Bridge glass maker; fires Sand with Firewood or Coal into Glass |
+| [[buildings:crafting:dsjabconstructionyardlumber|Jetty Construction: Lumber Yard]] | DS Jetty & Bridge lumber yard; processes Wood into Lumber or Firewood |
+| [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]] | DS Jetty & Bridge workshop; forges Tools, Fishing Gear, Iron Fittings, and Wagon Parts |
+| [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]] | DS Jetty & Bridge workshop, alternate style; same recipes as Jetty Workshop |
+| [[buildings:crafting:furnituremaker|Joiner]] | Colonial Charter joinery; crafts Furniture from wood and Fancy Furniture from hardwood |
+| [[buildings:crafting:maritimeshumblelumbercutter|Lumber Cutter (Maritimes Humble)]] | Maritimes Humble lumber cutter; mills Wood into Lumber |
+| [[buildings:crafting:dslumbermill|Lumber Mill]] | DS Mods waterfront sawmill; processes Logs into Lumber or Firewood |
+| [[buildings:crafting:newmedievalarcheology|Medieval Archaeology]] | NMT archaeology site; converts stone into historical artefacts |
+| [[buildings:crafting:newmedievalarcheologyupg|Medieval Archaeology (Upgraded)]] | NMT upgraded archaeology site; processes stone and clay into artefacts |
+| [[buildings:crafting:newmedievalpoteryshop|Medieval Pottery Shop]] | NMT pottery shop; fires clay into pottery vessels |
+| [[buildings:crafting:newmedievalpoteryshopupg|Medieval Pottery Shop (Upgraded)]] | NMT upgraded pottery shop with improved efficiency |
+| [[buildings:crafting:mgcraftersguild|MG Crafters Guild]] | Medieval Grace mod multi-purpose building; Monks craft tools, clothing, and prepared foods |
+| [[buildings:crafting:bbnightcap|Night Cap]] | Bed and Breakfast brewer; crafts cider and ale, provides entertainment happiness |
+| [[buildings:crafting:oilpress|Oil Press (Colonial)]] | Colonial oil press; extracts various oils from seeds and blubber |
+| [[buildings:crafting:eboilpress|Oil Press (EB)]] | EB mod oil press; produces Linseed Oil and Seed Oil from flax and nuts |
+| [[buildings:crafting:oldcarver|Old Carver]] | Colonial carver's workshop; sculpts decorative statues from wood, stone, jade, or marble |
+| [[buildings:crafting:oldchandlery|Old Chandlery]] | Colonial chandlery; dips candles from beeswax, blubber, or tallow |
+| [[buildings:crafting:oldoilpress|Old Oil Press (Colonial)]] | Colonial oil press variant; extracts various oils from seeds and blubber |
+| [[buildings:crafting:pinepitchkiln|Pine Pitch Kiln]] | Necora Pine Set pitch kiln; burns pine boughs or wood to produce pitch and charcoal |
+| [[buildings:crafting:phsupplies|Plantation Supplies (Plimoth Harmonized)]] | Plimoth Harmonized supplies building; crafts tools and clothing |
+| [[buildings:crafting:ppsupplies|Plantation Supplies (Plimoth Plantation)]] | Plimoth Plantation supplies building; crafts tools and clothing |
+| [[buildings:crafting:mfpotter|Potter]] | Mexican Fantasy potter; fires Clay into Pottery using Firewood |
+| [[buildings:crafting:potterybarn|Pottery Barn]] | Colonial Charter pottery barn; fires Clay into Pottery using Furnace Fuel |
+| [[buildings:crafting:cornerpotteryt1|Pottery Maker (Corner T1)]] | NMT Corner pottery maker, tier 1; fires Pottery from Clay and Charcoal |
+| [[buildings:crafting:cornerpotteryt2|Pottery Maker (Corner T2)]] | NMT Corner pottery maker, tier 2 |
+| [[buildings:crafting:cornerpotteryt3|Pottery Maker (Corner T3)]] | NMT Corner pottery maker, tier 3 |
+| [[buildings:crafting:cornerpotteryt4|Pottery Maker (Corner T4)]] | NMT Corner pottery maker, tier 4 |
+| [[buildings:crafting:cornerpotteryt5|Pottery Maker (Corner T5)]] | NMT Corner pottery maker, tier 5 |
+| [[buildings:crafting:cornerpotteryt6|Pottery Maker (Corner T6)]] | NMT Corner pottery maker, tier 6 |
+| [[buildings:crafting:cornerpotteryt7|Pottery Maker (Corner T7)]] | NMT Corner pottery maker, tier 7 |
+| [[buildings:crafting:cornerpotteryt8|Pottery Maker (Corner T8)]] | NMT Corner pottery maker, tier 8 |
+| [[buildings:crafting:ropemaker|Rope Maker]] | Maritimes rope maker; twists flax or hemp leaf into Rope |
+| [[buildings:crafting:ropery|Ropery]] | Colonial Charter ropery; twists flax, hemp leaf, or reeds into Rope |
+| [[buildings:crafting:bbsapboiler|Sap Boiler]] | Bed and Breakfast building; boils maple sap into maple syrup |
+| [[buildings:crafting:sbboatshop|Sherbrooke Boat Shop]] | Sherbrooke Village boat shop; crafts dories, lobster pots, fishing nets, and lines |
+| [[buildings:crafting:dssvworkshop0small|Small Workshop]] | DS Small Village micro-workshop; crafts Tools, Clothing, and Gear from raw materials |
+| [[buildings:crafting:carver|Statue Carver]] | Colonial Charter carver; fashions decorative statues from wood, stone, jade, and marble |
+| [[buildings:crafting:dsstonebridgeworkshop|Stone Bridge Workshop]] | DS Stone Bridge workshop; forges Tools, Leather Coats, and Fishing Gear |
+| [[buildings:crafting:swampworkshop|Swamp Workshop]] | Swamp Houses crafting building; produces tools and clothing from raw materials |
+| [[buildings:crafting:tinybrickworkshop|Tiny Brick Workshop]] | KID compact workshop; fires Clay and Firewood into Bricks and Roof Tiles |
+| [[buildings:crafting:tinyglassworkshop|Tiny Glass Workshop]] | KID compact glass workshop; smelts Sand and Firewood into Glass |
+| [[buildings:crafting:tinypotteryworkshop|Tiny Pottery Workshop]] | KID Tiny Builders compact workshop; makes Pottery from Clay and Firewood |
+| [[buildings:crafting:tinylumberer|Tiny Lumberer]] | KID compact lumber yard; processes Wood into Lumber or Firewood |
+| [[buildings:crafting:tinyworkshop|Tiny Workshop]] | KID compact workshop; crafts Tools and Clothing from raw materials |
+| [[buildings:crafting:tobaccobarn|Tobacco Barn]] | Colonial Charter tobacco barn; cures Tobacco Leaf into Pipe Tobacco |
+| [[buildings:crafting:pineturpentinestill|Turpentine Still]] | Necora Pine Set turpentine still; distils turpentine from pine resin and charcoal |
+| [[buildings:crafting:dssvcandlemaker|Village Candle Maker]] | DS Small Village candle maker; makes Candles and Ear Candles from Beeswax |
+| [[buildings:crafting:ebsvoilpress|Village Oil Press]] | EB Small Village oil press; presses various crops into oils sealed in Amphora |
+| [[buildings:crafting:ebsvpottery|Village Pottery]] | EB Small Village pottery; fires Clay into Amphora using coal or charcoal |
+| [[buildings:crafting:dssvworkshop1|Village Workshop]] | DS Small Village workshop; forges Tools, Hunting/Fishing Gear, and Gathering Baskets |
+| [[buildings:crafting:gtwagon|Wagon (Ghost Town)]] | Ghost Town wagon; processes gold into paint |
+| [[buildings:crafting:dswagonvendorworkshop|Wagon Workshop]] | DS Wagon Vendor compact workshop; forges Tools and crafts Wagon Parts |
+| [[buildings:crafting:otpwoodshop|Wood Shop (Old Town Ports)]] | Old Town Ports wood shop; crafts peg legs or splits logs into firewood |
+| [[buildings:crafting:fhworkshop|Workshop (Forest Haven)]] | Forest Haven workshop; produces Tools and Clothing from raw materials |
+| [[buildings:crafting:foworkshop|Workshop (Forest Outpost)]] | Forest Outpost workshop; crafts tools and clothing from basic raw materials |
+
+----
+
+{{tag>Buildings Crafting}}

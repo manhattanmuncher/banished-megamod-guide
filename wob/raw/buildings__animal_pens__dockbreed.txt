@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Chicken Breeder ======
+----
+
+<WRAP right>
+^  Dock Chicken Breeder                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockbreed.png?nolink|Dock Chicken Breeder}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/wetworker.png?nolink|Wetworker}}</wrap> Wetworker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  7.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  7  |
+|  Placement  |  On Dock platforms  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  550  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  29  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:food:egg|Egg]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Dock Chicken Breeder. A Wetworker raises chickens on the docks, randomly producing Eggs, Chickens, and Feathers. Build cost includes a starter clutch of Eggs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockbreed.png?nolink|Dock Chicken Breeder}}</wrap> **Dock Chicken Breeder**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar2.png?nolink|Storage, Industry & Food}}</wrap> **Storage, Industry & Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockbreed.png?nolink|Dock Chicken Breeder}}</wrap> **Dock Chicken Breeder**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockbreed.png?nolink|Dock Chicken Breeder}}</wrap> **Dock Chicken Breeder**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:food:egg|Egg]]
+  * [[WikiPages:food:chicken|Chicken]]
+  * [[WikiPages:textile:feathers_feather|Feathers]]
+
+Egg appears most frequently in the random pool, followed by Feathers, with Chicken being the rarest of the three.
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Animal ColonialCharter}}

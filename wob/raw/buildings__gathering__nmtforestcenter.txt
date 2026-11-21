@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NMT Forest Center ======
+----
+
+<WRAP right>
+^  NMT Forest Center                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcenter.png?nolink|NMT Forest Center}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  11 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Radius  |  40  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The NMT Forest Center is a large gathering hub that produces a variety of forest resources. Additional worker buildings (FC Woodcutter, FC Lumbermill, etc.) can be placed inside its radius to take advantage of its resource gathering area. Production is random among the available resources.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcentertoolbar.png?nolink|NMT Forest Center Toolbar}}</wrap> **NMT Forest Center Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcenter.png?nolink|NMT Forest Center}}</wrap> **NMT Forest Center**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcentertoolbar.png?nolink|NMT Forest Center Toolbar}}</wrap> **NMT Forest Center Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcenter.png?nolink|NMT Forest Center}}</wrap> **NMT Forest Center**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:wood:log|Wood]]
+  * [[WikiPages:food:onion|Onion]]
+  * [[WikiPages:food:mushroom|Mushroom]]
+  * [[WikiPages:food:root|Root]]
+  * [[WikiPages:health:herb|Herb]]
+  * [[WikiPages:fuel:firewood|Firewood]]
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:food:venison|Venison]]
+  * [[WikiPages:food:blueberries|Blueberries]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Center v3.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=358|WoB]]
+
+{{tag>Building Food Gathering}}

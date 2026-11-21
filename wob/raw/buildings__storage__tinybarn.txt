@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Tiny Barn ======
+----
+
+<WRAP right>
+^  Medieval Tiny Barn                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinybarn.png?nolink|Medieval Tiny Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×16, Stone ×4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town mod small storage barn. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Small Barns NMT}}</wrap> **Small Barns NMT** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinybarn.png?nolink|Medieval Tiny Barn}}</wrap> **Medieval Tiny Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Small Barns NMT}}</wrap> **Small Barns NMT** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinybarn.png?nolink|Medieval Tiny Barn}}</wrap> **Medieval Tiny Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinybarn.png?nolink|Medieval Tiny Barn}}</wrap> **Medieval Tiny Barn**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Storage NewMedievalTown}}

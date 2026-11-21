@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tools & Fuel Market ======
+----
+
+<WRAP right>
+^  Tools & Fuel Market                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebmarketfuel.png?nolink|Tools & Fuel Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Goods  |
+|  Radius  |  24  |
+|  Storage  |  2,200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small EB market stall distributing tools, firewood, and industrial fuel to nearby settlers. Provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebmarketfuel.png?nolink|Tools & Fuel Market}}</wrap> **Tools & Fuel Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtheme.png?nolink|EB Theme Toolbar}}</wrap> **EB Theme Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagestorage.png?nolink|Village Storage}}</wrap> **Village Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagesubmarkets.png?nolink|Markets}}</wrap> **Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebmarketfuel.png?nolink|Tools & Fuel Market}}</wrap> **Tools & Fuel Market**
+
+----
+
+===== Stocks =====
+
+  * Tools
+  * Fuel (firewood)
+  * Industrial fuel (Custom 3)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

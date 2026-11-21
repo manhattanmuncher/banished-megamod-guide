@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tidal Pool ======
+----
+
+<WRAP right>
+^  Tidal Pool                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtidal.png?nolink|Tidal Pool}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dredger.png?nolink|Dredger}}</wrap> Dredger  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  25  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter tidal pool where Dredgers harvest seafood and Pearls from surrounding water. The player selects which resource to gather.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrawfoodgathering.png?nolink|Raw Food Gathering}}</wrap> **Raw Food Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtidal.png?nolink|Tidal Pool}}</wrap> **Tidal Pool**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtidal.png?nolink|Tidal Pool}}</wrap> **Tidal Pool**
+
+----
+
+===== Produces =====
+
+Player selects one resource to harvest:
+
+  * [[WikiPages:food:oyster|Oyster]]
+  * [[WikiPages:food:mussel|Mussel]]
+  * [[WikiPages:food:seaweed|Seaweed]]
+  * [[WikiPages:food:crayfish|Crayfish]]
+  * [[WikiPages:custom6:pearl|Pearl]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food ColonialCharter}}

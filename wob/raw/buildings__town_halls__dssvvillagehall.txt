@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Hall ======
+----
+
+<WRAP right>
+^  Village Hall                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvvillagehall.png?nolink|Village Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:wood:log|Wood]]  |  89  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village town hall, providing colony resource-limit controls and census tracking.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvvillagehall.png?nolink|Village Hall}}</wrap> **Village Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsservices.png?nolink|DS Services}}</wrap> **DS Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvvillagehall.png?nolink|Village Hall}}</wrap> **Village Hall**
+
+----
+
+This building originally came from **Small Village: Services v1.1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=236|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231726495|Steam]]
+
+{{tag>Building TownHalls DSSV}}

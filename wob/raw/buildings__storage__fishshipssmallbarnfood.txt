@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Food Barn (Fish Ships) ======
+----
+
+<WRAP right>
+^  Small Food Barn                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmallbarnfood.png?nolink|Small Food Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fish Ships food-only storage barn. Settlers store food with a capacity of 4,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish Ships}}</wrap> **Fish Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmallbarnfood.png?nolink|Small Food Barn}}</wrap> **Small Food Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish Ships}}</wrap> **Fish Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmallbarnfood.png?nolink|Small Food Barn}}</wrap> **Small Food Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallbarn.png?nolink|Small Barns}}</wrap> **Small Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipssmallbarnfood.png?nolink|Small Food Barn (Fish Ships)}}</wrap> **Small Food Barn (Fish Ships)**
+
+----
+
+{{tag>Building Storage}}

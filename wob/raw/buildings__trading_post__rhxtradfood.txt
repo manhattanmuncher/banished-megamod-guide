@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Trader ======
+----
+
+<WRAP right>
+^  Food Trader                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxtradfood.png?nolink|Food Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (default 1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  52  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Small Town Row Business trading post specializing in food; a Food Merchant may visit by river boat.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxtrad.png?nolink|Small Traders}}</wrap> **Small Traders** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxtradfood.png?nolink|Food Trader}}</wrap> **Food Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrbmenu.png?nolink|Small Town Row Business}}</wrap> **Small Town Row Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxtrad.png?nolink|Small Traders}}</wrap> **Small Traders** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxtradfood.png?nolink|Food Trader}}</wrap> **Food Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhxtradfood.png?nolink|Food Trader}}</wrap> **Food Trader**
+
+----
+
+===== Merchants =====
+
+One merchant type may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+
+----
+
+===== Other Information =====
+
+{{tag>Building TradingPost RowHouse}}

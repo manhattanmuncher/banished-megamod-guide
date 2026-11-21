@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market Stew ======
+----
+
+<WRAP right>
+^  Market Stew                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketstew.png?nolink|Market Stew}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A market stew pot where a Worker simmers potatoes with meat or vegetables into Market Stew.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketfood.png?nolink|Market Food}}</wrap> **Market Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketstew.png?nolink|Market Stew}}</wrap> **Market Stew**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketstew.png?nolink|Market Stew}}</wrap> **Market Stew**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                          ^ Produces                                    ^
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:beef_beef|Beef]] + 1 [[WikiPages:health:herb|Herb]]                                                         | [[WikiPages:food:stew_stew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:mutton|Mutton]] + 1 [[WikiPages:health:herb|Herb]]                                                          | [[WikiPages:food:stew_stew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:venison|Venison]] + 1 [[WikiPages:health:herb|Herb]]                                                        | [[WikiPages:food:stew_stew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:chicken|Chicken]] + 1 [[WikiPages:health:herb|Herb]]                                                        | [[WikiPages:food:stew_stew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:food:rabbit_meat|Rabbit Meat]] + 1 [[WikiPages:health:herb|Herb]]                                                | [[WikiPages:food:stew_stew|Stew]]  |
+| 3 [[WikiPages:food:potato|Potato]] + 3 [[WikiPages:food:carrots|Carrots]] + 3 [[WikiPages:food:mushroom|Mushroom]]                                                   | [[WikiPages:food:stew_stew|Stew]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Market Food v4**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=206|WoB]]
+
+{{tag>Building Food MarketFood KID}}

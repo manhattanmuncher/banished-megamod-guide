@@ -1,0 +1,60 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jewelry Maker ======
+----
+
+<WRAP right>
+^  Jewelry Maker                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30jewelmaker.png?nolink|Jewelry Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  26  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+|  [[WikiPages:custom5:brick|Brick]]  |  18  |
+|  [[WikiPages:custom5:glass|Glass]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jewelry Maker crafts silver and gold jewelry from precious metals and gemstones.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarprecious.png?nolink|Precious Items Production}}</wrap> **Precious Items Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30jewelmaker.png?nolink|Jewelry Maker}}</wrap> **Jewelry Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30jewelmaker.png?nolink|Jewelry Maker}}</wrap> **Jewelry Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                          ^ Produces                                                  ^
+| 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:amethyst|Amethyst]]                                       | [[WikiPages:custom6:silver_ring|Silver Ring]]             |
+| 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:topaz|Topaz]]                                             | [[WikiPages:custom6:silver_brooch|Silver Brooch]]         |
+| 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:emerald|Emerald]]                                         | [[WikiPages:custom6:silver_pendant|Silver Pendant]]       |
+| 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:sapphire|Sapphire]]                                       | [[WikiPages:custom6:silver_necklace|Silver Necklace]]     |
+| 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:ruby|Ruby]]                                               | [[WikiPages:custom6:silver_bracelets|Silver Bracelets]]   |
+| 1 Silver Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:diamond|Diamond]]                                         | [[WikiPages:custom6:silver_circlet|Silver Circlet]]       |
+| 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:topaz|Topaz]]                                               | [[WikiPages:custom6:gold_ring|Gold Ring]]                 |
+| 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:amethyst|Amethyst]]                                         | [[WikiPages:custom6:gold_brooch|Gold Brooch]]             |
+| 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:sapphire|Sapphire]]                                         | [[WikiPages:custom6:gold_pendant|Gold Pendant]]           |
+| 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:emerald|Emerald]]                                           | [[WikiPages:custom6:gold_necklace|Gold Necklace]]         |
+| 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:diamond|Diamond]]                                           | [[WikiPages:custom6:gold_bracelets|Gold Bracelets]]       |
+| 1 Gold Bar + 3 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:custom6:ruby|Ruby]]                                                 | [[WikiPages:custom6:gold_circlet|Gold Circlet]]           |
+| 1 [[WikiPages:custom1:copper|Copper]] + 12 [[WikiPages:custom6:pearl|Pearl]]                                                         | [[WikiPages:custom6:pearl_necklace|Pearl Necklace]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Precious}}

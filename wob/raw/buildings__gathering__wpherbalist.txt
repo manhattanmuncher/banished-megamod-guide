@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WP Herbalist ======
+----
+
+<WRAP right>
+^  WP Herbalist                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpherbalist.png?nolink|WP Herbalist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Work Place compact herbalist shelter. Herbalists gather medicinal herbs from the surrounding area within a 24-tile radius, providing healing to nearby citizens.
+
+----
+
+^ Toolbar ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarherbalist.png?nolink|Herbalists and Apothecaries}}</wrap> **Herbalists and Apothecaries** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpherbalist.png?nolink|WP Herbalist}}</wrap> **WP Herbalist** |
+
+----
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building Gathering KidWorkPlace}}

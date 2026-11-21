@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market ======
+----
+
+<WRAP right>
+^  Market                                                                             ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarket.png?nolink|Market}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  14 × 14  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 25 (default: 12)  ||
+|  Happiness  |  Goods (radius 45)  ||
+|  <abbr "On-site storage volume">Storage</abbr>  |  10,000  |  18,500  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Iron, Wood  |  (all categories)  |
+^  Build Cost                                                                         ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  ||
+|  [[WikiPages:wood:log|Log]]  |  58  ||
+|  [[WikiPages:stone:stone|Stone]]  |  62  ||
+|  [[WikiPages:iron:iron|Iron]]  |  40  ||
+</WRAP>
+<WRAP right></WRAP>
+
+The Market is the vanilla Banished market building. Vendors distribute goods to citizens, providing a Goods happiness bonus within a large 45-tile radius. MegaMod increases its storage capacity and lets it stock every storage category (vanilla is limited to a smaller set), with fill ratios rebalanced across the expanded goods list.
+
+----
+
+===== Where to Find =====
+
+The Market is found in the vanilla Banished **Social** building category.
+
+----
+
+===== Other Information =====
+
+{{tag>Building Market}}

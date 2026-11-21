@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Open Schoolhouse ======
+----
+
+<WRAP right>
+^  Open Schoolhouse                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildopenschoolhouse.png?nolink|Open Schoolhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  65  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An open schoolhouse staffed by a Teacher, educating up to 20 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildopenschoolhouse.png?nolink|Open Schoolhouse}}</wrap> **Open Schoolhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildopenschoolhouse.png?nolink|Open Schoolhouse}}</wrap> **Open Schoolhouse**
+
+----
+
+===== Other Information =====
+
+This building originally came from **South African Miscellaneous v1.5**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=465|WoB]], [[https://www.nexusmods.com/banished/mods/111|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1531417763|Steam]]
+
+{{tag>Building School A8toolbar}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hacienda ======
+----
+
+<WRAP right>
+^  Hacienda                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtahacienda.png?nolink|Hacienda}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  54  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Tequila Addon hacienda; houses up to 7 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tamenu.png?nolink|The Tequila Addon}}</wrap> **The Tequila Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtahacienda.png?nolink|Hacienda}}</wrap> **Hacienda**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/tamenu.png?nolink|The Tequila Addon}}</wrap> **The Tequila Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtahacienda.png?nolink|Hacienda}}</wrap> **Hacienda**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtahacienda.png?nolink|The Tequila Addon}}</wrap> **The Tequila Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtahacienda.png?nolink|Hacienda}}</wrap> **Hacienda**
+
+----
+
+This building originally came from **Tequila Addon v1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=324|WoB]]
+
+{{tag>Building Houses TequilaAddon}}

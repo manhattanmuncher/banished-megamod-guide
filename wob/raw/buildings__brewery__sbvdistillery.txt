@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== SBV Distillery ======
+----
+
+<WRAP right>
+^  SBV Distillery                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvdistillery.png?nolink|SBV Distillery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Entertainment (radius 30)  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  18  |
+|  [[WikiPages:iron:iron|Iron]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+SBV Mission distillery; brews liqueur from grain, honey, herbs, or blueberries. Provides entertainment happiness when stocked with Alcohol.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|SBV Mission}}</wrap> **SBV Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvdistillery.png?nolink|SBV Distillery}}</wrap> **SBV Distillery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|SBV Mission}}</wrap> **SBV Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvdistillery.png?nolink|SBV Distillery}}</wrap> **SBV Distillery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                           ^ Produces                                          ^
+| 40 [[WikiPages:food:wheat|Wheat]] + 8 [[WikiPages:food:honey|Honey]] + 8 [[WikiPages:health:herb|Herb]]                              | [[WikiPages:alcohol:liqueur|Liqueur]]             |
+| 40 [[WikiPages:food:corn|Corn]] + 8 [[WikiPages:food:honey|Honey]] + 8 [[WikiPages:health:herb|Herb]]                                | [[WikiPages:alcohol:liqueur|Liqueur]]             |
+| 40 [[WikiPages:food:wheat|Wheat]] + 8 [[WikiPages:food:honey|Honey]] + 20 [[WikiPages:food:blueberries|Blueberry]]                   | [[WikiPages:alcohol:liqueur|Liqueur]]             |
+| 40 [[WikiPages:food:corn|Corn]] + 8 [[WikiPages:food:honey|Honey]] + 20 [[WikiPages:food:blueberries|Blueberry]]                     | [[WikiPages:alcohol:liqueur|Liqueur]]             |
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvdistillery.png?nolink|SBV Distillery}}</wrap> **SBV Distillery**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Brewery SBVMission}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Maritimes Storage Barn ======
+----
+
+<WRAP right>
+^  Maritimes Storage Barn                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesstoragebarn.png?nolink|Maritimes Storage Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Health, Tools, Clothing, Textile, Alcohol, Crafted Goods, Forged Goods, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora's Maritimes large storage barn. Settlers store health items, tools, clothing, textiles, alcohol, crafted goods, forged goods, and a variety of goods with a capacity of 8,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage}}</wrap> **Necora's Maritimes Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesstoragebarn.png?nolink|Maritimes Storage Barn}}</wrap> **Maritimes Storage Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesstoragebarn.png?nolink|Maritimes Storage Barn}}</wrap> **Maritimes Storage Barn**
+
+----
+
+This building originally came from **Maritimes Storage v101**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=238|WoB]]
+
+{{tag>Building Storage Maritimes}}

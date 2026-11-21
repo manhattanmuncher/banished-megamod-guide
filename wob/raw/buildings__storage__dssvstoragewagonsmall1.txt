@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Storage Wagon ======
+----
+
+<WRAP right>
+^  Village Storage Wagon                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragewagonsmall1.png?nolink|Village Storage Wagon}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  800  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Crafted Goods, Fabrics  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  13  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:iron:iron|Iron]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village mod small storage wagon. Settlers store food, tools, health items, clothing, textiles, crafted goods, and fabrics with a capacity of 800 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstoragewbc.png?nolink|Wagons, Barrows & Carts}}</wrap> **Wagons, Barrows & Carts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragewagonsmall1.png?nolink|Village Storage Wagon}}</wrap> **Village Storage Wagon**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvstoragewagonsmall1.png?nolink|Village Storage Wagon}}</wrap> **Village Storage Wagon**
+
+----
+
+This building originally came from **Small Village: Storage v1.2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=215|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231746080|Steam]]
+
+{{tag>Building Storage DSSV}}

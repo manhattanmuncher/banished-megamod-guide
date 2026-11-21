@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Station: Utility Export ======
+----
+
+<WRAP right>
+^  Station: Utility Export                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant3.png?nolink|Station: Utility Export}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/merchant.png?nolink|Merchant}}</wrap> Merchant  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Station: Utility Export is a Choo Choo mod building that functions as a utility goods export depot. A Merchant packages alcohol, firewood, herbs, and tools with a single unit of Wood and sells the bundle for Coins.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant3.png?nolink|Station: Utility Export}}</wrap> **Station: Utility Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant3.png?nolink|Station: Utility Export}}</wrap> **Station: Utility Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant3.png?nolink|Station: Utility Export}}</wrap> **Station: Utility Export**
+
+----
+
+===== Recipes (Goods + 1 Wood → Coins) =====
+
+^ Ingredients                                                                                 ^ Produces                              ^
+| 75 [[WikiPages:alcohol:ale|Ale]] + 1 [[WikiPages:wood:log|Wood]]                           | [[WikiPages:custom6:coins|Coins]]     |
+| 75 [[WikiPages:alcohol:beer|Beer]] + 1 [[WikiPages:wood:log|Wood]]                         | [[WikiPages:custom6:coins|Coins]]     |
+| 150 [[WikiPages:fuel:firewood|Firewood]] + 1 [[WikiPages:wood:log|Wood]]                   | [[WikiPages:custom6:coins|Coins]]     |
+| 150 [[WikiPages:health:herb|Herb]] + 1 [[WikiPages:wood:log|Wood]]                         | [[WikiPages:custom6:coins|Coins]]     |
+| 75 [[WikiPages:tool:tool|Tool]] + 1 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:custom6:coins|Coins]]     |
+| 60 [[WikiPages:tool:steeltool|Steel Tool]] + 1 [[WikiPages:wood:log|Wood]]                 | [[WikiPages:custom6:coins|Coins]]     |
+| 33 [[WikiPages:tool:carbon_steel_tool|Carbon Steel Tool]] + 1 [[WikiPages:wood:log|Wood]]  | [[WikiPages:custom6:coins|Coins]]     |
+| 75 [[WikiPages:tool:stone_tool|Stone Tool]] + 1 [[WikiPages:wood:log|Wood]]                | [[WikiPages:custom6:coins|Coins]]     |
+| 120 [[WikiPages:tool:wooden_tool|Wooden Tool]] + 1 [[WikiPages:wood:log|Wood]]             | [[WikiPages:custom6:coins|Coins]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building ChooChoo}}

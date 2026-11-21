@@ -1,0 +1,160 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Milling Buildings ======
+----
+
+Windmills, watermills, and other buildings that grind grain into flour.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:milling:bbmill|Water Mill]] | Bed and Breakfast small mill; processes grain into flour |
+| [[buildings:milling:bgmill|Mill (Botanical Garden)]] | Botanical Garden mill; processes grain into flour |
+| [[buildings:milling:clmill|Wind Mill]] | Colonial Resources wind mill; processes grain into flour |
+| [[buildings:milling:watermill|Watermill]] | Processes grain into flour |
+| [[buildings:milling:windmill|Windmill]] | Processes grain into flour |
+| [[buildings:milling:dssvwindmill|Windmill (Small Village)]] | DS Small Village windmill; processes grain into flour |
+| [[buildings:milling:ebwindmill|Windmill (EB)]] | EB windmill; processes grain into flour |
+| [[buildings:milling:fbmill|Mill (Friendly Blue)]] | Friendly Blue mill; processes grain into flour |
+| [[buildings:milling:fbtmill|Mill (Friendly Blue Too)]] | Friendly Blue Too mill; processes grain into flour |
+| [[buildings:milling:fhmill|Mill (Forest Haven)]] | Forest Haven mill; processes grain into flour |
+| [[buildings:milling:fpmill|Mill (Friendly Pumpkin)]] | Friendly Pumpkin mill; processes grain into flour |
+| [[buildings:milling:ftcmiller|Miller (Fairy Tale Cottage)]] | Fairy Tale Cottage miller; processes grain into flour |
+| [[buildings:milling:gfmill|Mill (Gothic Farm)]] | Gothic Farm mill; processes grain into flour |
+| [[buildings:milling:gnmill|Friendly Miller (Granny Neighborhood)]] | Granny Neighborhood mill; processes grain into flour |
+| [[buildings:milling:hillsidemillground|Hillside Mill Ground]] | Hillside Village mill, ground level; processes grain into flour |
+| [[buildings:milling:hillsidemillhi|Hillside Mill Hi]] | Hillside Village mill, highest elevation; processes grain into flour |
+| [[buildings:milling:hillsidemilllow|Hillside Mill Low]] | Hillside Village mill, low elevation; processes grain into flour |
+| [[buildings:milling:hillsidemillmid|Hillside Mill Mid]] | Hillside Village mill, mid elevation; processes grain into flour |
+| [[buildings:milling:hobbitmill|Mill (Hobbit)]] | Hobbit village mill; processes grain into flour |
+| [[buildings:milling:jinxiebittywindmill|Bitty Windmill]] | Bitty Village windmill; processes grain into flour |
+| [[buildings:milling:jinxiebittyspagwindmill|Bitty Windmill (Pasta Set)]] | Jinxie's Bitty Pasta Set windmill; Miller grinds wheat or corn into flour |
+| [[buildings:milling:kbbmill|KBB Mill]] | Butcher & Baker mill; Miller grinds Barley, Corn, Oat, Wheat, or Wild Oats into Flour |
+| [[buildings:milling:nmt30canal4xmillc1|Medieval Canal : Mill (4x, Classic)]] | NMT 3.1 canal mill, 4-wide, Classic stone; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc1r|Medieval Canal : Mill (4x, Classic, Reversed)]] | NMT 3.1 canal mill, 4-wide, Classic stone, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc2|Medieval Canal : Mill (4x, Old Stones)]] | NMT 3.1 canal mill, 4-wide, Old Stones; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc2r|Medieval Canal : Mill (4x, Old Stones, Reversed)]] | NMT 3.1 canal mill, 4-wide, Old Stones, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc3|Medieval Canal : Mill (4x, Red Bricks)]] | NMT 3.1 canal mill, 4-wide, Red Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc3r|Medieval Canal : Mill (4x, Red Bricks, Reversed)]] | NMT 3.1 canal mill, 4-wide, Red Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc4|Medieval Canal : Mill (4x, Sand Bricks)]] | NMT 3.1 canal mill, 4-wide, Sand Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc4r|Medieval Canal : Mill (4x, Sand Bricks, Reversed)]] | NMT 3.1 canal mill, 4-wide, Sand Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc5|Medieval Canal : Mill (4x, Fire Bricks)]] | NMT 3.1 canal mill, 4-wide, Fire Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc5r|Medieval Canal : Mill (4x, Fire Bricks, Reversed)]] | NMT 3.1 canal mill, 4-wide, Fire Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc6|Medieval Canal : Mill (4x, Old Church)]] | NMT 3.1 canal mill, 4-wide, Old Church stone; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc6r|Medieval Canal : Mill (4x, Old Church, Reversed)]] | NMT 3.1 canal mill, 4-wide, Old Church stone, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc7|Medieval Canal : Mill (4x, Dark Stones)]] | NMT 3.1 canal mill, 4-wide, Dark Stones; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc7r|Medieval Canal : Mill (4x, Dark Stones, Reversed)]] | NMT 3.1 canal mill, 4-wide, Dark Stones, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc8|Medieval Canal : Mill (4x, Old Wood)]] | NMT 3.1 canal mill, 4-wide, Old Wood; processes grain into flour |
+| [[buildings:milling:nmt30canal4xmillc8r|Medieval Canal : Mill (4x, Old Wood, Reversed)]] | NMT 3.1 canal mill, 4-wide, Old Wood, reversed; processes grain into flour |
+| [[buildings:milling:canal4xmillc1|Canal : Mill (4x, Classic)]] | NMT 3.1 canal mill, 4-wide, Classic stone (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc1r|Canal : Mill (4x, Classic, Reversed)]] | NMT 3.1 canal mill, 4-wide, Classic stone, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc2|Canal : Mill (4x, Old Stones)]] | NMT 3.1 canal mill, 4-wide, Old Stones (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc2r|Canal : Mill (4x, Old Stones, Reversed)]] | NMT 3.1 canal mill, 4-wide, Old Stones, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc3|Canal : Mill (4x, Red Bricks)]] | NMT 3.1 canal mill, 4-wide, Red Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc3r|Canal : Mill (4x, Red Bricks, Reversed)]] | NMT 3.1 canal mill, 4-wide, Red Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc4|Canal : Mill (4x, Sand Bricks)]] | NMT 3.1 canal mill, 4-wide, Sand Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc4r|Canal : Mill (4x, Sand Bricks, Reversed)]] | NMT 3.1 canal mill, 4-wide, Sand Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc5|Canal : Mill (4x, Fire Bricks)]] | NMT 3.1 canal mill, 4-wide, Fire Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc5r|Canal : Mill (4x, Fire Bricks, Reversed)]] | NMT 3.1 canal mill, 4-wide, Fire Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc6|Canal : Mill (4x, Old Church)]] | NMT 3.1 canal mill, 4-wide, Old Church stone (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc6r|Canal : Mill (4x, Old Church, Reversed)]] | NMT 3.1 canal mill, 4-wide, Old Church stone, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc7|Canal : Mill (4x, Dark Stones)]] | NMT 3.1 canal mill, 4-wide, Dark Stones (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc7r|Canal : Mill (4x, Dark Stones, Reversed)]] | NMT 3.1 canal mill, 4-wide, Dark Stones, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc8|Canal : Mill (4x, Old Wood)]] | NMT 3.1 canal mill, 4-wide, Old Wood (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal4xmillc8r|Canal : Mill (4x, Old Wood, Reversed)]] | NMT 3.1 canal mill, 4-wide, Old Wood, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:nmt30canal6xmillc1|Medieval Canal : Mill (6x, Classic)]] | NMT 3.1 canal mill, 6-wide, Classic stone; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc1r|Medieval Canal : Mill (6x, Classic, Reversed)]] | NMT 3.1 canal mill, 6-wide, Classic stone, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc2|Medieval Canal : Mill (6x, Old Stones)]] | NMT 3.1 canal mill, 6-wide, Old Stones; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc2r|Medieval Canal : Mill (6x, Old Stones, Reversed)]] | NMT 3.1 canal mill, 6-wide, Old Stones, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc3|Medieval Canal : Mill (6x, Red Bricks)]] | NMT 3.1 canal mill, 6-wide, Red Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc3r|Medieval Canal : Mill (6x, Red Bricks, Reversed)]] | NMT 3.1 canal mill, 6-wide, Red Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc4|Medieval Canal : Mill (6x, Sand Bricks)]] | NMT 3.1 canal mill, 6-wide, Sand Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc4r|Medieval Canal : Mill (6x, Sand Bricks, Reversed)]] | NMT 3.1 canal mill, 6-wide, Sand Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc5|Medieval Canal : Mill (6x, Fire Bricks)]] | NMT 3.1 canal mill, 6-wide, Fire Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc5r|Medieval Canal : Mill (6x, Fire Bricks, Reversed)]] | NMT 3.1 canal mill, 6-wide, Fire Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc6|Medieval Canal : Mill (6x, Old Church)]] | NMT 3.1 canal mill, 6-wide, Old Church stone; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc6r|Medieval Canal : Mill (6x, Old Church, Reversed)]] | NMT 3.1 canal mill, 6-wide, Old Church stone, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc7|Medieval Canal : Mill (6x, Dark Stones)]] | NMT 3.1 canal mill, 6-wide, Dark Stones; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc7r|Medieval Canal : Mill (6x, Dark Stones, Reversed)]] | NMT 3.1 canal mill, 6-wide, Dark Stones, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc8|Medieval Canal : Mill (6x, Old Wood)]] | NMT 3.1 canal mill, 6-wide, Old Wood; processes grain into flour |
+| [[buildings:milling:nmt30canal6xmillc8r|Medieval Canal : Mill (6x, Old Wood, Reversed)]] | NMT 3.1 canal mill, 6-wide, Old Wood, reversed; processes grain into flour |
+| [[buildings:milling:canal6xmillc1|Canal : Mill (6x, Classic)]] | NMT 3.1 canal mill, 6-wide, Classic stone (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc1r|Canal : Mill (6x, Classic, Reversed)]] | NMT 3.1 canal mill, 6-wide, Classic stone, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc2|Canal : Mill (6x, Old Stones)]] | NMT 3.1 canal mill, 6-wide, Old Stones (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc2r|Canal : Mill (6x, Old Stones, Reversed)]] | NMT 3.1 canal mill, 6-wide, Old Stones, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc3|Canal : Mill (6x, Red Bricks)]] | NMT 3.1 canal mill, 6-wide, Red Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc3r|Canal : Mill (6x, Red Bricks, Reversed)]] | NMT 3.1 canal mill, 6-wide, Red Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc4|Canal : Mill (6x, Sand Bricks)]] | NMT 3.1 canal mill, 6-wide, Sand Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc4r|Canal : Mill (6x, Sand Bricks, Reversed)]] | NMT 3.1 canal mill, 6-wide, Sand Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc5|Canal : Mill (6x, Fire Bricks)]] | NMT 3.1 canal mill, 6-wide, Fire Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc5r|Canal : Mill (6x, Fire Bricks, Reversed)]] | NMT 3.1 canal mill, 6-wide, Fire Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc6|Canal : Mill (6x, Old Church)]] | NMT 3.1 canal mill, 6-wide, Old Church stone (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc6r|Canal : Mill (6x, Old Church, Reversed)]] | NMT 3.1 canal mill, 6-wide, Old Church stone, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc7|Canal : Mill (6x, Dark Stones)]] | NMT 3.1 canal mill, 6-wide, Dark Stones (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc7r|Canal : Mill (6x, Dark Stones, Reversed)]] | NMT 3.1 canal mill, 6-wide, Dark Stones, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc8|Canal : Mill (6x, Old Wood)]] | NMT 3.1 canal mill, 6-wide, Old Wood (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal6xmillc8r|Canal : Mill (6x, Old Wood, Reversed)]] | NMT 3.1 canal mill, 6-wide, Old Wood, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:nmt30canal8xmillc1|Medieval Canal : Mill (8x, Classic)]] | NMT 3.1 canal mill, 8-wide, Classic stone; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc1r|Medieval Canal : Mill (8x, Classic, Reversed)]] | NMT 3.1 canal mill, 8-wide, Classic stone, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc2|Medieval Canal : Mill (8x, Old Stones)]] | NMT 3.1 canal mill, 8-wide, Old Stones; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc2r|Medieval Canal : Mill (8x, Old Stones, Reversed)]] | NMT 3.1 canal mill, 8-wide, Old Stones, reversed; processes grain into flour |
+| [[buildings:milling:canal8xmillc1|Canal : Mill (8x, Classic)]] | NMT 3.1 canal mill, 8-wide, Classic stone (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc1r|Canal : Mill (8x, Classic, Reversed)]] | NMT 3.1 canal mill, 8-wide, Classic stone, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc2|Canal : Mill (8x, Old Stones)]] | NMT 3.1 canal mill, 8-wide, Old Stones (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc2r|Canal : Mill (8x, Old Stones, Reversed)]] | NMT 3.1 canal mill, 8-wide, Old Stones, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:nmt30canal8xmillc3|Medieval Canal : Mill (8x, Red Bricks)]] | NMT 3.1 canal mill, 8-wide, Red Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc3r|Medieval Canal : Mill (8x, Red Bricks, Reversed)]] | NMT 3.1 canal mill, 8-wide, Red Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc4|Medieval Canal : Mill (8x, Sand Bricks)]] | NMT 3.1 canal mill, 8-wide, Sand Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc4r|Medieval Canal : Mill (8x, Sand Bricks, Reversed)]] | NMT 3.1 canal mill, 8-wide, Sand Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc5|Medieval Canal : Mill (8x, Fire Bricks)]] | NMT 3.1 canal mill, 8-wide, Fire Bricks; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc5r|Medieval Canal : Mill (8x, Fire Bricks, Reversed)]] | NMT 3.1 canal mill, 8-wide, Fire Bricks, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc6|Medieval Canal : Mill (8x, Old Church)]] | NMT 3.1 canal mill, 8-wide, Old Church stone; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc6r|Medieval Canal : Mill (8x, Old Church, Reversed)]] | NMT 3.1 canal mill, 8-wide, Old Church stone, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc7|Medieval Canal : Mill (8x, Dark Stones)]] | NMT 3.1 canal mill, 8-wide, Dark Stones; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc7r|Medieval Canal : Mill (8x, Dark Stones, Reversed)]] | NMT 3.1 canal mill, 8-wide, Dark Stones, reversed; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc8|Medieval Canal : Mill (8x, Old Wood)]] | NMT 3.1 canal mill, 8-wide, Old Wood; processes grain into flour |
+| [[buildings:milling:nmt30canal8xmillc8r|Medieval Canal : Mill (8x, Old Wood, Reversed)]] | NMT 3.1 canal mill, 8-wide, Old Wood, reversed; processes grain into flour |
+| [[buildings:milling:canal8xmillc3|Canal : Mill (8x, Red Bricks)]] | NMT 3.1 canal mill, 8-wide, Red Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc3r|Canal : Mill (8x, Red Bricks, Reversed)]] | NMT 3.1 canal mill, 8-wide, Red Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc4|Canal : Mill (8x, Sand Bricks)]] | NMT 3.1 canal mill, 8-wide, Sand Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc4r|Canal : Mill (8x, Sand Bricks, Reversed)]] | NMT 3.1 canal mill, 8-wide, Sand Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc5|Canal : Mill (8x, Fire Bricks)]] | NMT 3.1 canal mill, 8-wide, Fire Bricks (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc5r|Canal : Mill (8x, Fire Bricks, Reversed)]] | NMT 3.1 canal mill, 8-wide, Fire Bricks, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc6|Canal : Mill (8x, Old Church)]] | NMT 3.1 canal mill, 8-wide, Old Church stone (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc6r|Canal : Mill (8x, Old Church, Reversed)]] | NMT 3.1 canal mill, 8-wide, Old Church stone, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc7|Canal : Mill (8x, Dark Stones)]] | NMT 3.1 canal mill, 8-wide, Dark Stones (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc7r|Canal : Mill (8x, Dark Stones, Reversed)]] | NMT 3.1 canal mill, 8-wide, Dark Stones, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc8|Canal : Mill (8x, Old Wood)]] | NMT 3.1 canal mill, 8-wide, Old Wood (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:canal8xmillc8r|Canal : Mill (8x, Old Wood, Reversed)]] | NMT 3.1 canal mill, 8-wide, Old Wood, reversed (RKEC2 edition); Miller grinds grain into Flour |
+| [[buildings:milling:nmt30watermill|Watermill (NMT 3.1)]] | NMT 3.1 medieval watermill; requires water tiles; processes grain into flour |
+| [[buildings:milling:nmtwatermilldock|Watermill (NMT Dock)]] | NMT Docks watermill; Miller grinds grain into Flour; must be placed on water |
+| [[buildings:milling:nmtwatermillstonedock|Watermill (NMT Stone Dock)]] | NMT Docks stone-construction watermill; upgraded from wood version; grinds grain into Flour; must be placed on water |
+| [[buildings:milling:nmt30windmill|Windmill (NMT 3.1)]] | NMT 3.1 medieval windmill; processes grain into flour |
+| [[buildings:milling:newmedievalwatermill|Medieval Watermill]] | New Medieval Town watermill; requires water tiles; processes grain into flour |
+| [[buildings:milling:newmedievalwindmill|Medieval Windmill]] | New Medieval Town windmill; processes grain into flour |
+| [[buildings:milling:otmill|Water Mill (Old Town)]] | KID Old Town water mill; processes grain into flour |
+| [[buildings:milling:prgristmill|Port Royal Grist Mill]] | Necora Port Royal grist mill; processes grain into flour |
+| [[buildings:milling:rkmywindmill|Windmill (RK)]] | RK Editor Choice windmill; processes grain into flour |
+| [[buildings:milling:settlersmill|Mill (Settlers)]] | Settlers mill; processes grain into flour |
+| [[buildings:milling:shmill|Mill (Summer Haven)]] | Summer Haven mill; processes grain into flour |
+| [[buildings:milling:shwgrinder|Grinder (Summer Haven)]] | Summer Haven grinder; crushes grain into flour by hand |
+| [[buildings:milling:cc17windmill|City Windmill]] | Colonial Charter city windmill; processes grain into flour |
+| [[buildings:milling:tieredwindmill|Urban Windmill]] | Colonial Charter modular stacked urban windmill; processes grain into flour |
+| [[buildings:milling:windmillstone|Small Windmill]] | Colonial Charter stone windmill; processes grain into flour |
+| [[buildings:milling:wpgrinder|Grinder]] | KID Workplace grinder; processes grain into flour |
+| [[buildings:milling:nsilumbercutter|Lumber Cutter (NS Inshore)]] | NS Inshore sawmill; saws raw wood into lumber planks |
+| [[buildings:milling:mfhmill|Mill (More Havens)]] | More Havens mill; Miller grinds Wheat, Corn, or Oats into Flour |
+| [[buildings:milling:rkfclumbermill|Lumbermill (RK FC)]] | RK Editor Choice sawmill; Cutter processes logs into Lumber or Firewood |
+| [[buildings:milling:sbsawmill|Sherbrooke Sawmill]] | Sherbrooke Village sawmill; cuts wood into lumber or firewood; must be placed at water's edge |
+| [[buildings:milling:sawmill|Waterwheel Sawmill]] | Waterwheel-powered sawmill; produces Lumber or Firewood; up to three cutters |
+| [[buildings:milling:sawmillbl|Sawmill]] | Produces Lumber or Firewood; up to three cutters |
+| [[buildings:milling:nmtsawmilldock|Sawmill (NMT Dock)]] | NMT Docks sawmill; Woodcutter saws Wood into Lumber or Firewood; must be placed on water |
+| [[buildings:milling:nmtsawmillstonedock|Sawmill (NMT Stone Dock)]] | NMT Docks stone-construction sawmill; upgraded from wood version; saws Wood into Lumber or Firewood; must be placed on water |
+| [[buildings:milling:sawpit|Saw Pit]] | Hand-powered pit saw; produces Lumber by slowly sawing logs |
+| [[buildings:milling:tinymill|Tiny Mill]] | KID compact mill; Miller grinds grain into Flour |
+| [[buildings:milling:watermill3|Watermill 3]] | Colonial Charter large watermill; weaves textiles from flax, cotton, silk cocoons, and wool |
+| [[buildings:milling:windsawmill|Wind Sawmill]] | Wind-powered sawmill; Cutter converts Wood into Lumber or Firewood |
+
+----
+
+{{tag>Buildings Milling}}

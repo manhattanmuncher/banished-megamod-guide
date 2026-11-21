@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader Gatherer ======
+----
+
+<WRAP right>
+^  Trader Gatherer                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradergatherer.png?nolink|Trader Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  28  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Traveling Trader gatherer camp. Gatherers collect wild food from the surrounding area within a 24-tile radius.
+
+----
+
+^ Toolbar ^ ^ ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|KID Resource}}</wrap> **KID Resource** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtravelingtrader.png?nolink|Traveling Trader}}</wrap> **Traveling Trader** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtradergatherer.png?nolink|Trader Gatherer}}</wrap> **Trader Gatherer** |
+
+----
+
+This building originally came from **Traveling Trader v1.0 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=632|WoB]]
+
+{{tag>Building Gathering TravelingTrader}}

@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Bridge Workshop ======
+----
+
+<WRAP right>
+^  Stone Bridge Workshop                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgeworkshop.png?nolink|Stone Bridge Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Tool Maker}}</wrap> Tool Maker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+|  Placement  |  On Stone Bridge spans  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:iron:iron|Iron]]  |  13  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Stone Bridge workshop that sits on a stone bridge span. A Tool Maker forges Tools, Leather Coats, and Fishing Gear from a small set of recipes.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgeprodservmenu.png?nolink|Production & Services}}</wrap> **Production & Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgeworkshop.png?nolink|Stone Bridge Workshop}}</wrap> **Stone Bridge Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgeprodservmenu.png?nolink|Production & Services}}</wrap> **Production & Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonebridgeworkshop.png?nolink|Stone Bridge Workshop}}</wrap> **Stone Bridge Workshop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                  ^ Produces                                              ^
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                       | [[WikiPages:tool:tool|Tool]]                          |
+| 2 [[WikiPages:textile:leather|Leather]]                                              | [[WikiPages:clothing:leathercoat|Leather Coat]]       |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                       | [[WikiPages:custom0:fishing_gear|Fishing Gear]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone Bridge v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=385|WoB]], [[https://www.nexusmods.com/banished/mods/71|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1238017268|Steam]]
+
+{{tag>Building Crafting DS}}

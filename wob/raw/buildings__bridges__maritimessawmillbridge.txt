@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke Sawmill Bridge ======
+----
+
+<WRAP right>
+^  Sherbrooke Sawmill Bridge                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbsawmillbridge1.png?nolink|Sherbrooke Sawmill Bridge}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  varies (piece)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  varies (per piece)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes Sherbrooke sawmill bridge and dam pieces, used to build a working sawmill complex spanning a river. Combine the eleven bridge sections with the sawmill dam.
+
+----
+
+===== Variants =====
+
+^ Piece ^
+| Sawmill Bridge 1–11 (sections) |
+| Sawmill Dam |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsawmill.png?nolink|Sawmill}}</wrap> **Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbsawmillbridge1.png?nolink|Sherbrooke Sawmill}}</wrap> **Sherbrooke Sawmill** → select piece
+
+----
+
+{{tag>Bridge Sherbrooke}}

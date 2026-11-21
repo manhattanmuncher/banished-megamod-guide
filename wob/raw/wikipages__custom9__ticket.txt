@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ticket ======
+----
+
+<WRAP right>
+^  Ticket                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom9  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/ticket.png?nolink|Ticket}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Ticket is a resource type reserved for future use in the Banished MegaMod. Its exact purpose and production chain may be defined in a later update.
+
+----
+
+===== Ticket Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:more_civic:cornertheatert1|Theater (Corner T1)]]
+  * Produced at the [[buildings:more_civic:cornertheatert2|Theater (Corner T2)]]
+  * Produced at the [[buildings:more_civic:cornertheatert3|Theater (Corner T3)]]
+  * Produced at the [[buildings:more_civic:cornertheatert4|Theater (Corner T4)]]
+  * Produced at the [[buildings:more_civic:cornertheatert5|Theater (Corner T5)]]
+  * Produced at the [[buildings:more_civic:cornertheatert6|Theater (Corner T6)]]
+  * Produced at the [[buildings:more_civic:cornertheatert7|Theater (Corner T7)]]
+  * Produced at the [[buildings:more_civic:cornertheatert8|Theater (Corner T8)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom9}}

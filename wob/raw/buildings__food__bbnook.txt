@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Breakfast Nook ======
+----
+
+<WRAP right>
+^  Breakfast Nook                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbnook.png?nolink|Breakfast Nook}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  16.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Breakfast Nook is a Bed and Breakfast building where a worker prepares hearty breakfast meals from bread, eggs, oats, and other ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbnook.png?nolink|Breakfast Nook}}</wrap> **Breakfast Nook**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbnook.png?nolink|Breakfast Nook}}</wrap> **Breakfast Nook**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Prepared Meals}}</wrap> **Prepared Meals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbnook.png?nolink|Breakfast Nook}}</wrap> **Breakfast Nook**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                         ^ Produces                                          ^
+| 8 [[WikiPages:food:bread_bread|Bread]] + 4 [[WikiPages:food:fruit_jam|Fruit Jam]] + 8 [[WikiPages:food:coffee_beans|Coffee Beans]]                                 | [[WikiPages:food:breakfast|Breakfast]]            |
+| 8 [[WikiPages:food:bread_bread|Bread]] + 4 [[WikiPages:food:honey|Honey]] + 8 [[WikiPages:food:coffee_beans|Coffee Beans]]                                         | [[WikiPages:food:breakfast|Breakfast]]            |
+| 8 [[WikiPages:food:oats_oat|Oats]] + 8 [[WikiPages:food:blueberries|Blueberries]] + 8 [[WikiPages:food:apple|Apple]]                                               | [[WikiPages:food:oat_meal|Oat Meal]]              |
+| 4 [[WikiPages:food:egg|Egg]] + 8 [[WikiPages:food:bacon|Bacon]] + 8 [[WikiPages:food:coffee_beans|Coffee Beans]]                                                   | [[WikiPages:food:bacon_n_egg|Bacon n Egg]]        |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Bed and Breakfast v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=371|WoB]]
+
+{{tag>Building Food BedBreakfast}}

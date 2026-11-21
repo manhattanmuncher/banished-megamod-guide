@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Fish Drying (Tex2) ======
+----
+
+<WRAP right>
+^  Jetty Fish Drying (Tex2)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfishdrying.png?nolink|Jetty Fish Drying}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  13  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  34  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+Jetty Fish Drying (Tex2) is the Texture #2 visual variant of the [[buildings:food:dsjabjettyfishdrying|Jetty Fish Drying]]. Stats and recipes are identical; only the mesh differs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyfoodprodmenu.png?nolink|Jetty Food Production}}</wrap> **Jetty Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfishdrying.png?nolink|Jetty Fish Drying}}</wrap> **Jetty Fish Drying**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyfoodprodmenu.png?nolink|Jetty Food Production}}</wrap> **Jetty Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfishdrying.png?nolink|Jetty Fish Drying}}</wrap> **Jetty Fish Drying**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfishdrying.png?nolink|Jetty Fish Drying (Tex2)}}</wrap> **Jetty Fish Drying (Tex2)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                              ^
+| 12 [[WikiPages:food:fish|Fish]]                                    | [[WikiPages:food:dried_fish|Dried Fish]]              |
+| 14 [[WikiPages:food:mollusc|Mollusc]]                              | [[WikiPages:food:driedmollusc|Dried Mollusc]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Food DS}}

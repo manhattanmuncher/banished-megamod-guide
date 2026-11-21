@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Hunter ======
+----
+
+<WRAP right>
+^  Bitty Hunter                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyhunter.png?nolink|Bitty Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  34  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  Stone  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie's Bitty Village Set hunting cabin. Hunters track and harvest wild game within a 34-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxiefood.png?nolink|Jinxie's Food Production}}</wrap> **Jinxie's Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyhunter.png?nolink|Bitty Hunter}}</wrap> **Bitty Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyhunter.png?nolink|Bitty Hunter}}</wrap> **Bitty Hunter**
+
+----
+
+===== Produces =====
+
+  * Wild game (meat and leather from hunting)
+
+----
+
+{{tag>Building Hunting Jinxie}}

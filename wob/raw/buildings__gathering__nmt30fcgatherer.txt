@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gatherer District ======
+----
+
+<WRAP right>
+^  Gatherer District                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30fcgatherer.png?nolink|Gatherer District}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  40  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  Stone  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Forest Center gatherer district. Gatherers collect wild food from forest resources within a 40-tile radius. Works as a district within an NMT Forest Center compound.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcentertoolbar.png?nolink|NMT Forest Center Toolbar}}</wrap> **NMT Forest Center Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30fcgatherer.png?nolink|Gatherer District}}</wrap> **Gatherer District**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtforestcentertoolbar.png?nolink|NMT Forest Center Toolbar}}</wrap> **NMT Forest Center Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30fcgatherer.png?nolink|Gatherer District}}</wrap> **Gatherer District**
+
+----
+
+===== Produces =====
+
+Various wild food (depends on available map resources).
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Center v3.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=358|WoB]]
+
+{{tag>Building Gathering NewMedievalTown}}

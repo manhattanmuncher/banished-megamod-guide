@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ice Castle School ======
+----
+
+<WRAP right>
+^  Ice Castle School                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleschool.png?nolink|Ice Castle School}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Teacher  |
+|  <abbr "Students taught">Students</abbr>  |  18  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+The schoolhouse from Kid's Ice Castle winter set, where a teacher educates up to 18 children so they become more productive adults.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleschool.png?nolink|Ice Castle School}}</wrap> **Ice Castle School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleschool.png?nolink|Ice Castle School}}</wrap> **Ice Castle School**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleschool.png?nolink|Ice Castle School}}</wrap> **Ice Castle School**
+
+----
+
+This building originally came from **Ice Castle v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=588|WoB]]
+
+{{tag>Building Schools KidIceCastle}}

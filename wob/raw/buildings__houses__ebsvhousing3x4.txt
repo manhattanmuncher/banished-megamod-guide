@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Wooden House ======
+----
+
+<WRAP right>
+^  Village Wooden House                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvhousing3x4.png?nolink|Village Wooden House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village small wooden house. Houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB mods}}</wrap> **EB mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|Village}}</wrap> **Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagehousing.png?nolink|Village Housing}}</wrap> **Village Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvhousing3x4.png?nolink|Village Wooden House}}</wrap> **Village Wooden House**
+
+----
+
+{{tag>Building Houses EB}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rice Paddy ======
+----
+
+<WRAP right>
+^  Rice Paddy                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildricepaddy.png?nolink|Rice Paddy}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free (designation only)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A flooded rice field from the A8 Japanese mod. Farmers plant and harvest [[WikiPages:food:rice|Rice]] within the designated paddy area. Designation is free; no build materials are required.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8food.png?nolink|A8 food}}</wrap> **A8 food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildricepaddy.png?nolink|Rice Paddy}}</wrap> **Rice Paddy**
+
+----
+
+===== Produces =====
+
+^ Produces ^
+| [[WikiPages:food:rice|Rice]] |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fields A8}}

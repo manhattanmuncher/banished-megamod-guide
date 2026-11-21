@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Pistachio Seeds ======
+----
+
+<WRAP right>
+^  Pistachio Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedpistachiotree.png?nolink|Pistachio Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Pistachio Seeds are used to plant a Pistachio tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:pistachio|Pistachio]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

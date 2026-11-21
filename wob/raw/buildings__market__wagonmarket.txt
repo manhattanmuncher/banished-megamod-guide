@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wagon Market ======
+----
+
+<WRAP right>
+^  Wagon Market                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwagonmarket.png?nolink|Wagon Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Radius  |  15  |
+|  Storage  |  1,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Frontier wagon market. Distributes a wide variety of goods to nearby settlers; very small radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwagonmarket.png?nolink|Wagon Market}}</wrap> **Wagon Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/fortitems.png?nolink|Fort and Palisade Structures}}</wrap> **Fort and Palisade Structures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwagonmarket.png?nolink|Wagon Market}}</wrap> **Wagon Market**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Logs
+  * Stone
+  * Iron
+  * Health items
+  * Clothing
+  * Textile
+  * Coal fuel
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * [[WikiPages:custom2:start|Fabrics]] (Custom 2)
+  * Industrial fuel (Custom 3)
+  * Raw materials (Custom 4)
+  * [[WikiPages:custom5:building_kit|Building supplies]] (Custom 5)
+  * Precious items (Custom 6)
+  * Misc items (Custom 7)
+  * Custom 8
+  * Consumables (Custom 9)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

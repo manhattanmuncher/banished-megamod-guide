@@ -1,0 +1,24 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Remove Deco (Grow Hunt Fish) ======
+----
+
+<WRAP right>
+^  Remove Deco (Grow Hunt Fish)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/removeghfdeco.png?nolink|Remove Deco (Grow Hunt Fish)}}</wrap>  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Grow Hunt Fish upgrade option that removes a decoration. Appears as an upgrade button on Grow Hunt Fish decoration buildings.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:gathering:ghfdecocart|Deco Cart (Grow Hunt Fish)]] or [[buildings:gathering:ghfdecodebris|Deco Debris (Grow Hunt Fish)]]
+
+----
+
+This building originally came from **Grow, Hunt, Fish v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=537|WoB]]
+
+{{tag>Building Gathering KidGrowHuntFish}}

@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Officer Townhouse ======
+----
+
+<WRAP right>
+^  Officer Townhouse                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildofficerhouse.png?nolink|Officer Townhouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  45  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  3  |
+|  [[WikiPages:custom5:furnishing_kit|Furnishing Kit]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter officer townhouse; houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrowhouse.png?nolink|Row Houses}}</wrap> **Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildofficerhouse.png?nolink|Officer Townhouse}}</wrap> **Officer Townhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrowhouse.png?nolink|Row Houses}}</wrap> **Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildofficerhouse.png?nolink|Officer Townhouse}}</wrap> **Officer Townhouse**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

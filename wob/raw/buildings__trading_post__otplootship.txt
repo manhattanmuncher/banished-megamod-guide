@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Loot Ship (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Loot Ship                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplootship.png?nolink|Loot Ship (Old Town Ports)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  82.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports pirate loot ship placed on water. Workers scavenge and bring back a variety of goods. Must be placed on water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplootship.png?nolink|Loot Ship}}</wrap> **Loot Ship**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplootship.png?nolink|Loot Ship}}</wrap> **Loot Ship**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotplootship.png?nolink|Loot Ship}}</wrap> **Loot Ship**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:tool:tool|Tool]]
+  * [[WikiPages:clothing:leathercoat|Leather Coat]]
+  * [[WikiPages:food:walnut|Walnut]]
+  * [[WikiPages:food:apple|Apple]]
+  * [[WikiPages:food:hardtack|Hardtack]]
+  * [[WikiPages:vegetable:sugar_refined|Sugar (Refined)]]
+  * [[WikiPages:vegetable:rum_barrel|Rum Barrel]]
+  * [[WikiPages:custom0:peg_leg|Peg Leg]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town Ports & Pirates v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=493|WoB]]
+
+{{tag>Building OldTownPorts}}

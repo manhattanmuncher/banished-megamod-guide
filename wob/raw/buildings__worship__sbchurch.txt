@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke Church ======
+----
+
+<WRAP right>
+^  Sherbrooke Church                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookechurch.png?nolink|Sherbrooke Church}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Happiness from this building">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchapel.png?nolink|Spirit}}</wrap> Spirit (r20)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  20  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  125  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:stone:stone|Stone]]  |  50  |
+|  [[WikiPages:iron:iron|Iron]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Sherbrooke church staffed by a Priest, providing spiritual support to up to 20 worshippers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookechurch.png?nolink|Sherbrooke Church}}</wrap> **Sherbrooke Church**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolcivics.png?nolink|Necora's Maritimes Civics}}</wrap> **Necora's Maritimes Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookechurch.png?nolink|Sherbrooke Church}}</wrap> **Sherbrooke Church**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Sherbrooke Village v101**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=291|WoB]]
+
+{{tag>Building Worship Maritimes}}

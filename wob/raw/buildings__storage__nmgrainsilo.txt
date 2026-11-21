@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Grain Silo ======
+----
+
+<WRAP right>
+^  Medieval Grain Silo                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmgrainsilo.png?nolink|Medieval Grain Silo}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  20,000  |
+|  Storage Categories  |  Grain  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  64  |
+|  [[WikiPages:stone:stone|Stone]]  |  36  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town large grain storage silo. Settlers store grain with a capacity of 20,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmgrainsilo.png?nolink|Medieval Grain Silo}}</wrap> **Medieval Grain Silo**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/smallbarns.png?nolink|Medieval Barns and storage}}</wrap> **Medieval Barns and storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmgrainsilo.png?nolink|Medieval Grain Silo}}</wrap> **Medieval Grain Silo**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmgrainsilo.png?nolink|Medieval Grain Silo}}</wrap> **Medieval Grain Silo**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Storage NewMedievalTown}}

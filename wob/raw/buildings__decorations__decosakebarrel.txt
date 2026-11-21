@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sake Barrel ======
+----
+
+<WRAP right>
+^  Sake Barrel                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecosakebarrel.png?nolink|Sake Barrel}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative stack of sake barrels (kazaridaru) from the A8 Japanese mod. Has no footprint and can be placed freely.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrates.png?nolink|Crates}}</wrap> **Crates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecosakebarrel.png?nolink|Sake Barrel}}</wrap> **Sake Barrel**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

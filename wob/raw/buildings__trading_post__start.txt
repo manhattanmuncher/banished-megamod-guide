@@ -1,0 +1,231 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trading Posts ======
+----
+
+Buildings where settlers trade goods with passing merchants and caravans.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:trading_post:alotofanimals|Alotofanimals Trader]] | KID mod river trading post; a Trader accepts goods from the settlement in exchange for livestock with 20,000-unit capacity |
+| [[buildings:trading_post:alotofseeds|Alotofseeds Trader]] | KID mod river trading post; a Trader accepts goods from the settlement in exchange for orchard and crop seeds with 20,000-unit capacity |
+| [[buildings:trading_post:backalley|Bootlegger]] | Colonial Charter back-alley bootlegger (template BackAlley); consumes Silver Pfennig to make bootlegged goods (ale/mead/wine/leather/etc); WR 20 + Wood 20 |
+| [[buildings:trading_post:bgtrader|BG Trader]] | Bakery & Garden Alt trading post; Trader buys and sells goods with a Goods happiness bonus; 25,000-unit capacity |
+| [[buildings:trading_post:kidsmallport|Small Port (Kid)]] | Kid compact town port; a Trader receives merchant boats; WR 96 + Wood 64 |
+| [[buildings:trading_post:tinyfoodtrader|Tiny Food Trader]] | Kid Tiny compact food trading post; Trader, storage 25000; WR 40 + Wood 24 |
+| [[buildings:trading_post:tinytrader|Tiny Trader]] | Kid Tiny compact general trading post; Trader, storage 25000; WR 40 + Wood 24 |
+| [[buildings:trading_post:aptraderjetty|Trader Jetty]] | Abandoned Places trading jetty; four merchant types arrive by river boat offering food, goods, general wares, or seeds with 12,000-unit capacity |
+| [[buildings:trading_post:cc17tradingpost|Old Town Trading Post]] | Colonial Charter large trading post; 17 different merchant types covering all item categories with 60,000-unit capacity |
+| [[buildings:trading_post:cstrader|General Trader]] | Colonial Resource trading post; a General merchant offers all good categories including seeds and livestock with 20,000-unit capacity |
+| [[buildings:trading_post:peitrader|PEI Trade Dock]] | Necora Maritimes PEI Shore waterfront trading dock; Trader trades with merchant boats; Goods happiness, radius 20; 5 × 3 |
+| [[buildings:trading_post:chootrain1|Choo Choo: Train Engine (Model 1)]] | Choo Choo mod trading post; Train Driver spends Coins to purchase a wide variety of goods |
+| [[buildings:trading_post:chootrain2|Choo Choo: Train Engine (Model 2)]] | Choo Choo mod trading post alternate model; Train Driver spends Coins to purchase goods |
+| [[buildings:trading_post:otplootship|Loot Ship (Old Town Ports)]] | Old Town Ports pirate loot ship; Workers scavenge and return a variety of goods; must be placed on water |
+| [[buildings:trading_post:garemerchant1|Station: Food Export]] | Choo Choo mod food export depot; Merchant packages bulk food goods for export |
+| [[buildings:trading_post:garemerchant4|Station: Material Export]] | Choo Choo mod raw materials export depot; Merchant packages bulk building materials for export |
+| [[buildings:trading_post:garemerchant3|Station: Utility Export]] | Choo Choo mod utility goods export depot; Merchant packages alcohol, firewood, herbs, and tools |
+| [[buildings:trading_post:garemerchant2|Station: Textile Export]] | Choo Choo mod textile export depot; Merchant packages textiles, clothing, and related goods |
+| [[buildings:trading_post:smugglerscave|Smuggler's Cave]] | Hidden pirate den; Pirates trade Ale for a wide variety of goods |
+| [[buildings:trading_post:smugglersdock|Smugglers Dock]] | Colonial Charter trading building; Bootlegger uses Gold Guilders to smuggle luxury goods, tools, and decorative items |
+| [[buildings:trading_post:fottradingpost|Trading Post]] | CC Frontier trading post; trades Trade Goods for Furs |
+| [[buildings:trading_post:docktrader|Dock Trading Post]] | Colonial Charter Docks trading post; five merchant types arrive by river boat covering food, crafted goods, raw materials, and seeds with 30,000-unit capacity |
+| [[buildings:trading_post:dsjabjettymerchant4x4food|Jetty Food Merchant]] | DS Jetty & Bridge food trading post; five food merchant types arrive by river boat; 20,000-unit capacity; water placement required |
+| [[buildings:trading_post:dsjabjettymerchant4x4foodtex2|Jetty Food Merchant (Tex2)]] | DS Jetty & Bridge food trading post, alternate texture; identical to Jetty Food Merchant; water placement required |
+| [[buildings:trading_post:dsjabmerchantsoffice|Merchant's Office]] | DS Jetty & Bridge merchant's office; conducts trade with visiting merchants; 3 × 3; T1/T2 textures |
+| [[buildings:trading_post:dsjabjettymerchant8x4general|General Jetty Merchant]] | DS Jetty & Bridge large general trading post; four merchant types covering food and goods; 40,000-unit capacity; water placement required |
+| [[buildings:trading_post:dsjabjettymerchant8x4generaltex2|General Jetty Merchant (Tex2)]] | DS Jetty & Bridge general trading post, alternate texture; identical to General Jetty Merchant; water placement required |
+| [[buildings:trading_post:dsjabjettymerchantfarmer|Jetty Farmer's Merchant]] | DS Jetty & Bridge seed and livestock trading post; three merchant types offering seeds and livestock; 21,000-unit capacity; water placement required |
+| [[buildings:trading_post:dsjabjettymerchantfarmertex2|Jetty Farmer's Merchant (Tex2)]] | DS Jetty & Bridge farmer's trading post, alternate texture; identical to Jetty Farmer's Merchant; water placement required |
+| [[buildings:trading_post:dsthaddsurreltradingpost|Industry Merchant]] | DS Thadd Surrel large industry trading post; five merchant types covering raw materials, crafted goods, and supplies; 89,000-unit capacity; no food merchants |
+| [[buildings:trading_post:dsthompsontrademerchant|Thompson Trading Post]] | DS Thompson food trading post; seven merchant types specializing in grain, vegetables, and fruit; 40,000-unit capacity |
+| [[buildings:trading_post:tradercartbranch|Trader Cart (Branch)]] | Traveling trader cart; produces Branches |
+| [[buildings:trading_post:tradercartfruitveg|Trader Cart (Fruit & Veg)]] | Traveling trader cart; randomly produces one fruit or vegetable food item per cycle |
+| [[buildings:trading_post:tradercarthunter|Trader Cart (Hunter)]] | Traveling trader cart; randomly produces hunting goods each cycle |
+| [[buildings:trading_post:tradercartmine|Trader Cart (Mine)]] | Traveling trader cart; randomly produces mining resources each cycle |
+| [[buildings:trading_post:tradercartpeddler|Trader Cart (Peddler)]] | Traveling trader cart; randomly produces a variety of goods each cycle |
+| [[buildings:trading_post:tradercartwood|Trader Cart (Wood)]] | Traveling trader cart; randomly produces wood resources each cycle |
+| [[buildings:trading_post:traderhunter_bak|Trader Hunter (Backup)]] | Older backup version of the Trader Hunter; randomly produces hunting goods each cycle |
+| [[buildings:trading_post:tradermine|Trader Mine]] | Traveling Trader set large mine; Worker extracts Iron, Stone, and Coal |
+| [[buildings:trading_post:trainfoodcar|Train Food Car]] | Railway mod trading car; uses Coal to obtain food items |
+| [[buildings:trading_post:traingeneralcar|Train General Car]] | Railway mod trading car; uses Coal to obtain textiles, clothing, alcohol, medicine, and tools |
+| [[buildings:trading_post:trainmaterialcar|Train Material Car]] | Railway mod trading car; uses Coal to obtain raw materials including wood, iron, and stone |
+| [[buildings:trading_post:ebsvtrader|General Trade Port]] | EB Simple Village general trade port; five merchant types arrive by river boat covering all resource categories; 8 × 7 footprint with 40,000-unit capacity |
+| [[buildings:trading_post:ebsvtraderfarmer|Farmer Trade Port]] | EB Simple Village farmer trade port; Farmers Merchant arrives by river boat offering livestock and seeds; 8 × 7 footprint with 40,000-unit capacity |
+| [[buildings:trading_post:ebsvtraderfood|Food Trade Port]] | EB Simple Village food trade port; Food Merchant arrives by river boat offering all food items; 8 × 7 footprint with 40,000-unit capacity |
+| [[buildings:trading_post:ebsvtraderindustry|Industry Trade Port]] | EB Simple Village industry trade port; Industrial Merchant arrives by river boat offering construction materials and industrial resources; 8 × 7 footprint with 40,000-unit capacity |
+| [[buildings:trading_post:ebsvtradertextiles|Textiles Trade Port]] | EB Simple Village textiles trade port; Textiles Merchant arrives by river boat specializing in clothing, textiles, and fabric; 8 × 7 footprint with 40,000-unit capacity |
+| [[buildings:trading_post:ectradingpost|Trading Post (EC)]] | Editor's Choice large river trading post; five merchant types covering all resource categories; supports up to 20 traders with 60,000-unit capacity |
+| [[buildings:trading_post:nmttradingpostdock|Trading Post (NMT Dock)]] | NMT Docks trading post; five merchant types; 1–12 traders; 9 × 7 footprint with 60,000-unit capacity |
+| [[buildings:trading_post:nmttradingpoststonedock|Trading Post (NMT Stone Dock)]] | NMT Stone Docks trading post; five merchant types; 1–12 traders; 9 × 7 footprint with 66,000-unit capacity |
+| [[buildings:trading_post:edotradingpost|Edo Trading Post]] | A8 Japanese All-in-One river trading post from the Edo era; five merchant types arrive by river boat covering all resource categories; 5 × 9 footprint |
+| [[buildings:trading_post:fhsmalltrader|Small Trader]] | Forest Haven small trading post; four merchant types arrive by river boat offering food, goods, general wares, and seeds; 2 × 7 footprint with 4,500-unit capacity |
+| [[buildings:trading_post:fhtrader|Trader (Forest Haven)]] | Forest Haven large trading post; five merchant types arrive by river boat covering all resource categories; 9 × 9 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:fishshipstrader|Shipping Jetty]] | Fish Ships trading jetty; five merchant types arrive by river boat covering all resource categories; 3 × 7 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:fishshipstraderwater|Jetty Trader Low]] | Fish Ships low-profile trading jetty for water or platform placement; four merchant types arrive by river boat; 4 × 4 footprint with 10,000-unit capacity |
+| [[buildings:trading_post:fodtrader|Trader (Forge of Dwarves)]] | Forge of Dwarves river trading post; General Merchant arrives by river boat offering a wide variety of goods; 8 × 9 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:fodwtrader|Trader (Forge of Dwarves Winter)]] | Forge of Dwarves Winter river trading post with snow-covered appearance; General Merchant arrives by river boat; 8 × 9 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:fottraderlarge|Large Trader]] | Forest Trader large trading post; three merchant types accept only textiles as payment; 6 × 7 footprint with 15,000-unit capacity |
+| [[buildings:trading_post:fottradersmall|Small Trader]] | Forest Trader small trading post; three merchant types accept only textiles, wood, and firewood; 3 × 6 footprint with 7,200-unit capacity |
+| [[buildings:trading_post:fotwarehouse|Warehouse]] | Forest Trader warehouse; Workers distribute goods to the settlement; 6 × 6 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:fttrader|Trader (Fairy Tale)]] | Fairy Tale trading post; five merchant types covering all resource categories; 7 × 6 footprint with 8,000-unit capacity |
+| [[buildings:trading_post:gtnewbank|Bank (Ghost Town)]] | Ghost Town bank warehouse; Workers distribute goods to the settlement; 3 × 4 footprint with 4,800-unit capacity |
+| [[buildings:trading_post:gtsbank|Bank (Ghost Town Houses)]] | Ghost Town Houses bank warehouse; Workers distribute goods to the settlement; 3 × 4 footprint with 4,800-unit capacity |
+| [[buildings:trading_post:gttdock|Collector Dock]] | Gothic Tithes & Tributes river dock; Tax Collector offers precious goods in exchange for any settlement tribute; 5 × 9 footprint with 12,000-unit capacity; water placement required |
+| [[buildings:trading_post:gtttrader|Collector Post]] | Gothic Tithes & Tributes trading post; five merchant types covering all resource categories; 7 × 9 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:gttwarehouse|Collector Warehouse]] | Gothic Tithes & Tributes warehouse; Workers distribute goods to the settlement; 5 × 5 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:jinxiebittyseedlivestocktrader|Bitty Seed & Livestock Trader]] | Jinxie's Bitty Village Set starter trading post; Seed and Livestock merchants only; upgrades to Bitty Trader; 4 × 8 footprint with 10,000-unit capacity |
+| [[buildings:trading_post:jinxiebittytrader|Bitty Trader]] | Jinxie's Bitty Village Set full trading post; five merchant types covering all resource categories; 4 × 8 footprint with 10,000-unit capacity |
+| [[buildings:trading_post:kiddepotbarge|Depot Barge]] | KID House Boats water-based depot barge; Workers distribute goods to the settlement; 5 × 3 footprint with 6,800-unit capacity; water placement required |
+| [[buildings:trading_post:largeport|Large Port]] | KID mod massive river trading port; five merchant types covering all resource categories; 22 × 9 footprint with 320,000-unit capacity |
+| [[buildings:trading_post:minitrade|Mini Trading Post]] | Mini mod compact trading post; five merchant types covering all resource categories; 4 × 4 footprint with 10,000-unit capacity |
+| [[buildings:trading_post:miniwarehouse|Mini Warehouse]] | Mini mod compact warehouse; Workers distribute goods to the settlement; 2 × 2 footprint with 800-unit capacity |
+| [[buildings:trading_post:newmedievalcanal4xtradingpost|Canal 4x Trading Post (New Medieval)]] | New Medieval canal trading post; five merchant types covering all resource categories; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:newmedievalcanal6xtradingpost|Canal 6x Trading Post (New Medieval)]] | New Medieval canal trading post; five merchant types covering all resource categories; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:newmedievalcanal8xtradingpost|Canal 8x Trading Post (New Medieval)]] | New Medieval canal trading post; five merchant types covering all resource categories; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:newmedievalporttp|Medieval Port Trading Post]] | New Medieval Castle mod port trading post; five merchant types covering all resource categories; 10 × 12 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc1|Canal 4x Trading Post (Classic)]] | NMT30 canal set trading post, Classic brick texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc1r|Canal 4x Trading Post (Classic, Reversed)]] | Mirrored orientation of the Classic variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc2|Canal 4x Trading Post (Old Bricks)]] | NMT30 canal set trading post, Old Bricks texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc2r|Canal 4x Trading Post (Old Bricks, Reversed)]] | Mirrored orientation of the Old Bricks variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc3|Canal 4x Trading Post (Red Bricks)]] | NMT30 canal set trading post, Red Bricks texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc3r|Canal 4x Trading Post (Red Bricks, Reversed)]] | Mirrored orientation of the Red Bricks variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc4|Canal 4x Trading Post (Sandstones)]] | NMT30 canal set trading post, Sandstones texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc4r|Canal 4x Trading Post (Sandstones, Reversed)]] | Mirrored orientation of the Sandstones variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc5|Canal 4x Trading Post (Fire Bricks)]] | NMT30 canal set trading post, Fire Bricks texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc5r|Canal 4x Trading Post (Fire Bricks, Reversed)]] | Mirrored orientation of the Fire Bricks variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc6|Canal 4x Trading Post (Old Church)]] | NMT30 canal set trading post, Old Church texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc6r|Canal 4x Trading Post (Old Church, Reversed)]] | Mirrored orientation of the Old Church variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc7|Canal 4x Trading Post (Dark Stones)]] | NMT30 canal set trading post, Dark Stones texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc7r|Canal 4x Trading Post (Dark Stones, Reversed)]] | Mirrored orientation of the Dark Stones variant; identical statistics |
+| [[buildings:trading_post:nmt30canal4xtradingpostc8|Canal 4x Trading Post (Old Wood)]] | NMT30 canal set trading post, Old Wood texture; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal4xtradingpostc8r|Canal 4x Trading Post (Old Wood, Reversed)]] | Mirrored orientation of the Old Wood variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc1|Canal 6x Trading Post (Classic)]] | NMT30 canal set trading post, Classic texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc1r|Canal 6x Trading Post (Classic, Reversed)]] | Mirrored orientation of the Classic 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc2|Canal 6x Trading Post (Old Bricks)]] | NMT30 canal set trading post, Old Bricks texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc2r|Canal 6x Trading Post (Old Bricks, Reversed)]] | Mirrored orientation of the Old Bricks 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc3|Canal 6x Trading Post (Red Bricks)]] | NMT30 canal set trading post, Red Bricks texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc3r|Canal 6x Trading Post (Red Bricks, Reversed)]] | Mirrored orientation of the Red Bricks 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc4|Canal 6x Trading Post (Sandstones)]] | NMT30 canal set trading post, Sandstones texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc4r|Canal 6x Trading Post (Sandstones, Reversed)]] | Mirrored orientation of the Sandstones 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc5|Canal 6x Trading Post (Fire Bricks)]] | NMT30 canal set trading post, Fire Bricks texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc5r|Canal 6x Trading Post (Fire Bricks, Reversed)]] | Mirrored orientation of the Fire Bricks 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc6|Canal 6x Trading Post (Old Church)]] | NMT30 canal set trading post, Old Church texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc6r|Canal 6x Trading Post (Old Church, Reversed)]] | Mirrored orientation of the Old Church 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc7|Canal 6x Trading Post (Dark Stones)]] | NMT30 canal set trading post, Dark Stones texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc7r|Canal 6x Trading Post (Dark Stones, Reversed)]] | Mirrored orientation of the Dark Stones 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal6xtradingpostc8|Canal 6x Trading Post (Old Wood)]] | NMT30 canal set trading post, Old Wood texture; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal6xtradingpostc8r|Canal 6x Trading Post (Old Wood, Reversed)]] | Mirrored orientation of the Old Wood 6x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc1|Canal 8x Trading Post (Classic)]] | NMT30 canal set trading post, Classic texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc1r|Canal 8x Trading Post (Classic, Reversed)]] | Mirrored orientation of the Classic 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc2|Canal 8x Trading Post (Old Bricks)]] | NMT30 canal set trading post, Old Bricks texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc2r|Canal 8x Trading Post (Old Bricks, Reversed)]] | Mirrored orientation of the Old Bricks 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc3|Canal 8x Trading Post (Red Bricks)]] | NMT30 canal set trading post, Red Bricks texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc3r|Canal 8x Trading Post (Red Bricks, Reversed)]] | Mirrored orientation of the Red Bricks 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc4|Canal 8x Trading Post (Sandstones)]] | NMT30 canal set trading post, Sandstones texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc4r|Canal 8x Trading Post (Sandstones, Reversed)]] | Mirrored orientation of the Sandstones 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc5|Canal 8x Trading Post (Fire Bricks)]] | NMT30 canal set trading post, Fire Bricks texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc5r|Canal 8x Trading Post (Fire Bricks, Reversed)]] | Mirrored orientation of the Fire Bricks 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc6|Canal 8x Trading Post (Old Church)]] | NMT30 canal set trading post, Old Church texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc6r|Canal 8x Trading Post (Old Church, Reversed)]] | Mirrored orientation of the Old Church 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc7|Canal 8x Trading Post (Dark Stones)]] | NMT30 canal set trading post, Dark Stones texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc7r|Canal 8x Trading Post (Dark Stones, Reversed)]] | Mirrored orientation of the Dark Stones 8x variant; identical statistics |
+| [[buildings:trading_post:nmt30canal8xtradingpostc8|Canal 8x Trading Post (Old Wood)]] | NMT30 canal set trading post, Old Wood texture; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:nmt30canal8xtradingpostc8r|Canal 8x Trading Post (Old Wood, Reversed)]] | Mirrored orientation of the Old Wood 8x variant; identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc1|Canal : Trading Post (Classic)]] | NMT 3.1 Canal Set trading post, Classic stone style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc1r|Canal : Trading Post (Classic, Reversed)]] | Mirrored orientation of the Classic variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc2|Canal : Trading Post (Old Stones)]] | NMT 3.1 Canal Set trading post, Old Stones style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc2r|Canal : Trading Post (Old Stones, Reversed)]] | Mirrored orientation of the Old Stones variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc3|Canal : Trading Post (Red Bricks)]] | NMT 3.1 Canal Set trading post, Red Bricks style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc3r|Canal : Trading Post (Red Bricks, Reversed)]] | Mirrored orientation of the Red Bricks variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc4|Canal : Trading Post (Sand Bricks)]] | NMT 3.1 Canal Set trading post, Sand Bricks style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc4r|Canal : Trading Post (Sand Bricks, Reversed)]] | Mirrored orientation of the Sand Bricks variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc5|Canal : Trading Post (Fire Bricks)]] | NMT 3.1 Canal Set trading post, Fire Bricks style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc5r|Canal : Trading Post (Fire Bricks, Reversed)]] | Mirrored orientation of the Fire Bricks variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc6|Canal : Trading Post (Old Church)]] | NMT 3.1 Canal Set trading post, Old Church style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc6r|Canal : Trading Post (Old Church, Reversed)]] | Mirrored orientation of the Old Church variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc7|Canal : Trading Post (Dark Stones)]] | NMT 3.1 Canal Set trading post, Dark Stones style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc7r|Canal : Trading Post (Dark Stones, Reversed)]] | Mirrored orientation of the Dark Stones variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal4xtradingpostc8|Canal : Trading Post (Old Wood)]] | NMT 3.1 Canal Set trading post, Old Wood style (RKEC2 edition); five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal4xtradingpostc8r|Canal : Trading Post (Old Wood, Reversed)]] | Mirrored orientation of the Old Wood variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc1|Canal : Trading Post (Classic, 6×)]] | NMT 3.1 Canal Set trading post, Classic stone style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc1r|Canal : Trading Post (Classic, 6×, Reversed)]] | Mirrored orientation of the Classic 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc2|Canal : Trading Post (Old Stones, 6×)]] | NMT 3.1 Canal Set trading post, Old Stones style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc2r|Canal : Trading Post (Old Stones, 6×, Reversed)]] | Mirrored orientation of the Old Stones 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc3|Canal : Trading Post (Red Bricks, 6×)]] | NMT 3.1 Canal Set trading post, Red Bricks style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc3r|Canal : Trading Post (Red Bricks, 6×, Reversed)]] | Mirrored orientation of the Red Bricks 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc4|Canal : Trading Post (Sand Bricks, 6×)]] | NMT 3.1 Canal Set trading post, Sand Bricks style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc4r|Canal : Trading Post (Sand Bricks, 6×, Reversed)]] | Mirrored orientation of the Sand Bricks 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc5|Canal : Trading Post (Fire Bricks, 6×)]] | NMT 3.1 Canal Set trading post, Fire Bricks style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc5r|Canal : Trading Post (Fire Bricks, 6×, Reversed)]] | Mirrored orientation of the Fire Bricks 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc6|Canal : Trading Post (Old Church, 6×)]] | NMT 3.1 Canal Set trading post, Old Church style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc6r|Canal : Trading Post (Old Church, 6×, Reversed)]] | Mirrored orientation of the Old Church 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc7|Canal : Trading Post (Dark Stones, 6×)]] | NMT 3.1 Canal Set trading post, Dark Stones style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc7r|Canal : Trading Post (Dark Stones, 6×, Reversed)]] | Mirrored orientation of the Dark Stones 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal6xtradingpostc8|Canal : Trading Post (Old Wood, 6×)]] | NMT 3.1 Canal Set trading post, Old Wood style (RKEC2 edition); five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal6xtradingpostc8r|Canal : Trading Post (Old Wood, 6×, Reversed)]] | Mirrored orientation of the Old Wood 6× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc1|Canal : Trading Post (Classic, 8×)]] | NMT 3.1 Canal Set trading post, Classic stone style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc1r|Canal : Trading Post (Classic, 8×, Reversed)]] | Mirrored orientation of the Classic 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc2|Canal : Trading Post (Old Stones, 8×)]] | NMT 3.1 Canal Set trading post, Old Stones style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc2r|Canal : Trading Post (Old Stones, 8×, Reversed)]] | Mirrored orientation of the Old Stones 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc3|Canal : Trading Post (Red Bricks, 8×)]] | NMT 3.1 Canal Set trading post, Red Bricks style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc3r|Canal : Trading Post (Red Bricks, 8×, Reversed)]] | Mirrored orientation of the Red Bricks 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc4|Canal : Trading Post (Sand Bricks, 8×)]] | NMT 3.1 Canal Set trading post, Sand Bricks style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc4r|Canal : Trading Post (Sand Bricks, 8×, Reversed)]] | Mirrored orientation of the Sand Bricks 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc5|Canal : Trading Post (Fire Bricks, 8×)]] | NMT 3.1 Canal Set trading post, Fire Bricks style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc5r|Canal : Trading Post (Fire Bricks, 8×, Reversed)]] | Mirrored orientation of the Fire Bricks 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc6|Canal : Trading Post (Old Church, 8×)]] | NMT 3.1 Canal Set trading post, Old Church style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc6r|Canal : Trading Post (Old Church, 8×, Reversed)]] | Mirrored orientation of the Old Church 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc7|Canal : Trading Post (Dark Stones, 8×)]] | NMT 3.1 Canal Set trading post, Dark Stones style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc7r|Canal : Trading Post (Dark Stones, 8×, Reversed)]] | Mirrored orientation of the Dark Stones 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:canal8xtradingpostc8|Canal : Trading Post (Old Wood, 8×)]] | NMT 3.1 Canal Set trading post, Old Wood style (RKEC2 edition); five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:canal8xtradingpostc8r|Canal : Trading Post (Old Wood, 8×, Reversed)]] | Mirrored orientation of the Old Wood 8× variant (RKEC2 edition); identical statistics |
+| [[buildings:trading_post:nsindustrialtrader|NS Industry Trader]] | NS Inshore industrial trading post; Industrial Merchant offers construction and industrial materials; 6 × 6 footprint with 20,000-unit capacity |
+| [[buildings:trading_post:nslivestocktrader|NS Livestock Trader]] | NS Inshore livestock and seed trading post; Livestock Merchant offers crop seeds, orchard seeds, and livestock; 6 × 6 footprint with 20,000-unit capacity |
+| [[buildings:trading_post:oldhoveltrader|Old Trader (Old Hovels)]] | Old Hovels trading post; four merchant types arrive by river boat offering food, goods, general wares, and seeds; 3 × 6 footprint with 20,000-unit capacity |
+| [[buildings:trading_post:oldmedievalcanal4xtradingpost|Old Medieval Canal 4x Trading Post]] | New Medieval Old Medieval-style canal trading post; five merchant types; 10 × 11 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:oldmedievalcanal6xtradingpost|Old Medieval Canal 6x Trading Post]] | New Medieval Old Medieval-style canal trading post; five merchant types; 10 × 13 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:oldmedievalcanal8xtradingpost|Old Medieval Canal 8x Trading Post]] | New Medieval Old Medieval-style canal trading post; five merchant types; 10 × 15 footprint with 60,000-unit capacity; water placement required |
+| [[buildings:trading_post:ootwtrader|Trader (Out of This World)]] | Out of This World trading post; General Merchant offers tools, food, textiles, and other goods; 5 × 6 footprint with 16,000-unit capacity |
+| [[buildings:trading_post:otpseedtrader|Seed Trader (Old Town Ports)]] | Old Town Ports seed trading post; Seed Merchant offers crop and orchard seeds; 4 × 6 footprint with 8,000-unit capacity |
+| [[buildings:trading_post:otptrader|Trader (Old Town Ports)]] | Old Town Ports trading post; five merchant types arrive by river boat offering food, goods, seeds, and livestock; 7 × 9 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:otpwarehouse|Warehouse (Old Town Ports)]] | Old Town Ports warehouse; workers distribute food, tools, and various goods; 5 × 6 footprint with 8,000-unit capacity |
+| [[buildings:trading_post:otstonewarehouse|Stone Warehouse (Old Town)]] | Old Town stone warehouse; workers distribute food, tools, and various goods; 4 × 4 footprint with 5,200-unit capacity |
+| [[buildings:trading_post:ottradergeneral|General Trader (Old Town)]] | Old Town general trading post; General Merchant offers tools, health items, food, and various goods; 4 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:ottradergenerals|Stone General Trader (Old Town)]] | Old Town stone general trading post; General Merchant offers tools, health items, food, and various goods; 4 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:ottraderlivestock|Livestock Trader (Old Town)]] | Old Town livestock trading post; Livestock Merchant offers livestock; 4 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:ottraderseeds|Seeds Trader (Old Town)]] | Old Town seed trading post; Seeds Merchant offers crop and orchard seeds; 4 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:ottraderseedss|Stone Seeds Trader (Old Town)]] | Old Town stone seed trading post; Seeds Merchant offers crop and orchard seeds; 4 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:otwarehouse|Warehouse (Old Town)]] | Old Town warehouse; workers distribute food, tools, and various goods; 4 × 4 footprint with 5,200-unit capacity |
+| [[buildings:trading_post:tradewarehouse|Resource Depot]] | Colonial Charter controlled-release warehouse; workers stockpile goods withheld from the settlement; 7 × 4 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:tradingpost2|Seeds and Animals]] | Colonial Charter water-placed trading post; three seed and livestock merchant types; 12 × 10 footprint with 60,000-unit capacity |
+| [[buildings:trading_post:tradingpostseeds|TP Seed & Stock]] | RedKetchup water-placed seed and livestock trading post; two merchant types; 8 × 10 footprint with 30,000-unit capacity |
+| [[buildings:trading_post:tradingsmall|Farm Supplier]] | Colonial Charter small water-placed farm supplier; seeds and livestock merchants; 7 × 6 footprint with 30,000-unit capacity |
+| [[buildings:trading_post:tradingsmall2|Industry Supplier]] | Colonial Charter small water-placed industry supplier; Resources Merchant offers wood, stone, iron, and construction materials; 7 × 6 footprint with 30,000-unit capacity |
+| [[buildings:trading_post:tradingsmall3|Dry Goods Supplier]] | Colonial Charter small water-placed dry goods supplier; Textiles Merchant offers textiles, clothing, tools, crafted goods, and other manufactured items; 7 × 6 footprint with 30,000-unit capacity |
+| [[buildings:trading_post:tradingsmall4|Food Supplier]] | Colonial Charter small water-placed food supplier; Organics Merchant offers all food; 7 × 6 footprint with 30,000-unit capacity |
+| [[buildings:trading_post:trainfoodcar|Train Food Car]] | KID Railway trade car; workers consume coal to produce food; 4 × 1 footprint with 1,000-unit coal supply |
+| [[buildings:trading_post:trainfreightcar|Train Freight Car]] | KID Railway trade car; five merchant types arrive by river boat offering food, goods, seeds, and livestock; 4 × 1 footprint with 4,000-unit capacity |
+| [[buildings:trading_post:traingeneralcar|Train General Car]] | KID Railway trade car; workers consume coal to produce general goods including textiles, clothing, tools, and alcohol; 4 × 1 footprint with 1,000-unit coal supply |
+| [[buildings:trading_post:trainmaterialcar|Train Material Car]] | KID Railway trade car; workers consume coal to produce raw materials including wood, firewood, iron, and stone; 4 × 1 footprint with 1,000-unit coal supply |
+| [[buildings:trading_post:warehouse01|The Warehouse]] | RedKetchup general warehouse; workers stockpile all goods; no merchants; 9 × 6 footprint with 90,000-unit capacity |
+| [[buildings:trading_post:whsupply|Supply Wagon]] | KID Westward Ho supply wagon; five merchant types arrive by river boat offering food, goods, seeds, and livestock; 3 × 3 footprint with 5,200-unit capacity |
+| [[buildings:trading_post:wptrader|Small Trader]] | KID Workplace small water-placed trading post; General Merchant offers all goods and seeds and livestock; 7 × 8 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:settlerswarehouse|Warehouse (Settlers)]] | Settlers warehouse and trading post; five merchant types by river boat; Worker profession; 7 × 3 footprint with 7,200-unit capacity |
+| [[buildings:trading_post:sleighwarehouse|Warehouse Sleigh]] | Christmas Mod sleigh warehouse and trading post; five merchant types by river boat; Elf profession; 2 × 3 footprint with 2,000-unit capacity |
+| [[buildings:trading_post:hobbitwares|Wares (Hobbit Homes)]] | Hobbit Homes warehouse and trading post; five merchant types by river boat; Worker profession; 3 × 3 footprint with 4,800-unit capacity |
+| [[buildings:trading_post:rhxtradbuild|Building Materials Trader (Row Business)]] | Row Business trading post specializing in building materials; Goods Merchant only; 3 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:rhxtradfood|Food Trader (Row Business)]] | Row Business food trading post; Food Merchant only; 3 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:rhxtradgen|General Trader (Row Business)]] | Row Business general trading post; General Merchant only; 3 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:rhxtradlive|Livestock Trader (Row Business)]] | Row Business livestock trading post; all five merchant types by river boat; 3 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:rhxtradseed|Seed Trader (Row Business)]] | Row Business seed trading post; four merchant types (Food, Goods, General, Seed); 3 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:settlerstrader|Trader (Settlers)]] | Settlers warehouse and trading post; four merchant types by river boat (Food, Goods, General, Seed); Trader profession; 4 × 5 footprint with 12,000-unit capacity |
+| [[buildings:trading_post:shtrader|Trader (Summer Haven)]] | Summer Haven warehouse and trading post; all five merchant types by river boat; Trader profession; 5 × 9 footprint with 8,000-unit capacity |
+| [[buildings:trading_post:swamptrader|Swamp Trader]] | Swamp Houses trading post; three merchant types by river boat (Food, Goods, General); Trader profession; 6 × 6 footprint with 20,000-unit capacity |
+| [[buildings:trading_post:tetrader|Tool Trader]] | Tool Emporium trading post; General Merchant only; Trader profession; 3 × 6 footprint with 4,000-unit capacity |
+| [[buildings:trading_post:tmtrader|Tequila Trader]] | The Tequila Mod trading post; General Merchant only; Trader profession; 3 × 6 footprint with 25,000-unit capacity |
+| [[buildings:trading_post:tradingpost|Trading Post]] | Vanilla Banished trading post; General Merchant trades all goods; 12 × 11 footprint with 60,000-unit capacity |
+
+----
+
+{{tag>Buildings TradingPost}}

@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hardwood Forester ======
+----
+
+<WRAP right>
+^  Hardwood Forester                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhardwoodforester.png?nolink|Hardwood Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  22  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  Stone  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter hardwood forester. Foresters selectively harvest and replant hardwood trees within a 22-tile radius, producing Hardwood.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforestersandlogging.png?nolink|Foresters and Logging}}</wrap> **Foresters and Logging** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhardwoodforester.png?nolink|Hardwood Forester}}</wrap> **Hardwood Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialforester.png?nolink|Specialized Foresters}}</wrap> **Specialized Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhardwoodforester.png?nolink|Hardwood Forester}}</wrap> **Hardwood Forester**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom4:hardwood|Hardwood]]
+
+----
+
+===== See Also =====
+
+  * [[buildings:forester:hardwoodforester2|Hardwood Forester New Trees]]
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Forester ColonialCharter}}

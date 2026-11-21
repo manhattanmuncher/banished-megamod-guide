@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fes Hammam ======
+----
+
+<WRAP right>
+^  Fes Hammam                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfeshammam.png?nolink|Fes Hammam}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/bathattendant.png?nolink|Bath Attendant}}</wrap> Bath Attendant  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  400  |
+|  Storage Categories  |  Health  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  Stone  |  70  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 Moroccan Misc bathhouse. Bath Attendants provide healing and a Health happiness bonus for citizens within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 Civics}}</wrap> **A8 Civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfeshammam.png?nolink|Fes Hammam}}</wrap> **Fes Hammam**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfeshammam.png?nolink|Fes Hammam}}</wrap> **Fes Hammam**
+
+----
+
+===== Produces =====
+
+Heals citizens; provides Health happiness bonus within the working radius.
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Miscellaneous v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=546|WoB]], [[https://www.nexusmods.com/banished/mods/108|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913001365|Steam]]
+
+{{tag>Building Gathering A8MoroccanMisc}}

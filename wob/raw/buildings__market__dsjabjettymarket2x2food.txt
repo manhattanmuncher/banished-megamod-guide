@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Food Market ======
+----
+
+<WRAP right>
+^  Jetty Food Market                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettymarket2x2food.png?nolink|Jetty Food Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Happiness  |  Goods  |
+|  Radius  |  21  |
+|  Storage  |  2,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  3  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  8  |
+|  Iron Fittings  |  5  |
+|  Wagon Parts  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small water-side food market from the DS Jetty & Bridge mod. Stocks food and health items for nearby settlers. Provides Goods happiness when a worker is assigned. Must be placed on or adjacent to water.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1: Light-Brown Wooden Jetty}}</wrap> **Texture #1: Light-Brown Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyservicesmenu.png?nolink|Jetty Services}}</wrap> **Jetty Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettymarket2x2food.png?nolink|Jetty Food Market}}</wrap> **Jetty Food Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1: Light-Brown Wooden Jetty}}</wrap> **Texture #1: Light-Brown Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyservicesmenu.png?nolink|Jetty Services}}</wrap> **Jetty Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettymarket2x2food.png?nolink|Jetty Food Market}}</wrap> **Jetty Food Market**
+
+----
+
+===== Stocks =====
+
+  * Food (Grain, Fruit, Vegetables, Meat/Fish)
+  * Health items
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Market}}

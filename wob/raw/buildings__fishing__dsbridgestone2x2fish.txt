@@ -1,0 +1,19 @@
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstonebridgeprodservmenu.png?nolink|Production & Services}}</wrap> **Production & Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsbridgestone2x2fish.png?nolink|DS Stone Bridge Fishing (2×2)}}</wrap> **DS Stone Bridge Fishing (2×2)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsbridgestonemenu.png?nolink|DS Stone Bridge}}</wrap> **DS Stone Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsbridgestone2x2fish.png?nolink|DS Stone Bridge Fishing (2×2)}}</wrap> **DS Stone Bridge Fishing (2×2)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone Bridge v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=385|WoB]], [[https://www.nexusmods.com/banished/mods/71|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1238017268|Steam]]
+
+{{tag>Building Fishing DSStoneBridge}}

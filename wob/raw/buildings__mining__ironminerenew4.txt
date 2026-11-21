@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mine (Renew 4) ======
+----
+
+<WRAP right>
+^  Mine (Renew 4)                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironmine.png?nolink|Mine (Renew 4)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 12  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  30  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  12000  |
+|  Upgraded From  |  [[buildings:mining:ironminerenew3|Mine (Renew 3)]]  |
+|  Upgrades To  |  [[buildings:mining:ironminerenew5|Mine (Renew 5)]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:custom0:candles|Candles]]  |  34  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Mine (Renew 4) is the fourth renewal upgrade in the Editor's Choice Iron Mine chain. It increases the production cap to 12,000 and can be upgraded further.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:ironminerenew3|Mine (Renew 3)]].
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Mining IronMineRenew4}}

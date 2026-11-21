@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pancake House ======
+----
+
+<WRAP right>
+^  Pancake House                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbpancakehouse.png?nolink|Pancake House}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Pancake House is a Bed and Breakfast building where a worker makes pancakes from flour, eggs, and a sweetener.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbpancakehouse.png?nolink|Pancake House}}</wrap> **Pancake House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbedbreakfastmenu.png?nolink|Bed and Breakfast}}</wrap> **Bed and Breakfast** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbpancakehouse.png?nolink|Pancake House}}</wrap> **Pancake House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbbpancakehouse.png?nolink|Pancake House}}</wrap> **Pancake House**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                          ^ Produces                                  ^
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:egg|Egg]] + 4 [[WikiPages:food:maple_syrup|Maple Syrup]]     | [[WikiPages:food:pancake|Pancake]]        |
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:egg|Egg]] + 4 [[WikiPages:food:honey|Honey]]                 | [[WikiPages:food:pancake|Pancake]]        |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Bed and Breakfast v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=371|WoB]]
+
+{{tag>Building Food BedBreakfast}}

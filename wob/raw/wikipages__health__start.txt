@@ -1,0 +1,25 @@
+~~NOTOC~~
+
+====== Herbs & Health ======
+----
+
+Herbs and health items gathered by Herbalists. Citizens consume herbs at the Herbalist to maintain their health.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/earcandles.png?nolink|Ear Candles}} [[WikiPages:health:ear_candles|Ear Candles]]
+  * {{https://sprites.worldofbanished.com/healingbroth.png?nolink|Healing Broth}} [[WikiPages:health:healing_broth|Healing Broth]]
+  * {{https://sprites.worldofbanished.com/healingoil.png?nolink|Healing Oil}} [[WikiPages:health:healing_oil|Healing Oil]]
+  * {{https://sprites.worldofbanished.com/healingpoultice.png?nolink|Healing Poultice}} [[WikiPages:health:healing_poultice|Healing Poultice]]
+  * {{https://sprites.worldofbanished.com/herb.png?nolink|Herb}} [[WikiPages:health:herb|Herb]]
+  * {{https://sprites.worldofbanished.com/herbaltea.png?nolink|Herbal Tea}} [[WikiPages:health:herbal_tea|Herbal Tea]]
+  * {{https://sprites.worldofbanished.com/royaljelly.png?nolink|Royal Jelly}} [[WikiPages:health:royal_jelly|Royal Jelly]]
+  * {{https://sprites.worldofbanished.com/tealeaf.png?nolink|Tea Leaves}} [[WikiPages:health:tea_leaves|Tea Leaves]]
+
+----
+
+{{tag>Health}}

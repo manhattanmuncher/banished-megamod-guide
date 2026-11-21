@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Shanty ======
+----
+
+<WRAP right>
+^  Dock Shanty                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhouse.png?nolink|Dock Shanty}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter dock shanty, placed on water. Houses up to 4 settlers. Available in 2 F-key appearance variants. Upgrades to Dock House.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Dock Items}}</wrap> **Dock Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar.png?nolink|Dock Items 2}}</wrap> **Dock Items 2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhouse.png?nolink|Dock Shanty}}</wrap> **Dock Shanty**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Dock Items}}</wrap> **Dock Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar.png?nolink|Dock Items 2}}</wrap> **Dock Items 2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhouse.png?nolink|Dock Shanty}}</wrap> **Dock Shanty**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddockhouse.png?nolink|Dock Shanty}}</wrap> **Dock Shanty**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

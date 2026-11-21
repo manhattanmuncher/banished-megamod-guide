@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Sand Pit ======
+----
+
+<WRAP right>
+^  Tiny Sand Pit                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysandpit.png?nolink|Tiny Sand Pit}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionworker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  7.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  7  |
+|  Happiness  |  Detraction (radius 16)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact sand pit from the KID Builders Toolbar where Workers dig Sand in a 5×6 footprint using a Hoe. Production is capped at 2000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinybuilders.png?nolink|Tiny Builders}}</wrap> **Tiny Builders** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysandpit.png?nolink|Tiny Sand Pit}}</wrap> **Tiny Sand Pit**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsandclay.png?nolink|Sand & Clay}}</wrap> **Sand & Clay** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinysandpit.png?nolink|Tiny Sand Pit}}</wrap> **Tiny Sand Pit**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom4:sand|Sand]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Mining KID}}

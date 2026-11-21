@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hemp ======
+----
+
+<WRAP right>
+^  Hemp                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/hemp.png?nolink|Hemp}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Hemp is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Hemp Mods =====
+
+==== Procuring / where to get ====
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:milling:windmill|Large Windmill]]
+  * Used at the [[buildings:milling:watermill|Watermill]]
+  * Used at the [[buildings:food:dssvgruelkitchen|Village Gruel Kitchen]]
+  * Used at the [[buildings:clothing:dssvweaversguild|Weaving Guild]]
+  * Used at the [[buildings:crafting:tobaccobarn|Tobacco Barn]] (for Marijuana)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

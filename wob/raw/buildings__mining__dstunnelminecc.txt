@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tunnel Mine Random ======
+----
+
+<WRAP right>
+^  Tunnel Mine Random                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstunnelminecc.png?nolink|Tunnel Mine Random}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 8 (default 3)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  60  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+|  Upgrades To  |  [[buildings:mining:dstunnelmineccup|Tunnel Mine Upgrade (Random)]]  |
+|  Upgrades To  |  [[buildings:mining:dstunnelmineccupmush|Old Mine Mushroom Farm]]  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:wood:log|Wood]]  |  89  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:tool:steeltool|Steel Tools]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Random Resource Production mine built into a mountain. Up to 8 Miners extract Stone, Coal and Iron Ore randomly. Can be upgraded to continue operation or converted to a mushroom farm.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dstunnelmineccmenu.png?nolink|Tunnel Mine}}</wrap> **Tunnel Mine** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstunnelminecc.png?nolink|Tunnel Mine Random}}</wrap> **Tunnel Mine Random**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresourcemining.png?nolink|Mining}}</wrap> **Mining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dstunnelmineccmenu.png?nolink|Tunnel Mine}}</wrap> **Tunnel Mine** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstunnelminecc.png?nolink|Tunnel Mine Random}}</wrap> **Tunnel Mine Random**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:stone:stone|Stone]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tunnel Mine v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=384|WoB]], [[https://www.nexusmods.com/banished/mods/49|Nexus]], [[https://banishedinfo.com/mods/view/897-DS-Tunnel-Mine|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=756252521|Steam]]
+
+{{tag>Building Mining DSTunnelMineCC}}

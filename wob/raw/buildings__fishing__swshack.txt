@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Quay Fishery ======
+----
+
+<WRAP right>
+^  Quay Fishery                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswshack.png?nolink|Quay Fishery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  Stone  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter quay fishery. Fishermen catch Fish from nearby water within a 14-tile radius. The more water nearby, the more fish caught. Must be placed on a Quay Wall.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Water Main}}</wrap> **Water Main** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorewall.png?nolink|Shore Items}}</wrap> **Shore Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquay.png?nolink|Quay Buildings}}</wrap> **Quay Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswshack.png?nolink|Quay Fishery}}</wrap> **Quay Fishery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorewall.png?nolink|Shore Items}}</wrap> **Shore Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquay.png?nolink|Quay Buildings}}</wrap> **Quay Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswshack.png?nolink|Quay Fishery}}</wrap> **Quay Fishery**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Fishing ColonialCharter}}

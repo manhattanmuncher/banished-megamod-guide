@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fes University ======
+----
+
+<WRAP right>
+^  Fes University                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfesuniversity.png?nolink|Fes University}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  120  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  100  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Moroccan university staffed by a Teacher, accommodating up to 120 students.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfesuniversity.png?nolink|Fes University}}</wrap> **Fes University**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfesuniversity.png?nolink|Fes University}}</wrap> **Fes University**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Moroccan Miscellaneous v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=546|WoB]], [[https://www.nexusmods.com/banished/mods/108|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913001365|Steam]]
+
+{{tag>Building School A8}}

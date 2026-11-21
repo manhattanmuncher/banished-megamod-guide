@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Blueberry Seeds ======
+----
+
+<WRAP right>
+^  Blueberry Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedblueberry.png?nolink|Blueberry Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  4,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Blueberry Seeds are used to plant [[WikiPages:food:blueberries|Blueberry]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

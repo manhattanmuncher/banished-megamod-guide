@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Hemp Seeds ======
+----
+
+<WRAP right>
+^  Hemp Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedhemp.png?nolink|Hemp Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  4,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Hemp Seeds are used to plant [[WikiPages:textile:hemp_hempleaf|Hemp]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

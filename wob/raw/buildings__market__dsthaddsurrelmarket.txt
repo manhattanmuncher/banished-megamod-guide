@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Industry Market ======
+----
+
+<WRAP right>
+^  Industry Market                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelmarket.png?nolink|Industry Market}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 10 (default: 4)  |
+|  Happiness  |  Goods  |
+|  Radius  |  55  |
+|  Storage  |  21,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large industrial market from the DS Thadd Surrel set. Distributes fuel, raw materials, and crafted industrial goods to nearby settlers. Has an exceptionally large service radius. Provides Goods happiness when a worker is assigned.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarket.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelmarket.png?nolink|Industry Market}}</wrap> **Industry Market**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarketstaverns.png?nolink|Markets Taverns}}</wrap> **Markets Taverns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarkets.png?nolink|Markets}}</wrap> **Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthaddsurrelmarket.png?nolink|Industry Market}}</wrap> **Industry Market**
+
+----
+
+===== Stocks =====
+
+  * Fuel and Firewood
+  * Tools
+  * Iron, Stone, and Logs
+  * Coal and Coke
+  * Forged Items (Custom 1)
+  * Industrial goods / Furnace Fuel (Custom 3)
+  * Materials (Custom 4)
+  * Construction materials (Custom 5)
+  * Misc trade items (Custom 7)
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chestnut ======
+----
+
+<WRAP right>
+^  Chestnut                                       ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  50/65  |  50/65  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/chestnut.png?nolink|Chestnut}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Chestnut is an edible food item available in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Chestnut Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:gathering:abandonedhedgerow|Hedgerow]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:fields:kf12|Farmyard 12]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:marketfallfood|Market Fall Food]] (for Market Chestnut)
+  * Used at the [[buildings:food:dsroastednutscampfire|Campfire, Roasting Nuts]]
+  * Used at the [[buildings:food:xmasmarket|Xmas Market]] (for [[WikiPages:food:roasted_chestnut|Roasted Chestnut]])
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein Vanilla}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Salted Meat ======
+----
+
+<WRAP right>
+^  Salted Meat                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  18/24  |
+|  Edible  |  Yes  |
+|  Trade Value  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/beef.png?nolink|Salted Meat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Salted Meat is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 5.
+
+----
+
+===== Salted Meat Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:preserving:nmt30oldsaltery|Old Saltery]] (from meat + Salt)
+  * [[buildings:preserving:newmedievaloldsaltery|Medieval Old Saltery (New Medieval)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

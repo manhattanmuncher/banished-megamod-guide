@@ -1,0 +1,25 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Resource Limits ======
+----
+
+The resource limit tool sets a cap on how much of a given resource the town will stockpile. Once a limit is reached, workers who produce that resource stop working and act as general Laborers instead.
+
+Limits are useful when one resource would otherwise crowd out others. For example, if logs are produced continuously they can fill a Stockpile and leave no room for firewood or coal — which could result in citizens freezing. Setting a log limit keeps space available for other resources without requiring additional storage.
+
+Limits can be set globally via the resource limit tool, or per-building on any building that produces a resource (crop fields, wood cutters, etc.).
+
+----
+
+===== Notifications =====
+
+The event log generates two automatic notifications related to limits:
+
+  * **Storage full** — no more room to store goods
+  * **Running low** — stored amount has dropped below 10% of the set limit
+
+As the town grows, limits should be raised periodically to keep pace with population needs. A food limit set too low for the population size will cause starvation even when farms are productive.
+
+----
+
+{{tag>Mechanics Limits}}

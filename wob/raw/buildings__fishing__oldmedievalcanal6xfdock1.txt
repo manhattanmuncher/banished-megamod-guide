@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Canal : Fishing Dock (Old Medieval, 6×) ======
+----
+
+<WRAP right>
+^  Medieval Canal : Fishing Dock                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalcanal6xfdock1.png?nolink|Medieval Canal : Fishing Dock (Old Medieval, 6×)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 2)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Medieval Canal fishing dock for 6-wide canal sections. Fishermen catch [[WikiPages:food:fish|Fish]] from within a 6-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalbricks.png?nolink|Old Medieval Canal}}</wrap> **Old Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalcanal6x.png?nolink|Old Medieval Canal 6x}}</wrap> **Old Medieval Canal 6x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalcanal6xfdock1.png?nolink|Medieval Canal : Fishing Dock (Old Medieval, 6×)}}</wrap> **Medieval Canal : Fishing Dock (Old Medieval, 6×)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalbricks.png?nolink|Old Medieval Canal}}</wrap> **Old Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalcanal6x.png?nolink|Old Medieval Canal 6x}}</wrap> **Old Medieval Canal 6x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalcanal6xfdock1.png?nolink|Medieval Canal : Fishing Dock (Old Medieval, 6×)}}</wrap> **Medieval Canal : Fishing Dock (Old Medieval, 6×)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+  * Must be placed on water.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfishing.png?nolink|Fishing}}</wrap> **Fishing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/oldmedievalcanal6xfdock1.png?nolink|Medieval Canal : Fishing Dock (Old Medieval, 6×)}}</wrap> **Medieval Canal : Fishing Dock (Old Medieval, 6×)**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Fishing NewMedievalTown}}

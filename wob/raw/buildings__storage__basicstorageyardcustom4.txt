@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Materials Storage Yard ======
+----
+
+<WRAP right>
+^  Materials Storage Yard                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsStoragerawmaterials.png?nolink|Materials Storage Yard}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  variable (1×1 to 30×30)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  250 per tile  |
+|  Storage Categories  |  Raw Materials  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Storage drag-to-size yard where settlers stockpile raw materials. Drag to set size up to 30×30; capacity is 250 units per tile.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorageyard.png?nolink|Stock Piles}}</wrap> **Stock Piles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorageyards.png?nolink|Storage Yards}}</wrap> **Storage Yards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsStoragerawmaterials.png?nolink|Materials Storage Yard}}</wrap> **Materials Storage Yard**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorageyards.png?nolink|Storage Yards}}</wrap> **Storage Yards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsStoragerawmaterials.png?nolink|Materials Storage Yard}}</wrap> **Materials Storage Yard**
+
+----
+
+{{tag>Building Storage DS}}

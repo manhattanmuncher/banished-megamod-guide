@@ -1,0 +1,18 @@
+~~NOTOC~~
+
+====== Fruit ======
+----
+
+Fruit items harvested from orchards and foraging. Fruit is stored as food and contributes to diet variety.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/maplesap.png?nolink|Maple Sap}} [[WikiPages:fruit:maple_sap|Maple Sap]]
+
+----
+
+{{tag>Fruit}}

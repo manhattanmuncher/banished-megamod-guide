@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Lean-To (Early) ======
+----
+
+<WRAP right>
+^  Large Lean-To (Early)                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne1x4leanto.png?nolink|Large Lean-To (Early)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 1  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  7  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New England early-style lean-to; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarne.png?nolink|New England Colonial Set}}</wrap> **New England Colonial Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarneearly.png?nolink|New England Early Houses}}</wrap> **New England Early Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne1x4leanto.png?nolink|Large Lean-To (Early)}}</wrap> **Large Lean-To (Early)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarne.png?nolink|New England Colonial Set}}</wrap> **New England Colonial Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarneearly.png?nolink|New England Early Houses}}</wrap> **New England Early Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildne1x4leanto.png?nolink|Large Lean-To (Early)}}</wrap> **Large Lean-To (Early)**
+
+----
+
+{{tag>Building Houses NewEngland}}

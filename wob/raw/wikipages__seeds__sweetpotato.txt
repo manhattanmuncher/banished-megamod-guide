@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Sweet Potato Seeds ======
+----
+
+<WRAP right>
+^  Sweet Potato Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedsweetpotato.png?nolink|Sweet Potato Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Sweet Potato Seeds are used to plant [[WikiPages:food:sweet_potato|Sweet Potato]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

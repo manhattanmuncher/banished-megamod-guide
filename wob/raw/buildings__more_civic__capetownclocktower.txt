@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cape Town Clocktower ======
+----
+
+<WRAP right>
+^  Cape Town Clocktower                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapetownclocktower.png?nolink|Cape Town Clocktower}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  4 (default)  |
+|  Happiness  |  Spirit (radius 30)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  160  |
+|  [[WikiPages:wood:log|Wood]]  |  60  |
+|  [[WikiPages:stone:stone|Stone]]  |  100  |
+|  [[WikiPages:iron:iron|Iron]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Cape Town Clocktower is a civic landmark from the A8 South African Misc mod. It provides Spirit happiness to nearby citizens within a 30-tile radius and also functions as a town hall, letting you set colony resource limits.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8civics.png?nolink|A8 civics}}</wrap> **A8 civics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapetownclocktower.png?nolink|Cape Town Clocktower}}</wrap> **Cape Town Clocktower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcapetownclocktower.png?nolink|Cape Town Clocktower}}</wrap> **Cape Town Clocktower**
+
+----
+
+===== Other Information =====
+
+This building originally came from **South African Miscellaneous v1.5**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=465|WoB]], [[https://www.nexusmods.com/banished/mods/111|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1531417763|Steam]]
+
+{{tag>Building Civic A8}}

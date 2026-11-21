@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Seed Oil ======
+----
+
+<WRAP right>
+^  Seed Oil                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  80/100  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/seedoil.png?nolink|Seed Oil}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Seed Oil is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. It has a modest trade value of 3.
+
+----
+
+===== Seed Oil Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:oil_press:bgoilpress|Oilpress]]
+  * Produced at the [[buildings:crafting:eboilpress|Oil Press (EB)]]
+  * Produced at the [[buildings:crafting:farmyard|Farmyard]]
+  * Produced at the [[buildings:crafting:oilpress|Oil Press (Colonial)]]
+  * Produced at the [[buildings:crafting:oldoilpress|Old Oil Press (Colonial)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:herbalist:ebapothecary|Apothecary (EB)]] (for Healing Oil)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

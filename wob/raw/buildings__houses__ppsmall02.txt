@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Plantation House (Large) ======
+----
+
+<WRAP right>
+^  Small Plantation House (Large)                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppsmall02.png?nolink|Small Plantation House (Large)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Plimoth Plantation small house; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplimothplantation.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppsmall02.png?nolink|Small Plantation House}}</wrap> **Small Plantation House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildplimothplantation.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppsmall02.png?nolink|Small Plantation House}}</wrap> **Small Plantation House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppsmall01.png?nolink|Plimoth Plantation}}</wrap> **Plimoth Plantation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildppsmall02.png?nolink|Small Plantation House (Large)}}</wrap> **Small Plantation House (Large)**
+
+----
+
+This building originally came from **Plimoth Plantation v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=213|WoB]], [[https://banishedinfo.com/mods/view/814-Plimoth-Plantation|BI]]
+
+{{tag>Building Houses PlimothPlantation}}

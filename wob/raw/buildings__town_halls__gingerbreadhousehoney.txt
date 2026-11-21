@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gingerbread House, Honey (Christmas Mod) ======
+----
+
+<WRAP right>
+^  Gingerbread House                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadhouse.png?nolink|Gingerbread House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  82  |
+|  [[WikiPages:grain:flour|Flour]]  |  144  |
+|  [[WikiPages:food:honey|Honey]]  |  60  |
+|  [[WikiPages:food:spices|Spices]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Christmas Mod gingerbread house (honey variant) providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony. Only one can be placed per colony. Uses Honey instead of Sugar (Refined) compared to the standard [[buildings:town_halls:gingerbreadhouse|Gingerbread House]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadhouse.png?nolink|Gingerbread House, Honey}}</wrap> **Gingerbread House, Honey**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgingerbreadhouse.png?nolink|Gingerbread House, Honey (Christmas Mod)}}</wrap> **Gingerbread House, Honey (Christmas Mod)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building TownHalls ChristmasMod}}

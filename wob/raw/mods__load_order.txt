@@ -1,0 +1,39 @@
+====== Mod Load Order & Red Warnings ======
+----
+
+If two mods edit the same thing and both turn red in your mod list, **that is not an error**. It's Banished telling you the two mods overlap — nothing more. Whichever one is higher in your list wins.
+
+----
+
+{{:mods:load_order_diagram.png?900|Diagram: a mod list with two conflicting mods highlighted red, and a worked example showing which value wins}}
+
+----
+
+===== What red actually means =====
+
+Banished loads your mods top to bottom. When two enabled mods both try to define the same file — the same building, the same recipe, the same anything — the game flags both of them in red as a heads-up. It is **not** a crash warning and it does **not** mean the mods are incompatible. It means:
+
+  * The mod **higher** in your list is used, in full, for that file.
+  * The mod **lower** in your list loses that one file — the rest of it still loads normally.
+
+**Real example:** Colonial Charter's Bank Barn stores 30,000 goods. [[https://drive.google.com/file/d/1oDiYVnEA6me_M08c6gL4vEf6RwP-eEJy/view?usp=sharing|Ridiculous Storage]] is a mod that redefines the Bank Barn to store 150,000 instead. Enable both, and they'll both turn red, because they're both trying to define the same Bank Barn. Put Ridiculous Storage **above** Colonial Charter in your list, and you get the 150,000-capacity barn exactly as intended — the red warning was just noise.
+
+This is actually the whole point of most "override" mods. Nearly every add-on for a big pack like Colonial Charter or MegaMod is *designed* to turn red against the base pack — that's how it knows to replace a value instead of just adding new content alongside it.
+
+----
+
+===== When red is NOT safe =====
+
+There's one important exception. Some mods aren't overrides — they're **add-ons that borrow pieces from another mod** to work at all (for example, a mod that adds a new building using Colonial Charter's shared textures or models). Those mods must be placed **below** the mod they borrow from, so they can find what they need. Load one of these in the wrong order and it can genuinely crash, rather than just losing a harmless conflict.
+
+If a mod's description says it "requires" or "needs" another mod, that's your cue to put it underneath that mod, not above it.
+
+<WRAP tip>
+**The short version:** red mods aren't broken. Check what's actually conflicting — if it's an intentional override, just make sure the mod that should win is higher in the list. It's genuinely hard to crash the game from load order alone, as long as "requires X" mods stay below the mod they require.
+</WRAP>
+
+----
+
+//Adapted from a [[https://www.reddit.com/r/Banished/comments/416ixw/psa_when_your_mods_turn_red_it_doesnt_mean_they/|2016 r/Banished PSA]] by the same author.//
+
+{{tag>Mods Load-Order}}

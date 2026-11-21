@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Mead Brewer ======
+----
+
+<WRAP right>
+^  Village Mead Brewer                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvtownmeadbrewer.png?nolink|Village Mead Brewer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  13  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  250  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  13  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Small Village brewer. A Brewer ferments Honey into Mead (with or without water to stretch the batch) and infuses Mead with Herbs to produce Mulled Mead.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxury}}</wrap> **Luxury** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvtownmeadbrewer.png?nolink|Village Mead Brewer}}</wrap> **Village Mead Brewer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsmarketstaverns.png?nolink|Markets, Taverns, Alcohol & Luxury Production}}</wrap> **Markets, Taverns, Alcohol & Luxury Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvtownmeadbrewer.png?nolink|Village Mead Brewer}}</wrap> **Village Mead Brewer**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                  ^ Produces                                              ^
+| 60 [[WikiPages:food:honey|Honey]]                                                            | [[WikiPages:alcohol:mead|Mead]]                       |
+| 40 [[WikiPages:food:honey|Honey]] + 20 [[WikiPages:food:water|Water]]                        | [[WikiPages:alcohol:mead|Mead]]                       |
+| 1 [[WikiPages:alcohol:mead|Mead]] + 1 [[WikiPages:health:herb|Herb]]                         | [[WikiPages:alcohol:mulled_mead|Mulled Mead]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Brewery DS}}

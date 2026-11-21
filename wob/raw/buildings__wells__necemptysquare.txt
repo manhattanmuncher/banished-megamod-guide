@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Empty Square (Necora) ======
+----
+
+<WRAP right>
+^  Empty Square (Necora)                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnecemptysquare.png?nolink|Empty Square}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  Happiness  |  Safety (fire suppression)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora invisible utility square that provides Safety happiness and fire suppression without a visible building, letting you cover an area with fire protection discreetly. Three variants are included.
+
+----
+
+===== Variants =====
+
+^ Variant ^
+| An Empty Square (blocks movement) |
+| A Passable Square (walkable) |
+| An Empty Field (drag-to-size zone) |
+
+All are free to place.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnecemptysquare.png?nolink|Empty Square}}</wrap> **Empty Square**
+
+----
+
+{{tag>Building Wells NECEmptySquare}}

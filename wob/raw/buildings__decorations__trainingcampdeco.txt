@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Training Camp Decorations ======
+----
+
+<WRAP right>
+^  Training Camp Decorations                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|Training Camp Decorations}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (1×1 props, 1×3 gates)  |
+^  Build Cost (per piece)                                                            ^^
+|  [[WikiPages:wood:log|Wood]]  |  Varies (e.g. 20 for a palisade main gate)  |
+</WRAP>
+<WRAP right></WRAP>
+
+The decorative props that dress up RedKetchup's Training Camp — palisade walls and gates, archery targets, banners and flags, wooden practice dummies, weapon tables, horses and horse-water troughs. They are cosmetic pieces for building out a military training ground or fort. (The Training Camp's working buildings live in the Training Camp Main and Training Camp Storage sets.)
+
+----
+
+===== Variants =====
+
+  * **Palisades** — wall sections, corners and the Palisade Main Gate.
+  * **Archery Targets** — practice targets.
+  * **Flags & Banners**
+  * **Wood Dummies** — sparring/practice dummies.
+  * **Weapon Tables** — racks and tables of weapons.
+  * **Horses** — decorative horses.
+  * **Water for Horses** — troughs / watering pieces.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|Training Camp}}</wrap> **Training Camp** → the sub-toolbar (Palisades, Archery Targets, Flags, Wood Dummy, Weapon Tables, Horses, Water for Horses) → the piece
+
+----
+
+{{tag>Building Decorations TrainingCamp}}

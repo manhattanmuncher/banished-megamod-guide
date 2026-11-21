@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== School House ======
+----
+
+<WRAP right>
+^  School House                                                                       ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschool.png?nolink|School House}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/teacher.png?nolink|Teacher}}</wrap> Teacher  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default)  ||
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  ||
+|  [[WikiPages:wood:log|Log]]  |  50  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |  26  |
+|  [[WikiPages:iron:iron|Iron]]  |  16  |  –  |
+</WRAP>
+<WRAP right></WRAP>
+
+The School House is the vanilla Banished education building. A Teacher educates citizens, improving their productivity and yields across all professions.
+
+----
+
+===== Where to Find =====
+
+The School House is found in the vanilla Banished **Social** building category.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarschool.png?nolink|Schools}}</wrap> **Schools** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildschool.png?nolink|School House}}</wrap> **School House**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Schools}}

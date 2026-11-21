@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tequila Barrel ======
+----
+
+<WRAP right>
+^  Tequila Barrel                                 ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |
+|  Edible  |  No  |
+|  Trade Value  |  60  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  6  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tmbarrel.png?nolink|Tequila Barrel}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Tequila Barrel is a vegetable crop grown in fields in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. At a trade value of 60, it is highly prized by traveling merchants.
+
+----
+
+===== Tequila Barrel Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:tmdistillery|Tequila Distillery]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:tmbar|Tequila Bar]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Vegetable}}

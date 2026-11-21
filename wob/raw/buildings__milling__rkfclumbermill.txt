@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lumbermill (RK FC) ======
+----
+
+<WRAP right>
+^  Lumbermill                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfclumbermill.png?nolink|Lumbermill}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Lumbermill is an RK Editor Choice building where a Cutter processes logs into Lumber or Firewood. It is an essential early-game building since many tier 2 and higher structures require Lumber to build.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsawmill.png?nolink|Sawmill}}</wrap> **Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfclumbermill.png?nolink|Lumbermill}}</wrap> **Lumbermill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfclumbermill.png?nolink|Lumbermill}}</wrap> **Lumbermill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                           ^ Produces                              ^
+| 1 [[WikiPages:wood:log|Wood]]         | [[WikiPages:custom5:lumber|Lumber]]   |
+| 2 [[WikiPages:wood:log|Wood]]         | [[WikiPages:fuel:firewood|Firewood]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Milling RKEditorChoice}}

@@ -1,0 +1,234 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Starting Conditions ======
+----
+
+Starting conditions are chosen when starting a new game. They determine how many families you begin with, what resources and tools are provided, which structures (if any) are pre-built, and which crops, orchard trees, and livestock are seeded on the map. Starting conditions do not affect terrain shape or climate.
+
+**Adam and Eve** (AE) conditions start with a single couple — one family, no pre-generated children.
+
+----
+
+===== Base Difficulty Tiers =====
+
+Most starting conditions — vanilla and mod alike — use one of these four resource templates. Mod series typically differ in their pre-built structures and the specific crops/trees/animals available on the map, not in the resource amounts.
+
+^ Difficulty ^ Families ^ Food ^ Firewood ^ Clothing ^ Tools ^ Wood ^ Stone ^ Iron ^ Crop Seeds ^ Orchard Seeds ^ Livestock ^ Pre-built Structures ^
+| Hard | 4 | 1,200 | 100 | 20 | 20 | 0 | 0 | 0 | 0 | 0 | 0 | Storage Cart |
+| Medium | 5 | 1,800 | 200 | 30 | 40 | 120 | 60 | 40 | 2 | 1 | 0 | Storage Barn + Storage Yard |
+| Easy | 6 | 2,400 | 400 | 40 | 50 | 150 | 70 | 50 | 2 | 2 | 1 | Storage Barn + Storage Yard + 6 Wood Houses |
+| Adam & Eve | 1 | 250 | 100 | 7 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | Storage Cart |
+
+----
+
+===== Vanilla Starting Conditions =====
+
+The three vanilla starting conditions (Hard, Medium, Easy) follow the base templates exactly.
+
+----
+
+===== Colonial Charter Starting Conditions =====
+
+==== Standard CC ====
+
+^ Condition ^ Families ^ Notes ^
+| [CC] Medium+ | 5 | Medium resources + 1 livestock; Storage Barn + Storage Yard |
+| [CC] Adam & Eve | 1 | AE resources; Storage Cart; no building materials |
+| [CC] Missionary | 3 | W120 S60 I40 T40 F1400 Fl200 Cl25; Storage Barn + Yard; 1 crop, 1 orchard, 1 livestock |
+| [CC] New Frontier | 3 | W135 S35 I30 T40 F1200 Fl200 Cl25; Fort structures; 1 crop, 1 orchard, 1 livestock |
+| [CC] Native Village - Hard | 4 | Hard resources; Native Village pre-built structures |
+| [CC] Native Village - Adam and Eve | 1 | AE resources; Native Village structures |
+
+==== Silk Road ====
+
+Silk Road conditions use vanilla resource amounts with trade-themed structures and seeds.
+
+^ Condition ^ Families ^ Notes ^
+| [CC] Silk Road - Easy | 6 | Easy resources (no livestock); Silk Road structures |
+| [CC] Silk Road - Medium | 5 | Medium resources |
+| [CC] Silk Road - Hard | 4 | Hard resources + 1 orchard seed |
+
+==== El Dorado ====
+
+El Dorado conditions use standard resource templates. Map has El Dorado-themed trees (the "New Trees" mod tree set).
+
+^ Condition ^ Families ^
+| [CC] El Dorado - Easy | 6 |
+| [CC] El Dorado - Medium | 5 |
+| [CC] El Dorado - Hard | 4 |
+| [CC] El Dorado - Adam & Eve | 1 |
+
+==== Antilles ====
+
+Antilles conditions use standard resource templates. Map has tropical palm trees only.
+
+^ Condition ^ Families ^
+| [CC] Antilles - Easy | 6 |
+| [CC] Antilles - Medium | 5 |
+| [CC] Antilles - Hard | 4 |
+| [CC] Antilles - Adam & Eve | 1 |
+
+==== Zhu Zhi Forest ====
+
+Zhu Zhi Forest conditions use standard resource templates. Map has bamboo trees only.
+
+^ Condition ^ Families ^
+| [CC] Zhu Zhi Forest - Easy | 6 |
+| [CC] Zhu Zhi Forest - Medium | 5 |
+| [CC] Zhu Zhi Forest - Hard | 4 |
+| [CC] Zhu Zhi Forest - Adam & Eve | 1 |
+
+==== Matacapan Jungle ====
+
+Matacapan Jungle conditions use standard resource templates. Map has jungle-themed tree/crop selection.
+
+^ Condition ^ Families ^
+| [CC] Matacapan Jungle - Easy | 6 |
+| [CC] Matacapan Jungle - Medium | 5 |
+| [CC] Matacapan Jungle - Hard | 4 |
+| [CC] Matacapan Jungle - Adam & Eve | 1 |
+
+==== Appalachian Forest ====
+
+Appalachian Forest conditions use standard resource templates. Map has Appalachian-themed trees.
+
+^ Condition ^ Families ^
+| [CC] Appalachian Forest - Easy | 6 |
+| [CC] Appalachian Forest - Medium | 5 |
+| [CC] Appalachian Forest - Hard | 4 |
+| [CC] Appalachian Forest - Adam & Eve | 1 |
+
+==== Curse of the Golden Llama ====
+
+Golden Llama conditions use standard resource templates. Map has llama-themed crop/animal selection.
+
+^ Condition ^ Families ^
+| [CC] Curse of the Golden Llama - Easy | 6 |
+| [CC] Curse of the Golden Llama - Medium | 5 |
+| [CC] Curse of the Golden Llama - Hard | 4 |
+| [CC] Curse of the Golden Llama - Adam & Eve | 1 |
+
+==== Northern Pines ====
+
+Northern Pines conditions use standard resource templates. Map has Northern Pines-themed tree selection.
+
+^ Condition ^ Families ^
+| [CC] Northern Pines - Easy | 6 |
+| [CC] Northern Pines - Medium | 5 |
+| [CC] Northern Pines - Hard | 4 |
+| [CC] Northern Pines - Adam & Eve | 1 |
+
+==== Shipwreck ====
+
+Shipwreck conditions represent castaways with no iron (survivors couldn't salvage it). Each variant seeds a different tree/crop set themed to a region.
+
+^ Condition ^ Families ^ Notes ^
+| [CC] Shipwreck - Hard | 4 | Hard resources; no iron |
+| [CC] Shipwreck - El Dorado - Hard | 4 | Hard resources; no iron; El Dorado trees |
+| [CC] Shipwreck - Jungle - Hard | 4 | Hard resources; no iron; Jungle trees |
+| [CC] Shipwreck - Northern Pines - Hard | 4 | Hard resources; no iron; Northern Pines trees |
+| [CC] Shipwreck - Medium+ | 5 | W120 S60 I0 T40 F1800 Fl200 Cl30; 1 crop, 1 orchard, 1 livestock |
+| [CC] Shipwreck - El Dorado - Medium+ | 5 | As Medium+; El Dorado trees |
+| [CC] Shipwreck - Jungle - Medium+ | 5 | As Medium+; Jungle trees |
+| [CC] Shipwreck - Northern Pines - Medium+ | 5 | As Medium+; Northern Pines trees |
+
+==== Single-entry CC Conditions ====
+
+^ Condition ^ Families ^ Notes ^
+| [CC] Bayou - Easy | 6 | Easy resources; Bayou-themed map |
+| [CC] Old Castle - Hard | 4 | Hard resources; ruined castle structures pre-placed |
+| [CC] All The Wild Things - Easy | 6 | Easy resources; Fantasy Fairy-themed tree/crop selection |
+| [CC] All The Wild Things - Adam and Eve | 1 | AE resources |
+| [CC] Abandoned Village - Northern Pines | 4 | Hard resources; ruined buildings pre-placed |
+| [CC] Abandoned Village - Jungle | 4 | Hard resources; ruined buildings pre-placed |
+
+----
+
+===== RK Editor Choice Starting Conditions =====
+
+All [RKEC] conditions use RKEC-styled pre-built structures. The "Easy", "Hard", and "Medium [RKEC]" variants mirror the vanilla resource totals.
+
+^ Condition ^ Families ^ Notes ^
+| Easy | 6 | Easy resources; RKEC structures |
+| Medium [RKEC] | 5 | Medium resources; RKEC structures |
+| Hard | 4 | Hard resources; RKEC structures |
+| Adam & Eve [RKEC] | 1 | T6 F400 Fl90 Cl6; Storage Cart + Storage Yard; no building materials |
+| Genesis [RKEC] | 2 | T12 F800 Fl120 Cl12; no building materials |
+| Hard Alternate [RKEC] | 4 | T24 F1200 Fl100 Cl20; 1 crop seed; no building materials |
+| Medium 2 [RKEC] | 5 | Medium resources; 1 crop, 1 orchard, 1 livestock |
+| Medium 3 [RKEC] | 5 | Medium resources; 2 crops, no orchards, 1 livestock |
+| Medium 4 [RKEC] | 5 | Medium resources; no crops, 2 orchards, 1 livestock |
+| Farmer [RKEC] | 4 | W100 S50 I30 T32 F1600 Fl160 Cl24; Medium Barn + Stockpile; 3 crop seeds |
+| Gatherers [RKEC] | 4 | W80 S40 I30 T32 F1600 Fl160 Cl24; Gatherer Hut + Cart + Stockpile; no seeds |
+| Shepherd [RKEC] | 4 | W100 S50 I30 T32 F1600 Fl160 Cl24; Cart + Stockpile; 2 livestock |
+| Jack & Jill [RKEC] | 1 | Absolutely nothing — no tools, no food, no shelter |
+
+----
+
+===== Discrepancy (DSSV) Starting Conditions =====
+
+DSSV conditions use DS/DSSV-styled pre-built structures. Easy-level variants emphasize different starting resources. The **Stranded** line is its own tier: a single family or pair with minimal supplies.
+
+^ Condition ^ Families ^ Food ^ Firewood ^ Clothing ^ Tools ^ Wood ^ Stone ^ Iron ^ Seeds/Livestock ^ Notes ^
+| Easy [DSSV] | 6 | 2,400 | 400 | 50 | 50 | 150 | 70 | 50 | 2 crop, 2 orch, 1 lv | More clothing than vanilla Easy |
+| Easy-Crops [DSSV] | 6 | 1,600 | 220 | 30 | 30 | 120 | 50 | 30 | All crop seeds | No livestock or orchards |
+| Easy-Orchards [DSSV] | 6 | 1,600 | 220 | 30 | 30 | 120 | 50 | 30 | All orchard seeds | No livestock or crops |
+| Easy-Farmers [DSSV] | 6 | 1,600 | 220 | 30 | 30 | 120 | 50 | 30 | 5 crop, 5 orch, 2 lv | Balanced farm/orchard start |
+| Easy-Herdsman [DSSV] | 6 | 1,600 | 220 | 30 | 30 | 120 | 50 | 30 | 10 livestock | No seeds |
+| Medium [DSSV] | 5 | 1,600 | 220 | 30 | 30 | 120 | 50 | 30 | 2 crop, 1 orch | Slightly below vanilla Medium |
+| Harder [DSSV] | 4 | 750 | 100 | 10 | 10 | 0 | 0 | 0 | None | Harder than vanilla Hard |
+| Jack & Jill [DSSV] | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | None | Absolutely nothing |
+| Stranded [DSSV] | 1 | 200 | 20 | 3 | 3 | 0 | 0 | 0 | None | Survival start |
+| Stranded Hard [DSSV] | 2 | 200 | 20 | 3 | 3 | 0 | 0 | 0 | None | 2 families, minimal supplies |
+| Stranded Harder [DSSV] | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | None | 2 families, nothing at all |
+| Stranded with seeds [DSSV] | 1 | 200 | 20 | 3 | 3 | 0 | 0 | 0 | 2 crop, 1 orch | Stranded but with seeds |
+
+----
+
+===== Vegetable Garden Starting Conditions =====
+
+^ Condition ^ Families ^ Notes ^
+| Vegetable Garden Easy | 6 | Easy resources; VG-styled structures; 1 crop seed, 2 orchard seeds, 1 livestock |
+| Vegetable Garden Medium | 5 | Medium resources; VG-styled structures; 1 crop seed, 1 orchard seed |
+| Vegetable Garden Hard | 4 | Hard resources; Storage Cart |
+
+----
+
+===== Terrain-Specific Starting Conditions =====
+
+These conditions are tuned for specific terrain types and note the recommended terrain in their description.
+
+==== Swamp ====
+
+^ Condition ^ Families ^ Notes ^
+| Easy Swamp | 6 | W80 S50 I50 T50 F2400 Fl500 Cl40; 4 crop seeds, no orchards, 1 livestock; more firewood than vanilla Easy |
+| Medium Swamp | 5 | Medium resources; no orchards |
+| Hard Swamp | 4 | Hard resources |
+
+==== Prairie ====
+
+^ Condition ^ Families ^ Notes ^
+| Easy Prairie | 6 | Easy resources |
+| Medium Prairie | 5 | Medium resources |
+| Hard Prairie | 4 | Hard resources |
+| Pioneer Circle | 7 | W0 S0 I0 T60 F2000 Fl500 Cl40; 3 crop seeds; circle-of-wagons pre-built |
+| Prairie Circle | 4 | W0 S0 I0 T40 F1600 Fl300 Cl30; 3 crop seeds; wagons pre-built |
+| Prairie Hard | 2 | W0 S0 I0 T20 F1200 Fl200 Cl20; 2 crop seeds; wagons pre-built |
+
+==== Grass ====
+
+Grass conditions add grass ground cover to the starting area. Resource amounts match the standard templates.
+
+^ Condition ^ Families ^
+| Grass Easy | 6 |
+| Grass Medium | 5 |
+| Grass Hard | 4 |
+
+==== Japan ====
+
+^ Condition ^ Families ^ Notes ^
+| Japan | 6 | W150 S30 I20 T40 F1800 Fl200 Cl30; 2 crop, 2 orchard; Japanese-themed buildings; rice, soybean, tea, and mulberry seeds; Silkworm Box structure |
+
+----
+
+{{tag>StartingConditions}}

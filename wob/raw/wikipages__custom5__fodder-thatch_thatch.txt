@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fodder-Thatch ======
+----
+
+<WRAP right>
+^  Fodder-Thatch                                  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom5  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  6  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/thatch.png?nolink|Fodder-Thatch}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Fodder-Thatch is a construction material used to erect buildings in the Banished MegaMod. It is produced or refined and held in a Stockpile, ready for builders to draw on when constructing new structures. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Fodder-Thatch Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:forester:aspmeadow|Meadow (Animal Shed Plus)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom5}}

@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== SHA Tower Baker (Roof) ======
+----
+
+<WRAP right>
+^  SHA Tower Baker (Roof)                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbakerroof.png?nolink|SHA Tower Baker (Roof)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  18.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  Happiness  |  Goods (radius 20)  |
+|  Storage  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+Stone House Addon tower-style bakery with a roof extension. Bakes bread and specialty breads from flour.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbusiness.png?nolink|Tower Business}}</wrap> **Tower Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbakerroof.png?nolink|SHA Tower Baker (Roof)}}</wrap> **SHA Tower Baker (Roof)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstonehouseaddon.png?nolink|Stone House Addon}}</wrap> **Stone House Addon** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbusiness.png?nolink|Tower Business}}</wrap> **Tower Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbakerroof.png?nolink|SHA Tower Baker (Roof)}}</wrap> **SHA Tower Baker (Roof)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshatowerbakerroof.png?nolink|SHA Tower Baker (Roof)}}</wrap> **SHA Tower Baker (Roof)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                          ^ Produces                                             ^
+| 24 [[WikiPages:grain:flour|Flour]]                                                                   | [[WikiPages:food:bread_bread|Bread]]                 |
+| 15 [[WikiPages:grain:flour|Flour]] + 12 [[WikiPages:food:walnut|Walnut]]                             | [[WikiPages:food:nut_bread_breadnut|Nut Bread]]       |
+| 15 [[WikiPages:grain:flour|Flour]] + 8 [[WikiPages:health:herb|Herb]]                                | [[WikiPages:food:herb_bread|Herb Bread]]              |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Stone House Addon v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=279|WoB]]
+
+{{tag>Building Bakery StoneHouseAddon}}

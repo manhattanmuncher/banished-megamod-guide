@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hostel 2nd floor (Old Chapel Stones) ======
+----
+
+<WRAP right>
+^  Hostel 2nd floor (Old Chapel Stones)                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hostelf2c1t1.png?nolink|Hostel 2nd floor (Old Chapel Stones)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  3  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  102  |
+^  Build Cost                                                                            ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+|  [[WikiPages:custom5:glass|Glass]]  |  10  |
+|  [[WikiPages:custom5:roof_tile|Roof Tile]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:hostelf2c1t6|Hostel 2nd floor (Old Church Stones)]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture7.png?nolink|NMT MultiLevel Old Chapel Stones Toolbar}}</wrap> **NMT MultiLevel Old Chapel Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hosteltoolbar.png?nolink|Corner Hostel Toolbar}}</wrap> **Corner Hostel Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hostelf2c1t1.png?nolink|Hostel 2nd floor}}</wrap> **Hostel 2nd floor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30multistoryhousingtoolbar.png?nolink|NMT MultiLevel House Toolbar}}</wrap> **NMT MultiLevel House Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt3texture7.png?nolink|NMT MultiLevel Old Chapel Stones Toolbar}}</wrap> **NMT MultiLevel Old Chapel Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hosteltoolbar.png?nolink|Corner Hostel Toolbar}}</wrap> **Corner Hostel Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/hostelf2c1t1.png?nolink|Hostel 2nd floor}}</wrap> **Hostel 2nd floor**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

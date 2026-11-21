@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Feathers ======
+----
+
+<WRAP right>
+^  Feathers                                       ^  xBLS  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |  3/5  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/feather.png?nolink|Feathers}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Feathers are a raw textile material gathered or produced in the Banished MegaMod. They are stored in a Barn and used as an ingredient in clothing and other crafted goods. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Feathers Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockchicken|Chickens]]
+  * [[livestock:livestockwhitechicken|Leghorns]]
+  * [[livestock:livestockrkduck|Ducks]]
+  * [[buildings:animal_pens:animalpen3|Egg Pen]]
+  * Produced at the [[buildings:hunting:blindshore|Hunting Blind]]
+  * Produced at the [[buildings:animal_pens:dockbreed|Dock Chicken Breeder]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:dockshopcraft|Dock Workshop]] (for Reed Coat)
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+  * Used at the [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]]
+  * Used at the [[buildings:greenhouse:hgcompostbin|Compost Bin (Home Grown)]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

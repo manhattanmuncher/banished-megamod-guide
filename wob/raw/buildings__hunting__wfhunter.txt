@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WF Hunter ======
+----
+
+<WRAP right>
+^  WF Hunter                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfhunter.png?nolink|WF Hunter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  64.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A hunter's lodge from the Wooden Fort mod set. Hunters roam the wilderness to randomly gather wild game meats, fur, and leather.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodenfort.png?nolink|Wooden Fort}}</wrap> **Wooden Fort** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfutility.png?nolink|Utility}}</wrap> **Utility** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfhunter.png?nolink|WF Hunter}}</wrap> **WF Hunter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodenfort.png?nolink|Wooden Fort}}</wrap> **Wooden Fort** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfutility.png?nolink|Utility}}</wrap> **Utility** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfhunter.png?nolink|Hunter}}</wrap> **Hunter**
+
+----
+
+===== Produces =====
+
+Output is random.
+
+  * [[WikiPages:food:bear|Bear Meat]] (random)
+  * [[WikiPages:food:boar|Boar Meat]] (random)
+  * [[WikiPages:textile:fur|Fur]] (random)
+  * [[WikiPages:textile:leather|Leather]] (random)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Wooden Fort v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=449|WoB]]
+
+{{tag>Building Hunting WoodenFort KID}}

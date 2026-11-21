@@ -1,0 +1,42 @@
+~~NOTOC~~
+
+====== Clothing ======
+----
+
+Clothing and outerwear worn by citizens to survive cold winters. A citizen without clothing will eventually die from exposure.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/boot.png?nolink|Boots}} [[WikiPages:clothing:boots|Boots]]
+  * {{https://sprites.worldofbanished.com/wintercoat2.png?nolink|Buff Coat}} [[WikiPages:clothing:buff_coat|Buff Coat]]
+  * {{https://sprites.worldofbanished.com/rmclothingcanvas.png?nolink|Canvas Clothing}} [[WikiPages:clothing:canvas_clothing|Canvas Clothing]]
+  * {{https://sprites.worldofbanished.com/canvascoat.png?nolink|Canvas Coat}} [[WikiPages:clothing:canvas_coat|Canvas Coat]]
+  * {{https://sprites.worldofbanished.com/clogs.png?nolink|Clogs}} [[WikiPages:clothing:clogs|Clogs]]
+  * {{https://sprites.worldofbanished.com/clothcoat.png?nolink|Cloth Coat}} [[WikiPages:clothing:cloth_coat|Cloth Coat]]
+  * {{https://sprites.worldofbanished.com/clothcoatdown.png?nolink|Cloth Down Coat}} [[WikiPages:clothing:cloth_down_coat|Cloth Down Coat]]
+  * {{https://sprites.worldofbanished.com/cottoncoat.png?nolink|Cotton Coat}} [[WikiPages:clothing:cotton_coat|Cotton Coat]]
+  * {{https://sprites.worldofbanished.com/down.png?nolink|Down Coat}} [[WikiPages:clothing:down_coat|Down Coat]]
+  * {{https://sprites.worldofbanished.com/dresscoat.png?nolink|Dress Coat}} [[WikiPages:clothing:dress_coat|Dress Coat]]
+  * {{https://sprites.worldofbanished.com/frockcoat.png?nolink|Frock Coat}} [[WikiPages:clothing:frock_coat|Frock Coat]]
+  * {{https://sprites.worldofbanished.com/fullcoat.png?nolink|Full Coat}} [[WikiPages:clothing:full_coat|Full Coat]]
+  * {{https://sprites.worldofbanished.com/fullsuit.png?nolink|Full Suit}} [[WikiPages:clothing:full_suit|Full Suit]]
+  * {{https://sprites.worldofbanished.com/furcoat.png?nolink|Fur Coat}} [[WikiPages:clothing:fur_coat|Fur Coat]]
+  * {{https://sprites.worldofbanished.com/kimono.png?nolink|Kimono}} [[WikiPages:clothing:kimono|Kimono]]
+  * {{https://sprites.worldofbanished.com/leathercoat.png?nolink|LeatherCoat}} [[WikiPages:clothing:leathercoat|LeatherCoat]]
+  * {{https://sprites.worldofbanished.com/linenclothes.png?nolink|Linen Clothing}} [[WikiPages:clothing:linen_clothing|Linen Clothing]]
+  * {{https://sprites.worldofbanished.com/peacoat.png?nolink|Peacoat}} [[WikiPages:clothing:peacoat|Peacoat]]
+  * {{https://sprites.worldofbanished.com/rmclothingpelt.png?nolink|Pelt Clothing}} [[WikiPages:clothing:pelt_clothing|Pelt Clothing]]
+  * {{https://sprites.worldofbanished.com/shoe.png?nolink|Shoes}} [[WikiPages:clothing:shoes|Shoes]]
+  * {{https://sprites.worldofbanished.com/reedcoat.png?nolink|Survival Coat}} [[WikiPages:clothing:survival_coat|Survival Coat]]
+  * {{https://sprites.worldofbanished.com/towncoat.png?nolink|Town Coat}} [[WikiPages:clothing:town_coat|Town Coat]]
+  * {{https://sprites.worldofbanished.com/fulllivery.png?nolink|Uniform}} [[WikiPages:clothing:uniform|Uniform]]
+  * {{https://sprites.worldofbanished.com/wintercoat.png?nolink|WinterCoat}} [[WikiPages:clothing:wintercoat|WinterCoat]]
+  * {{https://sprites.worldofbanished.com/woolcoat.png?nolink|WoolCoat}} [[WikiPages:clothing:woolcoat|WoolCoat]]
+
+----
+
+{{tag>Clothing}}

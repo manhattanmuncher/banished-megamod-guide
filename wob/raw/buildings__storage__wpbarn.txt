@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medium Barn (WorkPlace) ======
+----
+
+<WRAP right>
+^  Medium Barn                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbarn.png?nolink|Medium Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  8,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Fruit, Vegetable, Grain, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×28  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID WorkPlace mod medium storage barn. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbarn.png?nolink|Medium Barn}}</wrap> **Medium Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbarn.png?nolink|Medium Barn}}</wrap> **Medium Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbarn.png?nolink|Medium Barn (WorkPlace)}}</wrap> **Medium Barn (WorkPlace)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpbarn.png?nolink|Medium Barn (WorkPlace)}}</wrap> **Medium Barn (WorkPlace)**
+
+----
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building Storage KID}}

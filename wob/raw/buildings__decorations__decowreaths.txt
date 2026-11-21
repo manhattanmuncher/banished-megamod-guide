@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Decoration Wreaths ======
+----
+
+<WRAP right>
+^  Decoration Wreaths                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecowreath.png?nolink|Decoration Wreaths}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  No footprint (hung decoration)  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative wreaths from Kid's Deco Wreaths mod, to hang on walls and over doors. Free to place, in a range of floral designs.
+
+----
+
+===== Variants =====
+
+  * Wreaths in assorted designs — small white flowers on green, White Lilies, Yellow Lilies, and more.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddecowreath.png?nolink|Decoration Wreaths}}</wrap> **Decoration Wreaths** → the wreath
+
+----
+
+{{tag>Building Decorations KidDecoWreaths}}

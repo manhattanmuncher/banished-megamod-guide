@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Marble ======
+----
+
+<WRAP right>
+^  Marble                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/6  |
+|  Edible  |  No  |
+|  Trade Value  |  11  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  4  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/marble.png?nolink|Marble}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Marble is a mineral resource extracted through mining in the Banished MegaMod. It is stockpiled and used as a raw material or industrial input in production buildings. It carries a trade value of 11, making it a worthwhile commodity for trade.
+
+----
+
+===== Marble Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:marblequarry|Marble Quarry]]
+  * Mined at the [[buildings:mining:marblequarry2|Marble Quarry 2]]
+  * Mined at the [[buildings:mining:marblequarry3|Marble Quarry 3]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>CoalFuel}}

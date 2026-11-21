@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Butcher Buildings ======
+----
+
+Buildings where livestock and wild animals are processed into meat and other products.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:butcher:butcherstandsbison|Bison Butcher]] | Butcher stand specializing in bison meat |
+| [[buildings:butcher:bodiambutcher|Bodiam Butcher]] | Bodiam Castle-style butcher |
+| [[buildings:butcher:dsbrycesbutcherbeef|Bryce's Beef Butchery]] | DS Bryce's beef butchery |
+| [[buildings:butcher:dsbrycesbutchermutton|Bryce's Mutton Butchery]] | DS Bryce's mutton butchery |
+| [[buildings:butcher:dsbrycesbutchervenison|Bryce's Venison Butchery]] | DS Bryce's venison butchery |
+| [[buildings:butcher:ftcbutcher|Butcher (Fairy Tale Cottage)]] | Fairy Tale Cottage butcher |
+| [[buildings:butcher:fnbutcher|Butcher (Friendly Neighborhood)]] | Friendly Neighborhood butcher |
+| [[buildings:butcher:shwbutcher|Butcher (SHW)]] | SHW compact butcher; processes meat and makes sausages |
+| [[buildings:butcher:tcbutcher|Butcher (Tangerine Center)]] | Tangerine Center butcher; processes meat into premium cuts and sausages |
+| [[buildings:butcher:wwbutcher|Butcher (Wild West Cattle Drive)]] | Wild West Cattle Drive butcher; processes Beef, Bison Meat, Venison, and Boar Meat into Steak, Roast, Boar Ribs, and Sausages |
+| [[buildings:butcher:rkmcbutchertent|Butcher Tent (RK Training Camp)]] | RK Training Camp portable butcher tent |
+| [[buildings:butcher:butcher|Cow Butcher]] | Butchers cows for beef and hides |
+| [[buildings:butcher:butcherstandsvenison|Deer Butcher]] | Butcher stand specializing in venison |
+| [[buildings:butcher:fbbutcher|Friendly Butcher]] | Friendly Banished butcher |
+| [[buildings:butcher:fpbutcher|Friendly Butcher (Friendly Pumpkin)]] | Friendly Pumpkin butcher |
+| [[buildings:butcher:gnbutcher|Friendly Butcher (Granny Neighborhood)]] | Granny Neighborhood butcher |
+| [[buildings:butcher:fbtbutcher|Friendly Butcher (Too)]] | Friendly Butcher alternate variant |
+| [[buildings:butcher:butcherstandsgoat|Goat Butcher]] | Butcher stand specializing in goat meat |
+| [[buildings:butcher:butcherstandscheval|Horse Butcher]] | Butcher stand specializing in horse meat |
+| [[buildings:butcher:kbbbutcher|KBB Butcher]] | Butcher & Baker butcher shop; cuts meat into chops, ribs, roasts, sausages, and steaks |
+| [[buildings:butcher:butcherstandscharki|Llama Butcher]] | Butcher stand specializing in llama meat |
+| [[buildings:butcher:newmedievalbutchery|Medieval Butchery]] | New Medieval Town butchery |
+| [[buildings:butcher:newmedievalbutcherya|Medieval Butchery (Upgrade A)]] | New Medieval Town butchery upgrade A |
+| [[buildings:butcher:newmedievalbutcheryb|Medieval Butchery (Upgrade B)]] | New Medieval Town butchery upgrade B |
+| [[buildings:butcher:newmedievalbutcheryc|Medieval Butchery (Upgrade C)]] | New Medieval Town butchery upgrade C |
+| [[buildings:butcher:newmedievalbutcheryd|Medieval Butchery (Upgrade D)]] | New Medieval Town butchery upgrade D |
+| [[buildings:butcher:newmedievalbutcherye|Medieval Butchery (Upgrade E)]] | New Medieval Town butchery upgrade E |
+| [[buildings:butcher:butcherstandspork|Pig Butcher]] | Butcher stand specializing in pork |
+| [[buildings:butcher:bbbutcher|Pork Butcher]] | Borrowed Bees pork butcher |
+| [[buildings:butcher:hobbitsausages|Sausages (Hobbit)]] | Hobbit mod sausage maker |
+| [[buildings:butcher:shatowerbutcher|SHA Tower Butcher]] | Stone House Addon tower butcher |
+| [[buildings:butcher:shatowerbutcherroof|SHA Tower Butcher (Roof)]] | Stone House Addon tower butcher with rooftop access |
+| [[buildings:butcher:butcherstandsmutton|Sheep Butcher]] | Butcher stand specializing in mutton |
+| [[buildings:butcher:gfbutcher1|Small Butcher (Gothic Fantasy 1)]] | Gothic Fantasy dark-themed butcher |
+| [[buildings:butcher:gfbutcher2|Small Butcher (Gothic Fantasy 2)]] | Gothic Fantasy happy-themed butcher |
+| [[buildings:butcher:tinybutcher|Tiny Butcher]] | Small compact butcher |
+| [[buildings:butcher:tieredbutcher|Urban Butcher]] | Colonial Charter modular stacked urban butcher |
+| [[buildings:butcher:wfbutcher|WF Butcher]] | WF butcher |
+| [[buildings:butcher:woodbutcher|Wood Butcher]] | Wood-construction butcher |
+| [[buildings:butcher:wpbutcher|WP Butcher]] | WP butcher |
+
+----
+
+{{tag>Buildings Butcher}}

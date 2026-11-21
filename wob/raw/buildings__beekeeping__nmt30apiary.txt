@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apiary (NMT 3.1) ======
+----
+
+<WRAP right>
+^  Apiary (NMT 3.1)                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30apiary.png?nolink|Apiary (NMT 3.1)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/beekeeper.png?nolink|Beekeeper}}</wrap> Beekeeper  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  18  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:custom0:gathering_basket|Haystack]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Apiary produces honey and beeswax. Beeswax can be turned into candles at a Candle Maker.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbeekeeping.png?nolink|Beekeeping}}</wrap> **Beekeeping** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30apiary.png?nolink|Apiary (NMT 3.1)}}</wrap> **Apiary (NMT 3.1)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30apiary.png?nolink|Apiary (NMT 3.1)}}</wrap> **Apiary (NMT 3.1)**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:honey|Honey]]
+  * [[WikiPages:custom7:beeswax|Beeswax]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Food Beekeeping}}

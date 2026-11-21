@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Road ======
+----
+
+<WRAP right>
+^  Stone Road                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneroad.png?nolink|Stone Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Faster  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  10  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A stone road that greatly increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstoneroad.png?nolink|Stone Roads}}</wrap> **Stone Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstoneroad.png?nolink|Stone Road}}</wrap> **Stone Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road}}

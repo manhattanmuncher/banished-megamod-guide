@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke Tailor House ======
+----
+
+<WRAP right>
+^  Sherbrooke Tailor House                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrooketailorhouse.png?nolink|Sherbrooke Tailor House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Necora Maritimes Sherbrooke Village tailor house; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsherbrooke.png?nolink|Sherbrooke Village}}</wrap> **Sherbrooke Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrooketailorhouse.png?nolink|Sherbrooke Tailor House}}</wrap> **Sherbrooke Tailor House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolhousing.png?nolink|Necora's Maritimes Housing}}</wrap> **Necora's Maritimes Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsherbrooke.png?nolink|Sherbrooke Village}}</wrap> **Sherbrooke Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrooketailorhouse.png?nolink|Sherbrooke Tailor House}}</wrap> **Sherbrooke Tailor House**
+
+----
+
+{{tag>Building Houses Maritimes}}

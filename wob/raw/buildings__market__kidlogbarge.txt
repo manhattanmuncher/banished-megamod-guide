@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Log Barge ======
+----
+
+<WRAP right>
+^  Log Barge                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidlogbarge.png?nolink|Log Barge}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  40  |
+|  Storage  |  6,800  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  Iron  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID HouseBoat log barge that functions as a market. Distributes logs to nearby settlers and provides Goods happiness when stocked.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbarns.png?nolink|Storage Barns}}</wrap> **Storage Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidlogbarge.png?nolink|Log Barge}}</wrap> **Log Barge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildkidlogbarge.png?nolink|Log Barge}}</wrap> **Log Barge**
+
+----
+
+===== Stocks =====
+
+  * Logs
+
+----
+
+===== Other Information =====
+
+This building originally came from **House Boat v1.42**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=308|WoB]]
+
+{{tag>Market}}

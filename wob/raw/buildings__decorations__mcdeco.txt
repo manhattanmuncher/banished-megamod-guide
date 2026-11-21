@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deco Cave ======
+----
+
+<WRAP right>
+^  Deco Cave                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdecocaves.png?nolink|Deco Cave}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Caves decorative rock cluster — purely decorative, free to place, with a dedicated remove tool. Available in two rock finishes, Gray and Brown, which are purely cosmetic.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcgraycaves.png?nolink|More Caves Gray}}</wrap> **More Caves Gray** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdecocaves.png?nolink|Deco Cave}}</wrap> **Deco Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcbrowncaves.png?nolink|More Caves Brown}}</wrap> **More Caves Brown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdecocaves.png?nolink|Deco Cave}}</wrap> **Deco Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcgraycaves.png?nolink|More Caves Gray}}</wrap> **More Caves Gray** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdecocaves.png?nolink|Deco Cave}}</wrap> **Deco Cave**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcbrowncaves.png?nolink|More Caves Brown}}</wrap> **More Caves Brown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmcdecocaves.png?nolink|Deco Cave}}</wrap> **Deco Cave**
+
+----
+
+{{tag>Building Decorations MoreCaves KID}}

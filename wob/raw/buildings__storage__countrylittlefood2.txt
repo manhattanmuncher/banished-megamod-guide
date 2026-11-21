@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Country Little Pantry 2 ======
+----
+
+<WRAP right>
+^  Country Little Pantry 2                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlefood2.png?nolink|Country Little Pantry 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,600  |
+|  Storage Categories  |  Food  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Country Little House food pantry. Settlers store food with a capacity of 1,600 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehouse2toolbar.png?nolink|Country Little House 2 Toolbar}}</wrap> **Country Little House 2 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlefood2.png?nolink|Country Little Pantry 2}}</wrap> **Country Little Pantry 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkhousing.png?nolink|RK housing}}</wrap> **RK housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlehouse2toolbar.png?nolink|Country Little House 2 Toolbar}}</wrap> **Country Little House 2 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/countrylittlefood2.png?nolink|Country Little Pantry 2}}</wrap> **Country Little Pantry 2**
+
+----
+
+{{tag>Building Storage CountryLittle}}

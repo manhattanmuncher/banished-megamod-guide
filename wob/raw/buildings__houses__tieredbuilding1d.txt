@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiered Building 1D ======
+----
+
+<WRAP right>
+^  Tiered Building 1D                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbuilding1d.png?nolink|Tiered Building 1D}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter modular stacked building; houses up to 6 settlers. Alternate model of [[buildings:houses:tieredbuilding1c|Tiered Building 1C]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbuilding1d.png?nolink|Tiered Building 1D}}</wrap> **Tiered Building 1D**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartiereditems.png?nolink|Modular Stacked Buildings}}</wrap> **Modular Stacked Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbuilding1d.png?nolink|Tiered Building 1D}}</wrap> **Tiered Building 1D**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtieredbuilding1d.png?nolink|Tiered Building 1D}}</wrap> **Tiered Building 1D**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

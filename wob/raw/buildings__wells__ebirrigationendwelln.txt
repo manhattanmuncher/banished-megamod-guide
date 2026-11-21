@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water Reservoir ======
+----
+
+<WRAP right>
+^  Water Reservoir                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildirriendwelln.png?nolink|Water Reservoir}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+The end-piece of the EB Natural Irrigation system. A Worker draws Water from the irrigation network into a stockpile reservoir.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebirrigationtoolbar.png?nolink|EB Irrigation}}</wrap> **EB Irrigation** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebirrigationpumpsn.png?nolink|Pumps & Wells}}</wrap> **Pumps & Wells** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildirriendwelln.png?nolink|Water Reservoir}}</wrap> **Water Reservoir**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:water|Water]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Wells EB}}

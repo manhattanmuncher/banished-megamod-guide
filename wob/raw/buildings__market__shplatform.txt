@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Summer Haven Platform ======
+----
+
+<WRAP right>
+^  Summer Haven Platform                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshplatform.png?nolink|Summer Haven Platform}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  13 × 13  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  4,200  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  128  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Summer Haven large tree platform market. Distributes a wide variety of goods to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshplatform.png?nolink|Summer Haven Platform}}</wrap> **Summer Haven Platform**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshplatform.png?nolink|Summer Haven Platform}}</wrap> **Summer Haven Platform**
+
+----
+
+===== Stocks =====
+
+  * Edible food (all types)
+  * Fuel (firewood)
+  * Tools
+  * Logs
+  * Stone
+  * Iron
+  * Health items
+  * Clothing
+  * Textile
+  * Alcohol
+  * Crafted items (Custom 0)
+  * Forged items (Custom 1)
+  * [[WikiPages:custom2:start|Fabrics]] (Custom 2)
+  * Industrial fuel (Custom 3)
+  * Raw materials (Custom 4)
+  * [[WikiPages:custom5:building_kit|Building supplies]] (Custom 5)
+  * Precious items (Custom 6)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Summer Haven v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=598|WoB]]
+
+{{tag>Market}}

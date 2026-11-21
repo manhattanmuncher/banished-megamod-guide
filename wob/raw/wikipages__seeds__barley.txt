@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Barley Seeds ======
+----
+
+<WRAP right>
+^  Barley Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedbarley.png?nolink|Barley Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  4,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Barley Seeds are used to plant [[WikiPages:food:barley|Barley]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Baker ======
+----
+
+<WRAP right>
+^  Baker                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfbaker.png?nolink|Baker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionbaker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max Workers (Default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Required tool">Tool</abbr>  |  None  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  34  |
+|  Wood  |  2  |
+|  Stone  |  10  |
+|  [[WikiPages:custom4:clay|Clay]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The Baker is a food production building from the Mexican Fantasy mod in the Banished MegaMod. It employs a Baker to bake Bread from Corn.
+
+----
+
+===== Toolbar =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → Baker
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → Baker
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 24 [[WikiPages:food:corn|Corn]] | [[WikiPages:food:bread_bread|Bread]] |
+
+===== Other Information =====
+
+This building originally came from **Mexican Fantasy v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=575|WoB]], [[https://banishedinfo.com/mods/view/837-Mexican-Fantasy|BI]]
+
+{{tag>Food}}

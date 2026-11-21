@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Celtic House ======
+----
+
+<WRAP right>
+^  Small Celtic House                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsceltichouse3.png?nolink|Small Celtic House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS small round Celtic house. Houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsceltichousemenu.png?nolink|Celtic Homes}}</wrap> **Celtic Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsceltichouse3.png?nolink|Small Celtic House}}</wrap> **Small Celtic House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsceltichousemenu.png?nolink|Celtic Homes}}</wrap> **Celtic Homes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsceltichouse3.png?nolink|Small Celtic House}}</wrap> **Small Celtic House**
+
+----
+
+This building originally came from **Celtic House v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=244|WoB]], [[https://www.nexusmods.com/banished/mods/74|Nexus]]
+
+{{tag>Building Houses DS}}

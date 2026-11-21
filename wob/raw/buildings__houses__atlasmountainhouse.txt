@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Atlas Mountain House ======
+----
+
+<WRAP right>
+^  Atlas Mountain House                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatlasmountainhouse.png?nolink|Atlas Mountain House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Angainor88 Moroccan-style mountain house. Houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8housing.png?nolink|A8 Housing}}</wrap> **A8 Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatlasmountainhouse.png?nolink|Atlas Mountain House}}</wrap> **Atlas Mountain House**
+
+----
+
+This building originally came from **Moroccan Housing v3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=572|WoB]], [[https://www.nexusmods.com/banished/mods/107|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913000838|Steam]]
+
+{{tag>Building Houses A8Moroccan}}

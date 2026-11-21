@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Preserving Buildings ======
+----
+
+Buildings that preserve food through smoking, salting, pickling, and similar methods.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:preserving:fishsmoker|Fish Smoker]] | KID Fish Farm smoker; smokes fish with firewood to produce smoked fish |
+| [[buildings:preserving:tinneryfruit|Fruit Tinnery]] | Colonial Charter tinnery; Tinner preserves fresh fruit into Tinned Fruit using Tin |
+| [[buildings:preserving:gfjamhouse|Jam House (Gothic Farm)]] | Gothic Farm preserving house; turns fruit and Honey into Preserved Fruit |
+| [[buildings:preserving:jwphjammaker|Jam Maker (Plimoth Harmonized)]] | Jam & Wine mod building; produces fruit jam from grapes or elderberries and honey |
+| [[buildings:preserving:jwpjammaker|Jam Maker (Plimoth Plantation)]] | Jam & Wine mod building; produces fruit jam from grapes or elderberries and honey |
+| [[buildings:preserving:jwsjammaker|Jam Maker (Settlers)]] | Jam & Wine mod building; produces fruit jam from grapes or elderberries and honey |
+| [[buildings:preserving:jwvsjammaker|Jam Maker (Vanilla Stone)]] | Jam & Wine mod building; produces fruit jam from grapes or elderberries and honey |
+| [[buildings:preserving:jwvjammaker|Jam Maker (Vanilla Wood)]] | Jam & Wine mod building; produces fruit jam from grapes or elderberries and honey |
+| [[buildings:preserving:cmjamshop|Jam Shop]] | Colonial Resources building; Preservist turns fruit and Refined Sugar into jam and preserves; provides happiness bonus |
+| [[buildings:preserving:tinnerymeat|Meat Tinnery]] | Colonial Charter tinnery; Tinner preserves fresh meat into Tinned Meat using Tin |
+| [[buildings:preserving:newmedievaldryshack|Medieval Dry Shack]] | NMT building; Worker dries meat, fish, and mushrooms for long-term preservation |
+| [[buildings:preserving:newmedievaloldsaltery|Medieval Old Saltery]] | NMT building; Worker cures meat and fish using salt for long-term preservation |
+| [[buildings:preserving:newmedievaloldsmokery|Medieval Old Smokery]] | NMT building; Worker smokes meat and fish using firewood for long-term preservation |
+| [[buildings:preserving:nmt30dryshack|Old Dry Shack]] | NMT 3.1 building; dries meat, fish, mushrooms, and poultry |
+| [[buildings:preserving:oldhovelfishdryer|Old Fish Dryer]] | Old Hovels fish dryer; dries Fish into Dry Fish |
+| [[buildings:preserving:nmt30oldsaltery|Old Saltery]] | NMT 3.1 building; preserves meat, fish, and poultry using salt |
+| [[buildings:preserving:oldhovelsmoker|Old Smoker]] | Old Hovels smoker; smokes fish, venison, mutton, or chicken with firewood into Smoked Fish or Smoked Meat |
+| [[buildings:preserving:nmt30oldsmokery|Old Smokery]] | NMT 3.1 building; smokes meat, fish, and poultry using firewood |
+| [[buildings:preserving:shwpreservist|Preservist]] | Summer Haven preservist; makes jam from honey and fruit |
+| [[buildings:preserving:preservists|Preservists]] | Colonial Charter building; Preservist turns fruit, vegetables, and meat into preserved foods using Glassware or Pottery |
+| [[buildings:preserving:salthouse|Saltinghouse]] | Saltinghouse; cures a variety of fresh food for preserving |
+| [[buildings:preserving:smokehouse|Smokehouse]] | Colonial Charter smokehouse; Preservist smokes meat, fish, cheese, and other ingredients using firewood and barrels |
+| [[buildings:preserving:aspsmokery|Smokery Shed]] | Animal Shed Plus smokery; smokes pork with firewood to produce bacon |
+| [[buildings:preserving:shwsmoker|Smoker]] | Summer Haven smoker; smokes fish with firewood |
+| [[buildings:preserving:fishshipssmoker|Smoker (Fish n Ships)]] | Fish n Ships smoker; smokes fish with firewood to produce smoked fish |
+| [[buildings:preserving:tinnerysoup|Soup Tinnery]] | Colonial Charter tinnery; Tinner preserves vegetables and grains into Tinned Soup using Tin |
+| [[buildings:preserving:tinyjamshop|Tiny Jam Shop]] | KID Tiny Village jam shop; Worker crafts Preserved Fruit from fruit and sweeteners |
+| [[buildings:preserving:tinysmoker|Tiny Smoker]] | KID Tiny Village smoker; Worker smokes pork and fish with firewood |
+| [[buildings:preserving:tinneryveg|Vegetable Tinnery]] | Colonial Charter tinnery; Tinner preserves fresh vegetables into Tinned Vegetables using Tin |
+| [[buildings:preserving:wppreservist|WP Preservist]] | KID Workplace preservist; makes fruit preserves from fruit and honey |
+| [[buildings:preserving:wpsmoker|WP Smoker]] | KID Workplace smoker; smokes fish with firewood to produce smoked fish |
+
+----
+
+{{tag>Buildings Preserving}}

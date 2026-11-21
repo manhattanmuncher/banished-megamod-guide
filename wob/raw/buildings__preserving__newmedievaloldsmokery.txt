@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Old Smokery ======
+----
+
+<WRAP right>
+^  Old Smokery                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsmokery.png?nolink|Medieval Old Smokery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  18  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Medieval Old Smokery where workers smoke meat and fish using firewood for long-term preservation.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsmokery.png?nolink|Medieval Old Smokery}}</wrap> **Medieval Old Smokery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalfood.png?nolink|New Medieval Food}}</wrap> **New Medieval Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsmokery.png?nolink|Medieval Old Smokery}}</wrap> **Medieval Old Smokery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaloldsmokery.png?nolink|Medieval Old Smokery}}</wrap> **Medieval Old Smokery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                           ^ Produces                                                      ^
+| 12 [[WikiPages:food:beef_beef|Beef]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                         | [[WikiPages:food:smoked_meat|Smoked Meat]]                     |
+| 12 [[WikiPages:food:mutton|Mutton]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                          | [[WikiPages:food:smoked_meat|Smoked Meat]]                     |
+| 12 [[WikiPages:food:venison|Venison]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                        | [[WikiPages:food:smoked_meat|Smoked Meat]]                     |
+| 12 [[WikiPages:food:fish|Fish]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                              | [[WikiPages:food:smoked_fish_smokedfish|Smoked Fish]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Preserving RKEditorChoice}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Boots ======
+----
+
+<WRAP right>
+^  Boots                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Clothing  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  30  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/boot.png?nolink|Boots}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Boots help keep Banished citizens warm through cold seasons. They are stored in a Barn and distributed automatically to citizens when temperatures drop. At a trade value of 30, they are highly prized by traveling merchants.
+
+----
+
+===== Boots Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:cornershoemakert1|Shoemaker (Corner T1)]]
+  * Produced at the [[buildings:clothing:cornershoemakert2|Shoemaker (Corner T2)]]
+  * Produced at the [[buildings:clothing:cornershoemakert3|Shoemaker (Corner T3)]]
+  * Produced at the [[buildings:clothing:cornershoemakert4|Shoemaker (Corner T4)]]
+  * Produced at the [[buildings:clothing:cornershoemakert5|Shoemaker (Corner T5)]]
+  * Produced at the [[buildings:clothing:cornershoemakert6|Shoemaker (Corner T6)]]
+  * Produced at the [[buildings:clothing:cornershoemakert7|Shoemaker (Corner T7)]]
+  * Produced at the [[buildings:clothing:cornershoemakert8|Shoemaker (Corner T8)]]
+  * Produced at the [[buildings:clothing:ebsvshoemaker|Village Shoemaker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Clothing ClothingWarm}}

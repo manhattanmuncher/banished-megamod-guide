@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Canal 4x Trading Post ======
+----
+
+<WRAP right>
+^  Canal 4x Trading Post                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xtradingpost.png?nolink|Medieval Canal 4x Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (6)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  56  |
+|  [[WikiPages:stone:stone|Stone]]  |  84  |
+|  [[WikiPages:iron:iron|Iron]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval canal trading post. Merchants arrive by river boat offering all resource categories. Must be placed on water. Provides Goods happiness to settlers within 20 tiles when a trader is present.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbricks.png?nolink|New Medieval Bricks}}</wrap> **New Medieval Bricks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4x.png?nolink|New Medieval Canal 4x}}</wrap> **New Medieval Canal 4x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xtradingpost.png?nolink|Medieval Canal 4x Trading Post}}</wrap> **Medieval Canal 4x Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal.png?nolink|New Medieval Canal}}</wrap> **New Medieval Canal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalbricks.png?nolink|New Medieval Bricks}}</wrap> **New Medieval Bricks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4x.png?nolink|New Medieval Canal 4x}}</wrap> **New Medieval Canal 4x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xtradingpost.png?nolink|Medieval Canal 4x Trading Post}}</wrap> **Medieval Canal 4x Trading Post**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, tools, health items, textiles, clothing, alcohol, crafted goods, forged goods, fabric, raw materials, building supplies, precious goods, and miscellaneous items |
+| General Merchant | All resource categories including seeds and livestock |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcanal4xtradingpost.png?nolink|Medieval Canal 4x Trading Post}}</wrap> **Medieval Canal 4x Trading Post**
+
+----
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building TradingPost RKEditorChoice}}

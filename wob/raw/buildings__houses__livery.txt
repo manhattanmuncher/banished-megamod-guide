@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Livery ======
+----
+
+<WRAP right>
+^  Livery                                                                            ^  Wild West Cattle Drive  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwlivery.png?nolink|Livery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Wild West Cattle Drive livery stable, houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwlivery.png?nolink|Livery}}</wrap> **Livery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwlivery.png?nolink|Livery}}</wrap> **Livery**
+
+----
+
+{{tag>Building Houses KidWWCattle KID}}

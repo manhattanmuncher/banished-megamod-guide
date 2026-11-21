@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cleaning Fountain Ghost (Colonial Charter) ======
+----
+
+<WRAP right>
+^  Cleaning Fountain                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcleaningfountain.png?nolink|Cleaning Fountain}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A ghost version of the Colonial Charter Cleaning Fountain that provides Safety happiness and fire suppression within a 20-tile radius. Free to place with no build cost. As a ghost building, it has a 0×0 footprint and can be placed literally anywhere on the map. It cannot be removed with the standard removal tool — use the building's own interface to remove it. Shares the same appearance as the [[buildings:wells:cleaningfountain|Cleaning Fountain (Colonial Charter)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcleaningfountain.png?nolink|Cleaning Fountain}}</wrap> **Cleaning Fountain (ghost)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ghostdecoitems.png?nolink|Ghost Decorations}}</wrap> **Ghost Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcleaningdeco.png?nolink|Decorative Cleaning Items}}</wrap> **Decorative Cleaning Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcleaningfountain.png?nolink|Cleaning Fountain}}</wrap> **Cleaning Fountain**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Wells ColonialCharter}}

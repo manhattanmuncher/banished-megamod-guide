@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Glass Maker ======
+----
+
+<WRAP right>
+^  Glass Maker                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtmcglassmaker.png?nolink|Glass Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/glassmaker.png?nolink|Glassmaker}}</wrap> Glassmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  56  |
+|  [[WikiPages:wood:log|Wood]]  |  38  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+|  [[WikiPages:iron:iron|Iron]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Glass Maker that crafts sand into glass or glassware using firewood, charcoal, or coal as fuel.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtmcglassmaker.png?nolink|Glass Maker}}</wrap> **Glass Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarglass.png?nolink|Glass Makers}}</wrap> **Glass Makers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtmcglassmaker.png?nolink|Glass Maker}}</wrap> **Glass Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                   ^ Produces                                      ^
+| 23 [[WikiPages:custom4:sand|Sand]] + 6 [[WikiPages:fuel:firewood|Firewood]]                  | [[WikiPages:custom5:glass|Glass]]             |
+| 23 [[WikiPages:custom4:sand|Sand]] + 6 [[WikiPages:fuel:charcoal|Charcoal]]                  | [[WikiPages:custom5:glass|Glass]]             |
+| 23 [[WikiPages:custom4:sand|Sand]] + 3 [[WikiPages:coalfuel:coal|Coal]]                      | [[WikiPages:custom5:glass|Glass]]             |
+| 23 [[WikiPages:custom4:sand|Sand]] + 6 [[WikiPages:fuel:firewood|Firewood]]                  | [[WikiPages:custom0:glassware|Glassware]]     |
+| 23 [[WikiPages:custom4:sand|Sand]] + 6 [[WikiPages:fuel:charcoal|Charcoal]]                  | [[WikiPages:custom0:glassware|Glassware]]     |
+| 23 [[WikiPages:custom4:sand|Sand]] + 3 [[WikiPages:coalfuel:coal|Coal]]                      | [[WikiPages:custom0:glassware|Glassware]]     |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Crafting}}

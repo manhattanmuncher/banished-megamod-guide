@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Osaka Castle ======
+----
+
+<WRAP right>
+^  Osaka Castle                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhimejicastle.png?nolink|Osaka Castle}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  12 × 21  |
+|  Happiness  |  Safety (radius 40)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  200  |
+|  [[WikiPages:wood:log|Wood]]  |  100  |
+|  [[WikiPages:stone:stone|Stone]]  |  120  |
+</WRAP>
+<WRAP right></WRAP>
+
+A fortified Japanese castle from the A8 Japanese mod that acts as a town hall, providing colony resource-limit controls and Safety happiness to nearby citizens within a 40-tile radius. A monumental 12×21 landmark.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhimejicastle.png?nolink|Osaka Castle}}</wrap> **Osaka Castle**
+
+----
+
+===== Other Information =====
+
+{{tag>Building TownHall A8}}

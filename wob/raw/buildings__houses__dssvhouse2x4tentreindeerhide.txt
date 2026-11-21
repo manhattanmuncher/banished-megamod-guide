@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Reindeer Hide Tent ======
+----
+
+<WRAP right>
+^  Small Reindeer Hide Tent                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhouse2x4tentreindeerhide.png?nolink|Small Reindeer Hide Tent}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  60  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  50  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  3  |
+|  [[WikiPages:textile:reindeer_hide|Reindeer Hide]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Small Village quick-build reindeer hide tent. Houses up to 3 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingtents.png?nolink|Tents}}</wrap> **Tents** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhouse2x4tentreindeerhide.png?nolink|Small Reindeer Hide Tent}}</wrap> **Small Reindeer Hide Tent**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousingtents.png?nolink|Tents}}</wrap> **Tents** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvhouse2x4tentreindeerhide.png?nolink|Small Reindeer Hide Tent}}</wrap> **Small Reindeer Hide Tent**
+
+----
+
+This building originally came from **Small Village: Homes v1.3.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=214|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231694360|Steam]]
+
+{{tag>Building Houses DS}}

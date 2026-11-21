@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Sand Mine ======
+----
+
+<WRAP right>
+^  Iron Mine                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironsandmine.png?nolink|Iron Sand Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 8 (default 4)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  60  |
+|  Happiness  |  Detraction (radius 15)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2000  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  130  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Iron Sand Mine is an A8 Japanese mod building where miners extract Iron from a rocky outcrop.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironsandmine.png?nolink|Iron Sand Mine}}</wrap> **Iron Sand Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8natresources.png?nolink|A8 Natural Resources}}</wrap> **A8 Natural Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildironsandmine.png?nolink|Iron Sand Mine}}</wrap> **Iron Sand Mine**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:iron:iron|Iron]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining A8JapaneseAllInOne}}

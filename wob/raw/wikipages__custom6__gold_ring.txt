@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gold Ring ======
+----
+
+<WRAP right>
+^  Gold Ring                                      ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom6  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/5  |
+|  Edible  |  No  |
+|  Trade Value  |  70  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rkgoldring.png?nolink|Gold Ring}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Gold Ring is a precious item valued for Its rarity or beauty in the Banished MegaMod. It is stored in a Barn and functions primarily as luxury trade goods, attracting favourable prices from merchants. At a trade value of 70, it is highly prized by traveling merchants.
+
+----
+
+===== Gold Ring Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:precious:nmt30jewelmaker|Jewelry Maker]] (from Gold Bar + Coal + Topaz)
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom6}}

@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sashimono Flag ======
+----
+
+<WRAP right>
+^  Sashimono Flag                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsashimonoflag.png?nolink|Sashimono Flag}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative sashimono banner from the A8 Japanese mod — a vertical war flag carried by feudal Japanese foot soldiers. Has no footprint and can be placed freely.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8deco.png?nolink|A8 deco}}</wrap> **A8 deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsashimonoflag.png?nolink|Sashimono Flag}}</wrap> **Sashimono Flag**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

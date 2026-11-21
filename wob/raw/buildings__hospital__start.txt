@@ -1,0 +1,93 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hospital Buildings ======
+----
+
+Buildings that provide medical care and healing to settlers.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:hospital:apothecary|Apothecary]] | Colonial Charter building; crafts healing concoctions from herbs, oils, and other ingredients |
+| [[buildings:hospital:nmt30barbershop|Barber Shop (NMT 3.1)]] | NMT 3.1 barber shop; Doctor treats up to 10 patients |
+| [[buildings:hospital:esshouses3dr|Barber Surgeon (ESS Houses)]] | Colonial-style barber surgeon; Doctor provides medical care for up to 22 patients |
+| [[buildings:hospital:nmt30bathhouse|Bath House (NMT 3.1)]] | NMT 3.1 bath house; provides Health happiness to nearby residents |
+| [[buildings:hospital:jinxiebittydoctor|Bitty Doctor (Jinxie's Bitty Village Set)]] | Jinxie's Bitty Village Set clinic; Doctor treats up to 30 patients |
+| [[buildings:hospital:dstownhousesbstore3x4doctor|Bryggen Town Doctor]] | Bryggen-style doctor's office; Doctor treats up to 12 patients |
+| [[buildings:hospital:capedutchhospital|Cape Dutch Hospital]] | Cape Dutch style hospital; Doctor treats up to 20 patients |
+| [[buildings:hospital:cc17hospital|City Hospital]] | Colonial Charter city hospital; Doctor treats up to 40 patients with Health happiness bonus |
+| [[buildings:hospital:nmt30clinic|Clinic (NMT 3.1)]] | NMT 3.1 clinic; Doctor treats up to 20 patients |
+| [[buildings:hospital:clhospital|Colonial Hospital]] | Colonial-themed hospital; Doctor treats up to 30 patients |
+| [[buildings:hospital:nmt30dentist|Dentist (NMT 3.1)]] | NMT 3.1 dentist; Doctor treats up to 10 patients |
+| [[buildings:hospital:gtsdoc|Doc (Ghost Town Houses)]] | Ghost Town Houses doctor's office; Doctor treats up to 12 patients |
+| [[buildings:hospital:gtnewdoc|Doc (Ghost Town)]] | Ghost Town doctor's office; Doctor treats up to 12 patients |
+| [[buildings:hospital:ecdoctorhouse|Doctor (Editor's Choice)]] | Editor's Choice doctor's house; Doctor treats up to 30 patients |
+| [[buildings:hospital:doctorhouse|Doctor House]] | Colonial-era Doctor House replacement; Doctor treats sick citizens within service radius |
+| [[buildings:hospital:rkmcfieldhospital|Field Hospital]] | RK Training Camp field hospital; Doctor treats up to 30 patients |
+| [[buildings:hospital:fieldmedic|Field Medic]] | Colonial Frontier battlefield hospital; Doctor treats up to 5 patients |
+| [[buildings:hospital:fortannegarrison|Fort Anne Garrison]] | Fort Anne hospital; Doctor treats up to 50 patients |
+| [[buildings:hospital:fbhospital|Friendly Hospital]] | Friendly Blue hospital; Doctor treats up to 18 patients |
+| [[buildings:hospital:fbthospital|Friendly Hospital (Friendly Blue Too)]] | Friendly Blue Too hospital; Doctor treats up to 18 patients |
+| [[buildings:hospital:fnhospital|Friendly Hospital (Friendly Neighborhood)]] | Friendly Neighborhood hospital; Doctor treats up to 16 patients |
+| [[buildings:hospital:fphospital|Friendly Hospital (Friendly Pumpkin)]] | Friendly Pumpkin hospital; Doctor treats up to 18 patients |
+| [[buildings:hospital:gnhospital|Friendly Hospital (Granny Neighborhood)]] | Granny Neighborhood hospital; Doctor treats up to 18 patients |
+| [[buildings:hospital:fthospital|Healing Center (Fairy Tale)]] | Fairy Tale healing center; Doctor treats up to 32 patients |
+| [[buildings:hospital:rhxhc|Health Center]] | Health center; Doctor treats up to 20 patients; does not provide Health happiness |
+| [[buildings:hospital:mhdhospital|Hospital (More Houses Dark)]] | More Houses Dark hospital; Doctor treats up to 24 patients |
+| [[buildings:hospital:mhshospital|Hospital (More Houses Stone)]] | More Houses Stone hospital; Doctor treats up to 24 patients |
+| [[buildings:hospital:mhwhospital|Hospital (More Houses Wood)]] | More Houses Wood hospital; Doctor treats up to 24 patients |
+| [[buildings:hospital:mhhospital|Hospital (More Houses)]] | More Houses hospital; Doctor treats up to 24 patients |
+| [[buildings:hospital:nmthospitaldock|Hospital (NMT Dock)]] | NMT Docks hospital; Doctor treats up to 30 patients with Health happiness radius 14; 7 × 7 footprint; water placement required |
+| [[buildings:hospital:nmthospitalstonedock|Hospital (NMT Stone Dock)]] | NMT Stone Docks hospital; Doctor treats up to 36 patients with Health happiness radius 16; 7 × 7 footprint; water placement required |
+| [[buildings:hospital:otphospital|Hospital (Old Town Ports)]] | Old Town Ports hospital; Doctor treats up to 12 patients |
+| [[buildings:hospital:settlershospital|Hospital (Settlers)]] | Settlers hospital; Doctor treats up to 13 patients |
+| [[buildings:hospital:wpcures|House of Cures]] | Doctor treats up to 12 patients |
+| [[buildings:hospital:tdhealing|House of Healing]] | House of healing; Priest provides Spirit happiness and heals citizens in their homes |
+| [[buildings:hospital:icecastlehealer|Ice Castle Healer]] | Kid Ice Castle infirmary; physician, radius 30; WR 32 + Stone 28 + Iron 12 |
+| [[buildings:hospital:dsjabjettyhospital|Jetty Hospital (Tex1)]] | DS Jetty & Bridge hospital, light-brown style; Doctor treats up to 21 patients with Health happiness |
+| [[buildings:hospital:dsjabjettyhospitaltex2|Jetty Hospital (Tex2)]] | DS Jetty & Bridge hospital, blue-grey style; Doctor treats up to 21 patients with Health happiness |
+| [[buildings:hospital:kyushuhospital|Kyushu Hospital (Japanese All-In-One)]] | Japanese hospital; Doctor treats up to 50 patients |
+| [[buildings:hospital:newmedievalbarbershop|Medieval BarberShop (New Medieval Town)]] | NMT barbershop; Doctor provides Health happiness and treats up to 50 patients |
+| [[buildings:hospital:newmedievalbarbershopa|Medieval BarberShop (Upgrade A)]] | NMT barbershop upgrade A; treats up to 90 patients |
+| [[buildings:hospital:newmedievalbarbershopb|Medieval BarberShop (Upgrade B)]] | NMT barbershop upgrade B; treats up to 90 patients |
+| [[buildings:hospital:newmedievalbarbershopc|Medieval BarberShop (Upgrade C)]] | NMT barbershop upgrade C; treats up to 90 patients |
+| [[buildings:hospital:newmedievalbarbershopd|Medieval BarberShop (Upgrade D)]] | NMT barbershop upgrade D; treats up to 90 patients |
+| [[buildings:hospital:newmedievalbarbershope|Medieval BarberShop (Upgrade E)]] | NMT barbershop upgrade E; treats up to 90 patients |
+| [[buildings:hospital:newmedievalbathhouse|Medieval BathHouse (New Medieval Town)]] | NMT bathhouse; Worker provides Health happiness to up to 2000 attendees |
+| [[buildings:hospital:newmedievalbathhouseoldcopie|Medieval BathHouse (Old Version)]] | NMT bathhouse older version; Doctor treats up to 50 patients with Health happiness |
+| [[buildings:hospital:newmedievalbathhousea|Medieval BathHouse (Upgrade A)]] | NMT bathhouse upgrade A; Worker provides Health happiness to up to 2000 attendees |
+| [[buildings:hospital:newmedievalbathhouseb|Medieval BathHouse (Upgrade B)]] | NMT bathhouse upgrade B; Worker provides Health happiness to up to 2000 attendees |
+| [[buildings:hospital:newmedievalbathhousec|Medieval BathHouse (Upgrade C)]] | NMT bathhouse upgrade C; Worker provides Health happiness to up to 2000 attendees |
+| [[buildings:hospital:newmedievalbathhoused|Medieval BathHouse (Upgrade D)]] | NMT bathhouse upgrade D; Worker provides Health happiness to up to 2000 attendees |
+| [[buildings:hospital:newmedievalbathhousee|Medieval BathHouse (Upgrade E)]] | NMT bathhouse upgrade E; Worker provides Health happiness to up to 2000 attendees |
+| [[buildings:hospital:newmedievalclinic|Medieval Clinic (New Medieval Town)]] | NMT clinic; Doctor treats up to 10 patients |
+| [[buildings:hospital:newmedievalclinica|Medieval Clinic (Upgrade A)]] | NMT clinic upgrade A; treats up to 15 patients |
+| [[buildings:hospital:newmedievalclinicb|Medieval Clinic (Upgrade B)]] | NMT clinic upgrade B; treats up to 15 patients |
+| [[buildings:hospital:newmedievalclinicc|Medieval Clinic (Upgrade C)]] | NMT clinic upgrade C; treats up to 15 patients |
+| [[buildings:hospital:newmedievalclinicd|Medieval Clinic (Upgrade D)]] | NMT clinic upgrade D; treats up to 15 patients |
+| [[buildings:hospital:newmedievalclinice|Medieval Clinic (Upgrade E)]] | NMT clinic upgrade E; treats up to 15 patients |
+| [[buildings:hospital:newmedievaldentist|Medieval Dentist (New Medieval Town)]] | NMT dentist; Doctor provides Health happiness and treats up to 50 patients |
+| [[buildings:hospital:newmedievaldentista|Medieval Dentist (Upgrade A)]] | NMT dentist upgrade A; treats up to 90 patients |
+| [[buildings:hospital:newmedievaldentistb|Medieval Dentist (Upgrade B)]] | NMT dentist upgrade B; treats up to 90 patients |
+| [[buildings:hospital:newmedievaldentistc|Medieval Dentist (Upgrade C)]] | NMT dentist upgrade C; treats up to 90 patients |
+| [[buildings:hospital:newmedievaldentistd|Medieval Dentist (Upgrade D)]] | NMT dentist upgrade D; treats up to 90 patients |
+| [[buildings:hospital:newmedievaldentiste|Medieval Dentist (Upgrade E)]] | NMT dentist upgrade E; treats up to 90 patients |
+| [[buildings:hospital:minidoctor|Mini Hospital (Mini Buildings)]] | Mini Buildings clinic; Doctor provides Health happiness and treats up to 5 patients |
+| [[buildings:hospital:sbvinfirmary|Mission Infirmary]] | SBV Mission infirmary; Doctor treats up to 30 patients |
+| [[buildings:hospital:oldhoveldoctor|Old Doctor]] | Old Hovels doctor for 12 villagers |
+| [[buildings:hospital:pinehospital|Pine Hospital]] | Pine Set hospital; Doctor treats up to 30 patients |
+| [[buildings:hospital:ootwrejuvenator|Rejuvenator]] | Out Of This World rejuvenator; Doctor treats up to 12 patients |
+| [[buildings:hospital:fosauna|Small Sauna (Forest Outpost)]] | Forest Outpost sauna; Doctor treats up to 6 patients |
+| [[buildings:hospital:shaspa|Small Spa]] | Small spa; Doctor treats up to 8 patients |
+| [[buildings:hospital:swampclinic|Swamp Clinic]] | Swamp Houses clinic; Doctor treats up to 14 patients |
+| [[buildings:hospital:tinyhospital|Tiny Hospital]] | KID tiny hospital; Doctor treats up to 14 patients |
+| [[buildings:hospital:tokyobathhouse|Tokyo Bathhouse]] | A8 Japanese All-In-One civic bathhouse; Bath Attendants provide Health happiness and healing to citizens within a 30-tile radius |
+| [[buildings:hospital:twilighthealer|Twilight Healer]] | Twilight healer building; Doctor treats up to 16 patients |
+| [[buildings:hospital:tieredhospital|Urban Hospital]] | Colonial Charter modular stacked urban hospital; Doctor treats up to 20 patients |
+| [[buildings:hospital:dssvhospital|Village Hospital (DS)]] | DS Small Village hospital; Doctor provides Health happiness and treats up to 30 patients |
+| [[buildings:hospital:ebsvhospital|Village Hospital (EB)]] | EB Small Village hospital; Doctor treats up to 30 patients |
+| [[buildings:hospital:dssvhospitalup1|Village Hospital (Upgrade)]] | DS Small Village hospital upgrade; Doctor treats up to 45 patients with Health happiness |
+
+----
+
+{{tag>Buildings Hospital}}

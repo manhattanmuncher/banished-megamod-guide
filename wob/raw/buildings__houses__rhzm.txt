@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== 2 Storey Middle ======
+----
+
+<WRAP right>
+^  2 Storey Middle                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhzm.png?nolink|2 Storey Middle}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  100  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A 2-storey middle row house.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhmenu.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrowhouse.png?nolink|Residences}}</wrap> **Residences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhzm.png?nolink|2 Storey Middle}}</wrap> **2 Storey Middle**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhmenu.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrowhouse.png?nolink|Residences}}</wrap> **Residences** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhzm.png?nolink|2 Storey Middle}}</wrap> **2 Storey Middle**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhail.png?nolink|Small Town Row Houses}}</wrap> **Small Town Row Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildrhzm.png?nolink|2 Storey Middle}}</wrap> **2 Storey Middle**
+
+----
+
+{{tag>Building Houses KidRowHouses}}

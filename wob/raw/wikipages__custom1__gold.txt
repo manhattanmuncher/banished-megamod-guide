@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gold ======
+----
+
+<WRAP right>
+^  Gold                                           ^  xBLS  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  CoalFuel  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/1  |  2/3  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  10  |  50  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/gold.png?nolink|Gold}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Gold is a forged item crafted from metal in the Banished MegaMod. It is produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. At a trade value of 50, it is highly prized by traveling merchants.
+
+----
+
+===== Gold Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:apnewmine|New Mine]]
+  * Mined at the [[buildings:mining:apoldmine|Old Mine]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:metalworking:forge|Forge]]
+  * Produced at the [[buildings:metalworking:foundry|Foundry]]
+  * Mined at the [[buildings:mining:gtnewmine|New Mine (Ghost Town)]]
+  * Mined at the [[buildings:mining:gtoldmine|Old Mine (Ghost Town)]]
+  * Produced at the [[buildings:mining:placermine|Placer Mine]] (random)
+  * Produced at the [[buildings:mining:preciousmine|Precious Mine]] (random)
+  * Produced at the [[buildings:mining:preciousmine2|Precious Mine (Upgrade 2)]] (random)
+  * Produced at the [[buildings:mining:preciousmine3|Precious Mine (Upgrade 3)]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:gtwagon|Wagon (Ghost Town)]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

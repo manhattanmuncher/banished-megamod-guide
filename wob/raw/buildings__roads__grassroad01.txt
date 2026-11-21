@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Grass Road 01 ======
+----
+
+<WRAP right>
+^  Grass Road 01                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrassroad01.png?nolink|Grass Road 01}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  190  |
+</WRAP>
+<WRAP right></WRAP>
+
+A grass road texture variant that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargrassroad.png?nolink|Grass Roads}}</wrap> **Grass Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menugrassroads.png?nolink|Grass Roads}}</wrap> **Grass Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrassroad01.png?nolink|Grass Road 01}}</wrap> **Grass Road 01**
+
+----
+
+===== Other Information =====
+
+{{tag>Road DSRoads}}

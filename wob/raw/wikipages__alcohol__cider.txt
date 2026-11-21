@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cider ======
+----
+
+<WRAP right>
+^  Cider                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |
+|  Edible  |  No  |
+|  Trade Value  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/cider.png?nolink|Cider}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Cider is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Cider Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:brewery:apnightcap|Cider Barrel]]
+  * Produced at the [[buildings:crafting:bbnightcap|Night Cap]]
+  * Produced at the [[buildings:brewery:hobbittavern|The Green Dragon (Hobbit)]]
+  * Produced at the [[buildings:brewery:hobbittavernf|The Green Dragon (Hobbit, Freestanding)]]
+  * Produced at the [[buildings:brewery:oldhoveltavern|Old Hovel Tavern (Old Hovels)]]
+  * Produced at the [[buildings:brewery:pineciderpress|Pine Cider Press]]
+  * Produced at the [[buildings:brewery:tinytavern|Tiny Tavern]]
+  * Produced at the [[buildings:brewery:yuletap|Yule Tap]]
+  * Produced at the [[buildings:brewery:rhxp|Row House Pub]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

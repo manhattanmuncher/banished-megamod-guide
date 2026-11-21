@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Firewood Chopper (Maritimes Humble) ======
+----
+
+<WRAP right>
+^  Firewood Chopper                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeshumblefirewoodchopper.png?nolink|Firewood Chopper}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  5  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Humble Construction firewood chopper where a Cutter splits Wood into Firewood.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolindustry.png?nolink|Necora's Maritimes Industry}}</wrap> **Necora's Maritimes Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimeshumbleconstruction.png?nolink|Maritimes Humble Construction}}</wrap> **Maritimes Humble Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeshumblefirewoodchopper.png?nolink|Firewood Chopper}}</wrap> **Firewood Chopper**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimeshumblefirewoodchopper.png?nolink|Firewood Chopper}}</wrap> **Firewood Chopper**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                          ^
+| 1 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:fuel:firewood|Firewood]]              |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Humble Construction v1.0.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=362|WoB]]
+
+{{tag>Building Fuel Maritimes}}

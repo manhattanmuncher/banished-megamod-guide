@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Apple Tree ======
+----
+
+<WRAP right>
+^  Apple Tree                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwappletree.png?nolink|Apple Tree}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  96.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Deadwood wild apple tree. A Worker forages Apples with no input materials required. Free to build.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddeadwood.png?nolink|Deadwood}}</wrap> **Deadwood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwpatch.png?nolink|Patches}}</wrap> **Patches** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwappletree.png?nolink|Apple Tree}}</wrap> **Apple Tree**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbardeco.png?nolink|KID Deco}}</wrap> **KID Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddeadwood.png?nolink|Deadwood}}</wrap> **Deadwood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwpatch.png?nolink|Patches}}</wrap> **Patches** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddwappletree.png?nolink|Apple Tree}}</wrap> **Apple Tree**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:apple|Apple]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Deadwood v1.1 (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=713|WoB]]
+
+{{tag>Building Gathering Deadwood}}

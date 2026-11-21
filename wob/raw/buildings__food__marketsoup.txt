@@ -1,0 +1,54 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Market Soup ======
+----
+
+<WRAP right>
+^  Market Soup                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketsoup.png?nolink|Market Soup}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A market soup kitchen where a Chef simmers meats, fish, and vegetables with Firewood to produce Meat Soup, Fish Soup, Vegetable Soup, and Mushroom Soup. Emits a Goods happiness bonus within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketsoup.png?nolink|Market Soup}}</wrap> **Market Soup**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmarketsoup.png?nolink|Market Soup}}</wrap> **Market Soup**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                           ^ Produces                                                             ^
+| 4 [[WikiPages:food:chicken|Chicken]] + 4 [[WikiPages:food:wheat|Wheat]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                     | [[WikiPages:food:meat_soup_marketsoupmeat|Meat Soup]]                |
+| 4 [[WikiPages:food:beef_beef|Beef]] + 4 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                      | [[WikiPages:food:meat_soup_marketsoupmeat|Meat Soup]]                |
+| 4 [[WikiPages:food:fish|Fish]] + 4 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                         | [[WikiPages:food:fish_soup|Fish Soup]]                               |
+| 4 [[WikiPages:food:cabbage|Cabbage]] + 4 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                   | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]]       |
+| 4 [[WikiPages:food:potato|Potato]] + 4 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                       | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]]       |
+| 4 [[WikiPages:food:bean|Bean]] + 4 [[WikiPages:food:pepper|Pepper]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                         | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]]       |
+| 4 [[WikiPages:food:pumpkin|Pumpkin]] + 4 [[WikiPages:food:bean|Bean]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                       | [[WikiPages:food:vegetable_soup_marketsoupveg|Vegetable Soup]]       |
+| 8 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                                                      | [[WikiPages:food:mushroom_soup|Mushroom Soup]]                       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Market Food v4**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=206|WoB]]
+
+{{tag>Building Food MarketFood}}

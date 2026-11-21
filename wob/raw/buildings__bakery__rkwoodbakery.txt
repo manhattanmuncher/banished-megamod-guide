@@ -1,0 +1,56 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Bakery ======
+----
+
+<WRAP right>
+^  Wood Bakery                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkwoodbakery.png?nolink|Wood Bakery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  32  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+|  [[WikiPages:fuel:charcoal|Charcoal]]  |  24  |
+|  [[WikiPages:custom5:glass|Glass]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+RK Editor Choice wood-fired bakery; bakes bread, cakes, pies, and egg dishes.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbakery.png?nolink|Bakeries}}</wrap> **Bakeries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkwoodbakery.png?nolink|Wood Bakery}}</wrap> **Wood Bakery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkwoodbakery.png?nolink|Wood Bakery}}</wrap> **Wood Bakery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                      ^ Produces                              ^
+| 14 [[WikiPages:grain:flour|Flour]]                                                                                               | [[WikiPages:food:bread_bread|Bread]]  |
+| 8 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:honey|Honey]]                                                            | [[WikiPages:food:cake_nmcake|Cake]]   |
+| 8 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:honey|Honey]] + 6 [[WikiPages:food:apple|Apple]]                         | [[WikiPages:food:pie_nmpie|Pie]] *    |
+| 8 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:honey|Honey]] + 6 [[WikiPages:food:cherry|Cherry]]                       | [[WikiPages:food:pie_nmpie|Pie]] *    |
+| 8 [[WikiPages:grain:flour|Flour]] + 6 [[WikiPages:food:honey|Honey]] + 6 [[WikiPages:food:pecan|Pecan]]                         | [[WikiPages:food:pie_nmpie|Pie]] *    |
+| 8 [[WikiPages:food:egg|Egg]] + 2 [[WikiPages:food:onion|Onion]] + 6 [[WikiPages:food:mushroom|Mushroom]]                        | [[WikiPages:food:omelette|Omelette]]  |
+| 8 [[WikiPages:food:egg|Egg]] + 4 [[WikiPages:grain:flour|Flour]] + 4 [[WikiPages:food:cheese|Cheese]]                           | [[WikiPages:food:quiche|Quiche]]      |
+
+//* Apple, Cherry, and Pecan pie recipes all produce the same "Pie" item.//
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Bakery RKEditorChoice}}

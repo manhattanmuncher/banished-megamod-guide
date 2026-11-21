@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Workshop ======
+----
+
+<WRAP right>
+^  Village Workshop                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvworkshop1.png?nolink|Village Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Tool Maker}}</wrap> Tool Maker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (1)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  600  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods Small Village workshop, larger and faster than the [[buildings:crafting:dssvworkshop0small|Small Workshop]]. A Tool Maker forges Tools, Hunting Gear, Fishing Gear, and Gathering Baskets.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvworkshop1.png?nolink|Village Workshop}}</wrap> **Village Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsresource.png?nolink|Resource}}</wrap> **Resource** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddssvworkshop1.png?nolink|Village Workshop}}</wrap> **Village Workshop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                      ^ Produces                                              ^
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                   | [[WikiPages:tool:tool|Tool]]                          |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                   | [[WikiPages:custom0:hunting_gear|Hunting Gear]]       |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                   | [[WikiPages:custom0:fishing_gear|Fishing Gear]]       |
+| 1 [[WikiPages:wood:log|Wood]]                                                    | [[WikiPages:custom0:gathering_basket|Gathering Basket]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Small Village: Production v1.1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=258|WoB]], [[https://www.nexusmods.com/banished/mods/51|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1234041581|Steam]]
+
+{{tag>Building Crafting DS}}

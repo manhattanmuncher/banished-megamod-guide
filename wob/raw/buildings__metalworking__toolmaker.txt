@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tool Maker ======
+----
+
+<WRAP right>
+^  Tool Maker                                                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtoolmaker.png?nolink|Tool Maker}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Tool Maker}}</wrap> Tool Maker  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  ||
+|  Tool  |  Anvil  ||
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  ||
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  ||
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,000  ||
+|  Storage Categories  |  Fuel, Wood, Iron  |  (all categories)  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  ||
+|  [[WikiPages:wood:log|Log]]  |  32  ||
+|  [[WikiPages:stone:stone|Stone]]  |  55  ||
+|  [[WikiPages:iron:iron|Iron]]  |  32  |  –  |
+|  [[WikiPages:coalfuel:iron_ore|Iron Ore]]  |  –  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Tool Maker is the vanilla Banished tool production building. Tool Makers craft iron tools and steel tools for the colony's workers, improving their productivity.
+
+----
+
+===== Where to Find =====
+
+The Tool Maker is found in the vanilla Banished **Resource Production** building category.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtoolmaker.png?nolink|Tool Maker}}</wrap> **Tool Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                        ^ Produces                                           ^
+| 1 [[WikiPages:iron:iron|Iron]]                     | [[WikiPages:tool:tool|Tool]]                       |
+| 1 [[WikiPages:iron:iron|Iron]]                     | [[WikiPages:tool:steeltool|Steel Tool]]             |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Metalworking ColonialCharter}}

@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Military Supply ======
+----
+
+<WRAP right>
+^  Military Supply                                ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom5  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  14/16  |
+|  Edible  |  No  |
+|  Trade Value  |  5  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/milsupply.png?nolink|Military Supply}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Military Supply is a construction material used to erect buildings in the Banished MegaMod. It is produced or refined and held in a Stockpile, ready for builders to draw on when constructing new structures. It has a modest trade value of 5.
+
+----
+
+===== Military Supply Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:frontier:quartermaster|Quartermaster]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom5}}

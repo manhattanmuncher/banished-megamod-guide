@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Magical Tool ======
+----
+
+<WRAP right>
+^  Magical Tool                                   ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Tool  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  60  |
+|  <abbr "Tool effectiveness rating">Use Value</abbr>  |  1200  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  8  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/magicaltool.png?nolink|Magical Tool}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Magical Tool is a worker's tool crafted in the Banished MegaMod. It is stored in a Barn and distributed to labourers, improving their productivity on the job. At a trade value of 60, it is highly prized by traveling merchants.
+
+----
+
+===== Magical Tool Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:metalworking:ftspelltower|Spell Tower (Fairy Tale Cottage)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Tool}}

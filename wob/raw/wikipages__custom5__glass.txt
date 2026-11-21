@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Glass ======
+----
+
+<WRAP right>
+^  Glass                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom5  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/8  |
+|  Edible  |  No  |
+|  Trade Value  |  6  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/glass.png?nolink|Glass}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Glass is a construction material used to erect buildings in the Banished MegaMod. It is produced or refined and held in a Stockpile, ready for builders to draw on when constructing new structures. It has a modest trade value of 6.
+
+----
+
+===== Glass Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:crafting:dsjabconstructionyardglass|Jetty Construction: Glass-maker]]
+  * Produced at the [[buildings:crafting:ebglassworks|Glass Works]]
+  * Produced at the [[buildings:crafting:glassworkers|Glassworks (Colonial Resources)]]
+  * [[buildings:crafting:nmt30mcglassmaker|Glass Maker (NMMK)]]
+  * [[buildings:mining:ootwcrystalworks|Crystal Works (OOTW)]]
+  * Produced at the [[buildings:mining:ootwmudworks|Mud Works (OOTW)]]
+  * Produced at the [[buildings:construction:oldglassworks|Old Glassworks]]
+  * Produced at the [[buildings:crafting:tinyglassworkshop|Tiny Glass Workshop]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom5}}

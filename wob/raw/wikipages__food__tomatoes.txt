@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tomatoes ======
+----
+
+<WRAP right>
+^  Tomatoes                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tomato.png?nolink|Tomatoes}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Tomatoes are a vegetable crop grown in fields in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Tomatoes Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:mfpatchtomato|Tomato Patch (Mexican Fantasy)]]
+  * Produced at the [[buildings:greenhouse:aspgreenhousec|Salsa House]]
+  * Produced at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Produced at the [[buildings:greenhouse:hgpatchtomato|Tomato Patch (Home Grown)]]
+  * Produced at the [[buildings:fields:kf09|Farmyard 09]]
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:greenhouse:tagreenhouse|Greenhouse (The Tequila Addon)]]
+  * Produced at the [[buildings:greenhouse:tomato_greenhouse|Tomato Greenhouse]]
+  * Produced at the [[buildings:fields:patchtomato|Patch Tomato]] (Kid - Patchwork)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:hgsalsa|Homemade Salsa (Home Grown)]] (for Salsa)
+  * Used at the [[buildings:food:hgsalsastore|Salsa Store (Home Grown)]] (for Salsa)
+  * Used at the [[buildings:preserving:tinnerysoup|Soup Tinnery]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable}}

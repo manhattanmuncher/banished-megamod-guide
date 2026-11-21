@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Canvas ======
+----
+
+<WRAP right>
+^  Canvas                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom2  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  12  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  8  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/canvas.png?nolink|Canvas}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Canvas is a processed fabric or refined textile in the Banished MegaMod. It is produced from raw fibers and stored in a Barn, used as an ingredient in clothing and other crafted goods. It carries a trade value of 12, making it a worthwhile commodity for trade.
+
+----
+
+===== Canvas Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:pineloom|Pine Loom]]
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+  * Used at the [[buildings:clothing:dssvflagmaker|Village Flag Maker]]
+  * Produced at the [[buildings:clothing:dssvweaversguild|Weaving Guild]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom2}}

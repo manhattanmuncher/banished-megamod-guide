@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Crypt of Peace ======
+----
+
+<WRAP right>
+^  Crypt of Peace                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcrypt02.png?nolink|Crypt of Peace}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gothic Deco crypt decoration for the cemetery; free ghost placement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicdeco.png?nolink|Gothic Deco}}</wrap> **Gothic Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcrypt02.png?nolink|Crypt of Peace}}</wrap> **Crypt of Peace**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgothicdeco.png?nolink|Gothic Deco}}</wrap> **Gothic Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcrypt02.png?nolink|Crypt of Peace}}</wrap> **Crypt of Peace**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgfcrypt02.png?nolink|Crypt of Peace}}</wrap> **Crypt of Peace**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gothic Deco v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=364|WoB]]
+
+{{tag>Building Cemeteries KidGothicDeco}}

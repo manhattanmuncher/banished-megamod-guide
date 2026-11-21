@@ -1,0 +1,79 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Town Halls ======
+----
+
+Buildings that serve as the civic and administrative center of the settlement.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:town_halls:jinxiebittytownhall|Bitty Notice Board]] | Jinxie Bitty Village Set compact town hall; records colony census data; 2 × 1 footprint |
+| [[buildings:town_halls:bgtownhall|BG Town Hall]] | Bakery & Garden Alt town hall; provides Spirit happiness within a 35-tile radius; also provides resource limit controls |
+| [[buildings:town_halls:nvchiefshut|Chief's Hut (Native Village)]] | Native Village chief's hut; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:christmastree|Christmas Tree]] | Christmas Mod holiday decoration; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:oldhovelclerk|Clerk (Old Hovels)]] | Old Hovels clerk's office; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:ootwcommandcenter|Command Center (Out Of This World)]] | Out Of This World command center; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:covenhall|Coven Hall]] | Coven gathering hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:ftfairy|Fairy (Fairy Tale)]] | Fairy Tale decorative fairy; provides Spirit happiness within 16 tiles; no footprint, free to place |
+| [[buildings:town_halls:phfort|Fort (Plimoth Harmonized)]] | Plimoth Harmonized fort; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:ppfort|Fort (Plimoth Plantation)]] | Plimoth Plantation fort; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:gingerbreadhouse|Gingerbread House (Christmas Mod)]] | Christmas Mod gingerbread house; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:gingerbreadhousehoney|Gingerbread House, Honey (Christmas Mod)]] | Christmas Mod gingerbread house, honey variant; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:mghall|Hall (Medieval Grace)]] | Medieval Grace hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:settlershall|Hall (Settlers)]] | Settlers hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; up to 3 per colony |
+| [[buildings:town_halls:swamphall|Hall (Swamp Houses / Swamp Thing)]] | Swamp hall shared by Swamp Houses and Swamp Thing themes; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:otpheadquarters|Headquarters (Old Town Ports)]] | Old Town Ports headquarters; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:wfheadquarter|Headquarters (Wooden Fort)]] | Wooden Fort headquarters; provides Spirit happiness to nearby citizens; also provides resource limit controls; up to 3 per colony |
+| [[buildings:town_halls:icecastle|Ice Castle]] | Kid Ice Castle winter town hall; status + resource limits (no nomads); WR 48 + Stone 42 + Iron 18 |
+| [[buildings:town_halls:fishshipslighthousewater|Lighthouse (Fish Ships, Water)]] | Fish Ships water lighthouse; provides Spirit happiness to nearby citizens; also provides resource limit controls; can be placed on water |
+| [[buildings:town_halls:railwaymaster|Master Station (Railway)]] | Railway master station; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:clmeetinghouse|Meeting House (Colonial Housing)]] | Colonial Housing meeting house; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:mfmissiontower|Mission Tower (Mexican Fantasy)]] | Mexican Fantasy mission bell tower; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:nmt30lighthouse|NMT 3.0 Lighthouse]] | RK Editor's Choice NMT monumental coastal lighthouse landmark; placed via the Town Hall menu; WR 160 + Lumber 58 + Stone 98 + Iron 14 + Copper 16 |
+| [[buildings:town_halls:gtnewclaims|New Claims (Ghost Town)]] | Ghost Town claims office; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:himejicastle|Osaka Castle]] | A8 Japanese fortified castle landmark; acts as a town hall with resource-limit controls; Safety happiness, radius 40; 12 × 21 footprint |
+| [[buildings:town_halls:fotoverseer|Overseer (Forest Trader)]] | Forest Trader overseer; tracks resource stockpile limits and provides Spirit happiness within 35 tiles; 5 × 6 footprint |
+| [[buildings:town_halls:fodoverseer|Overseer (Forge Of Dwarves)]] | Forge Of Dwarves overseer's post; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fodwoverseer|Overseer (Forge Of Dwarves Winter)]] | Forge Of Dwarves Winter overseer's post; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:otpoverseer|Overseer (Old Town Ports)]] | Old Town Ports overseer's office; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:prtownhall|Port Royal Town Hall]] | Necora Maritimes Port Royal town hall; resource-limit controls and census tracking |
+| [[buildings:town_halls:fishshipsrecords|Records (Fish Ships)]] | Fish Ships records office; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:pinetownhall|Small Pine Town Hall]] | Necora Maritimes Pine Set compact town hall; resource-limit controls; 2 × 4 footprint |
+| [[buildings:town_halls:smalltownhall|Small Town Hall (Kid)]] | Kid compact town hall (status + resource limits); WR 32 + Wood 16; Town Hall menu + KID Toolbar Services |
+| [[buildings:town_halls:dsstonebridgetownhall|Stone Bridge Archive Tower]] | DS Stone Bridge town hall; resource-limit controls and census tracking; 4 × 5 footprint |
+| [[buildings:town_halls:mftallytent|Tally Tent (Mexican Fantasy)]] | Mexican Fantasy market tally tent; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:gtttallyman|Tallyman (Gothic Tithes & Tributes)]] | Gothic Tithes & Tributes tallyman's office; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:gfthekeep1|The Keep (Gothic Fantasy 1)]] | Gothic Fantasy 1 keep; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:gfthekeep2|The Keep (Gothic Fantasy 2)]] | Gothic Fantasy 2 keep; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:townhall|Town Hall]] | Vanilla Banished town hall; Citizens petition the Mayor for colony policies; 10 × 9 footprint |
+| [[buildings:town_halls:ftctownhall|Town Hall (Fairy Tale Child)]] | Fairy Tale Child town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fhtownhall|Town Hall (Forest Haven)]] | Forest Haven town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fodtownhall|Town Hall (Forge Of Dwarves)]] | Forge Of Dwarves town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fodwtownhall|Town Hall (Forge Of Dwarves Winter)]] | Forge Of Dwarves Winter town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:fbtownhall|Town Hall (Friendly Blue)]] | Friendly Blue town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fbttownhall|Town Hall (Friendly Blue Too)]] | Friendly Blue Too town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fntownhall|Town Hall (Friendly Neighborhood)]] | Friendly Neighborhood town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:fptownhall|Town Hall (Friendly Pumpkin)]] | Friendly Pumpkin town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:gntownhall|Town Hall (Granny Neighborhood)]] | Granny Neighborhood town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:hillsidetownhallground|Town Hall (Hillside Village, Ground)]] | Hillside Village ground-level town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:hillsidetownhallhi|Town Hall (Hillside Village, High)]] | Hillside Village high-elevation town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:hillsidetownhalllow|Town Hall (Hillside Village, Low)]] | Hillside Village low-elevation town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:hillsidetownhallmid|Town Hall (Hillside Village, Mid)]] | Hillside Village mid-elevation town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:mhtownhall|Town Hall (More Houses)]] | More Houses town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:mhdtownhall|Town Hall (More Houses, Dark)]] | More Houses Dark town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:mhstownhall|Town Hall (More Houses, Stone)]] | More Houses Stone town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:mhwtownhall|Town Hall (More Houses, Wood)]] | More Houses Wood town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:otptownhall|Town Hall (Old Town Ports)]] | Old Town Ports town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:shtownhall|Town Hall (Summer Haven)]] | Summer Haven town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:tctownhall|Town Hall (Tangerine Center)]] | Tangerine Center town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:wptownhall|Town Hall (WorkPlace Village)]] | WorkPlace Village town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:wptownhalla|Town Hall A (WorkPlace Village)]] | WorkPlace Village alternate town hall; provides Spirit happiness to nearby citizens; also provides resource limit controls |
+| [[buildings:town_halls:treehall|Tree Hall (Forest Deep)]] | Forest Deep tree hall; provides Spirit happiness to nearby citizens; also provides resource limit controls; limit 1 per colony |
+| [[buildings:town_halls:dssvvillagehall|Village Hall (DS Small Village)]] | DS Small Village town hall; resource-limit controls and census tracking; 8 × 8 footprint |
+| [[buildings:town_halls:ebsvtownhall|Village Town Hall]] | EB Simple Village town hall; tracks population census and manages immigration; 8 × 4 footprint |
+| [[buildings:town_halls:shatownhall|Village Town Hall (Stone House Addon)]] | Stone House Addon compact town hall with resource limit controls; max 2 per settlement; 3 × 3 footprint |
+
+----
+
+{{tag>Buildings TownHalls}}

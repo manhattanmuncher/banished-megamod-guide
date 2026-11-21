@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Charcoal ======
+----
+
+<WRAP right>
+^  Charcoal                                       ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fuel  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  45/55  |
+|  Edible  |  No  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/charcoal.png?nolink|Charcoal}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Charcoal serves as a fuel that keeps citizens warm during the long winters in the Banished MegaMod. It is stockpiled and consumed automatically by homes to provide heat. It has a modest trade value of 3.
+
+----
+
+===== Charcoal Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:industrial:brickbuilding|Brickworks]]
+  * Produced at the [[buildings:industrial:brickbuildingupgrade|Brickworks (Upgrade)]]
+  * Produced at the [[buildings:fuel:ebsvcharcoalpile|Charburner]]
+  * Produced at the [[buildings:fuel:ishikawacharcoalkiln|Ishikawa Charcoal Kiln]]
+  * Produced at the [[buildings:fuel:kilnbuilding|Stacks Burner]]
+  * Produced at the [[buildings:fuel:maritimeshumblecharcoalburner|Charcoal Burner (Maritimes Humble)]]
+  * [[buildings:fuel:nmt30charcoalkiln|Charcoal Kiln (NMT30)]]
+  * Produced at the [[buildings:crafting:pinepitchkiln|Pine Pitch Kiln]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Used at the [[buildings:crafting:ebglassworks|Glass Works]]
+  * Used at the [[buildings:crafting:ebsvpottery|Village Pottery]] (for Amphora)
+  * Used at the [[buildings:metalworking:ebsvsmelter|Iron Smelter]] (for Iron)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Fuel WoodFuel}}

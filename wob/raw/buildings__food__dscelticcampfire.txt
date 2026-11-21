@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Celtic Campfire ======
+----
+
+<WRAP right>
+^  Celtic Campfire                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticcampfire.png?nolink|Celtic Campfire}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/chef.png?nolink|Chef}}</wrap> Chef  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  21  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  9  |
+|  [[WikiPages:iron:iron|Iron]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+Celtic Campfire is a DS Mods food building. A Chef prepares various stews, soups, and flatbreads from grains, vegetables, and game.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsfood.png?nolink|Food}}</wrap> **Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticcampfire.png?nolink|Celtic Campfire}}</wrap> **Celtic Campfire**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreparing.png?nolink|Preparing}}</wrap> **Preparing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddscelticcampfire.png?nolink|Celtic Campfire}}</wrap> **Celtic Campfire**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                    ^ Produces                                              ^
+| 8 [[WikiPages:food:wheat|Wheat]] + 2 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                  | [[WikiPages:food:gruel|Gruel]]                        |
+| 8 [[WikiPages:food:corn|Corn]] + 2 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                     | [[WikiPages:food:gruel|Gruel]]                        |
+| 8 [[WikiPages:food:potato|Potato]] + 2 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                  | [[WikiPages:food:gruel|Gruel]]                        |
+| 8 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:health:herb|Herb]] + 1 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]           | [[WikiPages:food:mushroom_soup|Mushroom Soup]]        |
+| 3 [[WikiPages:food:mushroom|Mushroom]] + 3 [[WikiPages:food:root|Root]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]             | [[WikiPages:food:vegetable_stew|Vegetable Stew]]      |
+| 2 [[WikiPages:food:pumpkin|Pumpkin]] + 4 [[WikiPages:food:bean|Bean]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]               | [[WikiPages:food:vegetable_stew|Vegetable Stew]]      |
+| 3 [[WikiPages:food:potato|Potato]] + 3 [[WikiPages:food:cabbage|Cabbage]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]           | [[WikiPages:food:vegetable_stew|Vegetable Stew]]      |
+| 2 [[WikiPages:food:venison|Venison]] + 2 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:health:herb|Herb]] + 1 [[WikiPages:fuel:firewood|Firewood]]             | [[WikiPages:food:hunters_stew|Hunters Stew]]          |
+| 17 [[WikiPages:food:wheat|Wheat]] + 1 [[WikiPages:food:water|Water]]                                                                                          | [[WikiPages:food:hardtack|Hardtack Bread]]            |
+| 17 [[WikiPages:food:corn|Corn]] + 1 [[WikiPages:food:water|Water]]                                                                                             | [[WikiPages:food:hardtack|Hardtack Bread]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Celtic House v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=244|WoB]], [[https://www.nexusmods.com/banished/mods/74|Nexus]]
+
+{{tag>Building Food DS}}

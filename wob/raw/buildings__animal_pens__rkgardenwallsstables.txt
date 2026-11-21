@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stables (Garden Walls) ======
+----
+
+<WRAP right>
+^  Stables (Garden Walls)                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsstables.png?nolink|Stables (Garden Walls)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stableman.png?nolink|Stableman}}</wrap> Stableman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+The original RK Editor Choice version of the Garden Walls Stables where a Stableman converts Haystack and Water into Fertilizer. Uses only 2 Haystack per cycle, compared to the newer Garden Walls Stables which requires 12.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Resources}}</wrap> **RK Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsstables.png?nolink|Stables (Garden Walls)}}</wrap> **Stables (Garden Walls)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkgardenwallsstables.png?nolink|Stables (Garden Walls)}}</wrap> **Stables (Garden Walls)**
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                               ^ Produces                                     ^
+| 2 [[WikiPages:custom7:fodder-thatch_haystack|Haystack]] + 2 [[WikiPages:food:water|Water]]                                                    | [[WikiPages:custom7:fertilizer|Fertilizer]]  |
+
+----
+
+===== Other Information =====
+
+{{tag>Building AnimalPens RKGardenWalls}}

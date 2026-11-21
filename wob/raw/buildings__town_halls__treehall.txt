@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tree Hall (Forest Deep) ======
+----
+
+<WRAP right>
+^  Tree Hall                                                                          ^  Forest Deep  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehall.png?nolink|Tree Hall}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Deep tree hall providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony. Only one can be placed per colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehall.png?nolink|Tree Hall}}</wrap> **Tree Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehall.png?nolink|Tree Hall}}</wrap> **Tree Hall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtreehall.png?nolink|Tree Hall (Forest Deep)}}</wrap> **Tree Hall (Forest Deep)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Deep v5.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=212|WoB]], [[https://banishedinfo.com/mods/view/819-Forest-Deep-V3|BI]]
+
+{{tag>Building TownHalls KidForestDeep}}

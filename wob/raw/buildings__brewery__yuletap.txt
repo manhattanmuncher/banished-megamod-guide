@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Yule Tap ======
+----
+
+<WRAP right>
+^  Yule Tap                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyuletap.png?nolink|Yule Tap}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionelf.png?nolink|Elf}}</wrap> Elf  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  600  |
+|  Happiness  |  Entertainment (radius 30, requires alcohol)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  44  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Christmas Mod tap house staffed by an Elf that brews Cider from a variety of fruits, Ale from Wheat, and Mulled Wine from Grapes and Spices.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyuletap.png?nolink|Yule Tap}}</wrap> **Yule Tap**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchristmasmod.png?nolink|Christmas Mod}}</wrap> **Christmas Mod** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyuletap.png?nolink|Yule Tap}}</wrap> **Yule Tap**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildyuletap.png?nolink|Yule Tap}}</wrap> **Yule Tap**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                               ^ Produces                                       ^
+| 30 [[WikiPages:food:apple|Apple]]                                                         | [[WikiPages:alcohol:cider|Cider]]              |
+| 60 [[WikiPages:food:blueberries|Blueberries]]                                             | [[WikiPages:alcohol:cider|Cider]]              |
+| 30 [[WikiPages:food:cherry|Cherry]]                                                       | [[WikiPages:alcohol:cider|Cider]]              |
+| 30 [[WikiPages:food:peach|Peach]]                                                         | [[WikiPages:alcohol:cider|Cider]]              |
+| 30 [[WikiPages:food:pear|Pear]]                                                           | [[WikiPages:alcohol:cider|Cider]]              |
+| 30 [[WikiPages:food:plum|Plum]]                                                           | [[WikiPages:alcohol:cider|Cider]]              |
+| 100 [[WikiPages:food:wheat|Wheat]]                                                        | [[WikiPages:alcohol:ale|Ale]]                  |
+| 45 [[WikiPages:food:grapes|Grape]] + 5 [[WikiPages:food:spices|Spices]]                   | [[WikiPages:alcohol:mulled_wine|Mulled Wine]]  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Christmas Mod 2021**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=638|WoB]], [[https://banishedinfo.com/mods/view/879-Christmas-Mod|BI]]
+
+{{tag>Building Brewery ChristmasMod}}

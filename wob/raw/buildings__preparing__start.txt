@@ -1,0 +1,22 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Preparation Buildings ======
+----
+
+Buildings that prepare and cook meals and other food items from multiple ingredients.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:preparing:tmmasher|Agave Masher]] | Tequila Mod building; Worker roasts and mashes Agave with Firewood into Agave Pulp for distilling |
+| [[buildings:preparing:jinxiebittyspagrestaurant|Bitty Spaghetteria]] | Jinxie Bitty Pasta restaurant; Chef prepares Italian foods (Pasta, Spaghetti); 5 × 4 footprint |
+| [[buildings:preparing:braaistand|Braai Stand]] | Colonial Charter building; Chef prepares South African dishes from meat and vegetables |
+| [[buildings:preparing:misoshed|Miso Shed]] | A8 Japanese mod building; Worker ferments soybeans into miso |
+| [[buildings:preparing:soanteahouse|Soan Teahouse]] | A8 Japanese-themed teahouse; Chef brews tea from tea leaves or herbs; provides Entertainment happiness |
+| [[buildings:preparing:soupkitchen|Soup Kitchen]] | Food preparation building; Baker cooks hearty soups from various ingredients; provides Goods happiness |
+| [[buildings:preparing:swampreedpacker|Swamp Reed Packer]] | Swamp Thing building; Worker packs reeds into fuel bricks |
+| [[buildings:preparing:tatacokitchen|Taco Kitchen]] | Tequila Addon building; Worker cooks tacos and salsa from corn, wheat, meat, and vegetables; improves happiness |
+
+----
+
+{{tag>Buildings Preparing}}

@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Grinder ======
+----
+
+<WRAP right>
+^  Mill                                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpgrinder.png?nolink|Grinder}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmiller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+KID Workplace grinder; processes grain into flour.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmilling.png?nolink|Milling}}</wrap> **Milling** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpgrinder.png?nolink|Grinder}}</wrap> **Grinder**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildworkplace.png?nolink|WorkPlace}}</wrap> **WorkPlace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwpgrinder.png?nolink|Grinder}}</wrap> **Grinder**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                ^ Produces                              ^
+| 20 [[WikiPages:food:wheat|Wheat]]                         | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:corn|Corn]]                           | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:barley|Barley]]                       | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:sorghum|Sorghum]]                     | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:oats_oat|Oat]]                        | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:rye|Rye]]                             | [[WikiPages:grain:flour|Flour]]       |
+| 20 [[WikiPages:food:rice|Rice]]                           | [[WikiPages:grain:flour|Flour]]       |
+| 12 [[WikiPages:textile:hemp_hempleaf|Hemp]]               | [[WikiPages:grain:flour|Flour]]       |
+| 15 [[WikiPages:food:acorns|Acorns]]                       | [[WikiPages:grain:flour|Flour]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Workplace v2.05**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=204|WoB]], [[https://banishedinfo.com/mods/view/813-Workplace-V1|BI]]
+
+{{tag>Building Grain KID}}

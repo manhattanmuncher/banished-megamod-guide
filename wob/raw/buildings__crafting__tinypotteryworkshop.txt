@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Pottery Workshop ======
+----
+
+<WRAP right>
+^  Tiny Pottery Workshop                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinypotteryworkshop.png?nolink|Tiny Pottery Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/worker.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  22  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact workshop from the KID Tiny Builders Toolbar where a Worker makes Pottery from Clay and Firewood.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinybuilders.png?nolink|Tiny Builders}}</wrap> **Tiny Builders** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinypotteryworkshop.png?nolink|Tiny Pottery Workshop}}</wrap> **Tiny Pottery Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpottery.png?nolink|Pottery}}</wrap> **Pottery** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinypotteryworkshop.png?nolink|Tiny Pottery Workshop}}</wrap> **Tiny Pottery Workshop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                              ^ Produces                                    ^
+| 2 [[WikiPages:custom4:clay|Clay]] + 1 [[WikiPages:fuel:firewood|Firewood]]              | [[WikiPages:custom0:pottery|Pottery]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Tiny v3.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=336|WoB]]
+
+{{tag>Building Crafting KID}}

@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fruit and Vegetable Barn ======
+----
+
+<WRAP right>
+^  Fruit and Vegetable Barn                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsfruitvegbarn.png?nolink|Fruit and Vegetable Barn}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  9,000  |
+|  Storage Categories  |  Vegetable, Fruit  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods large barn dedicated to produce storage. Settlers store vegetables and fruit with a capacity of 9,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsstorage.png?nolink|DS Storage}}</wrap> **DS Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsfruitvegbarn.png?nolink|Fruit and Vegetable Barn}}</wrap> **Fruit and Vegetable Barn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsfruitvegbarn.png?nolink|Fruit and Vegetable Barn}}</wrap> **Fruit and Vegetable Barn**
+
+----
+
+This building originally came from **Fruit & Veg Barn v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=104|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691374967|Steam]]
+
+{{tag>Building Storage DS}}

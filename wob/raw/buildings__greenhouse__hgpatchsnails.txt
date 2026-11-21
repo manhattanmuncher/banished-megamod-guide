@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Snails Patch ======
+----
+
+<WRAP right>
+^  Snails Patch                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgpatchsnails.png?nolink|Snails Patch}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  42.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Snails Patch is a Home Grown building where workers tend a snail garden. It requires no construction materials to build and no inputs to operate.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgpatchsnails.png?nolink|Snails Patch}}</wrap> **Snails Patch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhomegrown.png?nolink|Home Grown}}</wrap> **Home Grown** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgpatchsnails.png?nolink|Snails Patch}}</wrap> **Snails Patch**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpen.png?nolink|Animal Sheds and Pens}}</wrap> **Animal Sheds and Pens** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildhgpatchsnails.png?nolink|Snails Patch}}</wrap> **Snails Patch**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:food:snail_meat|Snail Meat]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Home Grown v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=629|WoB]]
+
+{{tag>Building Food HomeGrown}}

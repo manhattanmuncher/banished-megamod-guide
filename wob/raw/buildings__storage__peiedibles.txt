@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== PEI Shore Edibles ======
+----
+
+<WRAP right>
+^  PEI Shore Edibles                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeiedibles.png?nolink|PEI Shore Edibles}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Food, Grain, Fruit, Vegetable, Protein  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  25  |
+|  [[WikiPages:wood:log|Wood]]  |  25  |
+</WRAP>
+<WRAP right></WRAP>
+
+A PEI Shore dock-based edibles storage. Settlers store food, grain, fruit, vegetables, and protein with a capacity of 5,000 units. Available in 3 appearance variants using F to cycle.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeiedibles.png?nolink|PEI Shore Edibles}}</wrap> **PEI Shore Edibles**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratooldocks.png?nolink|Necora's Maritimes Docks}}</wrap> **Necora's Maritimes Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratooldockstorage.png?nolink|Necora's Maritimes Dock Storage}}</wrap> **Necora's Maritimes Dock Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpeiedibles.png?nolink|PEI Shore Edibles}}</wrap> **PEI Shore Edibles**
+
+----
+
+This building originally came from **Maritimes PEI Shore Fisheries v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=186|WoB]]
+
+{{tag>Building Storage Maritimes}}

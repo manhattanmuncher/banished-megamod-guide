@@ -1,0 +1,65 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Soup Tinnery ======
+----
+
+<WRAP right>
+^  Soup Tinnery                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinnerysoup.png?nolink|Soup Tinnery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tinner.png?nolink|Tinner}}</wrap> Tinner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 2)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Detraction (radius 18)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+|  [[WikiPages:custom1:tin|Tin]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter tinnery where Tinners preserve vegetables and grains into Tinned Soup using Tin. Produces more food value than the raw ingredients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartinnery.png?nolink|Tinneries}}</wrap> **Tinneries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinnerysoup.png?nolink|Soup Tinnery}}</wrap> **Soup Tinnery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartinnery.png?nolink|Tinneries}}</wrap> **Tinneries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinnerysoup.png?nolink|Soup Tinnery}}</wrap> **Soup Tinnery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                         ^ Produces                                          ^
+| 20 [[WikiPages:food:tomatoes|Tomatoes]] + 1 [[WikiPages:custom1:tin|Tin]]                                          | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:custom1:tin|Tin]]                                           | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:custom1:tin|Tin]]                                                 | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:potato|Potato]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:pumpkin|Pumpkin]] + 1 [[WikiPages:custom1:tin|Tin]]                                             | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:root|Root]] + 1 [[WikiPages:custom1:tin|Tin]]                                                   | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:leek|Leek]] + 1 [[WikiPages:custom1:tin|Tin]]                                                   | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:chickpeas|Chickpeas]] + 1 [[WikiPages:custom1:tin|Tin]]                                         | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:parsnips|Parsnips]] + 1 [[WikiPages:custom1:tin|Tin]]                                           | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:turnips|Turnips]] + 1 [[WikiPages:custom1:tin|Tin]]                                             | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:soybeans|Soybeans]] + 1 [[WikiPages:custom1:tin|Tin]]                                           | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:kale|Kale]] + 1 [[WikiPages:custom1:tin|Tin]]                                                   | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:ginger|Ginger]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:corn|Corn]] + 1 [[WikiPages:custom1:tin|Tin]]                                                   | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:wheat|Wheat]] + 1 [[WikiPages:custom1:tin|Tin]]                                                 | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:barley|Barley]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:sorghum|Sorghum]] + 1 [[WikiPages:custom1:tin|Tin]]                                             | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:oats_oat|Oats]] + 1 [[WikiPages:custom1:tin|Tin]]                                               | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+| 20 [[WikiPages:food:rye|Rye]] + 1 [[WikiPages:custom1:tin|Tin]]                                                     | [[WikiPages:food:tinned_soup|Tinned Soup]]         |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Preserving ColonialCharter}}

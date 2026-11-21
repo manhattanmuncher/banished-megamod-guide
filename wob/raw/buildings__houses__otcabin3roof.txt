@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cabin 3 Roofed ======
+----
+
+<WRAP right>
+^  Cabin 3 Roofed                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotcabin3roof.png?nolink|Cabin 3 Roofed}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  3  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  65  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:otcabin3|Cabin 3]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town Houses}}</wrap> **Old Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotcabins.png?nolink|Stackable Cabins}}</wrap> **Stackable Cabins** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotcabin3roof.png?nolink|Cabin 3 Roofed}}</wrap> **Cabin 3 Roofed**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Housing}}</wrap> **KID Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtown.png?nolink|Old Town Houses}}</wrap> **Old Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotcabins.png?nolink|Stackable Cabins}}</wrap> **Stackable Cabins** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotcabin3roof.png?nolink|Cabin 3 Roofed}}</wrap> **Cabin 3 Roofed**
+
+----
+
+This building originally came from **Old Town v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=463|WoB]]
+
+{{tag>Building Houses KidOldTown}}

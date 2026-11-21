@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Workplace Large Cart ======
+----
+
+<WRAP right>
+^  Workplace Large Cart                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlcworkplace.png?nolink|Workplace Large Cart}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Wood, Stone, Iron, Coal Fuel, Tools, Fuel, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  36  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Mods large storage cart for workplace materials. Settlers store wood, stone, iron, coal, fuel, tools, and other goods with a capacity of 6,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlargecarts.png?nolink|Large Storage Carts}}</wrap> **Large Storage Carts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlcworkplace.png?nolink|Workplace Large Cart}}</wrap> **Workplace Large Cart**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlargecarts.png?nolink|Large Storage Carts}}</wrap> **Large Storage Carts** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlcworkplace.png?nolink|Workplace Large Cart}}</wrap> **Workplace Large Cart**
+
+----
+
+This building originally came from **Storage Carts v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=337|WoB]]
+
+{{tag>Building Storage}}

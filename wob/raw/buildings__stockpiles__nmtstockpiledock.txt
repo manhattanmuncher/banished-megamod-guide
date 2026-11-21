@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stockpile (NMT Dock) ======
+----
+
+<WRAP right>
+^  Stockpile (NMT Dock)                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstockpiledock.png?nolink|Stockpile (NMT Dock)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  10,000  |
+|  Storage Categories  |  Fuel, Wood, Stone, Iron, Coal Fuel, Industrial Fuel, Raw Materials, [[WikiPages:custom5:building_kit|Building Supplies]]  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks wood stockpile. Settlers store fuel, logs, stone, iron, and industrial materials with a capacity of 10,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstoragedocktoolbar.png?nolink|NMT Dock Storage Toolbar}}</wrap> **NMT Dock Storage Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstockpiledock.png?nolink|Stockpile}}</wrap> **Stockpile**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstoragedocktoolbar.png?nolink|NMT Dock Storage Toolbar}}</wrap> **NMT Dock Storage Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstockpiledock.png?nolink|Stockpile}}</wrap> **Stockpile**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage RKEditorChoice}}

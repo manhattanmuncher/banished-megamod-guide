@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sherbrooke Sawmill ======
+----
+
+<WRAP right>
+^  Sherbrooke Sawmill                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookesawmill.png?nolink|Sherbrooke Sawmill}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionlumberjack.png?nolink|Lumberjack}}</wrap> Lumberjack  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  Storage  |  1000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  50  |
+|  [[WikiPages:stone:stone|Stone]]  |  50  |
+|  [[WikiPages:iron:iron|Iron]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Sherbrooke Village sawmill; cuts wood into lumber or firewood. Can be placed at the water's edge.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsawmill.png?nolink|Sawmill}}</wrap> **Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookesawmill.png?nolink|Sherbrooke Sawmill}}</wrap> **Sherbrooke Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookesawmill.png?nolink|Sherbrooke Sawmill}}</wrap> **Sherbrooke Sawmill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolindustry.png?nolink|Necora's Maritimes Industry}}</wrap> **Necora's Maritimes Industry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookesawmill.png?nolink|Sherbrooke Sawmill}}</wrap> **Sherbrooke Sawmill** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsherbrookesawmill.png?nolink|Sherbrooke Sawmill}}</wrap> **Sherbrooke Sawmill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                             ^ Produces                                          ^
+| 4 [[WikiPages:wood:log|Wood]]           | [[WikiPages:custom5:lumber|Lumber]]               |
+| 1 [[WikiPages:wood:log|Wood]]           | [[WikiPages:fuel:firewood|Firewood]]              |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Sherbrooke Village v101**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=291|WoB]]
+
+{{tag>Building Sawmill Maritimes}}

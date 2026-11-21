@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blacksmith Storage ======
+----
+
+<WRAP right>
+^  Blacksmith Storage                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorageblacksmith.png?nolink|Blacksmith Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Tools, Wood, Iron, Coal Fuel  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  16  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Swamp Houses mod storage building dedicated to blacksmith goods. Settlers store tools, wood, iron, and coal.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorage.png?nolink|Swamp Storage}}</wrap> **Swamp Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorageblacksmith.png?nolink|Blacksmith Storage}}</wrap> **Blacksmith Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorage.png?nolink|Swamp Storage}}</wrap> **Swamp Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorageblacksmith.png?nolink|Blacksmith Storage}}</wrap> **Blacksmith Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorageblacksmith.png?nolink|Blacksmith Storage}}</wrap> **Blacksmith Storage**
+
+----
+
+This building originally came from **Swamp Houses v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=438|WoB]]
+
+{{tag>Building Storage SwampHouses}}

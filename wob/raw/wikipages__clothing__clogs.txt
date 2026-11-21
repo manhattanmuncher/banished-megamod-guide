@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Clogs ======
+----
+
+<WRAP right>
+^  Clogs                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Clothing  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  10  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  3  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/clogs.png?nolink|Clogs}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Clogs help keep Banished citizens warm through cold seasons. They are stored in a Barn and distributed automatically to citizens when temperatures drop. They carry a trade value of 10, making them a worthwhile commodity for trade.
+
+----
+
+===== Clogs Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:ebsvshoemaker|Village Shoemaker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Clothing}}

@@ -1,0 +1,76 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Leather ======
+----
+
+<WRAP right>
+^  Leather                                        ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  4/6  |  4/6  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  10  |  10  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  10  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/leather.png?nolink|Leather}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Leather is a raw textile material gathered or produced in the Banished MegaMod. It is stored in a Barn and used as an ingredient in clothing and other crafted goods. It carries a trade value of 10, making it a worthwhile commodity for trade.
+
+----
+
+===== Leather Mods =====
+
+==== Procuring / where to get ====
+  * [[livestock:livestockbison|Bison]]
+  * [[livestock:livestockcow|Beef Cows]]
+  * [[livestock:livestockblrkcow|Friesian Cows]]
+  * [[livestock:livestockdeer|Deer]]
+  * [[livestock:livestockhorse|Horses]]
+  * [[livestock:livestocklonghorn|Longhorn Cows]]
+  * [[livestock:livestockmilkycow|Red Friesian]]
+  * [[livestock:livestockpig|Pigs]]
+  * [[livestock:livestockavisaurum|Avis Aurum]]
+  * [[buildings:animal_pens:animalpen1|Wool Pen]]
+  * [[buildings:animal_pens:animalpen2|Milk Pen]]
+  * Produced at the [[buildings:animal_pens:asppigsp|Pig Sty]]
+  * Produced at the [[buildings:crafting:backally|Bootlegger]]
+  * Produced at the [[buildings:animal_pens:cowbarn|Milking Barn]]
+  * Produced at the [[buildings:more_civic:dsnewstythtower|New Styth Tower]] (random)
+  * Produced at the [[buildings:more_civic:dsstythtower|Styth Tower]] (random)
+  * Produced at the [[buildings:hunting:athunter|AT Hunter]] (random)
+  * Produced at the [[buildings:hunting:druidhunter|Druid Hunter]] (random)
+  * Produced at the [[buildings:hunting:fthunter|Elven Hunter (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:hunting:ghfhuntingcabin|Hunting Cabin (Grow Hunt Fish)]]
+  * Produced at the [[buildings:fields:kf13|Farmyard 13]]
+  * Produced at the [[buildings:fields:kf14|Farmyard 14]]
+  * Produced at the [[buildings:fields:kf15|Farmyard 15]]
+  * [[buildings:gathering:nmtforestcenter|NMT Forest Center]]
+  * [[buildings:frontier:nativetrader|Native Trader (CC Frontier)]]
+  * Produced at the [[buildings:hunting:rkmctower|Watch Tower (RK Training Camp)]] (random)
+  * Produced at the [[buildings:hunting:rkmctower2|Watch Tower 2 (RK Training Camp)]] (random)
+  * Produced at the [[buildings:hunting:slcrochunter|Croc Hunter (Swamp Legend)]] (random)
+  * Produced at the [[buildings:hunting:slcrocjetty|Croc Jetty (Swamp Legend)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:traingeneralcar|Train General Car]]
+  * Produced at the [[buildings:hunting:wfhunter|WF Hunter]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:crafting:dssvworkshop0small|Small Workshop]] (for Leather Coat)
+  * Used at the [[buildings:crafting:dsstonebridgeworkshop|Stone Bridge Workshop]] (for Leather Coat)
+  * Used at the [[buildings:clothing:ebsvtannery|Village Tannery]] (for Cured Leather)
+  * Used at the [[buildings:clothing:ebtannery|Tannery (EB)]] (for Cured Leather)
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+  * Used at the [[buildings:crafting:tinyworkshop|Tiny Workshop]]
+  * Exported at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Textile}}

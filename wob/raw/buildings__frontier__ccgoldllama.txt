@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gold Llama ======
+----
+
+<WRAP right>
+^  Gold Llama                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccgoldllama.png?nolink|Gold Llama}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Quest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  25.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  220  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  Artifact  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A unique CC Frontier quest landmark; only one may be built per game. Requires an Artifact to construct and continuously produces Artifacts for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort Items}}</wrap> **Fort Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccgoldllama.png?nolink|Gold Llama}}</wrap> **Gold Llama**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccgoldllama.png?nolink|Gold Llama}}</wrap> **Gold Llama**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildccgoldllama.png?nolink|Gold Llama}}</wrap> **Gold Llama**
+
+----
+
+===== Produces =====
+
+  * Artifact
+
+----
+
+===== Other Information =====
+
+{{tag>Building Frontier}}

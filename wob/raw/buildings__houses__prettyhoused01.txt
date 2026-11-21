@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pretty House 1 (More Houses Dark) ======
+----
+
+<WRAP right>
+^  Pretty House 1 (More Houses Dark)                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprettyhoused01.png?nolink|Pretty House 1 (More Houses Dark)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  7  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  14  |
+</WRAP>
+<WRAP right></WRAP>
+
+A More Houses Dark house; houses up to 7 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehousesdark.png?nolink|More Houses Dark}}</wrap> **More Houses Dark** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildresidentialhouses.png?nolink|Residential Houses}}</wrap> **Residential Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprettyhoused01.png?nolink|Pretty House 1}}</wrap> **Pretty House 1**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmorehousesdark.png?nolink|More Houses Dark}}</wrap> **More Houses Dark** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildresidentialhouses.png?nolink|Residential Houses}}</wrap> **Residential Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprettyhoused01.png?nolink|Pretty House 1}}</wrap> **Pretty House 1**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmhdhostel.png?nolink|More Houses Dark}}</wrap> **More Houses Dark** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprettyhoused01.png?nolink|Pretty House 1 (More Houses Dark)}}</wrap> **Pretty House 1 (More Houses Dark)**
+
+----
+
+This building originally came from **More Houses v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=343|WoB]]
+
+{{tag>Building Houses MoreHousesDark}}

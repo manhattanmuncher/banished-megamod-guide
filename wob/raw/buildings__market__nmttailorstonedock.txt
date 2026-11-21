@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tailor (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Tailor (NMT Stone Dock)                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmttailorstonedock.png?nolink|Tailor (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tailor.png?nolink|Tailor}}</wrap> Tailor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 (default: 1)  |
+|  Storage  |  1,000  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  54  |
+|  [[WikiPages:iron:iron|Iron]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks stone tailor workshop. Tailors produce clothing from leather, wool, cloth, and linen.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmttailorstonedock.png?nolink|Tailor}}</wrap> **Tailor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesstonedocktoolbar.png?nolink|NMT Stone Dock Resources Toolbar}}</wrap> **NMT Stone Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmttailorstonedock.png?nolink|Tailor}}</wrap> **Tailor**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Market RKEditorChoice}}

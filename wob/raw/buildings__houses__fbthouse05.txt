@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly House 05 (Too) ======
+----
+
+<WRAP right>
+^  Friendly House 05                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse05.png?nolink|Friendly House 05}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  18  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Friendly Blue Too house, alternate model; identical stats to [[buildings:houses:fbthouse04|Friendly House 04 (Too)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbt.png?nolink|Friendly Blue Too}}</wrap> **Friendly Blue Too** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse.png?nolink|Friendly House}}</wrap> **Friendly House** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse05.png?nolink|Friendly House 05}}</wrap> **Friendly House 05**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbt.png?nolink|Friendly Blue Too}}</wrap> **Friendly Blue Too** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse.png?nolink|Friendly House}}</wrap> **Friendly House** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse05.png?nolink|Friendly House 05}}</wrap> **Friendly House 05**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse01.png?nolink|Friendly Blue Too}}</wrap> **Friendly Blue Too** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbthouse05.png?nolink|Friendly House 05 (Too)}}</wrap> **Friendly House 05 (Too)**
+
+----
+
+This building originally came from **Friendly Blue Too v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=570|WoB]]
+
+{{tag>Building Houses FriendlyBlueToo}}

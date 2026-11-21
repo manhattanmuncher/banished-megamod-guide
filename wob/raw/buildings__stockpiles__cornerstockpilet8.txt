@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stockpile (NMT Corner T8) ======
+----
+
+<WRAP right>
+^  Stockpile (NMT Corner T8)                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerstockpile.png?nolink|Stockpile (NMT Corner T8)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+|  Storage Categories  |  Fuel, Wood, Stone, Iron, Coal Fuel, Custom 3/4/5  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Corner Buildings storage stockpile. Settlers store fuel, wood, stone, iron, and construction materials with a capacity of 12,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorageyard.png?nolink|Stock Piles}}</wrap> **Stock Piles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerstockpilestoolbar.png?nolink|Corner Stockpiles}}</wrap> **Corner Stockpiles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerstockpile.png?nolink|Stockpile (NMT Corner T8)}}</wrap> **Stockpile (NMT Corner T8)**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Buildings}}</wrap> **NMT Corner Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerstockpile.png?nolink|Stockpile (NMT Corner T8)}}</wrap> **Stockpile (NMT Corner T8)**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Stockpiles NMTCorner}}

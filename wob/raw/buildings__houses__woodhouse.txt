@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood House ======
+----
+
+<WRAP right>
+^  Wood House                                                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/woodhousemenuicon.png?nolink|Wood House}}</wrap>  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  ||
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  ||
+|  Apartments  |  1  ||
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  ||
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  ||
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  ||
+|  [[WikiPages:wood:log|Log]]  |  16  ||
+|  [[WikiPages:stone:stone|Stone]]  |  8  ||
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter-modified vanilla wood house. Colonial Charter adds upgrade paths to country house variants.
+
+----
+
+===== Where to Find =====
+
+Upgrade from [[buildings:houses:settlerstents|Settlers Tents]]. Can be upgraded to:
+  * [[buildings:houses:stonehouseupgrade|Stone Home]]
+  * [[buildings:houses:countryhouse3upgrade|Country House 3 (Upgrade)]]
+  * [[buildings:houses:countryhouse4|Country House 4]]
+  * [[buildings:houses:countryhouse5|Country House 5]]
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/woodhousemenuicon.png?nolink|Wood House}}</wrap> **Wood House**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses ColonialCharter}}

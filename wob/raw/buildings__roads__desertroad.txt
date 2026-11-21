@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Desert Road ======
+----
+
+<WRAP right>
+^  Desert Road                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddesertroad.png?nolink|Desert Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  41  |
+</WRAP>
+<WRAP right></WRAP>
+
+A desert-themed road that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddesertroad.png?nolink|Desert Road}}</wrap> **Desert Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road MoreRoads}}

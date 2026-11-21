@@ -1,0 +1,61 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Kitchen Kiosk (Tex2) ======
+----
+
+<WRAP right>
+^  Jetty Kitchen Kiosk (Tex2)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty5x5kitchen.png?nolink|Jetty Kitchen Kiosk}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.5  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  13  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  13  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  34  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  13  |
+|  [[WikiPages:custom5:glass|Glass]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+Jetty Kitchen Kiosk (Tex2) is an alternate texture variant of the [[buildings:food:dsjabjetty5x5kitchen|Jetty Kitchen Kiosk]]. It has identical stats and recipes, but uses the Texture #2 visual style for the Jetty & Bridge mod set.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyfoodprodmenu.png?nolink|Jetty Food Production}}</wrap> **Jetty Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty5x5kitchen.png?nolink|Jetty Kitchen Kiosk}}</wrap> **Jetty Kitchen Kiosk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyfoodprodmenu.png?nolink|Jetty Food Production}}</wrap> **Jetty Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty5x5kitchen.png?nolink|Jetty Kitchen Kiosk}}</wrap> **Jetty Kitchen Kiosk**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjetty5x5kitchen.png?nolink|Jetty Kitchen Kiosk (Tex2)}}</wrap> **Jetty Kitchen Kiosk (Tex2)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                   ^ Produces                                                 ^
+| 3 [[WikiPages:food:cabbage|Cabbage]] + 3 [[WikiPages:food:mushroom|Mushroom]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                    | [[WikiPages:food:vegetable_stew|Vegetable Stew]]         |
+| 3 [[WikiPages:food:pumpkin|Pumpkin]] + 3 [[WikiPages:food:root|Root]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                            | [[WikiPages:food:vegetable_stew|Vegetable Stew]]         |
+| 3 [[WikiPages:food:mushroom|Mushroom]] + 3 [[WikiPages:food:root|Root]] + 3 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:fuel:firewood|Firewood]]                          | [[WikiPages:food:vegetable_stew|Vegetable Stew]]         |
+| 4 [[WikiPages:food:root|Root]] + 3 [[WikiPages:food:onion|Onion]] + 2 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                | [[WikiPages:food:vegetable_stew|Vegetable Stew]]         |
+| 4 [[WikiPages:food:cabbage|Cabbage]] + 2 [[WikiPages:food:onion|Onion]] + 3 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                          | [[WikiPages:food:vegetable_stew|Vegetable Stew]]         |
+| 8 [[WikiPages:food:fish|Fish]] + 3 [[WikiPages:food:mollusc|Mollusc]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                               | [[WikiPages:food:fishermans_catch|Fisherman's Catch]]    |
+| 3 [[WikiPages:food:fish|Fish]] + 8 [[WikiPages:food:mollusc|Mollusc]] + 1 [[WikiPages:fuel:firewood|Firewood]]                                                               | [[WikiPages:food:fishermans_catch|Fisherman's Catch]]    |
+| 8 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:health:herb|Herb]] + 1 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                          | [[WikiPages:food:mushroom_soup|Mushroom Soup]]           |
+| 8 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:food:onion|Onion]] + 1 [[WikiPages:food:water|Water]] + 1 [[WikiPages:fuel:firewood|Firewood]]                        | [[WikiPages:food:mushroom_soup|Mushroom Soup]]           |
+| 12 [[WikiPages:food:chicken|Chicken]] + 2 [[WikiPages:fuel:firewood|Firewood]]                                                                                                | [[WikiPages:food:roast_chicken|Roast Chicken]]           |
+| 8 [[WikiPages:food:egg|Egg]] + 1 [[WikiPages:food:onion|Onion]] + 6 [[WikiPages:food:mushroom|Mushroom]] + 1 [[WikiPages:fuel:firewood|Firewood]]                            | [[WikiPages:food:omelette|Omelette]]                     |
+| 8 [[WikiPages:food:egg|Egg]] + 4 [[WikiPages:food:mushroom|Mushroom]] + 3 [[WikiPages:food:mollusc|Mollusc]] + 1 [[WikiPages:fuel:firewood|Firewood]]                        | [[WikiPages:food:omelette|Omelette]]                     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Food DS}}

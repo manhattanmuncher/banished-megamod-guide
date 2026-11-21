@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Cellar (Pine Set) ======
+----
+
+<WRAP right>
+^  Food Cellar (Pine Set)                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinefoodcellar.png?nolink|Food Cellar (Pine Set)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Food, Grain, Protein, Vegetable, Fruit  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Pine Set food cellar. Settlers store edible foods with a capacity of 5,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmaritimes.png?nolink|The Maritimes}}</wrap> **The Maritimes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpineset.png?nolink|Pine Set}}</wrap> **Pine Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinestorage.png?nolink|Pine Storage}}</wrap> **Pine Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinefoodcellar.png?nolink|Food Cellar (Pine Set)}}</wrap> **Food Cellar (Pine Set)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage}}</wrap> **Necora's Maritimes Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinestorage.png?nolink|Pine Storage}}</wrap> **Pine Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinefoodcellar.png?nolink|Food Cellar (Pine Set)}}</wrap> **Food Cellar (Pine Set)**
+
+----
+
+{{tag>Building Storage Maritimes}}

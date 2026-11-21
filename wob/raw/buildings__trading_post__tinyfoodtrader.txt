@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Food Trader ======
+----
+
+<WRAP right>
+^  Tiny Food Trader                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyfoodtrader.png?nolink|Tiny Food Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Trader  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The food-specialized version of the [[buildings:trading_post:tinytrader|Tiny Trader]] from Kid's Tiny mod — a compact trading post whose Trader deals in food via visiting merchant boats. Holds up to 25,000 units in a small footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialtrade.png?nolink|Specialized Trade Buildings}}</wrap> **Specialized Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinyfoodtrader.png?nolink|Tiny Food Trader}}</wrap> **Tiny Food Trader**
+
+----
+
+{{tag>Building Trading_Post KidTiny}}

@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fishing Supplier ======
+----
+
+<WRAP right>
+^  Fishing Supplier                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsfishingsupplier.png?nolink|Fishing Supplier}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/boatman.png?nolink|Boatman}}</wrap> Boatman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NS Inshore supply workshop that produces fishing equipment: lobster pots, fishing nets, fishing line, and tackle.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsfishingsupplier.png?nolink|Fishing Supplier}}</wrap> **Fishing Supplier**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsfishingsupplier.png?nolink|Fishing Supplier}}</wrap> **Fishing Supplier**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                           ^ Produces                                            ^
+| 5 [[WikiPages:wood:log|Wood]]                                                                                                                         | [[WikiPages:custom0:lobster_pot|Lobster Pot]]       |
+| 10 [[WikiPages:textile:hemp_hempleaf|Hemp Leaf]]                                                                                                      | [[WikiPages:custom0:fishing_net|Fishing Net]]        |
+| 10 [[WikiPages:textile:flax|Flax]]                                                                                                                    | [[WikiPages:custom0:fishing_net|Fishing Net]]        |
+| 1 [[WikiPages:textile:twine|Twine]] + 1 [[WikiPages:custom7:pine_pitch|Pine Pitch]]                                                                   | [[WikiPages:custom0:fishing_line|Fishing Line]]      |
+| 1 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:custom7:pine_pitch|Pine Pitch]]                                        | [[WikiPages:custom0:fishing_tackle|Tackle]]                  |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing}}

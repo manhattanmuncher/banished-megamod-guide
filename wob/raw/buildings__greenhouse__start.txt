@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Greenhouse Buildings ======
+----
+
+Buildings that grow crops and plants in a controlled indoor environment.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:greenhouse:abpgreenhouse|ABP Greenhouse]] | Animal Barn Plus greenhouse; grows Oat, Potato, Blueberries, Onion, or Carrots using Fertilizer |
+| [[buildings:gathering:ghfcleaningshed|Cleaning Shed]] | Home Grown building; workers process plant material into Plant Debris or Fertilizer |
+| [[buildings:greenhouse:bbgreenhouse01|Coffee Greenhouse]] | Bed and Breakfast greenhouse; Farmer grows coffee beans year-round |
+| [[buildings:greenhouse:hgcompostbin|Compost Bin]] | Home Grown building; converts organic materials into Compost for garden patches |
+| [[buildings:greenhouse:ghfcompostbin|Compost Bin (Grow Hunt Fish)]] | Grow Hunt Fish composting facility; converts organic waste into Compost |
+| [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]] | RK Garden Walls building; Botanist grows 14 crop types using Water and Fertilizer |
+| [[buildings:greenhouse:aspgreenhouseb|Grain House]] | Animal Shed Plus greenhouse; grows grains year-round with no input materials |
+| [[buildings:greenhouse:grapehouse|Grape House]] | Christmas Mod building; Elf tends grape growing operation; produces Grapes without input materials |
+| [[buildings:greenhouse:bggreenhouse|Greenhouse (Botanical Garden)]] | Botanical Garden greenhouse; Farmer grows pumpkins in a glass enclosure |
+| [[buildings:greenhouse:greenhouse|Greenhouse]] | Greenhouse mod building; Botanist grows Seedlings year-round without input materials |
+| [[buildings:greenhouse:tagreenhouse|Greenhouse (Tequila Addon)]] | Tequila Addon greenhouse; Farmer grows tomatoes year-round |
+| [[buildings:greenhouse:ftgreenhouse|Greenhouse (Fairy Tale Cottage)]] | Fairy Tale Cottage greenhouse; uses Compost to grow a variety of crops year-round |
+| [[buildings:greenhouse:fbgreenhouse01|Greenhouse (Friendly Blue)]] | Friendly Blue greenhouse; turns Fertilizer into Oats, Potatoes, or Blueberries |
+| [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]] | RK Editor Choice greenhouse; Botanist uses Water and Fertilizer to grow 32 crop types |
+| [[buildings:greenhouse:gtgreenhouse|Greenhouse (Ghost Town)]] | Ghost Town greenhouse; workers combine linseed oil and flowers to produce paint |
+| [[buildings:greenhouse:ootwgreenhouse|Greenhouse (OOTW)]] | Out Of This World greenhouse; workers grow vegetables year-round |
+| [[buildings:greenhouse:bggreenhouseghost|Greenhouse 6x4]] | Botanical Garden placeholder greenhouse; free to place; 1 × 1 footprint |
+| [[buildings:greenhouse:bghothouseghost|Greenhouse 7x7]] | Botanical Garden placeholder hothouse; free to place; 1 × 1 footprint |
+| [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]] | Grow Hunt Fish greenhouse; uses Compost to grow a variety of crops and berries year-round |
+| [[buildings:greenhouse:bghothouse|Hothouse]] | Botanical Garden large heated greenhouse; Farmer grows tropical fruits |
+| [[buildings:greenhouse:bgmini3x2|Mini 3x2]] | Botanical Garden compact building; Farmer tends small plot to grow staple crops |
+| [[buildings:greenhouse:bgmini4x4|Mini 4x4]] | Botanical Garden building; Farmer tends medium plot to grow staple crops |
+| [[buildings:greenhouse:bgnursery|Nursery]] | Botanical Garden building; Farmer cultivates sunflowers |
+| [[buildings:greenhouse:hgpatchonion|Onion Patch]] | Home Grown garden patch; workers grow onions using compost; free to build |
+| [[buildings:greenhouse:hgpatchpepper|Pepper Patch]] | Home Grown garden patch; workers grow peppers using compost; free to build |
+| [[buildings:greenhouse:ghfpottingshed|Potting Shed (Grow Hunt Fish)]] | Grow Hunt Fish potting shed; Botanist cultivates seedlings |
+| [[buildings:greenhouse:hgpatchpumpkin|Pumpkin Patch]] | Home Grown garden patch; workers grow pumpkins using compost; free to build |
+| [[buildings:greenhouse:hgpatchrice|Rice Patch]] | Home Grown garden patch; workers grow rice using fertilizer; free to build |
+| [[buildings:greenhouse:gtagreenhouse|Ruined Greenhouse]] | Ghost Town ruined greenhouse; no function; upgrades to working greenhouse; 5 × 6 footprint |
+| [[buildings:greenhouse:aspgreenhousec|Salsa House]] | Animal Shed Plus greenhouse; grows vegetables year-round with no input materials |
+| [[buildings:greenhouse:bgshed4x3|Shed 4x3]] | Botanical Garden building; Farmer tends 4×3 plot to grow staple crops |
+| [[buildings:greenhouse:bgshed6x4|Shed 6x4]] | Botanical Garden building; Farmers tend 6×4 plot to grow staple crops |
+| [[buildings:greenhouse:bgshed7x7|Shed 7x7]] | Botanical Garden large building; Farmers tend 7×7 plot to grow staple crops |
+| [[buildings:greenhouse:hgpatchsnails|Snails Patch]] | Home Grown building; workers tend a snail garden; free to build with no input materials |
+| [[buildings:greenhouse:aspgreenhousea|Soup House]] | Animal Shed Plus greenhouse; grows root vegetables year-round with no input materials |
+| [[buildings:greenhouse:hgpatchsquash|Squash Patch]] | Home Grown garden patch; workers grow squash using compost; free to build |
+| [[buildings:greenhouse:tomato_greenhouse|Tomato Greenhouse]] | Greenhouse that grows Tomatoes year-round |
+| [[buildings:greenhouse:kidtomatogreenhouse|Tomato Greenhouse]] | Kid greenhouse; a worker grows tomatoes year-round; WR 32 + Wood 16 |
+| [[buildings:greenhouse:hgpatchtomato|Tomato Patch]] | Home Grown garden patch; workers grow tomatoes using compost; free to build |
+| [[buildings:greenhouse:tropicalgreenhouse|Tropical Greenhouse]] | Large greenhouse; uses Fertilizer to produce tropical fruits and vegetables |
+| [[buildings:greenhouse:vgwork|VG Work]] | Vegetable Garden mod processing station; converts VGVegetable into standard vegetable crops |
+
+----
+
+{{tag>Buildings Greenhouse}}

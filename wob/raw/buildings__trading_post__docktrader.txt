@@ -1,0 +1,50 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock Trading Post ======
+----
+
+<WRAP right>
+^  Dock Trading Post                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktrader.png?nolink|Dock Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–5 (5)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  30,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  140  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Docks trading post. Up to 5 traders work here, and merchants arrive by river boat offering goods from a variety of categories.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar.png?nolink|Homes & Town Services}}</wrap> **Homes & Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktrader.png?nolink|Dock Trading Post}}</wrap> **Dock Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddock.png?nolink|Docks}}</wrap> **Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktoolbar.png?nolink|Homes & Town Services}}</wrap> **Homes & Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktrader.png?nolink|Dock Trading Post}}</wrap> **Dock Trading Post**
+
+----
+
+===== Merchant =====
+
+Multiple merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| General | All good categories, crop and orchard seeds, and livestock |
+| Organics | Food items (fruit, vegetables, grain, and protein) |
+| Resources | Crafted goods, textiles, clothing, tools, herbs, alcohol, forged goods, fabric, precious, and misc |
+| Resources | Raw materials (wood, stone, iron, fuel, coal, industrial fuel, raw materials, and building supplies) |
+| Seeds | Crop and orchard seeds, and livestock |
+
+All merchants accept any settlement goods as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddocktrader.png?nolink|Dock Trading Post}}</wrap> **Dock Trading Post**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building TradingPost ColonialCharter}}

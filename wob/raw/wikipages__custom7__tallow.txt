@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tallow ======
+----
+
+<WRAP right>
+^  Tallow                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/6  |
+|  Edible  |  No  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/tallow.png?nolink|Tallow}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Tallow is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Tallow Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:butcher:butcher|Cow Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandsbison|Bison Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandscharki|Llama Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandscheval|Horse Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandsgoat|Goat Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandsmutton|Sheep Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandspork|Pig Butcher]]
+  * Produced at the [[buildings:butcher:butcherstandsvenison|Deer Butcher]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

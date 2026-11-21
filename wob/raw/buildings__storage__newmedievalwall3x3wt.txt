@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Wall - Walltower ======
+----
+
+<WRAP right>
+^  Medieval Wall - Walltower                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall3x3wt.png?nolink|Medieval Wall - Walltower}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Castle wall tower that doubles as a storage location. Settlers store food, fuel, tools, clothing, and a variety of goods with a capacity of 6,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcastle.png?nolink|New Medieval Castle}}</wrap> **New Medieval Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwalls.png?nolink|Medieval Walls}}</wrap> **Medieval Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall3x3wt.png?nolink|Medieval Wall - Walltower}}</wrap> **Medieval Wall - Walltower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalcastle.png?nolink|New Medieval Castle}}</wrap> **New Medieval Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwalls.png?nolink|Medieval Walls}}</wrap> **Medieval Walls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall3x3wt.png?nolink|Medieval Wall - Walltower}}</wrap> **Medieval Wall - Walltower**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalwall3x3wt.png?nolink|Medieval Wall - Walltower}}</wrap> **Medieval Wall - Walltower**
+
+----
+
+This building originally came from **New Medieval Town v1.1b**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=475534536|Steam]]
+
+{{tag>Building Storage NewMedievalTown}}

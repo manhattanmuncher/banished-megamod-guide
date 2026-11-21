@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ghost Flowers ======
+----
+
+<WRAP right>
+^  Ghost Flowers                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghostflowerstoolbar.png?nolink|Ghost Flowers}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1 tiles  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative flower-bed tiling system from Kid's Ghost Flowers mod — coloured flowers laid as tile pieces (center, corner, edge and row sections) so a flower bed of any shape can be filled in. Purely cosmetic and free to place, in a normal and a "High" (taller) style.
+
+----
+
+===== Variants =====
+
+  * **Tile pieces** — Center, Center Corner, Center Row, Corner, Edge, Edge Corner, Edge Row.
+  * **Bed styles** — base bed (B) and second bed (B2), each in a normal and a **High** height.
+  * **Colours** — multiple flower colours (Blue and others).
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghostflowerstoolbar.png?nolink|Ghost Flowers}}</wrap> **Ghost Flowers** → the flower-bed piece
+
+----
+
+{{tag>Building Decorations KidGhostFlowers}}

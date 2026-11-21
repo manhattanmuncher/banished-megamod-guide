@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Abandoned Rustic Abode ======
+----
+
+<WRAP right>
+^  Abandoned Rustic Abode                                                              ^  xMOD  ^
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+^  Restoration Cost                                                                   ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter abandoned rustic abode ruins. Cannot house settlers; can be restored via upgrade into a [[buildings:houses:cc17rusticabodealt|Rustic Abode Alt]].
+
+----
+
+===== Where to Find =====
+
+Pre-placed on certain Colonial Charter map types; not buildable from any toolbar.
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

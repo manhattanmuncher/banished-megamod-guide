@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Horses ======
+----
+
+<WRAP right>
+^  Horses                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brownhorse.png?nolink|Horses}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  800  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  20 tiles  |
+</WRAP>
+<WRAP right></WRAP>
+
+Horses are large livestock raised at a Pasture. They yield Cheval, Leather, and Fertilizer when slaughtered.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:cheval|Cheval]]
+  * [[WikiPages:textile:leather|Leather]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockHorse}}

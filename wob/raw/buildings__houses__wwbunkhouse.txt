@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bunkhouse ======
+----
+
+<WRAP right>
+^  Bunkhouse                                                                         ^  Wild West Cattle Drive  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwbunkhouse.png?nolink|Bunkhouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  16  |
+|  Apartments  |  4  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  45  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  46  |
+|  [[WikiPages:wood:log|Wood]]  |  26  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Wild West Cattle Drive bunkhouse, houses up to 16 settlers across 4 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwbunkhouse.png?nolink|Bunkhouse}}</wrap> **Bunkhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwcattle.png?nolink|Wild West Cattle Drive}}</wrap> **Wild West Cattle Drive** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwwbunkhouse.png?nolink|Bunkhouse}}</wrap> **Bunkhouse**
+
+----
+
+{{tag>Building Houses KidWWCattle KID}}

@@ -1,0 +1,62 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Water ======
+----
+
+<WRAP right>
+^  Water                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Edible  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  12/16  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/water.png?nolink|Water}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Water is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Water Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:wells:dscelticwaterwell|Celtic Water Well]]
+  * Produced at the [[buildings:wells:dsjabjettywaterstore|Jetty Water Store]]
+  * Produced at the [[buildings:wells:dsjabjettywaterstoretex2|Jetty Water Store (Tex2)]]
+  * Produced at the [[buildings:wells:dssvwaterpump|Village Water Pump]]
+  * Produced at the [[buildings:wells:ebirrigationendwelln|Water Reservoir]]
+  * Produced at the [[buildings:wells:ebsvwaterwell|Village Water Well]]
+  * Produced at the [[buildings:wells:ebwaterwell|Water Well (EB)]]
+  * Produced at the [[buildings:wells:mfwaterbarrel|Water Barrel (Mexican Fantasy)]]
+  * Produced at the [[buildings:wells:mfwaterpump|Water Pump (Mexican Fantasy)]]
+  * [[buildings:water:nmt30watertower|Water Tower (NMT30)]]
+  * [[buildings:water:newmedievalwatertower|Medieval Water Tower (New Medieval)]]
+  * Produced at the [[buildings:wells:whwaterbarrel|Water Barrel]]
+  * Produced at the [[buildings:wells:watertower|Water Tower]]
+  * Produced at the [[buildings:wells:windmillpump|Windmill Pump]]
+  * Produced at the [[buildings:wells:cc17watertank|City Water Tank]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:food:dsjabjettyglasshouse|Jetty Glass House]]
+  * Used at the [[buildings:food:dsjabjettyglasshousetex2|Jetty Glass House (Tex2)]]
+  * Used at the [[buildings:bakery:dssvbakery|Village Bakery]]
+  * Used at the [[buildings:food:dssvgruelkitchen|Village Gruel Kitchen]]
+  * Used at the [[buildings:brewery:dssvtownmeadbrewer|Village Mead Brewer]]
+  * Used at the [[buildings:food:dssvvillagekitchen|Village Kitchen]] (for Mushroom Soup, Hardtack)
+  * Used at the [[buildings:brewery:dsstonebridgetavern|Stone Bridge Tavern]] (for Mead)
+  * Used at the [[buildings:herbalist:ebapothecary|Apothecary (EB)]] (for Herbal Tea)
+  * Used at the [[buildings:clothing:ebsvtannery|Village Tannery]] (for Cured Leather)
+  * Used at the [[buildings:clothing:ebtannery|Tannery (EB)]] (for Cured Leather)
+  * Used at the [[buildings:food:whchuck|Chuck Wagon]] (for Stew)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible}}

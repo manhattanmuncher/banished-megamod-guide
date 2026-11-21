@@ -1,0 +1,82 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Station: Food Export ======
+----
+
+<WRAP right>
+^  Station: Food Export                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant1.png?nolink|Station: Food Export}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/merchant.png?nolink|Merchant}}</wrap> Merchant  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Station: Food Export is a Choo Choo mod building that functions as a food export depot. A Merchant packages bulk food goods with a single unit of Wood and sells the bundle for Coins.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant1.png?nolink|Station: Food Export}}</wrap> **Station: Food Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktransport.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/choochoo.png?nolink|Choo Choo}}</wrap> **Choo Choo** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/gare.png?nolink|Train Station}}</wrap> **Train Station** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant1.png?nolink|Station: Food Export}}</wrap> **Station: Food Export**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/garemerchant1.png?nolink|Station: Food Export}}</wrap> **Station: Food Export**
+
+----
+
+===== Recipes (Goods + 1 Wood → Coins) =====
+
+^ Amount  ^ Food Item  ^
+| 600  | [[WikiPages:food:apple|Apple]]  |
+| 600  | [[WikiPages:food:blueberries|Blueberry]]  |
+| 600  | [[WikiPages:food:cherry|Cherry]]  |
+| 600  | [[WikiPages:food:peach|Peach]]  |
+| 600  | [[WikiPages:food:pear|Pear]]  |
+| 600  | [[WikiPages:food:plum|Plum]]  |
+| 600  | [[WikiPages:food:chestnut|Chestnut]]  |
+| 600  | [[WikiPages:food:pecan|Pecan]]  |
+| 600  | [[WikiPages:food:walnut|Walnut]]  |
+| 600  | [[WikiPages:food:bean|Bean]]  |
+| 600  | [[WikiPages:food:cabbage|Cabbage]]  |
+| 600  | [[WikiPages:food:pepper|Pepper]]  |
+| 600  | [[WikiPages:food:potato|Potato]]  |
+| 600  | [[WikiPages:food:pumpkin|Pumpkin]]  |
+| 600  | [[WikiPages:food:squash|Squash]]  |
+| 600  | [[WikiPages:food:corn|Corn]]  |
+| 600  | [[WikiPages:food:wheat|Wheat]]  |
+| 600  | [[WikiPages:food:barley|Barley]]  |
+| 600  | [[WikiPages:food:mushroom|Mushroom]]  |
+| 600  | [[WikiPages:food:onion|Onion]]  |
+| 600  | [[WikiPages:food:root|Root]]  |
+| 600  | [[WikiPages:food:fish|Fish]]  |
+| 600  | [[WikiPages:food:honey|Honey]]  |
+| 600  | [[WikiPages:food:milk|Milk]]  |
+| 300  | [[WikiPages:food:egg|Egg]]  |
+| 300  | [[WikiPages:grain:flour|Flour]]  |
+| 200  | [[WikiPages:food:beef_beef|Beef]]  |
+| 200  | [[WikiPages:food:chicken|Chicken]]  |
+| 200  | [[WikiPages:food:mutton|Mutton]]  |
+| 200  | [[WikiPages:food:venison|Venison]]  |
+| 150  | [[WikiPages:food:bread_bread|Bread]]  |
+| 150  | [[WikiPages:food:cream|Cream]]  |
+| 100  | [[WikiPages:food:butter|Butter]]  |
+| 100  | [[WikiPages:food:cheese|Cheese]]  |
+
+Many NM mod processed foods (cured meats, dried goods, game meats, baked goods) are also exportable.
+
+----
+
+===== Other Information =====
+
+This building originally came from **ChooChoo v2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=181|WoB]]
+
+{{tag>Building ChooChoo}}

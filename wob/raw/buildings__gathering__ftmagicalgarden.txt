@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Magical Garden (Fairy Tale Cottage) ======
+----
+
+<WRAP right>
+^  Magical Garden                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmagicalgarden.png?nolink|Magical Garden}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmagician.png?nolink|Magician}}</wrap> Magician  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  24.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  800  |
+|  <abbr "Happiness effect radius">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+|  [[WikiPages:custom7:crystal|Magic Crystal]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Tale Cottage magical garden. A magician uses Magic Crystals to conjure food items from the surrounding forest. The player selects the desired resource.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmagicalgarden.png?nolink|Magical Garden}}</wrap> **Magical Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairytale.png?nolink|Fairy Tale}}</wrap> **Fairy Tale** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftproduction.png?nolink|Production}}</wrap> **Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmagicalgarden.png?nolink|Magical Garden}}</wrap> **Magical Garden**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Gathering and Growing}}</wrap> **Food Gathering and Growing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargathering.png?nolink|Gathering}}</wrap> **Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildftmagicalgarden.png?nolink|Magical Garden}}</wrap> **Magical Garden**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                        ^
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:oats_oat|Oat]]                 |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:apple|Apple]]                  |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:pecan|Pecan]]                  |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:walnut|Walnut]]                |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:blueberries|Blueberry]]        |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:plum|Plum]]                    |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:root|Root]]                    |
+| 1 [[WikiPages:custom7:crystal|Magic Crystal]]                      | [[WikiPages:food:mushroom|Mushroom]]            |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Tale v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=536|WoB]]
+
+{{tag>Building Food KidFairyTaleCottage}}

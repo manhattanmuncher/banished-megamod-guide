@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Raspberries ======
+----
+
+<WRAP right>
+^  Raspberries                                    ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Fruit  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/raspberry.png?nolink|Raspberries}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Raspberries are a fruit harvested from orchards or gathered in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. Their trade value is low at 1, but they play an important role in the colony's production chains.
+
+----
+
+===== Raspberries Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:rkgardenwalls2greenhouse|Garden Walls Greenhouse]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:ectavern|Tavern (EC)]] (for Wine)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Fruit}}

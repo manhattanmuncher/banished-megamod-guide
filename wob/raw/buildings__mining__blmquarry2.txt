@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Ore & Coal Mine ======
+----
+
+<WRAP right>
+^  Iron Ore & Coal Mine                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblmquarry2.png?nolink|Iron Ore & Coal Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  11 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default 3)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  8.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  525  |
+|  Upgrades To  |  [[buildings:mining:blmquarry2deep|Deep Iron Ore & Coal Mine]]  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:wood:log|Wood]]  |  65  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Surface Mine for mining Iron Ore & Coal. Upgraded versions allow the ground to be reclaimed on removal. Stonecutters work here, not miners.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmines.png?nolink|Mines/Quarries for Iron/Stone/Coal}}</wrap> **Mines/Quarries for Iron/Stone/Coal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblmquarry2.png?nolink|Iron Ore & Coal Mine}}</wrap> **Iron Ore & Coal Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroresandminerals.png?nolink|Ores and Minerals}}</wrap> **Ores and Minerals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblmquarry2.png?nolink|Iron Ore & Coal Mine}}</wrap> **Iron Ore & Coal Mine**
+
+----
+
+===== Produces =====
+
+The player selects which material to produce.
+
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:coal|Coal]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining BLMQuarry2}}

@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Notice Board ======
+----
+
+<WRAP right>
+^  Bitty Notice Board                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittytownhall.png?nolink|Bitty Notice Board}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  3  |
+|  [[WikiPages:stone:stone|Stone]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact town hall from Jinxie's Bitty Village Set. The 2×1 notice board records and shows colony census data, fulfilling the town-hall role in a tiny footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittytownhall.png?nolink|Bitty Notice Board}}</wrap> **Bitty Notice Board**
+
+----
+
+===== Other Information =====
+
+{{tag>Building TownHall JinxieBittyVillageSet}}

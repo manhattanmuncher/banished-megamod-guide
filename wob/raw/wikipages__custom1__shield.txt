@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Shield ======
+----
+
+<WRAP right>
+^  Shield                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom1  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/5  |
+|  Edible  |  No  |
+|  Trade Value  |  15  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  8  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/rkarmor4.png?nolink|Shield}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Shield is a forged item crafted from metal in the Banished MegaMod. It is produced at a forge or smithy and stored in a Barn, serving purposes in trade, construction, or equipping citizens. It carries a trade value of 15, making it a worthwhile commodity for trade.
+
+----
+
+===== Shield Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:metalworking:nmt30armormaker|Armor Maker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom1}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Atlas Mountain Storage ======
+----
+
+<WRAP right>
+^  Atlas Mountain Storage                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatlasmountainstorage.png?nolink|Atlas Mountain Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 Moroccan mountain storage barn. Settlers store food, tools, clothing, and textile goods with a capacity of 4,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatlasmountainstorage.png?nolink|Atlas Mountain Storage}}</wrap> **Atlas Mountain Storage**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8storage.png?nolink|A8 storage}}</wrap> **A8 storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatlasmountainstorage.png?nolink|Atlas Mountain Storage}}</wrap> **Atlas Mountain Storage**
+
+----
+
+This building originally came from **Moroccan Miscellaneous v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=546|WoB]], [[https://www.nexusmods.com/banished/mods/108|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1913001365|Steam]]
+
+{{tag>Building StorageBarns A8MoroccanMisc}}

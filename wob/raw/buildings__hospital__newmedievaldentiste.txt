@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Dentist (Upgrade E) ======
+----
+
+<WRAP right>
+^  Medieval Dentist                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaldentiste.png?nolink|Medieval Dentist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 30)  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  90  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+|  [[WikiPages:custom5:brick|Brick]]  |  32  |
+|  [[WikiPages:custom5:roof_tile|Rooftile]]  |  18  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town dentist staffed by a Doctor, providing Health happiness to nearby residents within a radius of 30 tiles and treating up to 90 patients.
+
+----
+
+===== Where to Find =====
+
+The Medieval Dentist (Upgrade E) is not built directly from the toolbar. It is created by upgrading an existing [[buildings:hospital:newmedievaldentist|Medieval Dentist]].
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Hospital RKEditorChoice}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Luxuries Cellar ======
+----
+
+<WRAP right>
+^  Luxuries Cellar                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcellaralcoholshort.png?nolink|Luxuries Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+|  Storage Categories  |  Alcohol  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter compact cellar for alcohol and luxury goods. Designed to sit flush against a building wall, storing up to 500 units. Use F to cycle appearance.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cccellars.png?nolink|Storage Cellars}}</wrap> **Storage Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcellaralcoholshort.png?nolink|Luxuries Cellar}}</wrap> **Luxuries Cellar**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcellars.png?nolink|Storage Cellars}}</wrap> **Storage Cellars** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcellaralcoholshort.png?nolink|Luxuries Cellar}}</wrap> **Luxuries Cellar**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Storage ColonialCharter}}

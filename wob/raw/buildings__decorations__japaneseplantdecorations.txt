@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Japanese Plant Decorations ======
+----
+
+<WRAP right>
+^  Japanese Plant Decorations                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildjapanesemapledeco.png?nolink|Japanese Plant Decorations}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  0 × 0 (overlapping placement)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of decorative Japanese trees, shrubs, and plants from the A8 Japanese mod. Each has no footprint, so it can be placed freely and overlapping other objects to landscape Japanese-style settlements.
+
+----
+
+===== Variants =====
+
+^ Plant ^ ^ Plant ^
+| Andromeda | | Hinoki |
+| Bay Tree | | Japanese Maple |
+| Black Pine | | Flowering Plum |
+| Camellia | | Deco Liquorice Root |
+| Gardenia | | Mulberry Tree |
+| Deco Bamboo | | Deco Sakura |
+| Deco Reeds | |  |
+
+All variants are free and have no footprint.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** → select plant
+
+----
+
+===== Other Information =====
+
+{{tag>Building Decorations A8}}

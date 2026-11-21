@@ -1,0 +1,24 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Resource Buildings ======
+----
+
+Buildings that gather and process raw natural resources.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:resources:abandonedcleaning|Abandoned Cleaning]] | Abandoned Places building; clears a small plot, yielding branches and plant debris |
+| [[buildings:resources:abandonedplaces|Abandoned Place]] | Abandoned Places building; salvages logs, stone, and iron from a ruined structure |
+| [[buildings:resources:abandonedruin|Abandoned Ruin]] | Abandoned Places building; scavenges logs, stone, and iron ore from a small collapsed ruin |
+| [[buildings:resources:apcartbranch|Branch Cart]] | Abandoned Places building; requires only labor to restore; produces Branches as fuel |
+| [[buildings:resources:fbcleaningshed|Cleaning Shed]] | Friendly Blue building; processes waste from fields and pastures into Plant Debris or Fertilizer |
+| [[buildings:resources:aspcorncrib|Corn Crib]] | Animal Shed Plus building; processes raw corn for use as food or animal feed |
+| [[buildings:resources:loggingbarge|Logging Barge]] | MegaMod logging barge; Sailor harvests timber from water, converting Silver Pfennigs into Wood or Hardwood |
+| [[buildings:resources:fhpottingshed|Potting Shed (Forest Haven)]] | Forest Haven potting shed; produces Seedlings for planting |
+| [[buildings:resources:asppatch|Thatch Patch]] | Animal Shed Plus building; grows fodder-thatch in a small patch for use as animal feed |
+| [[buildings:resources:fbwoodcutter|Wood Cutter]] | Friendly Blue building; converts Logs into Firewood |
+
+----
+
+{{tag>Buildings Resources}}

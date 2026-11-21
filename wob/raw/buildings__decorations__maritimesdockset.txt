@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Maritimes Dock Set ======
+----
+
+<WRAP right>
+^  Maritimes Dock Set                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesdock1x1.png?nolink|Maritimes Dock Set}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1 (section)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  5  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes walkable dock/jetty pieces for building piers over water. Combine the 1×1, 1×2, and 1×3 sections, corners, T-pieces, and stairs, in both standard and lower (middle) heights. Includes a decorative Lobster Pot.
+
+----
+
+===== Variants =====
+
+^ Piece ^ Size ^
+| Dock (1×1 / 1×2 / 1×3) | up to 1×3 |
+| Dock Corners / T-piece | 1×1 |
+| Dock Stairs | 1×1 |
+| Middle (lower) dock sections, corners, T, stairs | 1×1 |
+| Lobster Pot (decoration) | free |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesdock1x1.png?nolink|Maritimes Dock}}</wrap> **Maritimes Dock** → select piece
+
+----
+
+{{tag>Building Decorations Maritimes}}

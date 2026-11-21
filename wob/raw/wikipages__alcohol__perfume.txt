@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Perfume ======
+----
+
+<WRAP right>
+^  Perfume                                        ^  xRK  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |  Alcohol  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  8/12  |  8/12  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  8  |  8  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/perfume.png?nolink|Perfume}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Perfume is an alcoholic beverage produced in the Banished MegaMod. Citizens enjoy it at the Tavern, where it boosts happiness and morale across the settlement. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Perfume Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:luxuries:rkgardenwallsperfumery|Perfumery (Garden Walls)]]
+  * Produced at the [[buildings:luxuries:rkgardenwallsperfumeryold|Perfumery (Garden Walls, Old)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Alcohol}}

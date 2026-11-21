@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== CS Chapel ======
+----
+
+<WRAP right>
+^  CS Chapel                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcschapel.png?nolink|CS Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 35)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  44  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial-themed chapel staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 35 tiles and accommodating up to 44 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialhousing.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcschapel.png?nolink|CS Chapel}}</wrap> **CS Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcolonialhousing.png?nolink|Colonial Houses}}</wrap> **Colonial Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcschapel.png?nolink|CS Chapel}}</wrap> **CS Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcschapel.png?nolink|CS Chapel}}</wrap> **CS Chapel**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Modular: Housing v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=220|WoB]]
+
+{{tag>Building Worship KID}}

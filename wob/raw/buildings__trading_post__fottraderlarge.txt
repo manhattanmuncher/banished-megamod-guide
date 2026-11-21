@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Trader ======
+----
+
+<WRAP right>
+^  Large Trader                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfottraderlarge.png?nolink|Large Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–6 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  15,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  72  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Trader large trading post. Traders work here and merchants arrive by river boat offering food, goods, and general wares. All merchants accept only textiles (furs) as payment.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesttrader.png?nolink|Forest Trader}}</wrap> **Forest Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfottraderlarge.png?nolink|Large Trader}}</wrap> **Large Trader**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesttrader.png?nolink|Forest Trader}}</wrap> **Forest Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfottraderlarge.png?nolink|Large Trader}}</wrap> **Large Trader**
+
+----
+
+===== Merchant =====
+
+Three merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, tools, textiles, clothing, alcohol, minerals, crafted goods, forged goods, fabric, industrial fuel, raw materials, building supplies, precious goods, and miscellaneous items |
+| General Merchant | Wood, stone, iron, fuel, tools, health items, food, textiles, clothing, alcohol, and minerals |
+
+All merchants accept only textiles as payment.
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfottraderlarge.png?nolink|Large Trader}}</wrap> **Large Trader**
+
+----
+
+This building originally came from **Forest Trader v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=580|WoB]]
+
+{{tag>Building TradingPost ForestTrader}}

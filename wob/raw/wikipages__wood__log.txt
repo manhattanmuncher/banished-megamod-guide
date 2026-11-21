@@ -1,0 +1,68 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Log ======
+----
+
+<WRAP right>
+^  Log                                            ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Wood  |  Wood  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |  3/4  |
+|  Edible  |  No  |  No  |
+|  Trade Value  |  2  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  11  |  10  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/log.png?nolink|Log}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Log is a wood-based resource harvested by foresters or woodcutters in Banished. It is stockpiled and used as a basic building and crafting material throughout the colony. Its trade value is low at 2, but it plays an important role in the colony's production chains.
+
+----
+
+===== Log Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:forester:atforester|AT Forester]]
+  * Produced at the [[buildings:resources:loggingbarge|Logging Barge]]
+  * Produced at the [[buildings:resources:abandonedplaces|Abandoned Place]]
+  * Produced at the [[buildings:resources:abandonedruin|Abandoned Ruin]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollector|Drift Wood Collector]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollectort2|Drift Wood Collector (Tex2)]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollectorslct|Drift Wood Searcher]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodcollectorslctt2|Drift Wood Searcher (Tex2)]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodup|Drift Wood Collector (UP)]]
+  * Produced at the [[buildings:gathering:dsjabjettydriftwoodupt2|Drift Wood Collector (UP, Tex2)]]
+  * Produced at the [[buildings:gathering:driftwoodscavenger|Driftwood Scavenger]]
+  * Produced at the [[buildings:mining:otpshipwreck|Shipwreck (Old Town Ports)]]
+  * Produced at the [[buildings:trading_post:tradercartwood|Trader Cart (Wood)]] (random)
+  * Produced at the [[buildings:trading_post:trainmaterialcar|Train Material Car]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:metalworking:blacksmith|Blacksmith]]
+  * Used at the [[buildings:fuel:dsjabjettyfirewood2x2|Jetty Firewood Splitter]]
+  * Used at the [[buildings:fuel:dsjabjettyfirewood2x2tex2|Jetty Firewood Splitter (Tex2)]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshop|Jetty Workshop]]
+  * Used at the [[buildings:crafting:dsjabjettyworkshoptex2|Jetty Workshop (Tex2)]]
+  * Used at the [[buildings:crafting:dslumbermill|Lumber Mill]]
+  * Used at the [[buildings:fuel:dssvfirewoodsplitter|Village Firewood Yard]]
+  * Used at the [[buildings:crafting:dssvworkshop0small|Small Workshop]]
+  * Used at the [[buildings:crafting:dssvworkshop1|Village Workshop]]
+  * Used at the [[buildings:crafting:dsstonebridgeworkshop|Stone Bridge Workshop]]
+  * Used at the [[buildings:crafting:dswagonvendorworkshop|Wagon Workshop]]
+  * Used at the [[buildings:fuel:tinychopper|Tiny Chopper]]
+  * Used at the [[buildings:crafting:tinylumberer|Tiny Lumberer]]
+  * Used at the [[buildings:crafting:tinyworkshop|Tiny Workshop]]
+  * Used at the [[buildings:milling:windsawmill|Wind Saw Mill]] (for Lumber)
+  * Used at the [[buildings:crafting:cc17lumberyard|City Lumber Yard]] (for Lumber, Firewood)
+  * Used at the [[buildings:mining:coalfurnace|Coal Furnace]] (for Coal)
+  * Exported at the [[buildings:trading_post:garemerchant4|Station: Material Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Wood Vanilla}}

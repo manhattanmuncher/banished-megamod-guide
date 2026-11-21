@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== AT Gatherer ======
+----
+
+<WRAP right>
+^  AT Gatherer                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatgatherer.png?nolink|AT Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Among Trees gatherer. A Gatherer collects wild food from the forest within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildat.png?nolink|Among Trees}}</wrap> **Among Trees** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatgatherer.png?nolink|AT Gatherer}}</wrap> **AT Gatherer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildat.png?nolink|Among Trees}}</wrap> **Among Trees** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatgatherer.png?nolink|AT Gatherer}}</wrap> **AT Gatherer**
+
+----
+
+===== Produces =====
+
+  * Various wild food (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+{{tag>Building Gathering AmongTrees}}

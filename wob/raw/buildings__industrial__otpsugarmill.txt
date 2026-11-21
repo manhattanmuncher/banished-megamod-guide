@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sugar Mill (Old Town Ports) ======
+----
+
+<WRAP right>
+^  Sugar Mill                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpsugarmill.png?nolink|Sugar Mill (Old Town Ports)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/refiner.png?nolink|Refiner}}</wrap> Refiner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  24.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Town Ports sugar mill where a refiner processes raw sugar cane into refined sugar.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpsugarmill.png?nolink|Sugar Mill}}</wrap> **Sugar Mill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildoldtownports.png?nolink|Old Town Ports}}</wrap> **Old Town Ports** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpsugarmill.png?nolink|OTP Sugar Mill}}</wrap> **OTP Sugar Mill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmilling.png?nolink|Milling}}</wrap> **Milling** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildotpsugarmill.png?nolink|Sugar Mill (Old Town Ports)}}</wrap> **Sugar Mill (Old Town Ports)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                   ^ Produces                                              ^
+| 12 [[WikiPages:vegetable:sugar_cane_sugar|Sugar Cane]]                        | [[WikiPages:vegetable:sugar_refined|Sugar (Refined)]] |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Old Town Ports & Pirates v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=493|WoB]]
+
+{{tag>Building Industrial OldTownPorts}}

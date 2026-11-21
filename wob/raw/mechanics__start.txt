@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Game Mechanics ======
+----
+
+Core systems that govern how citizens behave, how work gets done, and how resources are managed.
+
+----
+
+<WRAP third column navtile>
+**[[mechanics:citizens:start|👤 Citizens]]**\\
+Needs, happiness, health, warmth, education, diet
+</WRAP>
+<WRAP third column navtile>
+**[[mechanics:priority:start|⬆️ Priority]]**\\
+Work ordering and the priority tool
+</WRAP>
+<WRAP third column navtile>
+**[[mechanics:pathing:start|🛤️ Pathfinding]]**\\
+How workers travel and why short paths matter
+</WRAP>
+<WRAP clear></WRAP>
+
+<WRAP third column navtile>
+**[[mechanics:limits:start|📊 Resource Limits]]**\\
+Capping production to prevent storage overflow
+</WRAP>
+<WRAP clear></WRAP>
+
+----
+
+{{tag>Mechanics}}

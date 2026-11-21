@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Fuel Refinery ======
+----
+
+<WRAP right>
+^  Fuel Refinery                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildindustrysmall2.png?nolink|Small Fuel Refinery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fuelrefiner.png?nolink|Fuel Refiner}}</wrap> Fuel Refiner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  9.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  9  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1800  |
+|  Happiness  |  Detraction (radius 15)  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Small Fuel Refinery is a Colonial Charter building where a fuel refiner converts combustible materials into Furnace Fuel. Only 1 worker can work here; it is slightly less efficient than the larger Fuel Refinery, and creates a detraction for nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarindustrial.png?nolink|Industrial Fuel Production}}</wrap> **Industrial Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildindustrysmall2.png?nolink|Small Fuel Refinery}}</wrap> **Small Fuel Refinery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarindustrial.png?nolink|Industrial Fuel Production}}</wrap> **Industrial Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildindustrysmall2.png?nolink|Small Fuel Refinery}}</wrap> **Small Fuel Refinery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildindustrysmall2.png?nolink|Small Fuel Refinery}}</wrap> **Small Fuel Refinery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                          ^ Produces                                              ^
+| 25 [[WikiPages:fuel:firewood|Firewood]]                              | [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]       |
+| 25 [[WikiPages:fuel:fire_bundle|Fire Bundle]]                        | [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]       |
+| 25 [[WikiPages:fuel:charcoal|Charcoal]]                              | [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]       |
+| 20 [[WikiPages:fuel:coke|Coke]]                                      | [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]       |
+| 10 [[WikiPages:coalfuel:coal|Coal]]                                  | [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Industrial ColonialCharter}}

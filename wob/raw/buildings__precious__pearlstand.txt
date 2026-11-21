@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pearl Stand ======
+----
+
+<WRAP right>
+^  Pearl Stand                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpearlstand.png?nolink|Pearl Stand}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dredger.png?nolink|Dredger}}</wrap> Dredger  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  2  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Pearl Stand where a dredger processes oysters to occasionally find a rare pearl. Most cycles return oysters; one in twenty-eight yields a pearl.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarprecious.png?nolink|Precious Items Production}}</wrap> **Precious Items Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpearlstand.png?nolink|Pearl Stand}}</wrap> **Pearl Stand**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/preciousitems.png?nolink|Precious Items Production}}</wrap> **Precious Items Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpearlstand.png?nolink|Pearl Stand}}</wrap> **Pearl Stand**
+
+----
+
+===== Produces =====
+
+Each work cycle consumes 10 [[WikiPages:food:oyster|Oyster]]. Production is random:
+  * [[WikiPages:food:oyster|Oyster]] (27 out of 28 cycles)
+  * [[WikiPages:custom6:pearl|Pearl]] (1 out of 28 cycles)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Precious ColonialCharter}}

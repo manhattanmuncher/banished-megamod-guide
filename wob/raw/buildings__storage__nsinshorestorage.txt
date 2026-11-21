@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NS Inshore Storage ======
+----
+
+<WRAP right>
+^  NS Inshore Storage                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshorestorage.png?nolink|NS Inshore Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  9,000  |
+|  Storage Categories  |  Food, Grain, Fruit, Vegetable, Protein, Tools, Health, Clothing, Textile  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  60  |
+|  [[WikiPages:custom0:rope|Rope]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes inshore storage building. Settlers store food, grain, fruit, vegetables, protein, tools, health items, clothing, and textiles with a capacity of 9,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshorestorage.png?nolink|NS Inshore Storage}}</wrap> **NS Inshore Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratooldocks.png?nolink|Necora's Maritimes Docks}}</wrap> **Necora's Maritimes Docks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratooldockstorage.png?nolink|Necora's Maritimes Dock Storage}}</wrap> **Necora's Maritimes Dock Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnsinshorestorage.png?nolink|NS Inshore Storage}}</wrap> **NS Inshore Storage**
+
+----
+
+This building originally came from **Maritimes NS Inshore Fisheries v103**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=223|WoB]]
+
+{{tag>Building Storage Maritimes}}

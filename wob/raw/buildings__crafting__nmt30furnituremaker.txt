@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Furniture Maker ======
+----
+
+<WRAP right>
+^  Furniture Maker                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30furnituremaker.png?nolink|Furniture Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/carpenter.png?nolink|Carpenter}}</wrap> Carpenter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  20  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  52  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+|  [[WikiPages:iron:iron|Iron]]  |  24  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Furniture Maker crafts furniture from wood, lumber, and metals.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30furnituremaker.png?nolink|Furniture Maker}}</wrap> **Furniture Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30furnituremaker.png?nolink|Furniture Maker}}</wrap> **Furniture Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                       ^ Produces                                                  ^
+| 4 [[WikiPages:wood:log|Wood]] + 6 [[WikiPages:custom5:lumber|Lumber]] + 2 [[WikiPages:iron:iron|Iron]]                                           | [[WikiPages:custom0:basic_furniture|Basic Furniture]]     |
+| 3 [[WikiPages:wood:log|Wood]] + 8 [[WikiPages:custom5:lumber|Lumber]] + 2 [[WikiPages:custom1:copper|Copper]]                                    | [[WikiPages:custom0:fine_furniture|Fine Furniture]]       |
+| 3 [[WikiPages:wood:log|Wood]] + 8 [[WikiPages:custom5:lumber|Lumber]] + 2 Silver Bar                                                             | [[WikiPages:custom0:silvered_furniture|Silvered Furniture]] |
+| 3 [[WikiPages:wood:log|Wood]] + 8 [[WikiPages:custom5:lumber|Lumber]] + 2 Gold Bar                                                               | [[WikiPages:custom0:gilded_furniture|Gilded Furniture]]   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Crafting}}

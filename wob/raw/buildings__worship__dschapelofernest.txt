@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== DS Chapel of Ernest ======
+----
+
+<WRAP right>
+^  DS Chapel of Ernest                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddschapelofernest.png?nolink|DS Chapel of Ernest}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 55)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  201  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  155  |
+|  [[WikiPages:wood:log|Wood]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  134  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A unique DS chapel staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 55 tiles and accommodating up to 201 attendees. Only one DS Chapel of Ernest may be built per settlement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddschapelofernest.png?nolink|DS Chapel of Ernest}}</wrap> **DS Chapel of Ernest**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsservices.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddschapelofernest.png?nolink|DS Chapel of Ernest}}</wrap> **DS Chapel of Ernest**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Worship DS}}

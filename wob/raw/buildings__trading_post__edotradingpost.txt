@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Edo Trading Post ======
+----
+
+<WRAP right>
+^  Edo Trading Post                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildedotradingpost.png?nolink|Edo Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  140  |
+|  [[WikiPages:wood:log|Wood]]  |  65  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+An A8 Japanese All-in-One river trading post from the Edo era. Traders work here and merchants arrive by river boat offering all resource categories.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildedotradingpost.png?nolink|Edo Trading Post}}</wrap> **Edo Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/a8toolbar.png?nolink|A8 Toolbar}}</wrap> **A8 Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/a8markets.png?nolink|A8 markets}}</wrap> **A8 markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildedotradingpost.png?nolink|Edo Trading Post}}</wrap> **Edo Trading Post**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All edible food items |
+| Goods Merchant | Wood, stone, iron, fuel, tools, textiles, clothing, and alcohol |
+| General Merchant | Wood, stone, iron, fuel, tools, health items, food, textiles, clothing, and alcohol |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+{{tag>Building TradingPost A8JapaneseAllInOne}}

@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Forestry Tower ======
+----
+
+<WRAP right>
+^  Pine Forestry Tower                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineforestermaterials.png?nolink|Pine Forestry Tower}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  27  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  25  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes pine forestry tower. Foresters plant, care for, and harvest wood from fir, spruce, and white pine trees within a 27-tile radius. Planted trees spawn resources harvestable by the [[buildings:gathering:pineforager|Maple Forager's Cache]] and Pine Trapper.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmaritimes.png?nolink|The Maritimes}}</wrap> **The Maritimes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Maritimes Pine Set}}</wrap> **Maritimes Pine Set** → **Pine Forest Lots** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpineforestermaterials.png?nolink|Pine Forestry Tower}}</wrap> **Pine Forestry Tower**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== Other Information =====
+
+  * Planted trees spawn resources harvestable by the [[buildings:gathering:pineforager|Maple Forager's Cache]] and Pine Trapper.
+
+----
+
+{{tag>Building Forester}}

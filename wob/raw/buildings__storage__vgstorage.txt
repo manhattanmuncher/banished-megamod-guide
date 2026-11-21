@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Garden Storage ======
+----
+
+<WRAP right>
+^  Garden Storage                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvgstorage.png?nolink|Garden Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2×2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1,200  |
+|  Storage Categories  |  Food, Vegetable  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×22  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Vegetable Garden mod storage building dedicated to food and vegetables. Settlers store food and vegetable goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvgstorage.png?nolink|Garden Storage}}</wrap> **Garden Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildvgstorage.png?nolink|Garden Storage}}</wrap> **Garden Storage**
+
+----
+
+{{tag>Building Storage KID}}

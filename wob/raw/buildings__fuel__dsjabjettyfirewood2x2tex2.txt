@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Firewood Splitter (Tex2) ======
+----
+
+<WRAP right>
+^  Jetty Firewood Splitter (Tex2)                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfirewood2x2.png?nolink|Jetty Firewood Splitter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  3  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  300  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  13  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+Jetty Firewood Splitter (Tex2) is the Texture #2 visual variant of the [[buildings:fuel:dsjabjettyfirewood2x2|Jetty Firewood Splitter]]. Stats and recipe are identical; only the mesh differs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyprodresmenu.png?nolink|Jetty Resource Production}}</wrap> **Jetty Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfirewood2x2.png?nolink|Jetty Firewood Splitter}}</wrap> **Jetty Firewood Splitter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyprodresmenu.png?nolink|Jetty Resource Production}}</wrap> **Jetty Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfirewood2x2.png?nolink|Jetty Firewood Splitter}}</wrap> **Jetty Firewood Splitter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettyfirewood2x2.png?nolink|Jetty Firewood Splitter (Tex2)}}</wrap> **Jetty Firewood Splitter (Tex2)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                              ^
+| 1 [[WikiPages:wood:log|Wood]]                                      | [[WikiPages:fuel:firewood|Firewood]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Fuel DS}}

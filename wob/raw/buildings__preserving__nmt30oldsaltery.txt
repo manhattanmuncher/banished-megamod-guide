@@ -1,0 +1,57 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Saltery ======
+----
+
+<WRAP right>
+^  Old Saltery                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30oldsaltery.png?nolink|Old Saltery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/baker.png?nolink|Baker}}</wrap> Baker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Saltery preserves meat, fish, and poultry using salt.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30oldsaltery.png?nolink|Old Saltery}}</wrap> **Old Saltery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30oldsaltery.png?nolink|Old Saltery}}</wrap> **Old Saltery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                     ^ Produces                                              ^
+| 12 [[WikiPages:food:beef_beef|Beef]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                       | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:mutton|Mutton]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                        | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:venison|Venison]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                      | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:goat_meat|Goat Meat]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                  | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:bear|Bear]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                            | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:bison_meat|Bison Meat]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:boar|Boar]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                            | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:pork|Pork]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                            | [[WikiPages:food:salted_meat|Salted Meat]]             |
+| 12 [[WikiPages:food:fish|Fish]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                            | [[WikiPages:food:salted_fish|Salted Fish]]             |
+| 12 [[WikiPages:food:chicken|Chicken]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                      | [[WikiPages:food:salted_poultry|Salted Poultry]]       |
+| 12 [[WikiPages:food:duck_meat|Duck Meat]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                  | [[WikiPages:food:salted_poultry|Salted Poultry]]       |
+| 12 [[WikiPages:food:goose|Goose]] + 3 [[WikiPages:coalfuel:salt|Salt]]                                          | [[WikiPages:food:salted_poultry|Salted Poultry]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Preserving}}

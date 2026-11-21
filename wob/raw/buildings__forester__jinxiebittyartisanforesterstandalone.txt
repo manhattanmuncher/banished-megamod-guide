@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Forester + ======
+----
+
+<WRAP right>
+^  Bitty Forester +                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyartisanforester.png?nolink|Bitty Forester +}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  5  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  15  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie's Mods compact forester building. A single Forester plants and harvests Jinxie trees within a small 5-tile radius, producing Logs.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyartisanforester.png?nolink|Bitty Forester +}}</wrap> **Bitty Forester +**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxieresources.png?nolink|Jinxie's Resource Production}}</wrap> **Jinxie's Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittyartisanforester.png?nolink|Bitty Forester +}}</wrap> **Bitty Forester +**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+===== See Also =====
+
+  * [[buildings:forester:jinxiebittyforesterlodge|Bitty Forester]]
+
+----
+
+{{tag>Building Forester Jinxie}}

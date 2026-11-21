@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Thompson Trading Post ======
+----
+
+<WRAP right>
+^  Thompson Trading Post                                                              ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthompsontrademerchant.png?nolink|Thompson Trading Post}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–13 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  40,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  144  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  21  |
+|  [[WikiPages:custom5:glass|Glass]]  |  5  |
+|  [[WikiPages:custom0:wagon_parts|Wagon Parts]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Thompson food trading post. Traders work here and food merchants arrive by river boat offering grain, vegetables, and fruit. All merchants exclusively offer food crops.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dstrade.png?nolink|Trading}}</wrap> **Trading** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthompsontrademerchant.png?nolink|Thompson Trading Post}}</wrap> **Thompson Trading Post**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsthompsontrademerchant.png?nolink|Thompson Trading Post}}</wrap> **Thompson Trading Post**
+
+----
+
+===== Merchant =====
+
+Seven food merchant types may visit by river boat, all specializing in grain, vegetables, and fruit:
+
+^ Merchant ^ Offers ^
+| Thompson Grain Trader | Grain |
+| Fresh Vegetable Trader | Vegetables |
+| merchant from Fruits Of All Seasons | Fruit |
+| Grains, Fruits and Veg merchant | Grain, fruit, and vegetables |
+| merchant of Brent's Veggies | Vegetables |
+| Dry Grains merchant | Grain |
+| Thompson Fresh Trader | Grain, fruit, and vegetables |
+
+All merchants accept any settlement goods as payment.
+
+----
+
+This building originally came from **Thompson Trade Merchants v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=421|WoB]], [[https://www.nexusmods.com/banished/mods/85|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1359120203|Steam]]
+
+{{tag>Building TradingPost DS}}

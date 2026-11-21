@@ -1,0 +1,68 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Blacksmith (Corner T2) ======
+----
+
+<WRAP right>
+^  Blacksmith                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerblacksmith.png?nolink|Blacksmith}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Blacksmith}}</wrap> Blacksmith  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Anvil  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  14  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:iron:iron|Iron]]  |  24  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Editor Choice corner blacksmith in the Old Stones style. Makes tools and other metal goods from a variety of materials.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Buildings Toolbar}}</wrap> **NMT Corner Buildings Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusinesst2.png?nolink|NMT Corner Old Stones Toolbar}}</wrap> **NMT Corner Old Stones Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerblacksmith.png?nolink|Blacksmith}}</wrap> **Blacksmith**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmetalworking.png?nolink|Tools and Forge}}</wrap> **Tools and Forge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerblacksmith.png?nolink|Corner Blacksmith}}</wrap> **Corner Blacksmith** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerblacksmith.png?nolink|Blacksmith}}</wrap> **Blacksmith**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                              ^ Produces                                                          ^
+| 2 [[WikiPages:wood:log|Wood]]                                                            | [[WikiPages:tool:wooden_tool|Wooden Tool]]                        |
+| 1 [[WikiPages:stone:stone|Stone]] + 1 [[WikiPages:wood:log|Wood]]                        | [[WikiPages:tool:stone_tool|Stone Tool]]                          |
+| 1 [[WikiPages:coalfuel:iron_ore|Iron Ore]] + 1 [[WikiPages:wood:log|Wood]]                   | [[WikiPages:tool:rough_tools|Crude Tool]]                          |
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                           | [[WikiPages:tool:tool|Iron Tool]]                                 |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:tool:steeltool|Steel Tool]]                          |
+| 3 [[WikiPages:fuel:charcoal|Charcoal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                    | [[WikiPages:tool:steeltool|Steel Tool]]                          |
+| 1 [[WikiPages:coalfuel:coal|Coal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:tool:hardened_tool|Hardened Tool]]                    |
+| 1 [[WikiPages:custom1:copper|Copper]] + 1 [[WikiPages:wood:log|Wood]]                    | [[WikiPages:tool:copper_tool|Copper Tool]]                        |
+| 1 [[WikiPages:custom1:copper|Copper]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                         | [[WikiPages:tool:copperalloy_tool|Copper Alloy Tool]]            |
+| 2 [[WikiPages:coalfuel:coal|Coal]] + 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:tool:hardened_steel_tool|Hardened Steel Tool]]        |
+| 1 [[WikiPages:custom1:bronze|Bronze]] + 1 [[WikiPages:wood:log|Wood]]                    | [[WikiPages:tool:bronze_tool|Bronze Tool]]                        |
+| 2 [[WikiPages:coalfuel:coal|Coal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                            | [[WikiPages:tool:carbon_steel_tool|Carbon Steel Tool]]            |
+| 5 [[WikiPages:fuel:charcoal|Charcoal]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]]                    | [[WikiPages:tool:carbon_steel_tool|Carbon Steel Tool]]            |
+| 1 [[WikiPages:custom6:gemstone_polished|Polished Gemstone]] + 1 [[WikiPages:wood:log|Wood]]                                    | [[WikiPages:tool:gemstone_tool|Gem Tool]]                              |
+| 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]              | [[WikiPages:custom1:musket|Musket]]                               |
+| 1 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:coalfuel:coal|Coal]]                      | [[WikiPages:custom1:iron_fittings|Iron Fittings]]                 |
+| 1 [[WikiPages:iron:iron|Iron]] + 2 [[WikiPages:fuel:firewood|Firewood]]              | [[WikiPages:custom1:iron_fittings|Iron Fittings]]                 |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                           | [[WikiPages:custom0:wagon_parts|Wagon Parts]]                     |
+| 3 [[WikiPages:wood:log|Wood]] + 3 [[WikiPages:custom1:iron_fittings|Iron Fittings]]      | [[WikiPages:custom0:wagon_parts|Wagon Parts]]                     |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                           | [[WikiPages:custom0:hunting_gear|Hunting Gear]]                   |
+| 3 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                           | [[WikiPages:custom0:fishing_gear|Fishing Gear]]                   |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Tool RKEditorChoice}}

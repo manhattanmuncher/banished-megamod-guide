@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fort Depot ======
+----
+
+<WRAP right>
+^  Fort Depot                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfdepot.png?nolink|Fort Depot}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Food, Tools, Fuel, Health, Clothing, Textile, Grain, Vegetable, Fruit, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Wooden Fort mod general-purpose storage depot. Settlers store a wide variety of goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodenfort.png?nolink|Wooden Fort}}</wrap> **Wooden Fort** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfutility.png?nolink|Utility}}</wrap> **Utility** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfdepot.png?nolink|Fort Depot}}</wrap> **Fort Depot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodenfort.png?nolink|Wooden Fort}}</wrap> **Wooden Fort** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfutility.png?nolink|Utility}}</wrap> **Utility** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfdepot.png?nolink|Fort Depot}}</wrap> **Fort Depot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfdepot.png?nolink|Fort Depot}}</wrap> **Fort Depot**
+
+----
+
+This building originally came from **Wooden Fort v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=449|WoB]]
+
+{{tag>Building Storage KID}}

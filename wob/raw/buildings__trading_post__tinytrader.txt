@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tiny Trader ======
+----
+
+<WRAP right>
+^  Tiny Trader                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinytrader.png?nolink|Tiny Trader}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  Trader  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  25,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact general trading post from Kid's Tiny mod, where a Trader receives merchant boats and exchanges goods. It stocks up to 25,000 units of trade stock in a small footprint, making it suited to cramped riverside settlements.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtinytrader.png?nolink|Tiny Trader}}</wrap> **Tiny Trader**
+
+----
+
+{{tag>Building Trading_Post KidTiny}}

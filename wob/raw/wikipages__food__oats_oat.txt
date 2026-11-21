@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Oats ======
+----
+
+<WRAP right>
+^  Oats                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  20/28  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/oats.png?nolink|Oats}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Oats is a grain crop cultivated by farmers in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Oats Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:aspgreenhouseb|Grain House]]
+  * Produced at the [[buildings:greenhouse:bgmini3x2|Mini 3x2]]
+  * Produced at the [[buildings:greenhouse:bgmini4x4|Mini 4x4]]
+  * Produced at the [[buildings:greenhouse:bgshed4x3|Shed 4x3]]
+  * Produced at the [[buildings:greenhouse:bgshed6x4|Shed 6x4]]
+  * Produced at the [[buildings:greenhouse:bgshed7x7|Shed 7x7]]
+  * Produced at the [[buildings:greenhouse:fbgreenhouse01|Greenhouse (Friendly Blue)]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow02|Hedgerow 02 (Friendly Blue Too)]]
+  * Produced at the [[buildings:hedgerow:fbthedgerow03|Hedgerow 03 (Friendly Blue Too)]]
+  * Produced at the [[buildings:greenhouse:ftgreenhouse|Greenhouse (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:greenhouse:ghfgrowinghouse|Growing House (Grow Hunt Fish)]]
+  * Produced at the [[buildings:hedgerow:hedgefall02|Fall 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgespring01|Spring 01 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgesummer01|Summer 01 (Hedgerow)]] (random)
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+  * Produced at the [[buildings:trading_post:tradercartfruitveg|Trader Cart (Fruit & Veg)]] (random)
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:fbbaker|Friendly Baker]] (for Oat Cookies)
+  * Used at the [[buildings:brewery|Brewery]]
+  * Used at the [[buildings:milling:windmill|Large Windmill]]
+  * Used at the [[buildings:milling:watermill|Watermill]]
+  * Used at the [[buildings:brewery:dspickandhen|Pick & Hen Tavern]]
+  * Used at the [[buildings:brewery:dspickandhenext1|P&H Brewery (Right Extension)]]
+  * Used at the [[buildings:brewery:dspickandhenext2|P&H Brewery (Left Extension)]]
+  * Used at the [[buildings:food:dssvgruelkitchen|Village Gruel Kitchen]]
+  * Used at the [[buildings:preserving:tinnerysoup|Soup Tinnery]]
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]] (for Oat Cookies)
+  * Used at the [[buildings:milling:tinymill|Tiny Mill]] (for Flour)
+  * Used at the [[buildings:animal_pens:cc17stable|City Stable]] (for Domesticated Animal)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Grain}}

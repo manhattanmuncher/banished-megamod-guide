@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tallyman (Gothic Tithes & Tributes) ======
+----
+
+<WRAP right>
+^  Tallyman                                                                           ^  Gothic Tithes & Tributes  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtttallyman.png?nolink|Tallyman}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  3  |
+|  Happiness  |  Spirit (radius 35)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Gothic Tithes & Tributes tallyman's office providing Spirit happiness within a radius of 35 tiles. Also provides resource limit controls for the colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtt.png?nolink|Gothic Tithes & Tributes}}</wrap> **Gothic Tithes & Tributes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtttallyman.png?nolink|Tallyman}}</wrap> **Tallyman**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtt.png?nolink|Gothic Tithes & Tributes}}</wrap> **Gothic Tithes & Tributes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtttallyman.png?nolink|Tallyman}}</wrap> **Tallyman**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartownhall.png?nolink|Town Hall}}</wrap> **Town Hall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgtttallyman.png?nolink|Tallyman (Gothic Tithes & Tributes)}}</wrap> **Tallyman (Gothic Tithes & Tributes)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Gothic Tithes & Tributes v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=594|WoB]]
+
+{{tag>Building TownHalls KidGothicTithesTributes}}

@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pottery Maker (Corner T3) ======
+----
+
+<WRAP right>
+^  Pottery Maker                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerpottery.png?nolink|Pottery Maker}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/potter.png?nolink|Potter}}</wrap> Potter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  14  |
+|  [[WikiPages:stone:stone|Stone]]  |  26  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Pottery Maker is an NMT Corner Buildings building where a Potter fires Clay into Pottery using Charcoal. This is the "Red Bricks" texture variant.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcrafting.png?nolink|Crafting}}</wrap> **Crafting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpottery.png?nolink|Pottery}}</wrap> **Pottery** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerpottery.png?nolink|Pottery Maker}}</wrap> **Pottery Maker**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusiness.png?nolink|NMT Corner Business}}</wrap> **NMT Corner Business** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtcornerbusinesst3.png?nolink|Texture 3}}</wrap> **Texture 3** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cornerpottery.png?nolink|Pottery Maker}}</wrap> **Pottery Maker**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                          ^ Produces                                  ^
+| 3 [[WikiPages:custom4:clay|Clay]] + 1 [[WikiPages:fuel:charcoal|Charcoal]]  | [[WikiPages:custom0:pottery|Pottery]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Crafting NMTCornerBuildings}}

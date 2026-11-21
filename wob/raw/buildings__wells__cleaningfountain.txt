@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Cleaning Fountain (Colonial Charter) ======
+----
+
+<WRAP right>
+^  Cleaning Fountain                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcleaningfountain.png?nolink|Cleaning Fountain}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Radius  |  20  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter decorative cleaning fountain that also functions as a well, providing Safety happiness and fire suppression within a 20-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwell.png?nolink|Well}}</wrap> **Well** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcleaningfountain.png?nolink|Cleaning Fountain}}</wrap> **Cleaning Fountain (Colonial Charter)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcleaningdeco.png?nolink|Decorative Cleaning Items}}</wrap> **Decorative Cleaning Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcleaningfountain.png?nolink|Cleaning Fountain}}</wrap> **Cleaning Fountain**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Wells ColonialCharter}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sheep ======
+----
+
+<WRAP right>
+^  Sheep                                          ^  xBAN  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestocksheep.png?nolink|Sheep}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  600  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  16 tiles  |
+|  <abbr "Product produced periodically while alive">Periodic Product</abbr>  |  Wool (every 2.75 months)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Sheep are vanilla livestock raised at a Pasture. They are shorn for Wool periodically and yield Mutton when slaughtered. The MegaMod adds Fertilizer to the slaughter products and slightly increases wool production frequency compared to vanilla.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Periodic Products =====
+
+  * [[WikiPages:textile:wool|Wool]] — produced every 2.75 months
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:mutton|Mutton]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockSheep}}

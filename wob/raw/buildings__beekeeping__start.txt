@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Beekeeping Buildings ======
+----
+
+Buildings that keep bees and produce honey and beeswax.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:beekeeping:africanbeehive|African Beehive]] | African-style beehive; produces Honey and Beeswax |
+| [[buildings:beekeeping:apiary|Apiary]] | Produces Honey and Beeswax |
+| [[buildings:beekeeping:nmt30apiary|Apiary (NMT 3.1)]] | New Medieval Town 3.1 apiary; produces Honey and Beeswax |
+| [[buildings:beekeeping:zapiary|Apiary (NMTown)]] | NMTown apiary; Beekeeper produces Honey and Beeswax with happiness bonus |
+| [[buildings:beekeeping:fbapiary|Apiary (Friendly Blue)]] | Friendly Blue small apiary; Worker tends hives to produce Honey |
+| [[buildings:beekeeping:gfbeekeeper|Bee Keeper (Gothic Farm)]] | Gothic Farm beekeeper |
+| [[buildings:beekeeping:ohbeekeeper|Old Bee Keeper]] | Old Hovels bee keeper; gives Honey, Beeswax, and Apple |
+| [[buildings:beekeeping:tinybeekeeper|Tiny Beekeeper]] | Small compact beekeeper |
+| [[buildings:beekeeping:dssvapiarybeeshelter1|Village Bee Shelter]] | DS Stone Village bee shelter |
+| [[buildings:beekeeping:dssvapiarybeeshelter1choice|Village Bee Shelter (Choice)]] | DS Stone Village bee shelter choice variant |
+| [[buildings:beekeeping:ebsvapiary|Village Apiary]] | EB Stone Village apiary |
+| [[buildings:beekeeping:wpbeekeeper|WP BeeKeeper]] | WP beekeeper |
+
+----
+
+{{tag>Buildings Beekeeping}}

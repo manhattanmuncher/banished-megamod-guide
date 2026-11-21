@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Field Hospital ======
+----
+
+<WRAP right>
+^  Field Hospital                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcfieldhospital.png?nolink|Field Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Service area radius">Service Radius</abbr>  |  30  |
+|  <abbr "Max citizens who can be served">Patients</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:textile:leather|Leather]]  |  16  |
+|  [[WikiPages:textile:fur|Fur]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A field hospital staffed by a Doctor, providing medical care to up to 30 patients within a radius of 30 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp}}</wrap> **RK Training Camp** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcfieldhospital.png?nolink|Field Hospital}}</wrap> **Field Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkdecorations.png?nolink|RK Decorations}}</wrap> **RK Decorations** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp}}</wrap> **RK Training Camp** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcfieldhospital.png?nolink|Field Hospital}}</wrap> **Field Hospital**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hospital RKTrainingCamp}}

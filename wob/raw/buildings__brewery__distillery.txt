@@ -1,0 +1,58 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Distillery ======
+----
+
+<WRAP right>
+^  Distillery                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddistillery.png?nolink|Distillery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/distiller.png?nolink|Distiller}}</wrap> Distiller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Distillery where a Distiller bottles grains, fruit, herbs, and other organics into Spirits or Aqua Vitae. Spirits are bottled in Glassware; Aqua Vitae uses Canteens. Every recipe also burns Furnace Fuel.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddistillery.png?nolink|Distillery}}</wrap> **Distillery**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccalcohol.png?nolink|Luxuries Production}}</wrap> **Luxuries Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddistillery.png?nolink|Distillery}}</wrap> **Distillery**
+
+----
+
+===== Recipes =====
+
+All Spirits recipes consume **5 [[WikiPages:custom0:glassware|Glassware]] + 3 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]**. Aqua Vitae recipes consume **4 [[WikiPages:custom1:canteens|Canteens]] + 3 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]**.
+
+^ Main Ingredient                                              ^ Produces                                              ^
+| 25 [[WikiPages:vegetable:sugar_cane_sugar|Sugar Cane]]       | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:apple|Apple]]                            | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:sorghum|Sorghum]]                        | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:figs|Figs]]                              | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 10 [[WikiPages:health:herb|Herb]]                            | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:potato|Potato]]                          | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:barley|Barley]]                          | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:rye|Rye]]                                | [[WikiPages:alcohol:spirits|Spirits]]                 |
+| 25 [[WikiPages:food:blueberries|Blueberry]]                  | [[WikiPages:alcohol:aqua_vitae|Aqua Vitae]]           |
+| 25 [[WikiPages:food:pumpkin|Pumpkin]]                        | [[WikiPages:alcohol:aqua_vitae|Aqua Vitae]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Brewery ColonialCharter}}

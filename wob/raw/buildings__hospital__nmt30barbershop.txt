@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Barber Shop (NMT 3.1) ======
+----
+
+<WRAP right>
+^  Barber Shop                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30barbershop.png?nolink|Barber Shop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  10  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  24  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+|  [[WikiPages:alcohol:perfume|Perfume]]  |  12  |
+|  [[WikiPages:custom1:silver|Silver]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A barber shop staffed by a Doctor, treating up to 10 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkservices.png?nolink|RK services}}</wrap> **RK services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30barbershop.png?nolink|Barber Shop (NMT 3.1)}}</wrap> **Barber Shop (NMT 3.1)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30barbershop.png?nolink|Barber Shop (NMT 3.1)}}</wrap> **Barber Shop (NMT 3.1)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Hospital RKEditorChoice}}

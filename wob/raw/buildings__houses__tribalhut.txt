@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Native Hut ======
+----
+
+<WRAP right>
+^  Native Hut                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtribalhut.png?nolink|Native Hut}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:textile:leather|Leather]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter Frontier native hut; houses up to 5 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort and Palisade Structures}}</wrap> **Fort and Palisade Structures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtribalhut.png?nolink|Native Hut}}</wrap> **Native Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfortitems.png?nolink|Fort and Palisade Structures}}</wrap> **Fort and Palisade Structures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtribalhut.png?nolink|Native Hut}}</wrap> **Native Hut**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtribalhut.png?nolink|Native Hut}}</wrap> **Native Hut**
+
+----
+
+This building originally came from **CC Frontier**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=699|WoB]]
+
+{{tag>Building Houses CCFrontier}}

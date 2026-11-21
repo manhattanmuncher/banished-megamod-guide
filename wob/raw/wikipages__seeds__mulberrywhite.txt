@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== White Mulberry Seeds ======
+----
+
+<WRAP right>
+^  White Mulberry Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedmulberrywhite.png?nolink|White Mulberry Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+White Mulberry Seeds are used to plant a White Mulberry tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:custom7:mulberry_leaf|Mulberry Leaf]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

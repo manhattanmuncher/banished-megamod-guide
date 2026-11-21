@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Spices ======
+----
+
+<WRAP right>
+^  Spices                                         ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Vegetable  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  Yes  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/spices.png?nolink|Spices}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Spices are a vegetable crop grown in fields in the Banished MegaMod. Citizens eat them as part of their diet, contributing to variety and overall happiness. They have a modest trade value of 3.
+
+----
+
+===== Spices Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:herbalist:kbbspiceshack|KBB Spice Shack]]
+  * Produced at the [[buildings:fields:bgherbgarden|Herb Garden]]
+  * Produced at the [[buildings:herbalist:apspiceshack|Spice Shack (Abandoned Places)]]
+  * Produced at the [[buildings:herbalist:fpspiceshack|Spice Shack (Friendly Pumpkin)]]
+  * Produced at the [[buildings:gathering:jwspicegarden|Spice Garden]]
+  * Produced at the [[buildings:gathering:spicehouse|Spice House]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:kbbbaker|KBB Baker]] (for Plum Cake or Spiced Pumpkin Pie)
+  * Used at the [[buildings:bakery:kbbpiebaker|KBB Pie Baker]] (for Basic Meat Pie)
+  * Used at the [[buildings:bakery:xmasbaker|Xmas Baker]] (for Gingerbread, Plum Cake)
+  * Used at the [[buildings:brewery:yuletap|Yule Tap]] (for Mulled Wine)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Vegetable}}

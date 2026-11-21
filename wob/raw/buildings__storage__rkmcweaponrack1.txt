@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Weaponrack Storage (1×1) ======
+----
+
+<WRAP right>
+^  Weaponrack Storage (1×1)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcweaponrack1.png?nolink|Weaponrack Storage (1×1)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  500  |
+|  Storage Categories  |  Tools  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+An RK Training Camp small weapon rack. Settlers store tools.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp}}</wrap> **RK Training Camp** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcweaponracktoolbar.png?nolink|Weaponracks Toolbar}}</wrap> **Weaponracks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcweaponrack1.png?nolink|Weaponrack Storage (1×1)}}</wrap> **Weaponrack Storage (1×1)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktrainingcamptoolbar.png?nolink|RK Training Camp}}</wrap> **RK Training Camp** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcweaponracktoolbar.png?nolink|Weaponracks Toolbar}}</wrap> **Weaponracks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmcweaponrack1.png?nolink|Weaponrack Storage (1×1)}}</wrap> **Weaponrack Storage (1×1)**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Storage RKEditorChoice}}

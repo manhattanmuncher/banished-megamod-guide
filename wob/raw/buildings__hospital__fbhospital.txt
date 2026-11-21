@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Friendly Hospital ======
+----
+
+<WRAP right>
+^  Friendly Hospital                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhospital.png?nolink|Friendly Hospital}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  18  |
+|  <abbr "Healing radius (tiles)">Service Radius</abbr>  |  30  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  22  |
+|  [[WikiPages:stone:stone|Stone]]  |  28  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Friendly Blue Hospital is a medical building staffed by a Doctor. It treats sick citizens and supports up to 18 patients, with a service radius of 30 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhospital.png?nolink|Friendly Hospital}}</wrap> **Friendly Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfb.png?nolink|Friendly Blue}}</wrap> **Friendly Blue** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhospital.png?nolink|Friendly Hospital}}</wrap> **Friendly Hospital**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfbhospital.png?nolink|Friendly Hospital}}</wrap> **Friendly Hospital**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Friendly Blue (Ice) v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=587|WoB]]
+
+{{tag>Building Hospital FrontierBuildings}}

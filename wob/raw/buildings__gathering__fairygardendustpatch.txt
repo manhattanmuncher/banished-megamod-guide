@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fairy Dust Plot (Fairy Garden) ======
+----
+
+<WRAP right>
+^  Fairy Dust Plot                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardendustpatch.png?nolink|Fairy Dust Plot}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionfairy.png?nolink|Fairy}}</wrap> Fairy  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  20.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  18  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fairy Garden dust plot with a seasonal-changing roof. Fairies tend the plot to gather Fairy Dust, which powers the Fairy Garden patches. This is the seasonal variant.
+
+See also: [[buildings:gathering:fairygardendustpatchleaves|Fairy Dust Plot (Leaves)]], [[buildings:gathering:fairygardendustpatchpines|Fairy Dust Plot (Pines)]]
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenseasonal.png?nolink|Seasonal roof}}</wrap> **Seasonal roof** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardendustpatch.png?nolink|Fairy Dust Plot}}</wrap> **Fairy Dust Plot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygarden.png?nolink|Fairy Garden}}</wrap> **Fairy Garden** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardenseasonal.png?nolink|Seasonal roof}}</wrap> **Seasonal roof** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardendustpatch.png?nolink|Fairy Dust Plot}}</wrap> **Fairy Dust Plot**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfairygardendustpatch.png?nolink|Fairy Dust Plot (Fairy Garden)}}</wrap> **Fairy Dust Plot (Fairy Garden)**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces                                                     ^
+| (none)       | [[WikiPages:custom7:fairy_dust|Fairy Dust]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Fairy Garden v1.02**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=626|WoB]]
+
+{{tag>Building KidFairyGarden}}

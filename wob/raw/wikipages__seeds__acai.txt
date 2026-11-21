@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Acai Seeds ======
+----
+
+<WRAP right>
+^  Acai Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedacai.png?nolink|Acai Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  2,500  |
+</WRAP>
+<WRAP right></WRAP>
+
+Acai Seeds are used to plant an Acai tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:food:acai|Acai]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

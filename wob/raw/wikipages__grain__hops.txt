@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hops ======
+----
+
+<WRAP right>
+^  Hops                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Grain  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/10  |
+|  Edible  |  No  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/hops.png?nolink|Hops}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Hops are a processed grain ingredient used in cooking and food production in the Banished MegaMod. They are not consumed directly by citizens but serve as a key input for bakers and food crafters. Their trade value is low at 2, but they play an important role in the colony's production chains.
+
+----
+
+===== Hops Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:greenhouse:rkgardenwallsgreenhouse|Greenhouse (Garden Walls)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:brewery:ectavern|Tavern (EC)]] (for Strong Beer)
+  * Exported at the [[buildings:trading_post:garemerchant2|Station: Textile Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Grain}}

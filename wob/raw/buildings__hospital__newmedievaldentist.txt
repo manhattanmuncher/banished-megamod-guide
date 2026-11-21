@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Medieval Dentist (New Medieval Town) ======
+----
+
+<WRAP right>
+^  Medieval Dentist                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaldentist.png?nolink|Medieval Dentist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 20)  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  50  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:iron:iron|Iron]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A New Medieval Town dentist staffed by a Doctor, providing Health happiness to nearby residents within a radius of 20 tiles and treating up to 50 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalservices.png?nolink|New Medieval Services}}</wrap> **New Medieval Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaldentist.png?nolink|Medieval Dentist}}</wrap> **Medieval Dentist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaltown.png?nolink|New Medieval Town}}</wrap> **New Medieval Town** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievalservices.png?nolink|New Medieval Services}}</wrap> **New Medieval Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaldentist.png?nolink|Medieval Dentist}}</wrap> **Medieval Dentist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/newmedievaldentist.png?nolink|Medieval Dentist (New Medieval Town)}}</wrap> **Medieval Dentist (New Medieval Town)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Medieval Town 2.04**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=176|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=691102139|Steam]]
+
+{{tag>Building Hospital RKEditorChoice}}

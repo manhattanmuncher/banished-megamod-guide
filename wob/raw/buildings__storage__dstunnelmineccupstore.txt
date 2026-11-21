@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Mine Food Cellar ======
+----
+
+<WRAP right>
+^  Old Mine Food Cellar                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstunnelmineccupstore.png?nolink|Old Mine Food Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  20,000  |
+|  Storage Categories  |  Food, Fruit, Vegetable, Grain, Protein  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  89  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  55  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Mods large underground food cellar built into an old mine. Settlers store food, fruit, vegetables, grain, and protein with a capacity of 20,000 units.
+
+----
+
+===== Where to Find =====
+
+This building is not built directly — it is the upgraded form of the Tunnel Mine CC. Use the upgrade option on the Tunnel Mine CC building to convert it to an Old Mine Food Cellar.
+
+----
+
+This building originally came from **Tunnel Mine v2.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=384|WoB]], [[https://www.nexusmods.com/banished/mods/49|Nexus]], [[https://banishedinfo.com/mods/view/897-DS-Tunnel-Mine|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=756252521|Steam]]
+
+{{tag>Building Storage DS}}

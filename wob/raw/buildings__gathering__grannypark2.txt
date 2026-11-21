@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Granny Park II ======
+----
+
+<WRAP right>
+^  Granny Park II                                                                    ^  Granny Park  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrannyparkii.png?nolink|Granny Park II}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  32.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  Happiness  |  Goods (radius 20)  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+Granny Park II is a Granny Park standalone mod gathering building where a Farmer gathers Walnuts. It requires no materials to build and provides a Goods happiness bonus to nearby citizens.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/grannyparkmenu.png?nolink|Granny Park}}</wrap> **Granny Park** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrannyparkii.png?nolink|Granny Park II}}</wrap> **Granny Park II**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/grannyparkmenu.png?nolink|Granny Park}}</wrap> **Granny Park** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrannyparkii.png?nolink|Granny Park II}}</wrap> **Granny Park II**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfield.png?nolink|Crops and Orchards}}</wrap> **Crops and Orchards** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrannyparkii.png?nolink|Granny Park II}}</wrap> **Granny Park II**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:walnut|Walnut]] (no inputs required)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Granny Park v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=375|WoB]]
+
+{{tag>Building Gathering GrannyPark}}

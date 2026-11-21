@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Rice Farm (NMT Dock) ======
+----
+
+<WRAP right>
+^  Rice Farm (NMT Dock)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtricefarm.png?nolink|Rice Farm (NMT Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Hoe  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  16  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  42  |
+|  [[WikiPages:wood:log|Wood]]  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks rice farm. A Farmer grows and harvests rice directly from the water. No seeds required; the building can produce immediately after construction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtfooddocktoolbar.png?nolink|NMT Dock Food Toolbar}}</wrap> **NMT Dock Food Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtricefarm.png?nolink|Rice Farm}}</wrap> **Rice Farm**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtfooddocktoolbar.png?nolink|NMT Dock Food Toolbar}}</wrap> **NMT Dock Food Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtricefarm.png?nolink|Rice Farm}}</wrap> **Rice Farm**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:rice|Rice]]
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Farming RKEditorChoice}}

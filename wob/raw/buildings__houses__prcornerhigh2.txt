@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal High Corner House ======
+----
+
+<WRAP right>
+^  Port Royal High Corner House                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprcornerhigh2.png?nolink|Port Royal High Corner House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 1  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  80  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+An alternate model of [[buildings:houses:prcornerhigh1|Port Royal High Corner House]]; identical stats.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarportroyal.png?nolink|Port Royal}}</wrap> **Port Royal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolprhousing.png?nolink|Port Royal Housing}}</wrap> **Port Royal Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprcornerhigh2.png?nolink|Port Royal High Corner House}}</wrap> **Port Royal High Corner House**
+
+----
+
+{{tag>Building Houses PortRoyal}}

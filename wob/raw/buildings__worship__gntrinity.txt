@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trinity Chapel (Granny Neighborhood) ======
+----
+
+<WRAP right>
+^  Trinity Chapel                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgntrinity.png?nolink|Trinity Chapel}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 42)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  32  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Granny Neighborhood chapel staffed by a Priest, providing Spirit happiness within a radius of 42 tiles to up to 32 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgntrinity.png?nolink|Trinity Chapel}}</wrap> **Trinity Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgn.png?nolink|Granny Neighborhood}}</wrap> **Granny Neighborhood** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgntrinity.png?nolink|Trinity Chapel}}</wrap> **Trinity Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgntrinity.png?nolink|Trinity Chapel (Granny Neighborhood)}}</wrap> **Trinity Chapel (Granny Neighborhood)**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Granny Neighborhood v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=515|WoB]]
+
+{{tag>Building Worship KidGrannyNeighborhood}}

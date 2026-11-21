@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mission Hostel ======
+----
+
+<WRAP right>
+^  Mission Hostel                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvhostel.png?nolink|Mission Hostel}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  4  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  75  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  80  |
+|  [[WikiPages:wood:log|Wood]]  |  42  |
+|  [[WikiPages:stone:stone|Stone]]  |  44  |
+</WRAP>
+<WRAP right></WRAP>
+
+An SBV Mission hostel; temporarily houses up to 4 settlers across 4 apartments.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|The Mission}}</wrap> **The Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvhostel.png?nolink|Mission Hostel}}</wrap> **Mission Hostel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvmission.png?nolink|The Mission}}</wrap> **The Mission** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvhostel.png?nolink|Mission Hostel}}</wrap> **Mission Hostel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbvhostel.png?nolink|Mission Hostel}}</wrap> **Mission Hostel**
+
+----
+
+{{tag>Building Houses SBVMission}}

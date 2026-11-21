@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wooden House Light ======
+----
+
+<WRAP right>
+^  Wooden House Light                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwoodenhousinglight4x4a.png?nolink|Wooden House Light}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  60  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  16  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An EB Simple Village light-colored wooden house. Houses up to 5 settlers. One of six F Key variants; see also [[buildings:houses:ebsvhousinglight4x4b|Wooden House Light (B)]], [[buildings:houses:ebsvhousinglight4x4c|Wooden House Light (C)]], [[buildings:houses:ebsvhousinglight4x4d|Wooden House Light (D)]], [[buildings:houses:ebsvhousinglight4x4e|Wooden House Light (E)]], and [[buildings:houses:ebsvhousinglight4x4f|Wooden House Light (F)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB mods}}</wrap> **EB mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|Village}}</wrap> **Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillagehousing.png?nolink|Village Housing}}</wrap> **Village Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarebsvhousinglight.png?nolink|Light Wooden Houses Toolbar}}</wrap> **Light Wooden Houses Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvwoodenhousinglight4x4a.png?nolink|Wooden House Light}}</wrap> **Wooden House Light**
+
+----
+
+This building originally came from **Houses for Sale v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=246|WoB]]
+
+{{tag>Building Houses EB}}

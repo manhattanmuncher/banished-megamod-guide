@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chapel (NMT Dock) ======
+----
+
+<WRAP right>
+^  Chapel (NMT Dock)                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtchapeldock.png?nolink|Chapel (NMT Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 24)  |
+|  <abbr "Max citizens attending at once">Attendance</abbr>  |  100  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  44  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks chapel. A Priest provides Spirit happiness to residents within 24 tiles and can accommodate up to 100 members. Can be upgraded to the [[buildings:worship:nmtchapelstonedock|Chapel (NMT Stone Dock)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtservicesdocktoolbar.png?nolink|NMT Dock Services Toolbar}}</wrap> **NMT Dock Services Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtchapeldock.png?nolink|Chapel}}</wrap> **Chapel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtservicesdocktoolbar.png?nolink|NMT Dock Services Toolbar}}</wrap> **NMT Dock Services Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtchapeldock.png?nolink|Chapel}}</wrap> **Chapel**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Worship RKEditorChoice}}

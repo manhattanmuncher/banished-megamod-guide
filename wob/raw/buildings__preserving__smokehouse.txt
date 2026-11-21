@@ -1,0 +1,59 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Smokehouse ======
+----
+
+<WRAP right>
+^  Smokehouse                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmokehouse.png?nolink|Smokehouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservist.png?nolink|Preservist}}</wrap> Preservist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+|  Storage  |  600  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Smokehouse is a Colonial Charter food preservation building where a preservist smokes meat, fish, cheese, and other ingredients using firewood and barrels to produce long-lasting preserved foods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodrefining.png?nolink|Food Refining}}</wrap> **Food Refining** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmokehouse.png?nolink|Smokehouse}}</wrap> **Smokehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmokehouse.png?nolink|Smokehouse}}</wrap> **Smokehouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbutchers.png?nolink|Butchers}}</wrap> **Butchers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsmokehouse.png?nolink|Smokehouse}}</wrap> **Smokehouse**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                ^ Produces                                                                       ^
+| 10 [[WikiPages:food:beef_cuts|Beef Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                         | [[WikiPages:food:beef_jerky|Beef Jerky]]                                       |
+| 10 [[WikiPages:food:pork_cuts|Pork Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                         | [[WikiPages:food:kielbasa|Kielbasa]]                                           |
+| 10 [[WikiPages:food:mutton_cuts|Mutton Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                     | [[WikiPages:food:hangikjot|Hangikjot]]                                         |
+| 10 [[WikiPages:food:charki_cuts|Charki Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                     | [[WikiPages:food:charki_jerky|Charki Jerky]]                                   |
+| 10 [[WikiPages:food:bison_cuts|Bison Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                       | [[WikiPages:food:pemmican|Pemmican]]                                           |
+| 10 [[WikiPages:food:venison_cuts|Venison Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                   | [[WikiPages:food:pemmican|Pemmican]]                                           |
+| 10 [[WikiPages:food:cheval_cuts|Cheval Cuts]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                     | [[WikiPages:food:smoked_cheval|Smoked Cheval]]                                 |
+| 10 [[WikiPages:food:fish|Fish]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                                   | [[WikiPages:food:smoked_fish_smokedfish|Smoked Fish]]                          |
+| 10 [[WikiPages:food:cheese|Cheese]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                               | [[WikiPages:food:smoked_cheese|Smoked Cheese]]                                 |
+| 21 [[WikiPages:food:chilies|Chilies]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                                                             | [[WikiPages:food:smoked_chili|Smoked Chili]]                                   |
+| 10 [[WikiPages:custom7:tallow|Tallow]] + 10 [[WikiPages:food:cherry|Cherry]] + 5 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:custom0:barrel|Barrel]]                      | [[WikiPages:food:wedding_pemmican|Wedding Pemmican]]                           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Preserving ColonialCharter}}

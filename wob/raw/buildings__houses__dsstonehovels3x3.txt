@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stone Hovel ======
+----
+
+<WRAP right>
+^  Stone Hovel                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonehovels3x3.png?nolink|Stone Hovel}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS small stone hovel. Houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonehovels3x3.png?nolink|Stone Hovel}}</wrap> **Stone Hovel**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsstonehovels3x3.png?nolink|Stone Hovel}}</wrap> **Stone Hovel**
+
+----
+
+This building originally came from **Stone Hovels v1.4**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=225|WoB]], [[https://www.nexusmods.com/banished/mods/75|Nexus]], [[https://banishedinfo.com/mods/view/543-DS-Stone-Hovels|BI]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1236145852|Steam]]
+
+{{tag>Building Houses DS}}

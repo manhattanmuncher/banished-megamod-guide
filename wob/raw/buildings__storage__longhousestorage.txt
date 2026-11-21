@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Native Longhouse Storage ======
+----
+
+<WRAP right>
+^  Native Longhouse Storage                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlonghouse.png?nolink|Native Longhouse Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–1 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  4,000  |
+|  Storage Categories  |  Food, Fuel, Tools, Health, Clothing, Textile, Grain, Fruit, Vegetable, Protein, Crafted Goods, Forged Goods, Fabrics, Precious, Misc, Custom 8, Consumables  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:wood:log|Wood]]  |  80  |
+|  [[WikiPages:textile:leather|Leather]]  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large native longhouse from the Colonial Charter Frontier mod, traditionally made of wood, bark, or thatch. Settlers store food, fuel, tools, clothing, and a wide variety of goods with a capacity of 4,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter}}</wrap> **Colonial Charter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|CC Themed}}</wrap> **CC Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlonghouse.png?nolink|Native Longhouse Storage}}</wrap> **Native Longhouse Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Buildings}}</wrap> **Themed Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlonghouse.png?nolink|Native Longhouse Storage}}</wrap> **Native Longhouse Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildlonghouse.png?nolink|Native Longhouse Storage}}</wrap> **Native Longhouse Storage**
+
+----
+
+{{tag>Building Storage}}

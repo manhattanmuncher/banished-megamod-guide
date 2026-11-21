@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== NMT 3.1 Canal Set — Channel Pieces ======
+----
+
+<WRAP right>
+^  NMT 3.1 Canal Set — Channel Pieces                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (4×, 6× and 8× wide channels)  |
+^  Build Cost (per piece)                                                            ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10 (typical)  |
+|  [[WikiPages:stone:stone|Stone]]  |  10 (typical)  |
+</WRAP>
+<WRAP right></WRAP>
+
+The water-channel building blocks of RedKetchup's NMT 3.1 Canal Set — the straight runs, turns, corners, junctions and crossing bridges used to route a canal across the map. They carry no storage or workers on their own; the canal's working pieces (docks, mills and trading posts) attach to these channels and are documented on their own ''nmt30canal…'' pages. Channels come in eight masonry styles and three widths so a canal can be themed and sized to fit.
+
+----
+
+===== Variants =====
+
+  * **Widths** — 4× (narrow), 6× (medium) and 8× (wide) channel spans.
+  * **Shapes** — Straight runs, Corners (left/right), Turns, 3-Way junctions, 4-Way junctions, and Bridges that carry land traffic across the canal.
+  * **Eight styles** (the "C1–C8" suffixes) — C1 Classic Stone, C2 Old Bricks, C3 Red Bricks, C4 Sandstones, C5 Fire Bricks, C6 Old Church, C7 Dark Stones, C8 Old Wood. ''R'' pieces are the mirrored (reversed) version of a shape.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc1classic.png?nolink|style}}</wrap> **style (C1 Classic … C8 Old Wood)** → **width (4X / 6X / 8X)** → the channel piece
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Editor's Choice}}</wrap> **RK Editor's Choice** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT 3.1 Canal Set Toolbar}}</wrap> **NMT 3.1 Canal Set Toolbar** → **style** → **width** → the channel piece
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Water RKEditorChoice}}

@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Maple Seeds ======
+----
+
+<WRAP right>
+^  Maple Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedmaple.png?nolink|Maple Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Maple Seeds are used to plant a Maple tree in an [[buildings:orchards:start|Orchard]]. Farmers harvest [[WikiPages:fruit:maple_sap|Maple Sap]] using an Axe. Fruit cycles take 4 months; trees reach maturity in 24 months.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds OrchardSeeds}}

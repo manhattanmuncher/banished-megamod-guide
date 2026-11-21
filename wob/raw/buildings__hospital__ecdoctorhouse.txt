@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Doctor (Editor's Choice) ======
+----
+
+<WRAP right>
+^  Doctor (Editor's Choice)                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Doctor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Max patients treated at once">Patients</abbr>  |  30  |
+|  <abbr "Healing radius (tiles)">Service Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  75  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  64  |
+|  [[WikiPages:custom1:copper|Copper]]  |  24  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Editor's Choice doctor's house staffed by a Doctor, treating up to 30 patients within a service radius of 30 tiles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Doctor}}</wrap> **Doctor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ectoolbar.png?nolink|Editor's Choice Toolbar}}</wrap> **Editor's Choice Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Services}}</wrap> **Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddoctor.png?nolink|Doctor}}</wrap> **Doctor**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Hospital EditorChoice}}

@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ice Castle Inn ======
+----
+
+<WRAP right>
+^  Ice Castle Inn                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleinn.png?nolink|Ice Castle Inn}}</wrap>  |
+|  <abbr "Household capacity">Occupancy</abbr>  |  5 families (3 persons each)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  6,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+|  [[WikiPages:iron:iron|Iron]]  |  16  |
+</WRAP>
+<WRAP right></WRAP>
+
+A hostel from Kid's Ice Castle winter set — a multi-family lodge that houses up to five families of three, with shared storage, for packing settlers into a compact icy town.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleinn.png?nolink|Ice Castle Inn}}</wrap> **Ice Castle Inn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastle.png?nolink|Ice Castle}}</wrap> **Ice Castle** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleinn.png?nolink|Ice Castle Inn}}</wrap> **Ice Castle Inn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgifthome.png?nolink|Other Kid Housing}}</wrap> **Other Kid Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildicecastleinn.png?nolink|Ice Castle Inn}}</wrap> **Ice Castle Inn**
+
+----
+
+This building originally came from **Ice Castle v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=588|WoB]]
+
+{{tag>Building BoardingHouses KidIceCastle}}

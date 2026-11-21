@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Crop Road ======
+----
+
+<WRAP right>
+^  Crop Road                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcroproad.png?nolink|Crop Road}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  44  |
+</WRAP>
+<WRAP right></WRAP>
+
+A road with a crop field appearance that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmoreroads.png?nolink|More Road Textures}}</wrap> **More Road Textures** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcroproad.png?nolink|Crop Road}}</wrap> **Crop Road**
+
+----
+
+===== Other Information =====
+
+{{tag>Road MoreRoads}}

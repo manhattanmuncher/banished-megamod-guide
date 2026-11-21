@@ -1,0 +1,27 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WH Herbalist ======
+----
+
+<WRAP right>
+^  WH Herbalist                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhherbalist.png?nolink|WH Herbalist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/herbalist.png?nolink|Herbalist}}</wrap> Herbalist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Westward Ho herbalist shelter. Herbalists gather medicinal herbs from the surrounding area within a 24-tile radius, providing healing to nearby citizens.
+
+----
+
+^ Toolbar ^ ^ ^ ^
+| <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwestwardho.png?nolink|Westward Ho}}</wrap> **Westward Ho** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhsupport.png?nolink|WH Support}}</wrap> **WH Support** → | <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwhherbalist.png?nolink|WH Herbalist}}</wrap> **WH Herbalist** |
+
+----
+
+{{tag>Building Gathering KidWestwardHo}}

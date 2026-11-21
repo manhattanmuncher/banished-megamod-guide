@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Watermill (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Watermill (NMT Stone Dock)                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtwatermillstonedock.png?nolink|Watermill (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Hoe  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  62  |
+|  [[WikiPages:stone:stone|Stone]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks stone-construction watermill. Upgraded from the wood version with a slightly reduced work requirement per cycle. A Miller grinds grain of many types into flour.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtfoodstonedocktoolbar.png?nolink|NMT Stone Dock Food Toolbar}}</wrap> **NMT Stone Dock Food Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtwatermillstonedock.png?nolink|Watermill}}</wrap> **Watermill**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtfoodstonedocktoolbar.png?nolink|NMT Stone Dock Food Toolbar}}</wrap> **NMT Stone Dock Food Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtwatermillstonedock.png?nolink|Watermill}}</wrap> **Watermill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients  ^ Produces  ^
+| 20 [[WikiPages:food:wheat|Wheat]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:corn|Corn]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:barley|Barley]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:sorghum|Sorghum]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:oats_oat|Oat]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:rye|Rye]]  | [[WikiPages:grain:flour|Flour]]  |
+| 20 [[WikiPages:food:rice|Rice]]  | [[WikiPages:grain:flour|Flour]]  |
+| 12 [[WikiPages:textile:hemp_hempleaf|Hemp Leaf]]  | [[WikiPages:grain:flour|Flour]]  |
+| 15 [[WikiPages:food:acorns|Acorns]]  | [[WikiPages:grain:flour|Flour]]  |
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Milling RKEditorChoice}}

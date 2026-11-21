@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Frock Coat ======
+----
+
+<WRAP right>
+^  Frock Coat                                     ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Clothing  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  1/2  |
+|  Edible  |  No  |
+|  Trade Value  |  20  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  2  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/frockcoat.png?nolink|Frock Coat}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Frock Coat helps keep Banished citizens warm through cold seasons. It is stored in a Barn and distributed automatically to citizens when temperatures drop. At a trade value of 20, it is highly prized by traveling merchants.
+
+----
+
+===== Frock Coat Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:clothing:cc17seamstressguild|City Seamstress Guild]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Clothing ClothingWarm}}

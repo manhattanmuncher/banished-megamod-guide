@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Goats ======
+----
+
+<WRAP right>
+^  Goats                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/livestockgoats.png?nolink|Goats}}</wrap>  |
+|  <abbr "Trade value per animal">Trade Value</abbr>  |  600  |
+|  <abbr "Pasture tiles required per animal">Pasture Area</abbr>  |  12 tiles  |
+|  <abbr "Product produced periodically while alive">Periodic Product</abbr>  |  Milk (every 0.3 months)  |
+</WRAP>
+<WRAP right></WRAP>
+
+Goats are small dairy livestock raised at a Pasture. They produce Milk periodically and yield Goat Meat and Fertilizer when slaughtered. Their small pasture footprint makes them efficient for limited space.
+
+----
+
+===== Where to Find =====
+
+Raised at a Pasture.
+
+----
+
+===== Periodic Products =====
+
+  * [[WikiPages:food:milk|Milk]] — produced every 0.3 months
+
+===== Slaughter Products =====
+
+  * [[WikiPages:food:goat_meat|Goat Meat]]
+  * [[WikiPages:custom7:fertilizer|Fertilizer]]
+
+----
+
+===== Other Information =====
+
+{{tag>Livestock LivestockGoat}}

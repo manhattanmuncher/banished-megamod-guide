@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Portable RKEC Mine ======
+----
+
+<WRAP right>
+^  Portable RKEC Mine                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpminerkec.png?nolink|Portable RKEC Mine}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default 2)  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  40  |
+|  Happiness  |  Detraction (radius 20)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Portable RKEC Mine is a compact mine from the KID toolbar that extracts Coal, Iron Ore, and Copper Ore. Unlike most mines it has no production cap, allowing indefinite extraction.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpminerkec.png?nolink|Portable RKEC Mine}}</wrap> **Portable RKEC Mine**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarminesother.png?nolink|Other Mines}}</wrap> **Other Mines** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpminerkec.png?nolink|Portable RKEC Mine}}</wrap> **Portable RKEC Mine**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:coal|Coal]]
+  * [[WikiPages:coalfuel:iron_ore|Iron Ore]]
+  * [[WikiPages:coalfuel:copper_ore|Copper Ore]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Portable Mine v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=585|WoB]]
+
+{{tag>Building Mining PMineRKEC}}

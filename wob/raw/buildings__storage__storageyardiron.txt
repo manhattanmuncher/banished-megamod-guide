@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Iron Stock Pile ======
+----
+
+<WRAP right>
+^  Iron Stock Pile                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyardiron.png?nolink|Iron Stock Pile}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  variable (1×1 to 30×30)  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–4 (4)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  250 per tile  |
+|  Storage Categories  |  Iron  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter mod stock pile dedicated to iron. Drag to define the storage area; each tile holds 250 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarstorageyard.png?nolink|Stock Piles}}</wrap> **Stock Piles** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyardiron.png?nolink|Iron Stock Pile}}</wrap> **Iron Stock Pile**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyardiron.png?nolink|Iron Stock Pile}}</wrap> **Iron Stock Pile**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildstorageyardiron.png?nolink|Iron Stock Pile}}</wrap> **Iron Stock Pile**
+
+----
+
+{{tag>Building Storage Colonial}}

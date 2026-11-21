@@ -1,0 +1,52 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Old Creamery ======
+----
+
+<WRAP right>
+^  Old Creamery                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30creamery.png?nolink|Old Creamery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dairyman.png?nolink|Dairyman}}</wrap> Dairyman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  8 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 2)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  8  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  36  |
+|  [[WikiPages:stone:stone|Stone]]  |  24  |
+|  [[WikiPages:iron:iron|Iron]]  |  6  |
+|  [[WikiPages:custom5:glass|Glass]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Old Creamery processes milk into dairy products.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardairy.png?nolink|Dairies}}</wrap> **Dairies** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30creamery.png?nolink|Old Creamery}}</wrap> **Old Creamery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkfood.png?nolink|RK Food}}</wrap> **RK Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30creamery.png?nolink|Old Creamery}}</wrap> **Old Creamery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                   ^ Produces                                  ^
+| 8 [[WikiPages:food:milk|Milk]]                                                                                | [[WikiPages:food:cheese|Cheese]]          |
+| 10 [[WikiPages:food:milk|Milk]]                                                                               | [[WikiPages:food:cream|Cream]]            |
+| 8 [[WikiPages:food:milk|Milk]]                                                                                | [[WikiPages:food:butter|Butter]]          |
+| 6 [[WikiPages:food:milk|Milk]] + 4 [[WikiPages:food:blueberries|Blueberries]]                                 | [[WikiPages:food:yogurt|Yogurt]]          |
+| 6 [[WikiPages:food:milk|Milk]] + 4 [[WikiPages:food:peach|Peach]]                                             | [[WikiPages:food:yogurt|Yogurt]]          |
+| 6 [[WikiPages:food:milk|Milk]] + 4 [[WikiPages:food:cherry|Cherry]]                                           | [[WikiPages:food:yogurt|Yogurt]]          |
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Dairy}}

@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunting Blind ======
+----
+
+<WRAP right>
+^  Hunting Blind                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblindshore.png?nolink|Hunting Blind}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  11.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  30  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  25  |
+|  [[WikiPages:custom7:reeds|Reed]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Hunting Blind is a Colonial Charter building where a hunter harvests waterfowl and fish from a shoreside hide.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhunting.png?nolink|Hunting}}</wrap> **Hunting** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblindshore.png?nolink|Hunting Blind}}</wrap> **Hunting Blind**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/husbandryitems.png?nolink|Raw Food Gathering}}</wrap> **Raw Food Gathering** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildblindshore.png?nolink|Hunting Blind}}</wrap> **Hunting Blind**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:duck_meat|Duck Meat]]
+  * [[WikiPages:textile:feathers_feather|Feathers]]
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Food Hunting ColonialCharter}}

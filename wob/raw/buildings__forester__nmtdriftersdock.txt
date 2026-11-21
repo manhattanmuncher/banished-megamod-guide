@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Drifters Dock (NMT) ======
+----
+
+<WRAP right>
+^  Drifters Dock (NMT)                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdriftersdock.png?nolink|Drifters Dock (NMT)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Tool used by workers">Tool</abbr>  |  Hoe  |
+|  <abbr "Work time per cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work required per production cycle">Work Required</abbr>  |  8  |
+^  Build Cost                                                                     ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  38  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Docks drifters dock. A Forester takes a boat out and collects floating logs from the water. Can be upgraded to the stone version.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesdocktoolbar.png?nolink|NMT Dock Resources Toolbar}}</wrap> **NMT Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdriftersdock.png?nolink|Drifters Dock}}</wrap> **Drifters Dock**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdocktoolbar.png?nolink|NMT Docks Toolbar}}</wrap> **NMT Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtresourcesdocktoolbar.png?nolink|NMT Dock Resources Toolbar}}</wrap> **NMT Dock Resources Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtdriftersdock.png?nolink|Drifters Dock}}</wrap> **Drifters Dock**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Wood]]
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Forester RKEditorChoice}}

@@ -1,0 +1,33 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Firewood Storage (Fish Ships) ======
+----
+
+<WRAP right>
+^  Firewood Storage                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfirewood.png?nolink|Firewood Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  400  |
+|  Storage Categories  |  Fuel  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  10  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fish Ships compact firewood storage pile. Settlers store fuel with a capacity of 400 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish Ships}}</wrap> **Fish Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfirewood.png?nolink|Firewood Storage}}</wrap> **Firewood Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish Ships}}</wrap> **Fish Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfirewood.png?nolink|Firewood Storage}}</wrap> **Firewood Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfirewood.png?nolink|Firewood Storage (Fish Ships)}}</wrap> **Firewood Storage (Fish Ships)**
+
+----
+
+{{tag>Building Storage}}

@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Preservist ======
+----
+
+<WRAP right>
+^  Preservist                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwpreservist.png?nolink|Preservist}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/preservist.png?nolink|Preservist}}</wrap> Preservist  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  4  |
+|  Storage  |  1000  |
+^  Build Cost                                                                  ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A preservist makes jam out of honey and fruit.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwpreservist.png?nolink|Preservist}}</wrap> **Preservist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods.}}</wrap> **Themed Mods.** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsummerhaven.png?nolink|Summer Haven}}</wrap> **Summer Haven** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwpreservist.png?nolink|Preservist}}</wrap> **Preservist**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarpreserving.png?nolink|Preserving Food}}</wrap> **Preserving Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshwpreservist.png?nolink|Preservist}}</wrap> **Preservist**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                       ^ Produces                                              ^
+| 10 [[WikiPages:food:blueberries|Blueberries]] + 6 [[WikiPages:food:honey|Honey]]                 | [[WikiPages:food:fruit_jam|Fruit Jam]]                |
+| 10 [[WikiPages:food:strawberries|Strawberries]] + 6 [[WikiPages:food:honey|Honey]]                | [[WikiPages:food:fruit_jam|Fruit Jam]]                |
+| 10 [[WikiPages:food:apple|Apple]] + 6 [[WikiPages:food:honey|Honey]]                             | [[WikiPages:food:fruit_jam|Fruit Jam]]                |
+| 10 [[WikiPages:food:rose_hips|Rose Hips]] + 6 [[WikiPages:food:honey|Honey]]                     | [[WikiPages:food:fruit_jam|Fruit Jam]]                |
+| 10 [[WikiPages:food:peach|Peach]] + 6 [[WikiPages:food:honey|Honey]]                             | [[WikiPages:food:fruit_jam|Fruit Jam]]                |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Summer Haven v1.03**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=598|WoB]]
+
+{{tag>Building Food Preserving SummerHaven}}

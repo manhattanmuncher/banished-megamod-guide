@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pasture Buildings ======
+----
+
+Buildings and areas where livestock are raised and tended.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:pastures:abandonedpasture|Pasture (Abandoned Places)]] | KID Abandoned Places pasture, free to place |
+| [[buildings:pastures:cpasture|Animal Pasture]] | KID Colonial Resource pasture, free to place |
+| [[buildings:pastures:pasture4|Bare Pasture]] | Colonial Charter pasture with no fence |
+| [[buildings:pastures:pasture4trans|Bare Pasture (Transparent)]] | Bare Pasture with transparent ground texture |
+| [[buildings:pastures:jinxiebittypastureslate|Bitty Slate Pasture]] | Jinxie Bitty Village Set slate pasture |
+| [[buildings:pastures:jinxiebittypasturestone|Bitty Stone Pasture]] | Jinxie Bitty Village Set stone pasture |
+| [[buildings:pastures:jinxiebittypasturewood|Bitty Wood Pasture]] | Jinxie Bitty Village Set wood pasture |
+| [[buildings:pastures:desertpasture|Desert Pasture]] | Colonial Charter desert-style pasture |
+| [[buildings:pastures:ebsvfencelesspasture|Fenceless Pasture (EBSV)]] | EB Small Village fenceless pasture, free to place |
+| [[buildings:pastures:ftpasture|Fenceless Pasture (Fairy Tale)]] | KID Fairy Tale fenceless pasture |
+| [[buildings:pastures:jinxiebittypasturenone|Fenceless Pasture (Jinxie)]] | Jinxie Bitty Village Set fenceless pasture, no decorations |
+| [[buildings:pastures:pasture2trans|Fenceless Pasture (Transparent)]] | CC Fenceless Pasture with transparent ground texture |
+| [[buildings:pastures:pasture2|Fenceless Pasture (Colonial Charter)]] | Colonial Charter pasture with no fence posts |
+| [[buildings:pastures:fenceless1|Fenceless Pasture 1]] | KID FenceLess pasture style 1, free to place |
+| [[buildings:pastures:fenceless2|Fenceless Pasture 2]] | KID FenceLess pasture style 2, free to place |
+| [[buildings:pastures:gfpasture1|Pasture (Gothic Farm)]] | KID Gothic Farm pasture |
+| [[buildings:pastures:pasturerk|Pasture (RK Editor's Choice)]] | RK Editor's Choice pasture |
+| [[buildings:pastures:settlerspasture|Pasture (Settlers)]] | KID Settlers pasture, free to place |
+| [[buildings:pastures:ebsvpasture|Pasture (EBSV)]] | EB Small Village pasture |
+| [[buildings:pastures:pasturefenceless|Pasture Fenceless]] | RK Editor's Choice fenceless pasture using Fodder-Thatch |
+| [[buildings:pastures:prairiepasture|Prairie Pasture]] | WestwardHo prairie pasture, direct Food Production access |
+| [[buildings:pastures:pasture3|Slope Conforming Pasture]] | Colonial Charter pasture following terrain slope |
+| [[buildings:pastures:pasture3trans|Slope Conforming Pasture (Transparent)]] | Slope Conforming Pasture with transparent ground texture |
+| [[buildings:pastures:pasture|Standard Pasture]] | Colonial Charter fenced pasture |
+| [[buildings:pastures:pasture1trans|Standard Pasture (Transparent)]] | Standard Pasture with transparent ground texture |
+| [[buildings:pastures:dssvpastureempty|Village Pasture (Fenceless)]] | DS Small Village fenceless pasture |
+
+----
+
+{{tag>Buildings Pastures}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Saltworks ======
+----
+
+<WRAP right>
+^  Saltworks                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsaltworks.png?nolink|Saltworks}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/saltworks.png?nolink|Salt Boiler}}</wrap> Salt Boiler  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 10  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 5 (default 3)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  70  |
+|  [[WikiPages:stone:stone|Stone]]  |  15  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  45  |
+</WRAP>
+<WRAP right></WRAP>
+
+A saltworks for manufacturing salt from seawater using a wind pump and a large boiling pan.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarminesother.png?nolink|Mines/Quarries for other Production}}</wrap> **Mines/Quarries for other Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsaltworks.png?nolink|Saltworks}}</wrap> **Saltworks**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccresources.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbaroresandminerals.png?nolink|Ores and Minerals}}</wrap> **Ores and Minerals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsaltworks.png?nolink|Saltworks}}</wrap> **Saltworks**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:coalfuel:salt|Salt]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Mining ColonialCharter}}

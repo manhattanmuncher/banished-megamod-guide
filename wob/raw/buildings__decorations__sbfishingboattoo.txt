@@ -1,0 +1,29 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fishing Boat 2 ======
+----
+
+<WRAP right>
+^  Fishing Boat 2                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbfishingboattoo.png?nolink|Fishing Boat 2}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Water placed  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A decorative fishing boat variant from the Kid Some Boats mod. Placed on water as a visual decoration.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarboats.png?nolink|Boats}}</wrap> **Boats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsomeboats.png?nolink|Some Boats}}</wrap> **Some Boats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbfishingboattoo.png?nolink|Fishing Boat 2}}</wrap> **Fishing Boat 2**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbardeco.png?nolink|KID Deco}}</wrap> **KID Deco** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsomeboats.png?nolink|Some Boats}}</wrap> **Some Boats** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsbfishingboattoo.png?nolink|Fishing Boat 2}}</wrap> **Fishing Boat 2**
+
+----
+
+This building originally came from **Some Boats v1.3**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=535|WoB]]
+
+{{tag>Building Decorations KidSomeBoats}}

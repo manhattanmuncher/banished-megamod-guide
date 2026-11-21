@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Court House ======
+----
+
+<WRAP right>
+^  Court House                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcourthouse.png?nolink|Court House}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  9 × 8  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Safety (radius 100)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  350  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  125  |
+|  [[WikiPages:stone:stone|Stone]]  |  42  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  78  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial-themed Court House staffed by a Priest, providing Safety happiness to citizens within a radius of 100 tiles and accommodating up to 350 attendees. Only one Court House may be built per settlement.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcourthouse.png?nolink|Court House}}</wrap> **Court House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/civicitems.png?nolink|Civic Buildings}}</wrap> **Civic Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcourthouse.png?nolink|Courthouse}}</wrap> **Courthouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcourthouse.png?nolink|Court House}}</wrap> **Court House**
+
+----
+
+===== Other Information =====
+
+{{tag>Building Civic KID}}

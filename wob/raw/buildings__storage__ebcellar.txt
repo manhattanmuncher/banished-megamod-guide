@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Food Storage Cellar ======
+----
+
+<WRAP right>
+^  Food Storage Cellar                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebcellar.png?nolink|Food Storage Cellar}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Food, Vegetable, Fruit, Protein, Meat  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  58  |
+|  [[WikiPages:wood:log|Wood]]  |  28  |
+|  [[WikiPages:stone:stone|Stone]]  |  32  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Extra Building Set underground food cellar. Settlers store food, vegetables, fruit, protein, and meat with a capacity of 5,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebstorage.png?nolink|EB Storage}}</wrap> **EB Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebcellar.png?nolink|Food Storage Cellar}}</wrap> **Food Storage Cellar**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildebcellar.png?nolink|Food Storage Cellar}}</wrap> **Food Storage Cellar**
+
+----
+
+This building originally came from **Storage Set**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=283|WoB]]
+
+{{tag>Building Storage}}

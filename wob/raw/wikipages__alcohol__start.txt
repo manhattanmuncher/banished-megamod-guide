@@ -1,0 +1,48 @@
+~~NOTOC~~
+
+====== Luxuries & Alcohol ======
+----
+
+Luxury items consumed at the Tavern for happiness, including ales, wines, spirits, and other beverages.
+
+**Storage:** Barn
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/ale.png?nolink|Ale}} [[WikiPages:alcohol:ale|Ale]]
+  * {{https://sprites.worldofbanished.com/liquorc.png?nolink|Aqua Vitae}} [[WikiPages:alcohol:aqua_vitae|Aqua Vitae]]
+  * {{https://sprites.worldofbanished.com/beer.png?nolink|Beer}} [[WikiPages:alcohol:beer|Beer]]
+  * {{https://sprites.worldofbanished.com/chocolate.png?nolink|Chocolate}} [[WikiPages:alcohol:chocolate|Chocolate]]
+  * {{https://sprites.worldofbanished.com/cider.png?nolink|Cider}} [[WikiPages:alcohol:cider|Cider]]
+  * {{https://sprites.worldofbanished.com/coffee.png?nolink|Coffee}} [[WikiPages:alcohol:coffee|Coffee]]
+  * {{https://sprites.worldofbanished.com/whiskey.png?nolink|Corn Whiskey}} [[WikiPages:alcohol:corn_whiskey|Corn Whiskey]]
+  * {{https://sprites.worldofbanished.com/canteen.png?nolink|Filled Canteen}} [[WikiPages:alcohol:filled_canteen|Filled Canteen]]
+  * {{https://sprites.worldofbanished.com/fruitwine.png?nolink|Fruit Wine}} [[WikiPages:alcohol:fruit_wine|Fruit Wine]]
+  * {{https://sprites.worldofbanished.com/sbvliqueur.png?nolink|Liqueur}} [[WikiPages:alcohol:liqueur|Liqueur]]
+  * {{https://sprites.worldofbanished.com/maplewhiskey.png?nolink|Maple Whiskey}} [[WikiPages:alcohol:maple_whiskey|Maple Whiskey]]
+  * {{https://sprites.worldofbanished.com/marijuana.png?nolink|Marijuana}} [[WikiPages:alcohol:marijuana|Marijuana]]
+  * {{https://sprites.worldofbanished.com/mead.png?nolink|Mead}} [[WikiPages:alcohol:mead|Mead]]
+  * {{https://sprites.worldofbanished.com/mulledmead.png?nolink|Mulled Mead}} [[WikiPages:alcohol:mulled_mead|Mulled Mead]]
+  * {{https://sprites.worldofbanished.com/mulledwine.png?nolink|Mulled Wine}} [[WikiPages:alcohol:mulled_wine|Mulled Wine]]
+  * {{https://sprites.worldofbanished.com/nectar.png?nolink|Nectar}} [[WikiPages:alcohol:nectar|Nectar]]
+  * {{https://sprites.worldofbanished.com/perfume.png?nolink|Perfume}} [[WikiPages:alcohol:perfume|Perfume]]
+  * {{https://sprites.worldofbanished.com/tobaccocured.png?nolink|Pipe Tobacco}} [[WikiPages:alcohol:pipe_tobacco|Pipe Tobacco]]
+  * {{https://sprites.worldofbanished.com/pubmeal.png?nolink|Pub Meal}} [[WikiPages:alcohol:pub_meal|Pub Meal]]
+  * {{https://sprites.worldofbanished.com/cmrootbeer.png?nolink|Root Beer}} [[WikiPages:alcohol:root_beer|Root Beer]]
+  * {{https://sprites.worldofbanished.com/rum.png?nolink|Rum}} [[WikiPages:alcohol:rum|Rum]]
+  * {{https://sprites.worldofbanished.com/sake.png?nolink|Sake}} [[WikiPages:alcohol:sake|Sake]]
+  * {{https://sprites.worldofbanished.com/scotch.png?nolink|Scotch}} [[WikiPages:alcohol:scotch|Scotch]]
+  * {{https://sprites.worldofbanished.com/liquor.png?nolink|Spirits}} [[WikiPages:alcohol:spirits|Spirits]]
+  * {{https://sprites.worldofbanished.com/strongale.png?nolink|Strong Ale}} [[WikiPages:alcohol:strong_ale|Strong Ale]]
+  * {{https://sprites.worldofbanished.com/strongbeer.png?nolink|Strong Beer}} [[WikiPages:alcohol:strong_beer|Strong Beer]]
+  * {{https://sprites.worldofbanished.com/tea.png?nolink|Tea}} [[WikiPages:alcohol:tea_moroccanteahousepot|Tea]]
+  * {{https://sprites.worldofbanished.com/tea.png?nolink|Tea}} [[WikiPages:alcohol:tea_tea|Tea]]
+  * {{https://sprites.worldofbanished.com/tmtequila.png?nolink|Tequila}} [[WikiPages:alcohol:tequila|Tequila]]
+  * {{https://sprites.worldofbanished.com/wine.png?nolink|Wine}} [[WikiPages:alcohol:wine|Wine]]
+  * {{https://sprites.worldofbanished.com/witchbrew.png?nolink|WitchBrew}} [[WikiPages:alcohol:witchbrew|WitchBrew]]
+
+----
+
+{{tag>Alcohol}}

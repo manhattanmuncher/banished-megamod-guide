@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Vanilla Gatherer's Cache ======
+----
+
+<WRAP right>
+^  Vanilla Gatherer's Cache                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgatherer.png?nolink|Vanilla Gatherer's Cache}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  25  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Pine Set gatherer's cache. Gatherers collect wild foods within a 25-tile radius. Intended for use alongside the Vanilla Forestry Tower, which plants trees that spawn the wild vanilla foods this building harvests.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialforester.png?nolink|Special Foresters}}</wrap> **Special Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Forestry}}</wrap> **Pine Forestry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgatherer.png?nolink|Vanilla Gatherer's Cache}}</wrap> **Vanilla Gatherer's Cache**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolresources.png?nolink|Necora Resources}}</wrap> **Necora Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Forestry}}</wrap> **Pine Forestry** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgatherer.png?nolink|Vanilla Gatherer's Cache}}</wrap> **Vanilla Gatherer's Cache**
+
+----
+
+===== Produces =====
+
+  * Wild foods (Mushrooms, Berries, Roots, and other vanilla wild resources)
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Gathering}}

@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Stone Cemetery ======
+----
+
+<WRAP right>
+^  Bitty Stone Cemetery                                                                 ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittycemeterystone.png?nolink|Bitty Stone Cemetery}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable  |
+^  Build Cost (per tile)                                                               ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:stone:stone|Stone]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Jinxie Bitty Village Set stone cemetery; build in a player-drawn area for your deceased.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarservice.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarcemetery.png?nolink|Cemeteries}}</wrap> **Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittycemeterystone.png?nolink|Bitty Stone Cemetery}}</wrap> **Bitty Stone Cemetery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxieservices.png?nolink|Jinxie's Town Services}}</wrap> **Jinxie's Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenuicon.png?nolink|Jinxie's Bitty Village Set Items}}</wrap> **Jinxie's Bitty Village Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittyvillagemenucemeteriesicon.png?nolink|Bitty Cemeteries}}</wrap> **Bitty Cemeteries** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittycemeterystone.png?nolink|Bitty Stone Cemetery}}</wrap> **Bitty Stone Cemetery**
+
+----
+
+{{tag>Building Cemeteries JinxieBittyVillageSet}}

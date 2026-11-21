@@ -1,0 +1,18 @@
+~~NOTOC~~
+
+====== Stone ======
+----
+
+Stone quarried from the ground, used as a primary building construction material.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/stone.png?nolink|Stone}} [[WikiPages:stone:stone|Stone]]
+
+----
+
+{{tag>Stone}}

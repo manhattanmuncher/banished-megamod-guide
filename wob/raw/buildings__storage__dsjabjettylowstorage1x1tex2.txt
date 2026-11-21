@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Low Storage 1×1 (Tex 2) ======
+----
+
+<WRAP right>
+^  Jetty Low Storage 1×1 (Tex 2)                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettylow1x1.png?nolink|Jetty Low Storage 1×1 (Tex 2)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 1  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  250  |
+|  Storage Categories  |  Food, Tools, Health, Clothing, Textile, Custom 0/1/2/7  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  21  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  5  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  3  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Jetty and Bridge mod low dock storage shed (Texture 2 variant). Settlers store food, tools, clothing, and a variety of goods with a capacity of 250 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettystoragemenu.png?nolink|Jetty Storage}}</wrap> **Jetty Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettylow1x1.png?nolink|Low Storage 1×1}}</wrap> **Low Storage 1×1**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex2.png?nolink|Texture #2}}</wrap> **Texture #2** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettystoragemenu.png?nolink|Jetty Storage}}</wrap> **Jetty Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettylow1x1.png?nolink|Low Storage 1×1}}</wrap> **Low Storage 1×1**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettylow1x1.png?nolink|Jetty Low Storage 1×1 (Tex 2)}}</wrap> **Jetty Low Storage 1×1 (Tex 2)**
+
+----
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Storage DSJaB}}

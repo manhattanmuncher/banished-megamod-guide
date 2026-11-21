@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fodder Farmers ======
+----
+
+<WRAP right>
+^  Fodder Farmers                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/crophaystack.png?nolink|Fodder Farmers}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  26  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  32  |
+|  Stone  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A RedKetchup Editor's Choice Garden Walls fodder farmer. Foresters plant grass patches and harvest Fodder-Thatch within a 26-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresourceproduce.png?nolink|Resource Produce}}</wrap> **Resource Produce** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/crophaystack.png?nolink|Fodder Farmers}}</wrap> **Fodder Farmers**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Resources}}</wrap> **RK Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/crophaystack.png?nolink|Fodder Farmers}}</wrap> **Fodder Farmers**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:custom5:fodder-thatch_thatch|Fodder-Thatch]]
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Forester RKEditorChoiceEdition}}

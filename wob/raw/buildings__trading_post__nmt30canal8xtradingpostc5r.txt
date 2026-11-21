@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Canal 8x Trading Post (Fire Bricks, Reversed) ======
+----
+
+<WRAP right>
+^  Canal 8x Trading Post (Fire Bricks, Reversed)                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xtradingpostc5r.png?nolink|Canal 8x Trading Post (Fire Bricks, Reversed)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 15  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–20 (6)  |
+|  <abbr "Happiness type and radius">Happiness</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods ×20  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  60,000  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+|  [[WikiPages:stone:stone|Stone]]  |  30  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+Alternate mirrored orientation of the [[buildings:trading_post:nmt30canal8xtradingpostc5|Canal 8x Trading Post (Fire Bricks)]]. Identical statistics and merchant offerings.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT30 Canal Set}}</wrap> **NMT30 Canal Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc5firebricks.png?nolink|Fire Bricks}}</wrap> **Fire Bricks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc5firebricks8x.png?nolink|Fire Bricks Canal 8x}}</wrap> **Fire Bricks Canal 8x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xtradingpostc5r.png?nolink|Canal 8x Trading Post (Fire Bricks, Reversed)}}</wrap> **Canal 8x Trading Post (Fire Bricks, Reversed)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canalsettoolbar.png?nolink|NMT30 Canal Set}}</wrap> **NMT30 Canal Set** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc5firebricks.png?nolink|Fire Bricks}}</wrap> **Fire Bricks** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/mc5firebricks8x.png?nolink|Fire Bricks Canal 8x}}</wrap> **Fire Bricks Canal 8x** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmt30canal8xtradingpostc5r.png?nolink|Canal 8x Trading Post (Fire Bricks, Reversed)}}</wrap> **Canal 8x Trading Post (Fire Bricks, Reversed)**
+
+----
+
+===== Merchant =====
+
+Five merchant types may visit by river boat:
+
+^ Merchant ^ Offers ^
+| Food Merchant | All food items |
+| Goods Merchant | Wood, stone, iron, fuel, industrial fuel, tools, textiles, clothing, alcohol, crafted goods, forged goods, fabric, raw materials, building supplies, precious goods, and miscellaneous items |
+| General Merchant | Wood, stone, iron, fuel, industrial fuel, tools, health items, food, textiles, clothing, and alcohol |
+| Seed Merchant | Crop and orchard seeds |
+| Livestock Merchant | Livestock |
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building TradingPost RKEditorChoice}}

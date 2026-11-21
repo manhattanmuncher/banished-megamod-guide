@@ -1,0 +1,49 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Drift Wood Searcher ======
+----
+
+<WRAP right>
+^  Drift Wood Searcher                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettydriftwoodcollectorslct.png?nolink|Drift Wood Searcher}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  2  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  21  |
+|  Placement  |  Water only  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  250  |
+|  Upgrades To  |  [[buildings:gathering:dsjabjettydriftwoodup|Drift Wood Collector (UP)]]  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  34  |
+|  [[WikiPages:wood:log|Wood]]  |  5  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  13  |
+|  [[WikiPages:custom1:iron_fittings|Iron Fittings]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+Drift Wood Searcher is a DS Mods Jetty & Bridge resource gathering building placed on water. Workers selectively search for drifting wood, producing Wood or Firewood. It has a maximum production of 250 and can be upgraded once exhausted. Compared to the [[buildings:gathering:dsjabjettydriftwoodcollector|Drift Wood Collector]], it collects more selectively but more slowly and with a lower total yield.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|Jetty & Bridge}}</wrap> **Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1}}</wrap> **Texture #1** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyprodresmenu.png?nolink|Jetty Resource Production}}</wrap> **Jetty Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettydriftwoodcollectorslct.png?nolink|Drift Wood Searcher}}</wrap> **Drift Wood Searcher**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjetty.png?nolink|DS Jetty & Bridge}}</wrap> **DS Jetty & Bridge** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettytex1.png?nolink|Texture #1: Light-Brown Wooden Jetty}}</wrap> **Texture #1: Light-Brown Wooden Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dsjabjettyprodresmenu.png?nolink|Jetty Resource Production}}</wrap> **Jetty Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddsjabjettydriftwoodcollectorslct.png?nolink|Drift Wood Searcher}}</wrap> **Drift Wood Searcher**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Wood]] (cycling)
+  * [[WikiPages:fuel:firewood|Firewood]] (cycling)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Jetty & Bridge v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=188|WoB]], [[https://www.nexusmods.com/banished/mods/63|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1231614754|Steam]]
+
+{{tag>Building Gathering DS}}

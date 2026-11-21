@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Orchard Gatherer ======
+----
+
+<WRAP right>
+^  Orchard Gatherer                                                                  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchardgatherer.png?nolink|Orchard Gatherer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/gatherer.png?nolink|Gatherer}}</wrap> Gatherer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 4 (default: 4)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  45  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  Stone  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter orchard gatherer. Gatherers collect food produced by Orchard Lodge trees within a 30-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarorchardforester.png?nolink|Orchard Foresters}}</wrap> **Orchard Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildorchardgatherer.png?nolink|Orchard Gatherer}}</wrap> **Orchard Gatherer**
+
+----
+
+===== Produces =====
+
+Output depends on what Orchard Lodge trees are planted in the working radius.
+
+  * Fruit (random, based on Orchard Lodge tree type)
+
+----
+
+{{tag>Building Gathering}}

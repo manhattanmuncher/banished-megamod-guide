@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal Fortifications ======
+----
+
+<WRAP right>
+^  Port Royal Fortifications                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprtower.png?nolink|Port Royal Fortifications}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  varies  |
+^  Build Cost                                                                         ^^
+|  Cost  |  varies (per piece)  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes Port Royal decorative fortification pieces, used to build a colonial fort. Combine palisade walls and corners, gates and gatehouses, towers, and mounted cannons.
+
+----
+
+===== Variants =====
+
+^ Piece ^
+| Palisade Wall, Inner Corner, Outer Corner |
+| Gate, Gate House, High Gate House |
+| Tower |
+| Cannon, Cannon Mound, Cannon Platform |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprtower.png?nolink|Port Royal Fort}}</wrap> **Port Royal Fort** → select piece
+
+----
+
+{{tag>Building Decorations PortRoyal}}

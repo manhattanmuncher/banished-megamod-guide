@@ -1,0 +1,31 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Wood Road 3 (EB Roads) ======
+----
+
+<WRAP right>
+^  Wood Road 3                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodroad3.png?nolink|Wood Road 3}}</wrap>  |
+|  <abbr "Citizen movement speed">Speed</abbr>  |  Fast  |
+|  <abbr "Texture overlay priority: lower number appears on top when roads overlap">Index</abbr>  |  433  |
+^  Build Cost (per tile)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  1  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A wood road texture variant that increases citizen movement speed.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwoodroad.png?nolink|Wood Roads}}</wrap> **Wood Roads** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebroadswoodtoolbar.png?nolink|Wood Roads Toolbar}}</wrap> **Wood Roads Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodroad3.png?nolink|Wood Road 3}}</wrap> **Wood Road 3**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Roads v17005**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=345|WoB]], [[https://www.nexusmods.com/banished/mods/41|Nexus]]
+
+{{tag>Road EBRoads}}

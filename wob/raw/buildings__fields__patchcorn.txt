@@ -1,0 +1,42 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Patch Corn ======
+----
+
+<WRAP right>
+^  Patch Corn                                                                      ^  Kid - Patchwork  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchcorn.png?nolink|Patch Corn}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  72.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Kid - Patchwork crop field where a Worker grows Corn year-round, with no input materials required.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarfood.png?nolink|KID Food}}</wrap> **KID Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchwork.png?nolink|Patchwork}}</wrap> **Patchwork** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchcorn.png?nolink|Patch Corn}}</wrap> **Patch Corn**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhomestead.png?nolink|Homestead}}</wrap> **Homestead** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchwork.png?nolink|Patchwork}}</wrap> **Patchwork** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpatchcorn.png?nolink|Patch Corn}}</wrap> **Patch Corn**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:corn|Corn]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Patchwork (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=707|WoB]]
+
+{{tag>Building Field KidPatchwork KID}}

@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Trader Jetty ======
+----
+
+<WRAP right>
+^  Trader Jetty                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaptraderjetty.png?nolink|Trader Jetty}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/trader.png?nolink|Trader}}</wrap> Trader  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 6  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1–3 (1)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  12,000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Abandoned Places trading jetty. Merchants arrive by river boat and offer goods in exchange for any settlement resources.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarstorage.png?nolink|Storage}}</wrap> **Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaptraderjetty.png?nolink|Trader Jetty}}</wrap> **Trader Jetty**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartrade.png?nolink|Trade Buildings}}</wrap> **Trade Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildaptraderjetty.png?nolink|Trader Jetty}}</wrap> **Trader Jetty**
+
+----
+
+===== Merchant =====
+
+Four merchant types may visit. A Food merchant offers up to 15 food items (edible goods, fruit, vegetables, grain, and protein). A Goods merchant offers up to 5 items including wood, stone, iron, firewood, industrial fuel, raw materials, and building supplies. A General merchant offers up to 20 items including tools, herbs, textiles, clothing, alcohol, crafted goods, and seeds. A Seed merchant offers up to 4 crop or orchard seeds. All merchants accept any settlement goods as payment.
+
+----
+
+This building originally came from **Abandoned Places SE v1.24**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=378|WoB]]
+
+{{tag>Building TradingPost AbandonedPlaces}}

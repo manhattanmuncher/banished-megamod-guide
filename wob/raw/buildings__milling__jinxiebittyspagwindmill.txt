@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bitty Windmill (Pasta Set) ======
+----
+
+<WRAP right>
+^  Mill                                                                            ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittywindmill.png?nolink|Bitty Windmill (Pasta Set)}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/professionmiller.png?nolink|Miller}}</wrap> Miller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  12  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  1200  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:wood:log|Wood]]  |  15  |
+|  [[WikiPages:stone:stone|Stone]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Bitty Windmill (Pasta Set) is a Jinxie's Bitty Pasta Set building where a miller grinds wheat or corn into flour. See also the [[buildings:milling:jinxiebittywindmill|Bitty Windmill]] from the Village Set, which grinds a wider variety of grains.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxietoolbar.png?nolink|Jinxie's Mods}}</wrap> **Jinxie's Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/jinxieresources.png?nolink|Jinxie's Resource Production}}</wrap> **Jinxie's Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/bittypastamenuicon.png?nolink|Jinxie's Bitty Pasta Set Items}}</wrap> **Jinxie's Bitty Pasta Set Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittywindmill.png?nolink|Bitty Windmill (Pasta Set)}}</wrap> **Bitty Windmill (Pasta Set)**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfoodprocessing.png?nolink|Food Processing}}</wrap> **Food Processing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmilling.png?nolink|Milling}}</wrap> **Milling** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildbittywindmill.png?nolink|Bitty Windmill}}</wrap> **Bitty Windmill**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                          ^ Produces                              ^
+| 16 [[WikiPages:food:wheat|Wheat]]                    | [[WikiPages:grain:flour|Flour]]       |
+| 16 [[WikiPages:food:corn|Corn]]                      | [[WikiPages:grain:flour|Flour]]       |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Grain JinxieBittyPasta}}

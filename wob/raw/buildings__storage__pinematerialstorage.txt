@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Material Storage ======
+----
+
+<WRAP right>
+^  Pine Material Storage                                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinematerialstorage.png?nolink|Pine Material Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–3 (3)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  15,000  |
+|  Storage Categories  |  Fuel, Wood, Iron, Stone, Coal Fuel, Industrial Fuel, Raw Materials, Building Supplies  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Pine Set material storage. Settlers store fuel, raw materials, and construction supplies with a capacity of 15,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwarehouse.png?nolink|Warehouses}}</wrap> **Warehouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinematerialstorage.png?nolink|Pine Material Storage}}</wrap> **Pine Material Storage**
+
+Also reachable via: <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolstorage.png?nolink|Necora's Maritimes Storage}}</wrap> **Necora's Maritimes Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/maritimespineset.png?nolink|Pine Storage}}</wrap> **Pine Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinematerialstorage.png?nolink|Pine Material Storage}}</wrap> **Pine Material Storage**
+
+----
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Storage Maritimes}}

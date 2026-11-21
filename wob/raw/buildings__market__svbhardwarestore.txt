@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hardware Store (Smaller Vendors) ======
+----
+
+<WRAP right>
+^  Hardware Store                                                                          ^  xMOD  ^
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  6 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 12 (default: 6)  |
+|  Happiness  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/goods.png?nolink|Goods}}</wrap> Goods  |
+|  Radius  |  30  |
+|  Storage  |  6,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  90  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  Stone  |  32  |
+|  Iron  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+An Elf Smaller Vendors hardware store market. Distributes fuel, tools, clothing, raw materials, and textile to nearby settlers; provides Goods happiness.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → **Hardware Store**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/omtoolbar.png?nolink|Additional Modders Toolbar}}</wrap> **Additional Modders Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/omstorage.png?nolink|Storage Barns, Trading & Markets}}</wrap> **Storage Barns, Trading & Markets** → **Hardware Store**
+
+----
+
+===== Stocks =====
+
+  * Fuel (firewood)
+  * Tools
+  * Clothing
+  * Stone
+  * Iron
+  * Logs
+  * Textile
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

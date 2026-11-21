@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Sweat Lodge ======
+----
+
+<WRAP right>
+^  Sweat Lodge                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvsweatlodge.png?nolink|Sweat Lodge}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/priest.png?nolink|Priest}}</wrap> Priest  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Spirit (radius 35)  |
+|  <abbr "Max citizens attending at once">Attendance</abbr>  |  80  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  48  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A sweat lodge staffed by a Priest, providing Spirit happiness to nearby residents within a radius of 35 tiles and accommodating up to 80 attendees.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvsweatlodge.png?nolink|Sweat Lodge}}</wrap> **Sweat Lodge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnativevillage.png?nolink|Native Village}}</wrap> **Native Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvsweatlodge.png?nolink|Sweat Lodge}}</wrap> **Sweat Lodge**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworship.png?nolink|Worship}}</wrap> **Worship** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnvsweatlodge.png?nolink|Sweat Lodge}}</wrap> **Sweat Lodge**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Native Village (with Abandoned)**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=612|WoB]]
+
+{{tag>Building Worship KidNativeVillage}}

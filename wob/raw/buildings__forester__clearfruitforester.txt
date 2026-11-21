@@ -1,0 +1,26 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Clear Fruit (Grow Hunt Fish) ======
+----
+
+<WRAP right>
+^  Clear Fruit                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/clearfruitforester.png?nolink|Clear Fruit}}</wrap>  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Grow Hunt Fish removal zone tool. Draw an area to have laborers remove fruit tree natural resources (Apple, Cherry, Peach, Pear, and Plum trees) from the map. No build cost and no workers assigned — the zone is cleared by the general labor pool.
+
+----
+
+===== Where to Find =====
+
+Found on the vanilla Demolish/Removal toolbar.
+
+----
+
+===== Other Information =====
+
+This building originally came from **Grow, Hunt, Fish v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=537|WoB]]
+
+{{tag>Building Forester GrowHuntFish}}

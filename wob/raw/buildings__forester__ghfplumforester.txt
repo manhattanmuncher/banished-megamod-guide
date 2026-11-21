@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Plum Forester (Grow Hunt Fish) ======
+----
+
+<WRAP right>
+^  Plum Forester                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfplumforester.png?nolink|Plum Forester}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  5  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  2  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Grow Hunt Fish orchard forester. A single Forester plants and harvests plum trees within a very small 5-tile radius, producing Plums.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrowhuntfish.png?nolink|Grow Hunt Fish}}</wrap> **Grow Hunt Fish** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghforchardforester.png?nolink|Orchard Forester}}</wrap> **Orchard Forester** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfplumforester.png?nolink|Plum Forester}}</wrap> **Plum Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildgrowhuntfish.png?nolink|Grow Hunt Fish}}</wrap> **Grow Hunt Fish** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghforchardforester.png?nolink|Orchard Forester}}</wrap> **Orchard Forester** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfplumforester.png?nolink|Plum Forester}}</wrap> **Plum Forester**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarforester.png?nolink|Log Foresters}}</wrap> **Log Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarorchardforester.png?nolink|Orchard Foresters}}</wrap> **Orchard Foresters** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildghfplumforester.png?nolink|Plum Forester}}</wrap> **Plum Forester**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:plum|Plum]]
+
+----
+
+This building originally came from **Grow, Hunt, Fish v1.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=537|WoB]]
+
+{{tag>Building Forester KidGrowHuntFish}}

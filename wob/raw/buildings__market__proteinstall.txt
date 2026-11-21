@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Protein Stall ======
+----
+
+<WRAP right>
+^  Protein Stall                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildproteinstall.png?nolink|Protein Stall}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  Radius  |  28  |
+|  Storage  |  600  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small market stall specializing in protein foods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketstall.png?nolink|Market Stalls, Carts, and Wagons}}</wrap> **Market Stalls, Carts, and Wagons** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketstall.png?nolink|Market Stalls}}</wrap> **Market Stalls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildproteinstall.png?nolink|Protein Stall}}</wrap> **Protein Stall**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccstorage.png?nolink|Storage, Markets, and Trade}}</wrap> **Storage, Markets, and Trade** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/marketitems.png?nolink|Market Buildings}}</wrap> **Market Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmarketstall.png?nolink|Market Stalls}}</wrap> **Market Stalls** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildproteinstall.png?nolink|Protein Stall}}</wrap> **Protein Stall**
+
+----
+
+===== Stocks =====
+
+  * Protein
+
+----
+
+===== Other Information =====
+
+{{tag>Market}}

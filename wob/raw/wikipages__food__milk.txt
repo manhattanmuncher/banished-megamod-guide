@@ -1,0 +1,64 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Milk ======
+----
+
+<WRAP right>
+^  Milk                                           ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  5/7  |
+|  Edible  |  Yes  |
+|  Trade Value  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/milk.png?nolink|Milk}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Milk is an edible food item available in the Banished MegaMod. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Milk Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:animal_pens:abpanimalbarn|ABP Animal Barn]]
+  * [[livestock:livestockblrkcow|Friesian Cows]] (periodic)
+  * [[livestock:livestockmilkycow|Red Friesian]] (periodic)
+  * [[livestock:livestocklonghorn|Longhorn Cows]] (periodic)
+  * [[livestock:livestockgoat|Goats]] (periodic)
+  * [[buildings:animal_pens:animalpen2|Milk Pen]]
+  * [[buildings:animal_pens:animalshed|Animal Shed (Christmas)]]
+  * [[buildings:animal_pens:animalshedsa|Animal Shed (SA)]]
+  * [[buildings:animal_pens:crystalgoatpen|Small Animal Pen]]
+  * [[buildings:animal_pens:fbanimalbarn01|Animal Barn]]
+  * [[buildings:animal_pens:otanimalshed|Animal Shed (Old Town)]]
+  * [[buildings:animal_pens:otanimalshedstone|Animal Shed (Old Town Stone)]]
+  * [[buildings:animal_pens:settlersanimalshed|Animal Shed (Settlers)]]
+  * Produced at the [[buildings:animal_pens:aprestoredshed|Restored Shed]]
+  * Produced at the [[buildings:animal_pens:aspcows|Cow Shed]]
+  * Produced at the [[buildings:animal_pens:abandonedshed|Abandoned Shed]]
+  * Produced at the [[buildings:animal_pens:cowbarn|Milking Barn]]
+  * Produced at the [[buildings:dairy:crystalmilk|CrystalMilk]]
+  * Produced at the [[buildings:fields:kf04|Farmyard 04]]
+  * Produced at the [[buildings:fields:kf05|Farmyard 05]]
+  * Produced at the [[buildings:fields:kf06|Farmyard 06]]
+  * Produced at the [[buildings:fields:kf14|Farmyard 14]]
+  * Produced at the [[buildings:fields:kf15|Farmyard 15]]
+  * Produced at the [[buildings:dairy:shcow|Cow Pasture (Summer Haven)]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:dairy:dairy|Creamery]]
+  * Used at the [[buildings:dairy:tinydairy|Tiny Dairy]]
+  * Used at the [[buildings:dairy:wpdairyman|WP Dairyman]] (for Cheese, Cream, Butter, Yogurt)
+  * Exported at the [[buildings:trading_post:garemerchant1|Station: Food Export (Choo Choo)]] (for Coins)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein DairyGoods}}

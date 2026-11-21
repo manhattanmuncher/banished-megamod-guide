@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Village Tannery ======
+----
+
+<WRAP right>
+^  Village Tannery                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtannery.png?nolink|Village Tannery}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/tanner.png?nolink|Tanner}}</wrap> Tanner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  800  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:wood:log|Wood]]  |  38  |
+|  [[WikiPages:stone:stone|Stone]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Discrepancy / EB Small Village tannery. A Tanner cures raw Leather with Water and Salt to produce Cured Leather.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefinedtextiles.png?nolink|Clothing and Fabrics}}</wrap> **Clothing and Fabrics** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbartanning.png?nolink|Tanning}}</wrap> **Tanning** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtannery.png?nolink|Village Tannery}}</wrap> **Village Tannery**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbar.png?nolink|EB Toolbar}}</wrap> **EB Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillage.png?nolink|EB Village}}</wrap> **EB Village** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ebtoolbarvillageresources.png?nolink|Village Resources}}</wrap> **Village Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildsvtannery.png?nolink|Village Tannery}}</wrap> **Village Tannery**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                  ^ Produces                                              ^
+| 1 [[WikiPages:textile:leather|Leather]] + 1 [[WikiPages:food:water|Water]] + 3 [[WikiPages:coalfuel:salt|Salt]]                              | [[WikiPages:custom2:cured_leather|Cured Leather]]     |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Clothing EB}}

@@ -1,0 +1,55 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Walnut ======
+----
+
+<WRAP right>
+^  Walnut                                         ^  xBAN  ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  50/65  |  50/65  |
+|  Edible  |  Yes  |  Yes  |
+|  Trade Value  |  1  |  1  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/walnut.png?nolink|Walnut}}  ||
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Walnut is an edible food item available in Banished. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 1, but it plays an important role in the colony's production chains.
+
+----
+
+===== Walnut Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:hedgerow:fbthedgerow01|Hedgerow 01 (Friendly Blue Too)]]
+  * Produced at the [[buildings:hedgerow:hedgefall02|Fall 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:hedgerow:hedgesummer02|Summer 02 (Hedgerow)]] (random)
+  * Produced at the [[buildings:gathering:grannypark2|Granny Park II]]
+  * Produced at the [[buildings:gathering:fhplatformnuts|Nut Haven (Forest Haven)]]
+  * Produced at the [[buildings:gathering:fpnutgrove|Nut Grove (Friendly Pumpkin)]]
+  * Produced at the [[buildings:gathering:ftmagicalgarden|Magical Garden (Fairy Tale Cottage)]]
+  * Produced at the [[buildings:gathering:fishshipsjettyemergency|Supply Jetty]]
+  * Produced at the [[buildings:gathering:fruitnut03|Fruit and Nut 03]]
+  * Produced at the [[buildings:gathering:dwwalnuttree|Walnut Tree]]
+  * Produced at the [[buildings:gathering:magicalgarden|Magical Garden (Forest Deep)]]
+  * Produced at the [[buildings:trading_post:otplootship|Loot Ship (Old Town Ports)]]
+  * Produced at the [[buildings:trading_post:smugglerscave|Smuggler's Cave]]
+  * Produced at the [[buildings:trading_post:trainfoodcar|Train Food Car]]
+
+==== Processing / what to do with ====
+  * Used at the [[buildings:bakery:bakerycc|Bakery]]
+  * Used at the [[buildings:food:dsroastednutscampfire|Campfire, Roasting Nuts]]
+  * Used at the [[buildings:bakery:gnbaker|Friendly Baker (Granny Neighborhood)]]
+  * Used at the [[buildings:bakery:tinybaker|Tiny Baker]]
+  * Used at the [[buildings:bakery:wpbaker|WP Baker]] (for Nut Bread)
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein Vanilla}}

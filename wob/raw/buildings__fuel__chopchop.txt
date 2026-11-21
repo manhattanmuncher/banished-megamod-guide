@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Chop-Chop ======
+----
+
+<WRAP right>
+^  Chop-Chop                                                                         ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchopchop.png?nolink|Chop-Chop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2  |
+|  Tool  |  Axe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  1  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  12  |
+|  [[WikiPages:wood:log|Wood]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Chop-Chop is a small woodworking building where a cutter processes logs into either lumber or firewood. It is one of the most efficient early-game buildings for producing both fuel and construction materials from a single worker.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfuel.png?nolink|Fuel Production}}</wrap> **Fuel Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchopchop.png?nolink|Chop-Chop}}</wrap> **Chop-Chop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarresource.png?nolink|Resource Production}}</wrap> **Resource Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildchopchop.png?nolink|Chop-Chop}}</wrap> **Chop-Chop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                        ^ Produces                                              ^
+| 2 [[WikiPages:wood:log|Wood]]                                      | [[WikiPages:custom5:lumber|Lumber]]                   |
+| 1 [[WikiPages:wood:log|Wood]]                                      | [[WikiPages:fuel:firewood|Firewood]]                  |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Chop-Chop Final**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=651|WoB]]
+
+{{tag>Building Fuel ChopChopMod}}

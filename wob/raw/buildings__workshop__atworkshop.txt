@@ -1,0 +1,51 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== AT Workshop ======
+----
+
+<WRAP right>
+^  AT Workshop                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatworkshop.png?nolink|AT Workshop}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolmaker.png?nolink|Toolmaker}}</wrap> Toolmaker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  5  |
+^  Build Cost                                                                      ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  32  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+</WRAP>
+<WRAP right></WRAP>
+
+The AT Workshop is an Among Trees building that crafts tools and clothing from wood, stone, iron, leather, flax, and down.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildat.png?nolink|Among Trees}}</wrap> **Among Trees** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatworkshop.png?nolink|AT Workshop}}</wrap> **AT Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildat.png?nolink|Among Trees}}</wrap> **Among Trees** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatworkshop.png?nolink|Workshop}}</wrap> **Workshop**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarworkshop.png?nolink|Workshops}}</wrap> **Workshops** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildatworkshop.png?nolink|AT Workshop}}</wrap> **AT Workshop**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                     ^ Produces                                              ^
+| 2 [[WikiPages:wood:log|Wood]]                                                                                                                   | [[WikiPages:tool:wooden_tool|Wooden Tool]]            |
+| 1 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:stone:stone|Stone]]                                                                               | [[WikiPages:tool:stone_tool|Stone Tool]]              |
+| 1 [[WikiPages:wood:log|Wood]] + 1 [[WikiPages:iron:iron|Iron]]                                                                                  | [[WikiPages:tool:tool|Tool]]                          |
+| 1 [[WikiPages:wood:log|Wood]] + 2 [[WikiPages:iron:iron|Iron]] + 1 [[WikiPages:coalfuel:coal|Coal]]                                             | [[WikiPages:tool:hardened_tool|Hardened Tool]]        |
+| 2 [[WikiPages:textile:leather|Leather]]                                                                                                         | [[WikiPages:clothing:leathercoat|Leather Coat]]       |
+| 4 [[WikiPages:textile:flax|Flax]]                                                                                                               | [[WikiPages:clothing:linen_clothing|Linen Clothing]]  |
+| 2 [[WikiPages:textile:down|Down]] + 2 [[WikiPages:textile:leather|Leather]]                                                                     | [[WikiPages:clothing:wintercoat|Winter Coat]]         |
+| 2 [[WikiPages:textile:down|Down]] + 4 [[WikiPages:textile:flax|Flax]]                                                                          | [[WikiPages:clothing:wintercoat|Winter Coat]]         |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Tool Clothing AmongTrees}}

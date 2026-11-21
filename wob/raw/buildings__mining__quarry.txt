@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Quarry ======
+----
+
+<WRAP right>
+^  Quarry                                                                           ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquarry.png?nolink|Quarry}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  21 × 17  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 30 (default 15)  ||
+|  Tool  |  Pickaxe  ||
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  ||
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  ||
+|  Happiness  |  Detraction (radius 30)  ||
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  2,000  |  1,100  |
+|  Upgrades To  |  –  |  [[buildings:mining:quarrydeep|Deep Quarry]] or [[buildings:mining:quarryrenew|Quarry (Renew)]]  |
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  100  ||
+|  [[WikiPages:wood:log|Log]]  |  80  |  60  |
+|  [[WikiPages:iron:iron|Iron]]  |  40  |  –  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  –  |  60  |
+</WRAP>
+<WRAP right></WRAP>
+
+The Quarry is the vanilla Banished quarry. The MegaMod reduces max production to 1,100 (from vanilla's 2,000) and adds upgrade paths when depleted: it can be upgraded into the Deep Quarry chain for increased Stone output, or the Quarry (Renew) chain for extended production.
+
+----
+
+===== Where to Find =====
+
+The Quarry is found in the vanilla Banished **Mines** building category.
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining Quarry}}

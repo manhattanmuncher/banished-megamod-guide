@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Herbalist Buildings ======
+----
+
+Buildings where settlers gather and process medicinal herbs.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:herbalist:cornerapothecaryt1|Apothecary (Corner T1)]] | NMT Corner apothecary, tier 1; brews healing, love, and fertility potions from flowers and herbs |
+| [[buildings:herbalist:cornerapothecaryt2|Apothecary (Corner T2)]] | NMT Corner apothecary, tier 2 |
+| [[buildings:herbalist:cornerapothecaryt3|Apothecary (Corner T3)]] | NMT Corner apothecary, tier 3 |
+| [[buildings:herbalist:cornerapothecaryt4|Apothecary (Corner T4)]] | NMT Corner apothecary, tier 4 |
+| [[buildings:herbalist:cornerapothecaryt5|Apothecary (Corner T5)]] | NMT Corner apothecary, tier 5 |
+| [[buildings:herbalist:cornerapothecaryt6|Apothecary (Corner T6)]] | NMT Corner apothecary, tier 6 |
+| [[buildings:herbalist:cornerapothecaryt7|Apothecary (Corner T7)]] | NMT Corner apothecary, tier 7 |
+| [[buildings:herbalist:cornerapothecaryt8|Apothecary (Corner T8)]] | NMT Corner apothecary, tier 8 |
+| [[buildings:herbalist:ebapothecary|Apothecary (EB)]] | EB mod apothecary; distills Herbal Tea, Healing Oil, and Healing Broth from herbs, oils, and wine |
+| [[buildings:herbalist:jinxiebittyherbalist|Bitty Herbalist]] | Jinxie's Bitty Village Set building; workers gather herbs for medicinal use |
+| [[buildings:herbalist:ftcompostheap|Compost Bin (Fairy Tale Cottage)]] | Fairy Tale Cottage composting facility; converts plant-based foods into Compost |
+| [[buildings:herbalist:dockhealer|Herb Grower]] | Colonial Charter Dock building; Apothecary grows Healing Herbs and treats sick villagers |
+| [[buildings:herbalist:ootwherbtherapist|Herb Therapist (Out of This World)]] | Out of This World herb therapist; Herbalist gathers wild Herbs within a 24-tile radius; also heals citizens |
+| [[buildings:herbalist:fbherbalist01|Herbalist (Friendly Blue)]] | Friendly Blue herbalist; grows Herbs and heals sick citizens who visit |
+| [[buildings:herbalist:settlersherbalist|Herbalist (Settlers)]] | Kid Settlers herbalist; Herbalists gather wild Herbs within a 30-tile radius; also heals citizens |
+| [[buildings:herbalist:shwherbalist|Herbalist (Summer Haven)]] | Kid Summer Haven compact herbalist workplace; Herbalists gather wild Herbs within a 24-tile radius; also heals citizens |
+| [[buildings:herbalist:ttherbalist|Herbalist (Tree Topper)]] | Tree Topper herbalist shelter; Herbalists gather wild Herbs within a 30-tile radius; also heals citizens |
+| [[buildings:herbalist:nmt30fcherbalist|Herbalist District]] | NMT Forest Center herbalist district; Herbalists gather wild Herbs within a 40-tile radius |
+| [[buildings:herbalist:nmt30saherbalist|Herbalist Hut]] | NMT Forest Center standalone herbalist hut; Herbalists gather wild Herbs within a 30-tile radius |
+| [[buildings:herbalist:kbbspiceshack|KBB Spice Shack]] | Butcher & Baker spice shack; Worker grows and harvests Spices year-round with no input materials |
+| [[buildings:herbalist:nvmedicineman|Medicine Man (Native Village)]] | Native Village medicine man lodge; Herbalists gather wild Herbs within a 30-tile radius; also heals citizens |
+| [[buildings:herbalist:otapothecary|Old Apothecary]] | Kid Old Town herbalist; Herbalists gather wild Herbs within a 24-tile radius; also heals citizens |
+| [[buildings:herbalist:oldhovelherbalist|Old Herbalist (Old Hovels)]] | Old Hovels herbalist; Herbalists gather wild Herbs within a 24-tile radius; also heals citizens |
+| [[buildings:herbalist:pineherbalist|Pine Herbalist]] | Maritimes Pine Set herbalist; Herbalists gather wild Herbs within a 20-tile radius; also heals citizens |
+| [[buildings:herbalist:rhh|Small Town Herbalist]] | Kid Row Business herbalist; Herbalists gather wild Herbs within a 30-tile radius; also heals citizens |
+| [[buildings:herbalist:apspiceshack|Spice Shack (Abandoned Places)]] | Abandoned Places restoration; Worker grows and harvests Spices year-round with no input materials |
+| [[buildings:herbalist:fpspiceshack|Spice Shack (Friendly Pumpkin)]] | Friendly Pumpkin spice garden; workers cultivate and harvest Spices |
+| [[buildings:herbalist:tinyherbalist|Tiny Herbalist]] | Kid Tiny Set compact herbalist with storage; Herbalists gather wild Herbs within a 30-tile radius; also heals citizens |
+| [[buildings:herbalist:tieredherbalist|Urban Herbalist]] | Modular Stacked Buildings urban herbalist; Herbalists gather wild Herbs within a 30-tile radius; also heals citizens |
+
+----
+
+{{tag>Buildings Herbalist}}

@@ -1,0 +1,111 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Climate ======
+----
+
+Climate determines the temperature range, seasonal weather patterns, and tornado frequency for a map. It is chosen when starting a new game and cannot be changed afterward. Temperature controls when crops can grow, how much firewood citizens consume, and how often citizens get sick.
+
+Banished tracks twelve weather periods per year (early spring through late winter). Citizens need clothing and firewood to survive cold periods; they only need clothing in warm climates.
+
+Growing crops require temperatures above freezing (32 °F). The winter low and summer high below are calculated directly from each climate's base temperature and seasonal range (base − range / base + range). Climates where the winter low stays above 32 °F allow year-round farming; those where the summer high barely exceeds 32 °F offer little or no growing season.
+
+Tornadoes spawn based on years and population. The **Tornado risk** column shows the average years between events at low population; large towns attract tornadoes more frequently.
+
+----
+
+===== Available Climates =====
+
+^ Climate ^ Display Name ^ Winter Low ^ Summer High ^ Growing Season ^ Tornado Risk ^ Notes ^
+| Very Mild | [CC] Very Mild | 20 °F | 80 °F | Moderate | Never | Low precipitation; very predictable year to year |
+| Mild | Mild | 20 °F | 80 °F | Moderate | ~100 years | Inherits Fair temperatures; more predictable weather |
+| Fair | Fair | 20 °F | 80 °F | Moderate | ~100 years | Baseline vanilla climate |
+| Harsh | Harsh | 20 °F | 80 °F | Moderate | ~100 years | Inherits Fair temperatures; high year-to-year variance |
+| Swampy | Swampy | 42 °F | 78 °F | Year-round | ~100 years | Never freezes; high rainfall |
+| Very Harsh | [CC] Very Harsh | −5 °F | 60 °F | Short | ~33 years | Cold, unpredictable, frequent tornadoes |
+| Mediterranean | [CC] Mediterranean (No Snow) | 40 °F | 90 °F | Year-round | ~100 years | No snow; dry summers |
+| Marine | [CC] Marine | 27 °F | 83 °F | Long | ~1,000 years | Near-freezing winters; almost no tornadoes; very stable |
+| Tropical | [CC] Tropical (No Snow) | 60 °F | 100 °F | Year-round | ~600 years | No snow; very hot; rare tornadoes |
+| Warm Arid | [CC] Warm Arid (No Snow – Low Rain) | 50 °F | 110 °F | Year-round | ~600 years | Extremely hot summers; very little rain |
+| Harsh Arid | [CC] Harsh Arid (Very Hot & Cold) | 20 °F | 110 °F | Moderate | ~600 years | Extreme temperature swings; rare tornadoes despite harsh name |
+| DS Temperate | Temperate | 15 °F | 90 °F | Long | ~889 years | Southern temperate feel; long warm summers; high variance |
+| DS Harsh Cold | Harsh Cold | 5 °F | 61 °F | Short | ~55 years | Cold and unpredictable; frequent tornadoes |
+| DS Harsh Hot | Harsh Hot | 55 °F | 113 °F | Year-round | ~255 years | Scorching summers; very high year-to-year variance |
+| Freezing | Freezing | −15 °F | 35 °F | Minimal | ~100 years | Peak summer barely exceeds freezing; almost no crop growth |
+| Perfect | Perfect | 80 °F | 80 °F | Year-round | ~100 years | Constant 80 °F; no seasons; no precipitation variance |
+| Siberian | Siberian | −50 °F | 100 °F | Very short | ~100 years | Extreme seasonal swings; brutal winters offset by hot summers |
+| Desert | Desert | 48 °F | 80 °F | Year-round | ~100 years | Never cold enough to freeze; low temperature variance |
+| More Snow | More Snow | 12 °F | 28 °F | None | ~100 years | Never thaws; no crop growth is possible |
+
+----
+
+===== Technical Parameters =====
+
+The values below come directly from each climate's RSC definition file.
+
+**Base Temp** — year-round average temperature in °F.\\
+**± Range** — seasonal swing; summer high = base + range, winter low = base − range.\\
+**Daily Swing** — how much temperature varies within a single weather period beyond the seasonal curve; higher values mean unpredictable warm and cold snaps within a season.\\
+**Yr/Yr Temp** — how much the base temperature shifts year to year; higher values mean some years run significantly warmer or colder than normal.\\
+**Yr/Yr Weather** — how much precipitation patterns shift year to year; higher values mean some years are far wetter or drier than the seasonal averages suggest.
+
+^ Climate ^ Base Temp (°F) ^ ± Range (°F) ^ Daily Swing (°F) ^ Yr/Yr Temp ^ Yr/Yr Weather ^
+| Very Mild | 50.0 | 30.0 | 1 | 10 | 0.10 |
+| Mild | 50.0 | 30.0 | 2 | 20 | 0.10 |
+| Fair | 50.0 | 30.0 | 5 | 40 | 0.40 |
+| Harsh | 50.0 | 30.0 | 15 | 50 | 0.60 |
+| Swampy | 60.0 | 18.0 | 2 | 10 | 0.30 |
+| Very Harsh | 27.5 | 32.5 | 15 | 25 | 0.60 |
+| Mediterranean | 65.0 | 25.0 | 5 | 20 | 0.10 |
+| Marine | 55.0 | 28.0 | 5 | 5 | 0.30 |
+| Tropical | 80.0 | 20.0 | 5 | 20 | 0.40 |
+| Warm Arid | 80.0 | 30.0 | 5 | 20 | 0.40 |
+| Harsh Arid | 65.0 | 45.0 | 10 | 20 | 0.40 |
+| DS Temperate | 52.5 | 37.5 | 5 | 45 | 0.30 |
+| DS Harsh Cold | 33.0 | 28.0 | 13 | 28 | 0.90 |
+| DS Harsh Hot | 84.0 | 29.0 | 5 | 55 | 0.20 |
+| Freezing | 10.0 | 25.0 | 5 | 20 | 0.80 |
+| Perfect | 80.0 | 0.0 | 5 | 10 | 0.00 |
+| Siberian | 25.0 | 75.0 | −20 | 20 | 0.50 |
+| Desert | 64.0 | 16.0 | 2 | 10 | 0.10 |
+| More Snow | 20.0 | 8.0 | 2 | 5 | 0.10 |
+
+Siberian's daily swing of −20 is unusual — a negative tolerance value means temperatures within each period tend to run //colder// than the seasonal curve, making winters even more brutal than the −50 °F baseline suggests.
+
+Warm Arid and Harsh Arid include a population component of 10,000 in their tornado formula, making tornadoes effectively impossible at normal town sizes despite the nominal 600-year period.
+
+----
+
+===== Seasonal Precipitation =====
+
+Precipitation chance per weather period (0.0 = never, 1.0 = always). These are base rates; actual chance varies year to year based on each climate's weather variance.
+
+^ Period ^ Very Mild ^ Mild / Fair / Harsh ^ Swampy ^ Very Harsh ^ Mediterranean ^ Marine ^ Tropical ^ Warm / Harsh Arid ^ DS Temperate ^ DS Harsh Cold ^ DS Harsh Hot ^ Freezing ^ Perfect ^ Siberian ^ Desert ^ More Snow ^
+| Early Spring | 0.20 | 0.50 | 0.50 | 0.70 | 0.50 | 0.60 | 0.50 | 0.00 | 0.60 | 0.90 | 0.30 | 0.80 | 0.50 | 0.60 | 0.10 | 0.20 |
+| Spring | 0.10 | 0.40 | 0.40 | 0.60 | 0.40 | 0.50 | 0.60 | 0.70 | 0.50 | 0.80 | 0.20 | 0.80 | 0.50 | 0.80 | 0.10 | 0.20 |
+| Late Spring | 0.10 | 0.40 | 0.40 | 0.60 | 0.20 | 0.50 | 0.70 | 0.30 | 0.40 | 0.70 | 0.20 | 0.80 | 0.50 | 0.70 | 0.10 | 0.20 |
+| Early Summer | 0.10 | 0.40 | 0.40 | 0.60 | 0.00 | 0.40 | 0.80 | 0.00 | 0.30 | 0.60 | 0.20 | 0.80 | 0.20 | 0.60 | 0.10 | 0.20 |
+| Summer | 0.10 | 0.30 | 0.30 | 0.50 | 0.00 | 0.60 | 0.90 | 0.00 | 0.20 | 0.50 | 0.10 | 0.80 | 0.20 | 0.50 | 0.10 | 0.20 |
+| Late Summer | 0.10 | 0.20 | 0.20 | 0.40 | 0.00 | 0.40 | 0.90 | 0.00 | 0.10 | 0.40 | 0.00 | 0.80 | 0.20 | 0.30 | 0.10 | 0.10 |
+| Early Fall | 0.10 | 0.30 | 0.30 | 0.50 | 0.20 | 0.40 | 0.80 | 0.00 | 0.20 | 0.30 | 0.10 | 0.80 | 0.30 | 0.40 | 0.10 | 0.10 |
+| Fall | 0.10 | 0.40 | 0.40 | 0.60 | 0.40 | 0.40 | 0.70 | 0.00 | 0.30 | 0.20 | 0.20 | 0.80 | 0.30 | 0.30 | 0.10 | 0.10 |
+| Late Fall | 0.20 | 0.50 | 0.50 | 0.70 | 0.50 | 0.50 | 0.60 | 0.00 | 0.50 | 0.30 | 0.30 | 0.80 | 0.30 | 0.40 | 0.10 | 0.20 |
+| Early Winter | 0.30 | 0.60 | 0.60 | 0.80 | 0.60 | 0.50 | 0.50 | 0.00 | 0.60 | 0.50 | 0.40 | 0.80 | 0.40 | 0.20 | 0.10 | 0.20 |
+| Winter | 0.30 | 0.70 | 0.70 | 0.90 | 0.90 | 0.60 | 0.40 | 0.00 | 0.70 | 0.60 | 0.50 | 0.80 | 0.40 | 0.20 | 0.10 | 0.20 |
+| Late Winter | 0.30 | 0.60 | 0.60 | 0.80 | 0.60 | 0.60 | 0.50 | 0.00 | 0.70 | 0.80 | 0.50 | 0.80 | 0.40 | 0.50 | 0.10 | 0.20 |
+
+Mild, Fair, and Harsh share identical base precipitation patterns — their differences are entirely in variance and daily swing, not the seasonal rain curve. Warm Arid and Harsh Arid also share the same precipitation pattern.
+
+----
+
+===== Notes =====
+
+  * **[CC]** = Colonial Charter climate. **DS** = Discrepancy climate. Unmarked climates are vanilla Banished or bundled mod climates.
+  * **Mild / Fair / Harsh** share the same base temperature (50 °F, ±30 °F swing). The difference is how much weather varies year to year: Mild is the most predictable, Harsh the most erratic.
+  * **Very Mild** also shares the same temperature profile as Fair, but with virtually no tornado risk and the most stable weather of any climate.
+  * **More Snow** is the only climate with a peak summer temperature below freezing — crops cannot grow at all.
+  * **Perfect** has no seasonal swing (range = 0), meaning no snow, no cold, no variation — a scenario rather than a realistic climate.
+  * **Siberian** has the widest temperature range (±75 °F), making winters lethal and summers hot, but the growing window is brief.
+
+----
+
+{{tag>Climate}}

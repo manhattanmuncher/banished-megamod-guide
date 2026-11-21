@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Bryggen Town Doctor ======
+----
+
+<WRAP right>
+^  Bryggen Town Doctor                                                               ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesdoctor.png?nolink|Bryggen Town Doctor}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Happiness  |  Health (radius 21)  |
+|  <abbr "Max citizens who can attend">Attendance</abbr>  |  12  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  55  |
+|  [[WikiPages:wood:log|Wood]]  |  34  |
+|  [[WikiPages:stone:stone|Stone]]  |  21  |
+|  [[WikiPages:iron:iron|Iron]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Bryggen-style doctor's office staffed by a Doctor, providing Health happiness within a radius of 21 tiles and treating up to 12 patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhouses.png?nolink|DS TownHouses}}</wrap> **DS TownHouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhousesb.png?nolink|Bryggen TownHouses}}</wrap> **Bryggen TownHouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhousesbstores.png?nolink|Bryggen Stores}}</wrap> **Bryggen Stores** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesdoctor.png?nolink|Bryggen Town Doctor}}</wrap> **Bryggen Town Doctor**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesdoctor.png?nolink|Bryggen Town Doctor}}</wrap> **Bryggen Town Doctor**
+
+----
+
+===== Other Information =====
+
+This building originally came from **TownHouses v3.0.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=301|WoB]], [[https://www.nexusmods.com/banished/mods/66|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1237321261|Steam]]
+
+{{tag>Building Hospital DS}}

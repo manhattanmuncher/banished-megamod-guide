@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Flax Patch ======
+----
+
+<WRAP right>
+^  Flax Patch                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfpatchflax.png?nolink|Flax Patch}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/laborer.png?nolink|Worker}}</wrap> Worker  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 8  |
+|  <abbr "Min/Max Workers (Default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  <abbr "Required tool">Tool</abbr>  |  Hoe  |
+|  <abbr "Time for one work cycle">Work Time</abbr>  |  32.0  |
+|  <abbr "Items produced per work cycle">Work Required</abbr>  |  3  |
+^  Build Cost                                                                        ^^
+|  Work Required  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  3  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+The Flax Patch is a crop field from the Mexican Fantasy mod in the Banished MegaMod. Workers irrigate the patch with Water to grow Flax.
+
+----
+
+===== Toolbar =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfpatch.png?nolink|Crop Patch}}</wrap> **Crop Patch** → Flax Patch
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmf.png?nolink|Mexican Fantasy}}</wrap> **Mexican Fantasy** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmfpatch.png?nolink|Crop Patch}}</wrap> **Crop Patch** → Flax Patch
+
+----
+
+===== Recipes =====
+
+^ Ingredients ^ Produces ^
+| 2 [[WikiPages:food:water|Water]] | [[WikiPages:textile:flax|Flax]] |
+
+===== Other Information =====
+
+This building originally came from **Mexican Fantasy v2.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=575|WoB]], [[https://banishedinfo.com/mods/view/837-Mexican-Fantasy|BI]]
+
+{{tag>Textile}}

@@ -1,0 +1,45 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Lumber Cutter ======
+----
+
+<WRAP right>
+^  Lumber Cutter                                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnslumbercutter.png?nolink|Lumber Cutter}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/cutter.png?nolink|Cutter}}</wrap> Cutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default 1)  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  35  |
+|  [[WikiPages:wood:log|Wood]]  |  30  |
+|  [[WikiPages:iron:iron|Iron]]  |  5  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Lumber Cutter from the NS Inshore mod that saws raw wood into lumber planks.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkresources.png?nolink|RK Transport}}</wrap> **RK Transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnslumbercutter.png?nolink|Lumber Cutter}}</wrap> **Lumber Cutter**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarconstruction.png?nolink|Construction}}</wrap> **Construction** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnslumbercutter.png?nolink|Lumber Cutter}}</wrap> **Lumber Cutter**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                       ^ Produces                                  ^
+| 4 [[WikiPages:wood:log|Wood]]                     | [[WikiPages:custom5:lumber|Lumber]]       |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes NS Inshore Fisheries v103**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=223|WoB]]
+
+{{tag>Building Milling}}

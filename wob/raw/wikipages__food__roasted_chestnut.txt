@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Roasted Chestnut ======
+----
+
+<WRAP right>
+^  Roasted Chestnut                               ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Protein  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  7/8  |
+|  Edible  |  Yes  |
+|  Trade Value  |  2  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/xmaschestnut.png?nolink|Roasted Chestnut}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+Roasted Chestnut is a food item made by roasting Chestnuts over a fire. Citizens eat it as part of their diet, contributing to variety and overall happiness. Its trade value is low at 2. It is made at the [[buildings:food:marketfallfood|Market Fall Food]] and the [[buildings:food:xmasmarket|Xmas Market]]. (It was previously two separate items, the Market version and the Xmas version; they are now one.)
+
+----
+
+===== Roasted Chestnut Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:food:marketfallfood|Market Fall Food]]
+  * Produced at the [[buildings:food:xmasmarket|Xmas Market]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Edible Protein}}

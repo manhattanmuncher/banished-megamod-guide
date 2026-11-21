@@ -1,0 +1,40 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Doctor House ======
+----
+
+<WRAP right>
+^  Doctor House                                                                      ^  xBAN  ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor House}}</wrap>  ||
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor}}</wrap> Doctor  ||
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  ||
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  ||
+|  Happiness  |  Health (radius 30)  ||
+^  Build Cost  ^^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  150  ||
+|  [[WikiPages:wood:log|Log]]  |  52  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  78  |  60  |
+|  [[WikiPages:iron:iron|Iron]]  |  32  |  –  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  –  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial-era replacement for the vanilla Doctor House. A Doctor stationed here treats sick citizens within a service radius and accommodates a number of patients.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhospital.png?nolink|Hospitals}}</wrap> **Hospitals** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor House}}</wrap> **Doctor House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccservices.png?nolink|Town Services}}</wrap> **Town Services** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhealthandhealing.png?nolink|Health and Healing}}</wrap> **Health and Healing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor House}}</wrap> **Doctor House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/doctor.png?nolink|Doctor House}}</wrap> **Doctor House**
+
+----
+
+===== Other Information =====
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Hospital ColonialCharter}}

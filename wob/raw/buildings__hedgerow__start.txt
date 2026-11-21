@@ -1,0 +1,28 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hedgerow Buildings ======
+----
+
+Hedgerows and natural structures where settlers gather wild resources.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:hedgerow:hedgefall01|Fall 01]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgefall02|Fall 02]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgefall03|Fall 03]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:fbthedgerow01|Hedgerow 01]] | Friendly Blue Too natural structure; workers harvest Walnuts, Flax, or Firewood; free to build |
+| [[buildings:hedgerow:fbthedgerow02|Hedgerow 02]] | Friendly Blue Too natural structure; workers harvest Apples, Oats, or Firewood; free to build |
+| [[buildings:hedgerow:fbthedgerow03|Hedgerow 03]] | Friendly Blue Too natural structure; workers harvest Oats, Honey, Rose Hips, or Flax; free to build |
+| [[buildings:hedgerow:icecastlepatch|Ice Castle Hedgerow]] | Kid Ice Castle gathering hedgerow; blueberry/herb/firewood; radius 24; free |
+| [[buildings:hedgerow:hedgespring01|Spring 01]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgespring02|Spring 02]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgespring03|Spring 03]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgesummer01|Summer 01]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgesummer02|Summer 02]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgesummer03|Summer 03]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+| [[buildings:hedgerow:hedgewinter|Winter]] | Hedgerow gathering structure; workers harvest random wild goods; free to build |
+
+----
+
+{{tag>Buildings Hedgerow}}

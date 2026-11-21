@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== I See Fire — Torches & Candles ======
+----
+
+<WRAP right>
+^  I See Fire — Torches & Candles                                                    ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/realwalltorch.png?nolink|I See Fire}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+The decorative lighting pieces from RedKetchup's I See Fire mod — free-standing and wall-mounted torches plus candles, used to light streets, walls and courtyards at night. They are free to place. (The mod's larger fire features — Real Huge Bonfire, Real Bonfire, Real Firecamp and Real Firepot — are happiness/gathering buildings documented on their own pages.)
+
+----
+
+===== Variants =====
+
+  * **Real Torch** — a torch that stands on the ground.
+  * **Real Wall Torch** — a wall-mounted torch, in 9 mounting positions (Pos 1–9) to sit at the right height on different walls.
+  * **Candles on a Stone** — a small cluster of candles.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/iseefiretoolbar.png?nolink|I See Fire}}</wrap> **I See Fire** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/realwalltorch.png?nolink|Real Wall Torch}}</wrap> **Real Wall Torch** (for the wall-torch positions) or the torch / candle piece
+
+----
+
+This building originally came from **I See Fire v1.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=191|WoB]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=844264844|Steam]]
+
+{{tag>Building Decorations ISeeFire}}

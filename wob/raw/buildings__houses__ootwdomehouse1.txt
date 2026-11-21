@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dome House 1 ======
+----
+
+<WRAP right>
+^  Dome House 1                                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwdomehouse1.png?nolink|Dome House 1}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 2  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  4  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                           ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  24  |
+|  [[WikiPages:coalfuel:steel|Steel]]  |  8  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+|  [[WikiPages:custom5:glass|Glass]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A KID Out Of This World dome-style residence; houses up to 4 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwdomehouse1.png?nolink|Dome House 1}}</wrap> **Dome House 1**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Toolbar}}</wrap> **KID Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootw.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwdomehouse1.png?nolink|Dome House 1}}</wrap> **Dome House 1**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarhousing.png?nolink|KID Homes and Housing}}</wrap> **KID Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwcanopyhouse1.png?nolink|Out Of This World}}</wrap> **Out Of This World** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildootwdomehouse1.png?nolink|Dome House 1}}</wrap> **Dome House 1**
+
+----
+
+This building originally came from **Out of This World Houses v2.0**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=641|WoB]]
+
+{{tag>Building Houses KidOutOfThisWorld}}

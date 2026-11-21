@@ -1,0 +1,49 @@
+<!-- title: Farms and food -->
+<h1>Farms and food</h1>
+<p class="lead">What the wiki says about getting the most food, turned into a simple layout. The wiki has no data on the ideal field size per farmer, so this guide doesn't give one.</p>
+
+<h2>The farm block</h2>
+<p>The wiki's one rule about efficiency: workers walk home to eat and to warm up in winter, so <b>shorter home-to-work walks mean more time working and more output</b>. Building homes near the workplace fixes long walks (<a href="#/mechanics:pathing:start">Pathfinding</a>). A farm block puts everything a farmer needs within a few steps:</p>
+<figure class="diagram">
+<svg viewBox="0 0 360 360" role="img" aria-label="Four fields around a center with a barn, houses and a well">
+  <defs><pattern id="crop" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 10 L10 0" stroke="#6d8f3e" stroke-width="2"/></pattern></defs>
+  <rect x="10" y="10" width="150" height="150" rx="6" fill="#c9d99a" stroke="#6d8f3e"/><rect x="10" y="10" width="150" height="150" rx="6" fill="url(#crop)" opacity=".45"/>
+  <rect x="200" y="10" width="150" height="150" rx="6" fill="#e4cf8a" stroke="#a7891f"/><rect x="200" y="10" width="150" height="150" rx="6" fill="url(#crop)" opacity=".35"/>
+  <rect x="10" y="200" width="150" height="150" rx="6" fill="#d9c49a" stroke="#8a6a3f"/><rect x="10" y="200" width="150" height="150" rx="6" fill="url(#crop)" opacity=".35"/>
+  <rect x="200" y="200" width="150" height="150" rx="6" fill="#bcd39b" stroke="#5f8a3a"/><rect x="200" y="200" width="150" height="150" rx="6" fill="url(#crop)" opacity=".45"/>
+  <rect x="160" y="0" width="40" height="360" fill="#b9a98c"/><rect x="0" y="160" width="360" height="40" fill="#b9a98c"/>
+  <rect x="140" y="140" width="80" height="80" rx="6" fill="#fffdf8" stroke="#5b4426" stroke-width="2"/>
+  <text x="180" y="176" text-anchor="middle" font-size="13" font-weight="700" fill="#2b2620">Barn</text>
+  <text x="180" y="194" text-anchor="middle" font-size="11" fill="#2b2620">+ homes + well</text>
+  <text x="85" y="90" text-anchor="middle" font-size="14" font-weight="700" fill="#2b2620">Crop A</text>
+  <text x="275" y="90" text-anchor="middle" font-size="14" font-weight="700" fill="#2b2620">Crop B</text>
+  <text x="85" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#2b2620">Crop C</text>
+  <text x="275" y="280" text-anchor="middle" font-size="14" font-weight="700" fill="#2b2620">Orchard</text>
+</svg>
+<figcaption>Four fields around one center. Roads cross in the middle, where the barn, the farmers' homes and a well sit.</figcaption>
+</figure>
+<ol class="steps">
+  <li><b>Center first</b> A [[b:buildings:storage:storagebarn]] (48 Logs + 16 Stone, stores food) and the farmers' homes in the middle.</li>
+  <li><b>Fields around it</b> [[b:buildings:fields:cropfield|Crop Fields]] are free to place. Draw them so every side touches the center roads.</li>
+  <li><b>Set workers on every field</b> In MegaMod a new Crop Field starts with <b>1 worker</b> (max 25); vanilla starts with 4 (max 6). An [[b:buildings:fields:orchard]] also starts with 1 in MegaMod (max 25; vanilla 3, max 4). Raise them yourself.</li>
+  <li><b>Educate your farmers</b> Every crop page gives two yields: uneducated / educated. For example [[i:wikipages:food:bean]]: 20 / 28. Build a [[b:buildings:schools:schoolhouse]].</li>
+</ol>
+
+<h2>Timing with the seasons</h2>
+<ul>
+  <li>Crops only grow above freezing, 32 °F (<a href="#/climate:start">Climate</a>).</li>
+  <li>Growth times run from 2 to 3 months per crop (<a href="#/wikipages:seeds:start">Seeds</a>). Pick crops that fit your climate in the <a href="#/tool:planner">Season planner</a>.</li>
+  <li>Orchard trees take 24 months to mature, then fruit every 4 months. Plant them early; they take longest to pay off.</li>
+</ul>
+
+<h2>Food without seeds or seasons</h2>
+<p>Several MegaMod <b>patches</b> grow a crop <b>year-round with no input materials</b>, for example [[b:buildings:fields:patchbean]] (1 worker, 3 × 5 tiles) and [[b:buildings:fields:patchbarley]] (<a href="#/buildings:fields:start">Fields</a>). Greenhouses also grow food. The <a href="#/tool:planner">Season planner</a> lists every one, and the <a href="#/guide:cheatsheet">cheatsheet</a> ranks them.</p>
+
+<h2>Other food sources</h2>
+<ul>
+  <li>[[b:buildings:gathering:gatherershelter]], radius 35, wild food.</li>
+  <li>[[b:buildings:hunting:hunterlodge]], radius 34, meat and leather.</li>
+  <li>[[b:buildings:fishing:fishermansdock]], radius 14, fish.</li>
+  <li>A varied diet keeps people healthy: grain, fruit, vegetables and protein. Herbs from a [[b:buildings:gathering:herbalist]] cover gaps (<a href="#/mechanics:citizens:start">Citizens</a>).</li>
+  <li>Set food limits high enough for your population, or people starve even with productive farms (<a href="#/mechanics:limits:start">Resource Limits</a>).</li>
+</ul>

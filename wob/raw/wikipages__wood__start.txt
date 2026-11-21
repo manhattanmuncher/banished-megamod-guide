@@ -1,0 +1,18 @@
+~~NOTOC~~
+
+====== Wood & Logs ======
+----
+
+Raw timber and logs harvested by Woodcutters and Foresters. Used as a primary building and fuel material.
+
+**Storage:** Stockpile
+
+----
+
+===== Items =====
+
+  * {{https://sprites.worldofbanished.com/log.png?nolink|Log}} [[WikiPages:wood:log|Log]]
+
+----
+
+{{tag>Wood}}

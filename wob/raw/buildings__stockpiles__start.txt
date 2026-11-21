@@ -1,0 +1,47 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Stockpiles ======
+----
+
+Designated storage areas for bulk materials and resources.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:stockpiles:dockstockpile|Dock Fuel Storage]] | Colonial Charter dock stockpile; settlers store firewood, charcoal, and house fuels with 6,500-unit capacity |
+| [[buildings:stockpiles:dockstockpilel|Dock Wood Storage]] | Colonial Charter dock stockpile; settlers store raw logs with 6,500-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet1|Stockpile (NMT Corner T1)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet2|Stockpile (NMT Corner T2)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet3|Stockpile (NMT Corner T3)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet4|Stockpile (NMT Corner T4)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet5|Stockpile (NMT Corner T5)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet6|Stockpile (NMT Corner T6)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet7|Stockpile (NMT Corner T7)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:cornerstockpilet8|Stockpile (NMT Corner T8)]] | NMT Corner Buildings storage stockpile; settlers store fuel, wood, stone, iron, and construction materials with 12,000-unit capacity |
+| [[buildings:stockpiles:nmtstockpiledock|Stockpile (NMT Dock)]] | NMT Docks wood stockpile; settlers store fuel, logs, stone, iron, and industrial materials with 10,000-unit capacity |
+| [[buildings:stockpiles:nmtstockpilestonedock|Stockpile (NMT Stone Dock)]] | NMT Docks stone stockpile; settlers store fuel, logs, stone, iron, and industrial materials with 12,000-unit capacity |
+| [[buildings:stockpiles:rkcoveredstockpile|Stockpile: ALL]] | RK Editor's Choice draggable covered stockpile for all material types; settlers store fuel, wood, stone, iron, coal, industrial fuel, raw materials, and building supplies at 300 units per tile |
+| [[buildings:stockpiles:rkcoveredstockpilesconstruction|Stockpile: Construction]] | RK Editor's Choice draggable covered stockpile for construction materials; settlers store building supplies at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesconstruction|Stockpile: Construction (Open)]] | RK Editor's Choice open stockpile for building supplies; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesfirelog|Stockpile: FireLogs]] | RK Editor's Choice draggable covered stockpile for firelogs; settlers store wood and fuel at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesfirelog|Stockpile: FireLogs (Open)]] | RK Editor's Choice open stockpile for logs and firewood; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesfirewood|Stockpile: Firewood]] | RK Editor's Choice draggable covered stockpile for firewood; settlers store fuel at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesfirewood|Stockpile: Firewood (Open)]] | RK Editor's Choice open stockpile for firewood; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesindustrial|Stockpile: Industrial]] | RK Editor's Choice draggable covered stockpile for industrial fuel; settlers store industrial fuel at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesindustrial|Stockpile: Industrial (Open)]] | RK Editor's Choice open stockpile for industrial fuel; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesiron|Stockpile: Iron]] | RK Editor's Choice draggable covered stockpile for iron; settlers store iron at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesiron|Stockpile: Iron (Open)]] | RK Editor's Choice open stockpile for iron; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesironminerals|Stockpile: IronMinerals]] | RK Editor's Choice draggable covered stockpile for iron and minerals; settlers store iron and coal fuel at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesironminerals|Stockpile: IronMinerals (Open)]] | RK Editor's Choice open stockpile for iron and coal fuel minerals; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpileslog|Stockpile: Log]] | RK Editor's Choice draggable covered stockpile for logs; settlers store raw wood at 300 units per tile |
+| [[buildings:stockpiles:rkstockpileslog|Stockpile: Log (Open)]] | RK Editor's Choice open stockpile for logs; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesmaterials|Stockpile: Materials]] | RK Editor's Choice draggable covered stockpile for raw materials; settlers store raw materials at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesmaterials|Stockpile: Materials (Open)]] | RK Editor's Choice open stockpile for raw materials; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesminerals|Stockpile: Minerals]] | RK Editor's Choice draggable covered stockpile for minerals; settlers store coal fuel at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesminerals|Stockpile: Minerals (Open)]] | RK Editor's Choice open stockpile for coal and mineral fuels; 250 units per tile, 1×1 to 20×20 |
+| [[buildings:stockpiles:rkcoveredstockpilesstone|Stockpile: Stone]] | RK Editor's Choice draggable covered stockpile for stone; settlers store stone at 300 units per tile |
+| [[buildings:stockpiles:rkstockpilesstone|Stockpile: Stone (Open)]] | RK Editor's Choice open stockpile for stone; 250 units per tile, 1×1 to 20×20 |
+
+----
+
+{{tag>Buildings Stockpiles}}

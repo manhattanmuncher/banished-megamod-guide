@@ -1,0 +1,34 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Maritimes Riffle & Terrain Painting ======
+----
+
+<WRAP right>
+^  Maritimes Riffle & Terrain Painting                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesriffle01.png?nolink|Maritimes Riffle}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  Variable (drag to place)  |
+^  Build Cost                                                                         ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+A set of Necora Maritimes terrain-painting and water-feature tools. Use the **Riffle** pieces to add streams and waterfalls to rivers, and the **Painting** tools to flatten, dig, slope, and texture riverbeds and banks (driftwood, pebbles, edges) at several depths (0 / 0.25 / 0.50 / 0.75 m).
+
+----
+
+===== Variants =====
+
+^ Group ^ Tools ^
+| Riffle water features | Riffle Stream pieces (Riffle 01–06) |
+| Painting (depths 0–0.75m) | Center, Corner, Diagonal, Edge, Driftwood, Pebbles |
+| Terraforming | Flatten/Dig (0 to −0.25m+), Low, Slope, Waterfall |
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmaritimesriffle01.png?nolink|Maritimes Riffle}}</wrap> **Maritimes Riffle / Painting** → select tool
+
+----
+
+{{tag>Building Decorations Maritimes}}

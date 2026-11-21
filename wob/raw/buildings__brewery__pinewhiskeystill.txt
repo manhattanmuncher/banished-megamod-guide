@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Pine Whiskey Still ======
+----
+
+<WRAP right>
+^  Pine Whiskey Still                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinewhiskeystill.png?nolink|Pine Whiskey Still}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/distiller.png?nolink|Distiller}}</wrap> Distiller  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  5.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  50  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  20  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+|  [[WikiPages:iron:iron|Iron]]  |  10  |
+</WRAP>
+<WRAP right></WRAP>
+
+Necora Pine Set whiskey still; distils maple whiskey from grains and maple syrup using charcoal.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarluxury.png?nolink|Luxury}}</wrap> **Luxury** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinewhiskeystill.png?nolink|Pine Whiskey Still}}</wrap> **Pine Whiskey Still**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolbar.png?nolink|Necora's Maritimes Mods}}</wrap> **Necora's Maritimes Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/necoratoolfarming.png?nolink|Necora's Maritimes Farming}}</wrap> **Necora's Maritimes Farming** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolpinefoodproduction.png?nolink|Pine Food Production}}</wrap> **Pine Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildpinewhiskeystill.png?nolink|Pine Whiskey Still}}</wrap> **Pine Whiskey Still**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                                                                                                                                                  ^ Produces                                                    ^
+| 5 [[WikiPages:food:maple_syrup|Maple Syrup]] + 5 [[WikiPages:fuel:charcoal|Charcoal]] + 25 [[WikiPages:food:wheat|Wheat]]                                                                   | [[WikiPages:alcohol:maple_whiskey|Maple Whiskey]]           |
+| 5 [[WikiPages:food:maple_syrup|Maple Syrup]] + 5 [[WikiPages:fuel:charcoal|Charcoal]] + 25 [[WikiPages:food:barley|Barley]]                                                                  | [[WikiPages:alcohol:maple_whiskey|Maple Whiskey]]           |
+| 5 [[WikiPages:food:maple_syrup|Maple Syrup]] + 5 [[WikiPages:fuel:charcoal|Charcoal]] + 25 [[WikiPages:food:corn|Corn]]                                                                      | [[WikiPages:alcohol:maple_whiskey|Maple Whiskey]]           |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Maritimes Pine Set v105**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=233|WoB]]
+
+{{tag>Building Brewery Maritimes}}

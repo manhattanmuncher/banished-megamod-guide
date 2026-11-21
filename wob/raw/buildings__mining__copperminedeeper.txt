@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deep Copper Ore Mine Shaft ======
+----
+
+<WRAP right>
+^  Deep Copper Ore Mine Shaft                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildcoppermineupgrade.png?nolink|Deep Copper Ore Mine Shaft}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/miner.png?nolink|Miner}}</wrap> Miner  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 11  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default 5)  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  50  |
+|  Happiness  |  Detraction (radius 30)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+|  Upgraded From  |  [[buildings:mining:copperminedeep|Dark Copper Ore Mine Shaft]]  |
+^  Build Cost (Upgrade)                                                             ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  126  |
+|  [[WikiPages:wood:log|Wood]]  |  39  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  39  |
+|  [[WikiPages:custom0:lamp_oil|Lamp Oil]]  |  80  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Deeper Shaft Mine for mining Copper Ore. Provides vast amounts of resource production.
+
+----
+
+===== Where to Find =====
+
+Upgrade from the [[buildings:mining:copperminedeep|Dark Copper Ore Mine Shaft]].
+
+----
+
+===== Recipes =====
+
+The player selects which material to produce.
+
+^ Ingredients                                                ^ Produces                                          ^
+| —                                                          | [[WikiPages:coalfuel:copper_ore|Copper Ore]]      |
+| 1 [[WikiPages:custom3:furnace_fuel|Furnace Fuel]]          | [[WikiPages:custom1:copper|Copper]]               |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Mining CoppermineDeeper}}

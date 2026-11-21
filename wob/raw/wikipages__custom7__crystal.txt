@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Crystal ======
+----
+
+<WRAP right>
+^  Crystal                                        ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom7  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  4  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/magiccrystal.png?nolink|Crystal}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Crystal is a miscellaneous trade good available in the Banished MegaMod. It is stored in a Barn and mainly useful for trading with passing merchant caravans. It has a modest trade value of 4.
+
+----
+
+===== Crystal Mods =====
+
+==== Procuring / where to get ====
+  * Mined at the [[buildings:mining:fodlargemine|Large Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodsmallmine|Small Mine (Forge Of Dwarves)]]
+  * Mined at the [[buildings:mining:fodwlargemine|Large Mine (Forge Of Dwarves - Winter)]]
+  * Mined at the [[buildings:mining:fodwsmallmine|Small Mine (Forge Of Dwarves - Winter)]]
+  * Grown at the [[buildings:gathering:ftcrystalgarden|Crystal Garden (Fairy Tale Cottage)]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom7}}

@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Linen ======
+----
+
+<WRAP right>
+^  Linen                                          ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Textile  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  3/4  |
+|  Edible  |  No  |
+|  Trade Value  |  3  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  1  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/linen.png?nolink|Linen}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Linen is a processed fabric or refined textile in the Banished MegaMod. It is produced from raw fibers and stored in a Barn, used as an ingredient in clothing and other crafted goods. It carries a trade value of 8, making it a worthwhile commodity for trade.
+
+----
+
+===== Linen Mods =====
+
+==== Procuring / where to get ====
+  * Produced at the [[buildings:fields:patchflax|Flax Patch (Coats & Cloth)]]
+
+* Produced at the [[buildings:clothing:weavers|Weavers]]
+  * Produced at the [[buildings:clothing:dssvweaversguild|Weaving Guild]]
+  * Produced at the [[buildings:clothing:oldweavers|Old Weavers (Colonial)]]
+  * Produced at the [[buildings:clothing:pineloom|Pine Loom]]
+  * Produced at the [[buildings:milling:watermill3|Watermill 3]]
+
+==== Processing / what to do with ====
+
+* Used at the [[buildings:clothing:tailor|Tailor]]
+  * Used at the [[buildings:clothing:dssvflagmaker|Village Flag Maker]]
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom2}}

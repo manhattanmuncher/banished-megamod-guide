@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Violet Seeds ======
+----
+
+<WRAP right>
+^  Violet Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedziluolan.png?nolink|Violet Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  3,600  |
+</WRAP>
+<WRAP right></WRAP>
+
+Violet Seeds are used to plant [[WikiPages:food:violet|Violet]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 2.5-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}

@@ -1,0 +1,188 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fishing Buildings ======
+----
+
+Buildings where settlers catch fish from rivers, lakes, and coastlines.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:fishing:alotoffishes|Alotoffishes]] | KID mod fishing dock; Fisherman catches Fish from the water within a 20-tile radius |
+| [[buildings:fishing:bgfisherman|BG Fisherman]] | Bakery & Garden Alt fishing dock; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:ebsvbeachfish|Beach Fishing Dock]] | EB Small Village beach fishing dock; Fisherman catches Fish from the shoreline |
+| [[buildings:fishing:fishshipsjettyboat|Boat Jetty]] | Fish n Ships jetty; fishes from a boat |
+| [[buildings:fishing:canal4xfdockc1|Canal : Fishing Dock (Classic)]] | Canal fishing dock, Classic stone style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc1r|Canal : Fishing Dock (Classic, Reversed)]] | Canal fishing dock, Classic stone style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc2|Canal : Fishing Dock (Old Stones)]] | Canal fishing dock, Old Stones style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc2r|Canal : Fishing Dock (Old Stones, Reversed)]] | Canal fishing dock, Old Stones style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc3|Canal : Fishing Dock (Red Bricks)]] | Canal fishing dock, Red Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc3r|Canal : Fishing Dock (Red Bricks, Reversed)]] | Canal fishing dock, Red Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc4|Canal : Fishing Dock (Sand Bricks)]] | Canal fishing dock, Sand Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc4r|Canal : Fishing Dock (Sand Bricks, Reversed)]] | Canal fishing dock, Sand Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc5|Canal : Fishing Dock (Fire Bricks)]] | Canal fishing dock, Fire Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc5r|Canal : Fishing Dock (Fire Bricks, Reversed)]] | Canal fishing dock, Fire Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc6|Canal : Fishing Dock (Old Church)]] | Canal fishing dock, Old Church style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc6r|Canal : Fishing Dock (Old Church, Reversed)]] | Canal fishing dock, Old Church style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc7|Canal : Fishing Dock (Dark Stones)]] | Canal fishing dock, Dark Stones style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc7r|Canal : Fishing Dock (Dark Stones, Reversed)]] | Canal fishing dock, Dark Stones style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc8|Canal : Fishing Dock (Old Wood)]] | Canal fishing dock, Old Wood style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal4xfdockc8r|Canal : Fishing Dock (Old Wood, Reversed)]] | Canal fishing dock, Old Wood style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc1|Canal : Fishing Dock (Classic, 6×)]] | Canal 6-wide fishing dock, Classic stone style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc1r|Canal : Fishing Dock (Classic, 6×, Reversed)]] | Canal 6-wide fishing dock, Classic stone style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc2|Canal : Fishing Dock (Old Stones, 6×)]] | Canal 6-wide fishing dock, Old Stones style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc2r|Canal : Fishing Dock (Old Stones, 6×, Reversed)]] | Canal 6-wide fishing dock, Old Stones style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc3|Canal : Fishing Dock (Red Bricks, 6×)]] | Canal 6-wide fishing dock, Red Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc3r|Canal : Fishing Dock (Red Bricks, 6×, Reversed)]] | Canal 6-wide fishing dock, Red Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc4|Canal : Fishing Dock (Sand Bricks, 6×)]] | Canal 6-wide fishing dock, Sand Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc4r|Canal : Fishing Dock (Sand Bricks, 6×, Reversed)]] | Canal 6-wide fishing dock, Sand Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc5|Canal : Fishing Dock (Fire Bricks, 6×)]] | Canal 6-wide fishing dock, Fire Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc5r|Canal : Fishing Dock (Fire Bricks, 6×, Reversed)]] | Canal 6-wide fishing dock, Fire Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc6|Canal : Fishing Dock (Old Church, 6×)]] | Canal 6-wide fishing dock, Old Church style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc6r|Canal : Fishing Dock (Old Church, 6×, Reversed)]] | Canal 6-wide fishing dock, Old Church style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc7|Canal : Fishing Dock (Dark Stones, 6×)]] | Canal 6-wide fishing dock, Dark Stones style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc7r|Canal : Fishing Dock (Dark Stones, 6×, Reversed)]] | Canal 6-wide fishing dock, Dark Stones style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc8|Canal : Fishing Dock (Old Wood, 6×)]] | Canal 6-wide fishing dock, Old Wood style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal6xfdockc8r|Canal : Fishing Dock (Old Wood, 6×, Reversed)]] | Canal 6-wide fishing dock, Old Wood style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc1|Canal : Fishing Dock (Classic, 8×)]] | Canal 8-wide fishing dock, Classic stone style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc1r|Canal : Fishing Dock (Classic, 8×, Reversed)]] | Canal 8-wide fishing dock, Classic stone style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc2|Canal : Fishing Dock (Old Stones, 8×)]] | Canal 8-wide fishing dock, Old Stones style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc2r|Canal : Fishing Dock (Old Stones, 8×, Reversed)]] | Canal 8-wide fishing dock, Old Stones style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc3|Canal : Fishing Dock (Red Bricks, 8×)]] | Canal 8-wide fishing dock, Red Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc3r|Canal : Fishing Dock (Red Bricks, 8×, Reversed)]] | Canal 8-wide fishing dock, Red Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc4|Canal : Fishing Dock (Sand Bricks, 8×)]] | Canal 8-wide fishing dock, Sand Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc4r|Canal : Fishing Dock (Sand Bricks, 8×, Reversed)]] | Canal 8-wide fishing dock, Sand Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc5|Canal : Fishing Dock (Fire Bricks, 8×)]] | Canal 8-wide fishing dock, Fire Bricks style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc5r|Canal : Fishing Dock (Fire Bricks, 8×, Reversed)]] | Canal 8-wide fishing dock, Fire Bricks style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc6|Canal : Fishing Dock (Old Church, 8×)]] | Canal 8-wide fishing dock, Old Church style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc6r|Canal : Fishing Dock (Old Church, 8×, Reversed)]] | Canal 8-wide fishing dock, Old Church style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc7|Canal : Fishing Dock (Dark Stones, 8×)]] | Canal 8-wide fishing dock, Dark Stones style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc7r|Canal : Fishing Dock (Dark Stones, 8×, Reversed)]] | Canal 8-wide fishing dock, Dark Stones style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc8|Canal : Fishing Dock (Old Wood, 8×)]] | Canal 8-wide fishing dock, Old Wood style (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:canal8xfdockc8r|Canal : Fishing Dock (Old Wood, 8×, Reversed)]] | Canal 8-wide fishing dock, Old Wood style, mirrored (RKEC2 edition); Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:fishshipsjettycrab|Crab Jetty]] | Fish n Ships jetty; catches crabs |
+| [[buildings:fishing:dockfish|Dock Fish]] | Colonial Charter Dock fishing building; Fisherman catches Fish from a water-placed dock |
+| [[buildings:fishing:dsbridgestoneendfish|DS Stone Bridge End Fishing]] | DS Stone Bridge end fishing platform; Fisherman catches Fish from a 2×5 water platform |
+| [[buildings:fishing:dsbridgestone2x2fish|DS Stone Bridge Fishing (2×2)]] | DS Stone Bridge compact fishing platform; Fisherman catches Fish from a 2×2 water platform |
+| [[buildings:fishing:dsjabjetty3x3fish|DS JaB Jetty 3×3 Fish]] | DS JaB jetty fishing platform; Fisherman catches Fish from a 3×3 water platform; radius 5 |
+| [[buildings:fishing:dsjabjetty3x3fishtex2|DS JaB Jetty 3×3 Fish (Texture 2)]] | DS JaB jetty fishing platform, Texture 2 variant; Fisherman catches Fish from a 3×3 water platform; radius 5 |
+| [[buildings:fishing:dsjabjetty4x1aupz|DS JaB Jetty 4×1 A Up Z]] | DS JaB elevated arch bridge with fishing; Fisherman catches Fish from a 1×4 water section; radius 3 |
+| [[buildings:fishing:dsjabjetty4x1aupztex2|DS JaB Jetty 4×1 A Up Z (Texture 2)]] | DS JaB elevated arch bridge with fishing, Texture 2 variant; Fisherman catches Fish from a 1×4 water section; radius 3 |
+| [[buildings:fishing:dsjabjettyfishingspot|DS JaB Jetty Fishing Spot]] | DS JaB compact jetty fishing spot; single Fisherman catches Fish; radius 2 |
+| [[buildings:fishing:dsjabjettyfishingspotlow|DS JaB Jetty Fishing Spot Low]] | DS JaB compact jetty fishing spot, low elevation; single Fisherman catches Fish; radius 2 |
+| [[buildings:fishing:dsjabjettyfishingspott2|DS JaB Jetty Fishing Spot T2]] | DS JaB compact jetty fishing spot, Texture 2; single Fisherman catches Fish; radius 2 |
+| [[buildings:fishing:dsjabjettyfishingspott2low|DS JaB Jetty Fishing Spot T2 Low]] | DS JaB compact jetty fishing spot, Texture 2 low elevation; single Fisherman catches Fish; radius 2 |
+| [[buildings:fishing:nsinshoredorybuilder|Dory Builder (NS Inshore)]] | NS Inshore building; Boatman constructs Dories for the fishing fleet |
+| [[buildings:fishing:essaouiradock|Essaouira Dock]] | A8 Moroccan Misc fishing dock; Fisherman catches Fish from a small water-placed dock; radius 14 |
+| [[buildings:fishing:apfishingjetty|Fishing Jetty (Abandoned Places)]] | Abandoned Places water-based fishing jetty; Fisherman catches Fish — free to place |
+| [[buildings:fishing:jinxiebittyfisher|Bitty Fisher]] | Jinxie's Bitty Village Set water-placed fishing dock; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:kidfishfarm|Fish Farm]] | KID aquaculture facility; workers cultivate fish in a large pond |
+| [[buildings:fishing:fishshipsjettyfish|Fish Jetty (Fish n Ships)]] | Fish n Ships water's-edge jetty; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:ootwfishpod|Fish Pod (OOTW)]] | Out Of This World aquaculture building; workers harvest fish from a sealed aquatic environment |
+| [[buildings:fishing:rhxfish|Fisherman (Kid Row Business)]] | Kid Row Business fishing building; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:fhfisherman|Fisherman (Forest Haven)]] | Forest Haven fishing dock; Fisherman catches Fish from a water's-edge dock within a 14-tile radius |
+| [[buildings:fishing:settlersfisherman|Fisherman (Settlers)]] | Kid Settlers fisherman; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:shfisherman|Fisherman (Summer Haven)]] | Kid Summer Haven fisherman; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:fishshipsjettybridgefish|Fishing Bridge (Fish n Ships)]] | Fish n Ships water's-edge fishing bridge; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:ecfishermansdock|Fishing Dock (Editor's Choice)]] | Editor's Choice fishing dock; Fisherman catches Fish from a water-placed dock; radius 14 |
+| [[buildings:fishing:nmtfishingdockset|Fishing Dock (NMT Dock)]] | NMT Docks fishing dock; Fisherman catches Fish within a 14-tile radius; 4 × 7 footprint; water placement required |
+| [[buildings:fishing:nmtfishingstonedockset|Fishing Dock (NMT Stone Dock)]] | NMT Stone Docks fishing dock; Fisherman catches Fish within a 14-tile radius; 4 × 7 footprint; water placement required |
+| [[buildings:fishing:frozenpondfishing|Fishing Pond]] | Frozen Ponds fishing pond; workers fish through the ice; free to build |
+| [[buildings:fishing:fofishingspot|Fishing Spot (Forest Outpost)]] | Forest Outpost fishing spot; Fisherman catches Fish from a 1×6 water's-edge dock within a 14-tile radius |
+| [[buildings:fishing:nsfishingsupplier|Fishing Supplier]] | NS Inshore supply workshop; produces lobster pots, fishing nets, fishing line, and tackle |
+| [[buildings:fishing:dwfishingtree|Fishing Tree (Deadwood)]] | Deadwood mod water's edge fishing pole; single Fisherman catches Fish; radius 14; free to build |
+| [[buildings:fishing:ftfishingtree|Fishing Tree (Fairy Tale)]] | Fairy Tale Cottage fishing spot built into an old tree; Fisherman catches Fish from a water's-edge 1×6 spot within a 14-tile radius |
+| [[buildings:fishing:ghffishingtree|Fishing Tree (Grow Hunt Fish)]] | Grow Hunt Fish water-placed fishing tree; Fisherman catches Fish from a 1×6 tree planted in water; radius 14 |
+| [[buildings:fishing:hobbitfishingtree|Fishing Tree (Hobbit Homes)]] | Hobbit Homes water-placed fishing tree; Fisherman catches Fish from a 1×6 tree in water; free to build; radius 14 |
+| [[buildings:fishing:kfp01|Forest Pond (1)]] | KID fishing pond, 7×8 woodland layout; Fisherman catches fish; free to build |
+| [[buildings:fishing:kfp02|Forest Pond (2)]] | KID fishing pond, 7×6 woodland layout; Fisherman catches fish; free to build |
+| [[buildings:fishing:nsinshoreboatherring|Herring Boat]] | NS Inshore herring boat; catches Herring |
+| [[buildings:fishing:icecastlepond|Ice Pond]] | Kid Ice Castle ice-fishing pond; produces fish; WR 20 |
+| [[buildings:fishing:nsinshore|Inshore]] | NS Inshore fishing harbour; fishermen catch seafood, player selects fish type |
+| [[buildings:fishing:fishshipsfishingwaterhi|Jetty Fishing Hi (Fish n Ships)]] | Fish n Ships elevated water-placed fishing platform; Fisherman catches Fish; free to build |
+| [[buildings:fishing:fishshipsfishingwater|Jetty Fishing Low (Fish n Ships)]] | Fish n Ships water-placed fishing platform; Fisherman catches Fish; free to build |
+| [[buildings:fishing:jomonfishweir|Jomon Fish Weir]] | A8 Japanese All-In-One water-placed fishing building; Fisherman catches Fish within a 10-tile radius |
+| [[buildings:fishing:frozenpondlarge|Large Pond]] | Frozen Ponds large fishing pond; workers fish through the ice; free to build |
+| [[buildings:fishing:nsinshoreboatlobster|Lobster Boat]] | NS Inshore lobster boat; catches Lobster |
+| [[buildings:fishing:nsinshoreboatmackerel|Mackerel Boat]] | NS Inshore mackerel boat; catches Mackerel |
+| [[buildings:fishing:newmedievalwall1x1canallfdock1|Medieval Canal - Fishing Dock]] | New Medieval Town castle moat fishing dock; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:newmedievalcanal4xfdock1|Medieval Canal : Fishing Dock (4x)]] | New Medieval Town 4-wide canal fishing dock; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:newmedievalcanal6xfdock1|Medieval Canal : Fishing Dock (6x)]] | New Medieval Town 6-wide canal fishing dock; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:newmedievalcanal8xfdock1|Medieval Canal : Fishing Dock (8x)]] | New Medieval Town 8-wide canal fishing dock; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc1|Medieval Canal : Fishing Dock (Classic)]] | NMT 3.1 Canal Set fishing dock, Classic stone style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc1r|Medieval Canal : Fishing Dock (Classic, Reversed)]] | NMT 3.1 Canal Set fishing dock, Classic stone style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc2|Medieval Canal : Fishing Dock (Old Stones)]] | NMT 3.1 Canal Set fishing dock, Old Stones style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc2r|Medieval Canal : Fishing Dock (Old Stones, Reversed)]] | NMT 3.1 Canal Set fishing dock, Old Stones style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc3|Medieval Canal : Fishing Dock (Red Bricks)]] | NMT 3.1 Canal Set fishing dock, Red Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc3r|Medieval Canal : Fishing Dock (Red Bricks, Reversed)]] | NMT 3.1 Canal Set fishing dock, Red Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc4|Medieval Canal : Fishing Dock (Sand Bricks)]] | NMT 3.1 Canal Set fishing dock, Sand Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc4r|Medieval Canal : Fishing Dock (Sand Bricks, Reversed)]] | NMT 3.1 Canal Set fishing dock, Sand Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc5|Medieval Canal : Fishing Dock (Fire Bricks)]] | NMT 3.1 Canal Set fishing dock, Fire Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc5r|Medieval Canal : Fishing Dock (Fire Bricks, Reversed)]] | NMT 3.1 Canal Set fishing dock, Fire Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc6|Medieval Canal : Fishing Dock (Old Church)]] | NMT 3.1 Canal Set fishing dock, Old Church style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc6r|Medieval Canal : Fishing Dock (Old Church, Reversed)]] | NMT 3.1 Canal Set fishing dock, Old Church style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc7|Medieval Canal : Fishing Dock (Dark Stones)]] | NMT 3.1 Canal Set fishing dock, Dark Stones style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc7r|Medieval Canal : Fishing Dock (Dark Stones, Reversed)]] | NMT 3.1 Canal Set fishing dock, Dark Stones style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc8|Medieval Canal : Fishing Dock (Old Wood)]] | NMT 3.1 Canal Set fishing dock, Old Wood style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal4xfdockc8r|Medieval Canal : Fishing Dock (Old Wood, Reversed)]] | NMT 3.1 Canal Set fishing dock, Old Wood style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc1|Medieval Canal : Fishing Dock (Classic, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Classic style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc1r|Medieval Canal : Fishing Dock (Classic, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Classic style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc2|Medieval Canal : Fishing Dock (Old Stones, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Old Stones style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc2r|Medieval Canal : Fishing Dock (Old Stones, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Old Stones style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc3|Medieval Canal : Fishing Dock (Red Bricks, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Red Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc3r|Medieval Canal : Fishing Dock (Red Bricks, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Red Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc4|Medieval Canal : Fishing Dock (Sand Bricks, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Sand Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc4r|Medieval Canal : Fishing Dock (Sand Bricks, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Sand Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc5|Medieval Canal : Fishing Dock (Fire Bricks, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Fire Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc5r|Medieval Canal : Fishing Dock (Fire Bricks, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Fire Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc6|Medieval Canal : Fishing Dock (Old Church, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Old Church style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc6r|Medieval Canal : Fishing Dock (Old Church, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Old Church style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc7|Medieval Canal : Fishing Dock (Dark Stones, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Dark Stones style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc7r|Medieval Canal : Fishing Dock (Dark Stones, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Dark Stones style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc8|Medieval Canal : Fishing Dock (Old Wood, 6×)]] | NMT 3.1 Canal Set 6-wide fishing dock, Old Wood style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal6xfdockc8r|Medieval Canal : Fishing Dock (Old Wood, 6×, Reversed)]] | NMT 3.1 Canal Set 6-wide fishing dock, Old Wood style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc1|Medieval Canal : Fishing Dock (Classic, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Classic style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc1r|Medieval Canal : Fishing Dock (Classic, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Classic style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc2|Medieval Canal : Fishing Dock (Old Stones, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Old Stones style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc2r|Medieval Canal : Fishing Dock (Old Stones, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Old Stones style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc3|Medieval Canal : Fishing Dock (Red Bricks, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Red Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc3r|Medieval Canal : Fishing Dock (Red Bricks, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Red Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc4|Medieval Canal : Fishing Dock (Sand Bricks, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Sand Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc4r|Medieval Canal : Fishing Dock (Sand Bricks, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Sand Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc5|Medieval Canal : Fishing Dock (Fire Bricks, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Fire Bricks style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc5r|Medieval Canal : Fishing Dock (Fire Bricks, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Fire Bricks style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc6|Medieval Canal : Fishing Dock (Old Church, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Old Church style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc6r|Medieval Canal : Fishing Dock (Old Church, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Old Church style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc7|Medieval Canal : Fishing Dock (Dark Stones, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Dark Stones style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc7r|Medieval Canal : Fishing Dock (Dark Stones, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Dark Stones style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc8|Medieval Canal : Fishing Dock (Old Wood, 8×)]] | NMT 3.1 Canal Set 8-wide fishing dock, Old Wood style; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:nmt30canal8xfdockc8r|Medieval Canal : Fishing Dock (Old Wood, 8×, Reversed)]] | NMT 3.1 Canal Set 8-wide fishing dock, Old Wood style, mirrored; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:oldmedievalcanal4xfdock1|Medieval Canal : Fishing Dock (Old Medieval, 4×)]] | Old Medieval Canal fishing dock for 4-wide canal sections; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:oldmedievalcanal6xfdock1|Medieval Canal : Fishing Dock (Old Medieval, 6×)]] | Old Medieval Canal fishing dock for 6-wide canal sections; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:oldmedievalcanal8xfdock1|Medieval Canal : Fishing Dock (Old Medieval, 8×)]] | Old Medieval Canal fishing dock for 8-wide canal sections; Fisherman catches Fish from a water-placed canal section within a 6-tile radius |
+| [[buildings:fishing:newmedievalpond|Medieval Pond]] | NMT water-based fishing structure; fishermen harvest fish for the colony |
+| [[buildings:fishing:minifish|Mini Fisherman]] | Mini Buildings compact fishing dock; single Fisherman catches Fish within a 10-tile radius |
+| [[buildings:fishing:nvfisherman|Native Fisherman]] | Native Village shoreline fishing spot; Worker catches fish from the water's edge |
+| [[buildings:fishing:oldhovelfisherman|Old Fisherman (Old Hovels)]] | Old Hovels fisherman post; Fisherman catches Fish from within a 14-tile radius |
+| [[buildings:fishing:ootwanglingpad|Angling Pad (Out of This World)]] | Out of This World fishing pier; Fisherman catches Fish from within a 14-tile radius |
+| [[buildings:fishing:peishorev1|PEI Shore V1]] | PEI Shore fishing dock; workers harvest shellfish and seaweed from the shoreline |
+| [[buildings:fishing:peishorev2|PEI Shore V2]] | PEI Shore fishing dock, Fresh style with F-variants; harvests shellfish and seaweed |
+| [[buildings:fishing:peishorev3|PEI Shore V3]] | PEI Shore fishing dock, Dark Wood style with F-variants; harvests shellfish and seaweed |
+| [[buildings:fishing:nmt30pond|Pond]] | NMT water-based fishing pond; Fishermen harvest fish for the colony |
+| [[buildings:fishing:swshack|Quay Fishery]] | Colonial Charter quay fishery; Fisherman catches Fish from nearby water within a 14-tile radius; built on a Quay Wall |
+| [[buildings:fishing:nsropemaker|Rope Maker]] | NS Inshore Rope Maker; Roper twists Flax or Hemp into Rope |
+| [[buildings:fishing:nmtseafoodfarm|Seafood Farm (NMT Dock)]] | NMT Docks seafood farm; Fisherman cultivates shellfish from the water; player selects product |
+| [[buildings:fishing:nmtseafoodfarmrng|Seafood Farm, RNG (NMT Dock)]] | NMT Docks random seafood farm; Fisherman harvests a random shellfish or seaweed each cycle |
+| [[buildings:fishing:nsinshoreboatshrimp|Shrimp Boat]] | NS Inshore shrimp boat; catches Shrimp |
+| [[buildings:fishing:tinyfisherman|Tiny Fisherman]] | Kid Tiny Set compact fishing building; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:nsinshoreboattuna|Tuna Boat]] | NS Inshore tuna boat; catches Tuna |
+| [[buildings:fishing:dssvfishingdock|Village Fishing Dock (DS Small Village)]] | DS Small Village fishing dock; Fisherman catches Fish from within a 21-tile radius |
+| [[buildings:fishing:ebsvfishersdock|Village Fishing Dock (EB Small Village)]] | EB Small Village fishing dock; Fisherman catches Fish from a water-edge dock; radius 14 |
+| [[buildings:fishing:dssvwatersedgefishing|Waterside Fishing]] | DS Small Village water's edge fishing spot; single Fisherman catches Fish; radius 2 |
+| [[buildings:fishing:swampfisherman|Swamp Fisherman]] | Kid Swamp Houses fisherman; Fisherman catches Fish within a 14-tile radius |
+| [[buildings:fishing:wharfship|Wharfship]] | Colonial Charter whaling and fishing ship; hunts deep waters for Whalemeat, Blubber, Sealmeat, and Lobster |
+| [[buildings:fishing:fishermansdock|Fisherman's Dock]] | Vanilla Banished fishing dock; Fisherman harvests Fish within a 14-tile radius; 4 × 9 footprint |
+
+----
+
+{{tag>Buildings Fishing}}

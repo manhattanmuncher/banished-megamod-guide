@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Mother Tree ======
+----
+
+<WRAP right>
+^  Mother Tree                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmothertree.png?nolink|Mother Tree}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/forester.png?nolink|Forester}}</wrap> Forester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  30  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Deep forester. Foresters plant and harvest trees within a 30-tile radius. Free to build.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmothertree.png?nolink|Mother Tree}}</wrap> **Mother Tree**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforestdeep.png?nolink|Forest Deep}}</wrap> **Forest Deep** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildmothertree.png?nolink|Mother Tree}}</wrap> **Mother Tree**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:wood:log|Log]]
+
+----
+
+This building originally came from **Forest Deep v5.21**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=212|WoB]], [[https://banishedinfo.com/mods/view/819-Forest-Deep-V3|BI]]
+
+{{tag>Building Forester ForestDeep}}

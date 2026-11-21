@@ -1,0 +1,41 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Hunter Blind (Forest Trader) ======
+----
+
+<WRAP right>
+^  Hunter Blind                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfothunterblind.png?nolink|Hunter Blind}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/hunter.png?nolink|Hunter}}</wrap> Hunter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  24  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  8  |
+|  [[WikiPages:wood:log|Wood]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forest Trader hunter blind. A cheap hunting post for deep forest settlements. Hunters hunt wild game within a 24-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesttrader.png?nolink|Forest Trader}}</wrap> **Forest Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfothunterblind.png?nolink|Hunter Blind}}</wrap> **Hunter Blind**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildforesttrader.png?nolink|Forest Trader}}</wrap> **Forest Trader** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfothunterblind.png?nolink|Hunter Blind}}</wrap> **Hunter Blind**
+
+----
+
+===== Produces =====
+
+  * Various wild game (depends on available map resources)
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forest Trader v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=580|WoB]]
+
+{{tag>Building Hunting KidForestTrader}}

@@ -1,0 +1,38 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Quay House ======
+----
+
+<WRAP right>
+^  Quay House                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswhouse.png?nolink|Quay House}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 4  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  30  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  1  |
+|  [[WikiPages:custom5:furnishing_kit2|Furnishing Kit]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Colonial Charter quay house. Houses up to 5 settlers. Must be built on a shoreline.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorewall.png?nolink|Quay Wall}}</wrap> **Quay Wall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquay.png?nolink|Quay Buildings}}</wrap> **Quay Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswhouse.png?nolink|Quay House}}</wrap> **Quay House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildshorewall.png?nolink|Quay Wall}}</wrap> **Quay Wall** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildquay.png?nolink|Quay Buildings}}</wrap> **Quay Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswhouse.png?nolink|Quay House}}</wrap> **Quay House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cchousing.png?nolink|CC Homes and Housing}}</wrap> **CC Homes and Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswhouse.png?nolink|Quay House}}</wrap> **Quay House**
+
+----
+
+This building originally came from **Colonial Charter 1.76**. Download the mod here: [[https://steamcommunity.com/sharedfiles/filedetails/?id=849019386|Steam]]
+
+{{tag>Building Houses ColonialCharter}}

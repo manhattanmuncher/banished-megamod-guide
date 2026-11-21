@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Storage Gate (Forge Of Dwarves Winter) ======
+----
+
+<WRAP right>
+^  Storage Gate                                                                       ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatestorage.png?nolink|Storage Gate}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  32,000  |
+|  Storage Categories  |  Food, Fruit, Grain, Protein, Vegetable, Stone, Iron, Wood, Fuel, Coal Fuel, Tools, Health, Clothing, Textile, Crafted Goods, Forged Goods, Fabrics, Precious, Misc  |
+|  Happiness  |  Goods (radius 40)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Forge Of Dwarves Winter large storage gate. Settlers store food, raw materials, tools, clothing, and a wide variety of goods with a capacity of 32,000 units, and provides Goods happiness over a 40-tile radius.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves Winter}}</wrap> **Forge Of Dwarves Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgates.png?nolink|Gates}}</wrap> **Gates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatestorage.png?nolink|Storage Gate}}</wrap> **Storage Gate**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodw.png?nolink|Forge Of Dwarves Winter}}</wrap> **Forge Of Dwarves Winter** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgates.png?nolink|Gates}}</wrap> **Gates** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatestorage.png?nolink|Storage Gate}}</wrap> **Storage Gate**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarsmallstorage.png?nolink|Small Storage}}</wrap> **Small Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodwgatestorage.png?nolink|Storage Gate (Forge Of Dwarves Winter)}}</wrap> **Storage Gate (Forge Of Dwarves Winter)**
+
+----
+
+This building originally came from **Forge of Dwarves Winter v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=643|WoB]]
+
+{{tag>Building Storage}}

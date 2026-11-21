@@ -1,0 +1,37 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Gilded Furniture ======
+----
+
+<WRAP right>
+^  Gilded Furniture                               ^  xMOD  ^
+|  <abbr "Storage Flag">Category</abbr>  |  Custom0  |
+|  <abbr "Uneducated/Educated">Yield</abbr>  |  2/3  |
+|  Edible  |  No  |
+|  Trade Value  |  130  |
+|  <abbr "Storage Weight/space">Weight</abbr>  |  24  |
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  {{https://sprites.worldofbanished.com/furniture2.png?nolink|Gilded Furniture}}  |
+</WRAP>
+<WRAP right></WRAP>
+
+===== Overview =====
+
+
+
+
+Gilded Furniture is a crafted item produced by skilled workers in the Banished MegaMod. It is made using raw materials and kept in a Barn, serving as finished goods for trade or as inputs for further production. At a trade value of 130, it is highly prized by traveling merchants.
+
+----
+
+===== Gilded Furniture Mods =====
+
+==== Procuring / where to get ====
+  * [[buildings:crafting:nmt30furnituremaker|Furniture Maker]]
+
+==== Processing / what to do with ====
+
+==== Mod List ====
+
+===== Other Information =====
+
+{{tag>Custom0}}

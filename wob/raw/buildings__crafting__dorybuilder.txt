@@ -1,0 +1,43 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dory Builder ======
+----
+
+<WRAP right>
+^  Dory Builder                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/dory.png?nolink|Dory Builder}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/boatman.png?nolink|Boatman}}</wrap> Boatman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Saw  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  30  |
+|  Placement  |  Spans land and water  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2000  |
+^  Build Cost                                                                        ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  20  |
+|  [[WikiPages:custom5:lumber|Lumber]]  |  40  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Dock building. A Boatman builds Dories — small fishing skiffs — from Lumber and Rope on the shoreline. Press F when placing to cycle through three visual variants.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmaritimes.png?nolink|The Maritimes}}</wrap> **The Maritimes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmaritimesdock.png?nolink|Maritimes Dock}}</wrap> **Maritimes Dock** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dory.png?nolink|Dory Builder}}</wrap> **Dory Builder**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                                  ^ Produces                                              ^
+| 5 [[WikiPages:custom5:lumber|Lumber]] + 2 [[WikiPages:custom0:rope|Rope]]   | [[WikiPages:custom5:dory|Dory]]                       |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Crafting Maritimes}}

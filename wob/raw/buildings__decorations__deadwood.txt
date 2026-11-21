@@ -1,0 +1,32 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Deadwood ======
+----
+
+<WRAP right>
+^  Deadwood                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddeadwood.png?nolink|Deadwood}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1×1 / no footprint  |
+^  Build Cost                                                                        ^^
+|  Cost  |  Free  |
+</WRAP>
+<WRAP right></WRAP>
+
+Decorative dead trees and logs from Kid's Deadwood mod, for dressing up wilderness, swamps and abandoned scenery. Free to place.
+
+----
+
+===== Variants =====
+
+  * Dead trees (small and large), a bird tree
+  * Logs (small and large) and other fallen-wood pieces
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbardecorative.png?nolink|Decorative}}</wrap> **Decorative** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarplants.png?nolink|Plants}}</wrap> **Plants** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddeadwood.png?nolink|Deadwood}}</wrap> **Deadwood** → the deadwood piece
+
+----
+
+{{tag>Building Decorations KidDeadwood}}

@@ -1,0 +1,39 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Jetty Fishing Hi (Fish n Ships) ======
+----
+
+<WRAP right>
+^  Jetty Fishing Hi                                                                   ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfishingwaterhi.png?nolink|Jetty Fishing Hi}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/fisherman.png?nolink|Fisherman}}</wrap> Fisherman  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  3 × 3  |
+|  Placement  |  Fully water-placed  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 2 (default: 1)  |
+|  <abbr "Working radius in tiles">Radius</abbr>  |  14  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  0  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Fish n Ships elevated water-placed fishing platform. Fishermen catch Fish from a 3×3 water jetty. Free to build with no labor or material cost.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfishingwaterhi.png?nolink|Jetty Fishing Hi}}</wrap> **Jetty Fishing Hi**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishships.png?nolink|Fish n Ships}}</wrap> **Fish n Ships** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsjetty.png?nolink|Jetty}}</wrap> **Jetty** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfishshipsfishingwaterhi.png?nolink|Jetty Fishing Hi}}</wrap> **Jetty Fishing Hi**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:food:fish|Fish]]
+
+----
+
+===== Other Information =====
+
+{{tag>Building Fishing KidFishShips}}

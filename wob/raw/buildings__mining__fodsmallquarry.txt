@@ -1,0 +1,46 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Small Quarry (Forge of Dwarves) ======
+----
+
+<WRAP right>
+^  Small Quarry                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodsmallquarry.png?nolink|Small Quarry}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/stonecutter.png?nolink|Stonecutter}}</wrap> Stonecutter  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  5 × 4  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Pickaxe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  12.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  2  |
+|  Happiness  |  Detraction (radius 16)  |
+|  <abbr "Maximum total output before depleted">Max Production</abbr>  |  No cap  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  26  |
+|  [[WikiPages:wood:log|Wood]]  |  4  |
+|  [[WikiPages:stone:stone|Stone]]  |  8  |
+</WRAP>
+<WRAP right></WRAP>
+
+A small stone quarry from the Forge of Dwarves mod. Unlimited production.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge of Dwarves}}</wrap> **Forge of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodsmallquarry.png?nolink|Small Quarry}}</wrap> **Small Quarry**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfod.png?nolink|Forge of Dwarves}}</wrap> **Forge of Dwarves** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildfodsmallquarry.png?nolink|Small Quarry}}</wrap> **Small Quarry**
+
+----
+
+===== Produces =====
+
+  * [[WikiPages:stone:stone|Stone]]
+
+----
+
+===== Other Information =====
+
+This building originally came from **Forge of Dwarves v1.01**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=620|WoB]]
+
+{{tag>Building Mining FODSmallQuarry}}

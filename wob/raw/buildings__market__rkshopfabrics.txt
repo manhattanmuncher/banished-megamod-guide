@@ -1,0 +1,44 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Fabrics & Co. ======
+----
+
+<WRAP right>
+^  Fabrics & Co.                                                                           ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkshopfabrics.png?nolink|Fabrics & Co.}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/vendor.png?nolink|Vendor}}</wrap> Vendor  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 6 (default: 1)  |
+|  Radius  |  36  |
+|  Storage  |  10,000  |
+^  Build Cost                                                                              ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  60  |
+|  [[WikiPages:wood:log|Wood]]  |  24  |
+|  Stone  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Rugged Kindness textiles shop. Distributes textile and fabric goods to nearby settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialmarket.png?nolink|Specialized Markets}}</wrap> **Specialized Markets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkshopfabrics.png?nolink|Fabrics & Co.}}</wrap> **Fabrics & Co.**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkstorage.png?nolink|RK transport}}</wrap> **RK transport** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkmarkettoolbar.png?nolink|Markets Toolbar}}</wrap> **Markets Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/rkshopfabrics.png?nolink|Fabrics & Co.}}</wrap> **Fabrics & Co.**
+
+----
+
+===== Stocks =====
+
+  * Textile
+  * [[WikiPages:custom2:start|Fabrics]] (Custom 2)
+
+----
+
+===== Other Information =====
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Market}}

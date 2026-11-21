@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tailor Storage ======
+----
+
+<WRAP right>
+^  Tailor Storage                                                                      ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstoragetailor.png?nolink|Tailor Storage}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2×3  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  2,000  |
+|  Storage Categories  |  Clothing, Textile  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  16  |
+|  [[WikiPages:custom5:building_kit|Building Supplies]]  |  Wood ×4  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Swamp Houses mod storage building dedicated to clothing and textiles. Settlers store clothing and textile goods.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorage.png?nolink|Swamp Storage}}</wrap> **Swamp Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstoragetailor.png?nolink|Tailor Storage}}</wrap> **Tailor Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|Themed Mods}}</wrap> **Themed Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswamphouses.png?nolink|Swamp Houses}}</wrap> **Swamp Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstorage.png?nolink|Swamp Storage}}</wrap> **Swamp Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstoragetailor.png?nolink|Tailor Storage}}</wrap> **Tailor Storage**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarspecialbarn.png?nolink|Specialized Barns}}</wrap> **Specialized Barns** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildswampstoragetailor.png?nolink|Tailor Storage}}</wrap> **Tailor Storage**
+
+----
+
+This building originally came from **Swamp Houses v1.1**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=438|WoB]]
+
+{{tag>Building Storage SwampHouses}}

@@ -1,0 +1,53 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== WF Brewer ======
+----
+
+<WRAP right>
+^  WF Brewer                                                                          ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfbrewer.png?nolink|WF Brewer}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/brewer.png?nolink|Brewer}}</wrap> Brewer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  2 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  None  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  4.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  10  |
+|  Happiness  |  Entertainment (radius 30, requires alcohol)  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  20  |
+|  [[WikiPages:wood:log|Wood]]  |  12  |
+</WRAP>
+<WRAP right></WRAP>
+
+A compact brewery from the Wooden Fort mod set. Produces Ale from a variety of grain and fruit inputs, providing Entertainment happiness across a 30-tile radius while stocked with alcohol.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodenfort.png?nolink|Wooden Fort}}</wrap> **Wooden Fort** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfbrewer.png?nolink|WF Brewer}}</wrap> **WF Brewer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbar.png?nolink|KID Mods}}</wrap> **KID Mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/kidtoolbarthemed.png?nolink|KID Themed}}</wrap> **KID Themed** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwoodenfort.png?nolink|Wooden Fort}}</wrap> **Wooden Fort** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfworkplace.png?nolink|Workplace}}</wrap> **Workplace** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfbrewer.png?nolink|WF Brewer}}</wrap> **WF Brewer**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarrefined.png?nolink|Refined Resources}}</wrap> **Refined Resources** -> <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarbrewer.png?nolink|Brewers}}</wrap> **Brewers** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildwfbrewer.png?nolink|WF Brewer}}</wrap> **WF Brewer**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                             ^ Produces                          ^
+| 100 [[WikiPages:food:wheat|Wheat]]                      | [[WikiPages:alcohol:ale|Ale]]     |
+| 30 [[WikiPages:food:apple|Apple]]                       | [[WikiPages:alcohol:ale|Ale]]     |
+| 60 [[WikiPages:food:blueberries|Blueberry]]             | [[WikiPages:alcohol:ale|Ale]]     |
+| 30 [[WikiPages:food:cherry|Cherry]]                     | [[WikiPages:alcohol:ale|Ale]]     |
+| 30 [[WikiPages:food:peach|Peach]]                       | [[WikiPages:alcohol:ale|Ale]]     |
+| 30 [[WikiPages:food:pear|Pear]]                         | [[WikiPages:alcohol:ale|Ale]]     |
+| 30 [[WikiPages:food:plum|Plum]]                         | [[WikiPages:alcohol:ale|Ale]]     |
+
+----
+
+===== Other Information =====
+
+This building originally came from **Wooden Fort v1.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=449|WoB]]
+
+{{tag>Building Brewery WoodenFort KID}}

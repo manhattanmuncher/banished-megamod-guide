@@ -1,0 +1,14 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Priority ======
+----
+
+The priority tool changes the order in which citizens perform work. By default, workers tackle tasks in the order they were created — so if you place a Blacksmith, then several houses, then a Storage Barn, they will be built in that sequence.
+
+To change the order, select the priority tool and click and drag over the terrain to highlight the areas you want worked first. Workers will then prioritize tasks in those areas over others.
+
+Note that raising priority on a task that cannot currently be completed (for example, a building that requires iron when no iron is in storage) has no effect until the missing resource becomes available. Workers will skip it and move on to tasks they can actually perform.
+
+----
+
+{{tag>Mechanics Priority}}

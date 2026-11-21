@@ -1,0 +1,36 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Large Townhouse ======
+----
+
+<WRAP right>
+^  Large Townhouse                                                                     ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesa4x4.png?nolink|Large Townhouse}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 3  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  6  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  84  |
+|  [[WikiPages:wood:log|Wood]]  |  44  |
+|  [[WikiPages:stone:stone|Stone]]  |  55  |
+|  [[WikiPages:iron:iron|Iron]]  |  21  |
+</WRAP>
+<WRAP right></WRAP>
+
+A DS Town Houses large stone townhouse. Houses up to 6 settlers.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarhousing.png?nolink|Housing}}</wrap> **Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhouses.png?nolink|DS Town Houses}}</wrap> **DS Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhousesa.png?nolink|Stone Town Houses}}</wrap> **Stone Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesa4x4.png?nolink|Large Townhouse}}</wrap> **Large Townhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/dstoolbar.png?nolink|DS mods}}</wrap> **DS mods** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/dshousing.png?nolink|DS Housing}}</wrap> **DS Housing** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhouses.png?nolink|DS Town Houses}}</wrap> **DS Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/menudstownhousesa.png?nolink|Stone Town Houses}}</wrap> **Stone Town Houses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/builddstownhousesa4x4.png?nolink|Large Townhouse}}</wrap> **Large Townhouse**
+
+----
+
+This building originally came from **TownHouses v3.0.2**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=301|WoB]], [[https://www.nexusmods.com/banished/mods/66|Nexus]], [[https://steamcommunity.com/sharedfiles/filedetails/?id=1237321261|Steam]]
+
+{{tag>Building Houses DS}}

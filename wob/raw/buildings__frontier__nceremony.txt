@@ -1,0 +1,48 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Ceremonial Ground ======
+----
+
+<WRAP right>
+^  Ceremonial Ground                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnceremony.png?nolink|Ceremonial Ground}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/quester.png?nolink|Quester}}</wrap> Quester  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  10 × 9  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  6.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  6  |
+^  Build Cost                                                                       ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  120  |
+|  [[WikiPages:custom6:native_artefact|Native Artefact]]  |  1  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Ceremonial Ground is a Native American themed building where a Quester performs ceremonies to produce arrowheads and native artefacts. Only one Ceremonial Ground can be built per colony.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarthemed.png?nolink|Theme}}</wrap> **Theme** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnceremony.png?nolink|Ceremonial Ground}}</wrap> **Ceremonial Ground**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/commontoolbar.png?nolink|Community Toolbar}}</wrap> **Community Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|Colonial Charter Toolbar}}</wrap> **Colonial Charter Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccthemed.png?nolink|Themed Sets}}</wrap> **Themed Sets** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarnative.png?nolink|Native Items}}</wrap> **Native Items** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnceremony.png?nolink|Ceremonial Ground}}</wrap> **Ceremonial Ground**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmorecivic.png?nolink|More Town Buildings}}</wrap> **More Town Buildings** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildnceremony.png?nolink|Ceremonial Ground}}</wrap> **Ceremonial Ground**
+
+----
+
+===== Produces =====
+
+Production is random among the following:
+
+  * [[WikiPages:custom6:arrowhead|Arrowhead]]
+  * [[WikiPages:custom6:native_artefact|Native Artefact]]
+
+----
+
+===== Other Information =====
+
+Only one Ceremonial Ground can be built per colony.
+
+{{tag>Building Frontier}}

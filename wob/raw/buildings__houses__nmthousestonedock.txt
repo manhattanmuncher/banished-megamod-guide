@@ -1,0 +1,35 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Dock House (NMT Stone Dock) ======
+----
+
+<WRAP right>
+^  Dock House (NMT Stone Dock)                                                        ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmthousestonedock.png?nolink|Dock House (NMT Stone Dock)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  4 × 5  |
+|  <abbr "Max settlers housed">Housing</abbr>  |  5  |
+|  Apartments  |  1  |
+|  <abbr "Temperature for Fuel">Temp</abbr>  |  50  |
+|  <abbr "Warmth units per fuel item; higher is more efficient">Fuel Per Resource</abbr>  |  90  |
+|  Placement  |  Water  |
+^  Build Cost                                                                          ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  30  |
+|  [[WikiPages:stone:stone|Stone]]  |  36  |
+</WRAP>
+<WRAP right></WRAP>
+
+An NMT Stone Docks house. Provides shelter for a family of up to 5 settlers. Upgraded from the [[buildings:houses:nmthousedock|Dock House (NMT Dock)]].
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarwatermain.png?nolink|Life on the Water}}</wrap> **Life on the Water** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmthousingstonedocktoolbar.png?nolink|NMT Stone Dock Housing Toolbar}}</wrap> **NMT Stone Dock Housing Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmthousestonedock.png?nolink|Dock House}}</wrap> **Dock House**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/rktoolbar.png?nolink|RK Toolbar}}</wrap> **RK Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmtstonedocktoolbar.png?nolink|NMT Stone Docks Toolbar}}</wrap> **NMT Stone Docks Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmthousingstonedocktoolbar.png?nolink|NMT Stone Dock Housing Toolbar}}</wrap> **NMT Stone Dock Housing Toolbar** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/nmthousestonedock.png?nolink|Dock House}}</wrap> **Dock House**
+
+----
+
+This building originally came from **RKEditorChoice BETA13**. Download the mod here: [[https://worldofbanished.com/index.php?action=downloads&sa=view&id=409|WoB]]
+
+{{tag>Building Houses RKEditorChoice}}

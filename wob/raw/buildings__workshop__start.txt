@@ -1,0 +1,24 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Workshop Buildings ======
+----
+
+Buildings where settlers craft and manufacture various goods.
+
+----
+
+^ Building ^ Description ^
+| [[buildings:workshop:atworkshop|AT Workshop]] | Among Trees building; Toolmaker crafts tools and clothing from wood, stone, iron, leather, flax, and down |
+| [[buildings:workshop:dscelticworkshop|Celtic Workshop]] | DS Mods Celtic workshop; Toolmaker produces stone and iron tools as well as leather and wool coats |
+| [[buildings:workshop:miniwork|Mini Workshop]] | Compact toolmaking building; produces basic tools and leather coats from iron ore, iron, and leather |
+| [[buildings:workshop:nvtoolmaker|Native Toolmaker]] | Native Village workshop; Toolmaker crafts wooden, stone, and iron tools |
+| [[buildings:workshop:mftoolshop|ToolShop]] | Mexican Fantasy tool shop; Toolmaker crafts Wooden, Stone, or Iron Tools for the colony |
+| [[buildings:workshop:fotworkshop|Workshop]] | CC Frontier workshop; manufactures simple tools, clothes, and trade goods |
+| [[buildings:workshop:mhworkshop|Workshop (More Houses)]] | More Houses workshop; Toolmaker crafts iron tools, steel tools, and clothing |
+| [[buildings:workshop:mhdworkshop|Workshop (More Houses Dark)]] | More Houses Dark workshop; Toolmaker crafts iron tools, steel tools, and clothing |
+| [[buildings:workshop:mhsworkshop|Workshop (More Houses Stone)]] | More Houses Stone workshop; Toolmaker crafts iron tools, steel tools, and clothing |
+| [[buildings:workshop:mhwworkshop|Workshop (More Houses Wood)]] | More Houses Wood workshop; Toolmaker crafts iron tools, steel tools, and clothing |
+
+----
+
+{{tag>Buildings Workshop}}

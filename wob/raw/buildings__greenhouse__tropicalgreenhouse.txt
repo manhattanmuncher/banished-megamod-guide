@@ -1,0 +1,60 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Tropical Greenhouse ======
+----
+
+<WRAP right>
+^  Tropical Greenhouse                                                                ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtropicalgreenhouse.png?nolink|Tropical Greenhouse}}</wrap>  |
+|  <abbr "Worker profession">Profession</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/farmer.png?nolink|Farmer}}</wrap> Farmer  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  7 × 7  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  1 – 3 (default 1)  |
+|  Tool  |  Hoe  |
+|  <abbr "Time per work cycle">Work Time</abbr>  |  10.0  |
+|  <abbr "Work units per cycle">Work Required</abbr>  |  15  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  48  |
+|  [[WikiPages:stone:stone|Stone]]  |  6  |
+</WRAP>
+<WRAP right></WRAP>
+
+A large greenhouse that uses Fertilizer to produce a wide variety of tropical fruits and vegetables.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/cctoolbar.png?nolink|CC}}</wrap> **CC** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/ccfood.png?nolink|CC Food}}</wrap> **CC Food** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtropicalgreenhouse.png?nolink|Tropical Greenhouse}}</wrap> **Tropical Greenhouse**
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarfood.png?nolink|Food Production}}</wrap> **Food Production** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbargreenhouse.png?nolink|Greenhouses}}</wrap> **Greenhouses** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildtropicalgreenhouse.png?nolink|Tropical Greenhouse}}</wrap> **Tropical Greenhouse**
+
+----
+
+===== Recipes =====
+
+^ Ingredients                                              ^ Produces                                              ^
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:acai|Acai]]                          |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:avocado|Avocado]]                    |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:banana|Banana]]                      |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:cauliflower|Cauliflower]]            |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:coconut|Coconut]]                    |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:date|Date]]                          |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:grapefruit|Grapefruit]]              |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:guava|Guava]]                        |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:honeydew|Honeydew]]                  |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:kiwi|Kiwi]]                          |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:kumquat|Kumquat]]                    |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:lemon|Lemon]]                        |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:lime|Lime]]                          |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:mango|Mango]]                        |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:nectarines|Nectarine]]               |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:papaya|Papaya]]                      |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:pineapple|Pineapple]]                |
+| 10 [[WikiPages:custom7:fertilizer|Fertilizer]]           | [[WikiPages:food:tamarind|Tamarind]]                  |
+
+----
+
+===== Other Information =====
+
+{{tag>Building Greenhouse CC}}

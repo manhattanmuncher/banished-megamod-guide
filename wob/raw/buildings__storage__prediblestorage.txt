@@ -1,0 +1,30 @@
+~~CLOSETOC~~~~TOC 2-3 wide~~
+
+====== Port Royal Edible Storage (Maritimes) ======
+----
+
+<WRAP right>
+^  Port Royal Edible Storage (Maritimes)                                             ^  xMOD  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprediblestorage.png?nolink|Port Royal Edible Storage (Maritimes)}}</wrap>  |
+|  <abbr "Building footprint in tiles">Size</abbr>  |  1 × 2  |
+|  <abbr "Min/Max workers (default)">Workers</abbr>  |  0–2 (2)  |
+|  <abbr "On-site storage volume">Storage</abbr>  |  5,000  |
+|  Storage Categories  |  Food, Grain, Protein, Vegetable, Fruit  |
+^  Build Cost                                                                         ^^
+|  <abbr "Labor required to construct">Work Required</abbr>  |  40  |
+|  [[WikiPages:wood:log|Wood]]  |  10  |
+|  [[WikiPages:stone:stone|Stone]]  |  20  |
+</WRAP>
+<WRAP right></WRAP>
+
+A Maritimes Port Royal food cellar. Settlers store all types of edible food with a capacity of 5,000 units.
+
+----
+
+===== Where to Find =====
+
+<wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarmaritimes.png?nolink|The Maritimes}}</wrap> **The Maritimes** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/toolbarportroyal.png?nolink|Port Royal}}</wrap> **Port Royal** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/subtoolprstorage.png?nolink|Port Royal Storage}}</wrap> **Port Royal Storage** → <wrap toolbaricon>{{https://sprites.worldofbanished.com/buildprediblestorage.png?nolink|Port Royal Edible Storage (Maritimes)}}</wrap> **Port Royal Edible Storage (Maritimes)**
+
+----
+
+{{tag>Building Storage Maritimes}}

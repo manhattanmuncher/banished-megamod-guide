@@ -1,0 +1,23 @@
+~~NOTOC~~
+
+====== Sugar Cane Seeds ======
+----
+
+<WRAP right>
+^  Sugar Cane Seeds  ^  Item  ^
+|  <abbr "Shown 2x normal size">Icon</abbr>  |  <wrap toolbaricon>{{https://sprites.worldofbanished.com/seedsugar.png?nolink|Sugar Cane Seeds}}</wrap>  |
+|  <abbr "Base trade value">Base Value</abbr>  |  4,000  |
+</WRAP>
+<WRAP right></WRAP>
+
+Sugar Cane Seeds are used to plant [[WikiPages:vegetable:sugar_cane_sugarcane|Sugar Cane]] in a [[buildings:fields:start|Field]]. Farmers harvest using a Scythe after a 3-month growing period.
+
+----
+
+===== Procuring =====
+
+Can be purchased from merchants at any [[buildings:trading_post:start|Trading Post]].
+
+----
+
+{{tag>Seeds CropSeeds}}
