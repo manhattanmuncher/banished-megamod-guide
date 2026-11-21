@@ -380,7 +380,8 @@ function rulesBox(id) {
       <li>${bchip('buildings:roads:nmt30fcroad')} <span class="muted">“a special path required to designate districts”</span></li>
       <li>Then place this building inside the Forest Center's radius.</li></ol>
       <p class="muted">Steps read from the wiki pages; the wiki doesn't describe the in-game clicks.</p>`;
-    if (SA[tail]) need += `<p><b>No Forest Center?</b> Use the stand-alone version instead, which can go anywhere: ${bchip(SA[tail])}</p>`;
+    if (SA[tail]) need += `<p><b>No Forest Center?</b> Use the stand-alone version instead, which can go anywhere: ${bchip(SA[tail])}</p>` +
+      ((TB[SA[tail]] || {}).wh ? `<p>It is <b>not</b> in the Forest Center toolbar. Find it under: ${TB[SA[tail]].wh.map(w => `<b>${esc(w)}</b>`).join(' or ')}</p>` : '');
   }
   if (/Forest Haven Platform/i.test(all)) need += `<p><b>Build the platform first:</b> ${findB(/Platform/).filter(k => /fh|haven/i.test(k)).map(bchip).join(' ') || 'see the Forest Haven set'}</p>`;
   if (/stone bridge/i.test(all)) need += `<p><b>Build the bridge first:</b> ${bchip('buildings:bridges:dsnormalstonebridgel')} ${bchip('buildings:bridges:dsstonebridgewalkways')}</p>`;

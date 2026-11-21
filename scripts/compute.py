@@ -154,6 +154,7 @@ def stats(b):
            'stt': 'per tile' in st, 'w': w, 'r': b.get('radius'), 'wt': b.get('work_time'), 'mp': b.get('max_prod'),
            'lab': b['cost'].get('label:Work Required'), 'sz': b.get('size'), 'mod': b.get('mod') or '',
            'rules': b.get('rules') or None,
+           'wh': list(dict.fromkeys(w.replace('->', '→') for w in b.get('where') or []))[:3] or None,
            'hp': [hap.group(1), float(hap.group(2)) if hap.group(2) else hap_desc(b)] if hap else None}
     return {k: v for k, v in out.items() if v not in (None, '', False)}
 
